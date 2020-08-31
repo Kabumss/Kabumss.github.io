@@ -1,0 +1,226 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 01- EL VIEJO MOLINO
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.31,0:00:13.93,Default,,0,0,0,,{\i1}Guiado a través de la niebla,{\i0}
+Dialogue: 0,0:00:13.95,0:00:17.07,Default,,0,0,0,,{\i1}Por la blanca luz de la luna,{\i0}
+Dialogue: 0,0:00:17.10,0:00:19.70,Default,,0,0,0,,{\i1}Todo lo que fue perdido,{\i0}
+Dialogue: 0,0:00:19.78,0:00:21.85,Default,,0,0,0,,{\i1}Se revela.{\i0}
+Dialogue: 0,0:00:23.05,0:00:26.25,Default,,0,0,0,,{\i1}Nuestros pesares pasados,{\i0}
+Dialogue: 0,0:00:26.25,0:00:29.92,Default,,0,0,0,,{\i1}Son simples ecos de la primavera.{\i0}
+Dialogue: 0,0:00:29.93,0:00:33.19,Default,,0,0,0,,{\i1}¿Pero a dónde hemos llegado?{\i0}
+Dialogue: 0,0:00:33.20,0:00:37.00,Default,,0,0,0,,{\i1}¿Y en dónde terminaremos?{\i0}
+Dialogue: 0,0:00:37.00,0:00:40.07,Default,,0,0,0,,{\i1}Si los sueños no se hacen realidad,{\i0}
+Dialogue: 0,0:00:40.70,0:00:46.10,Default,,0,0,0,,{\i1}¿Qué tiene de malo pretender?{\i0}
+Dialogue: 0,0:00:46.50,0:00:50.11,Default,,0,0,0,,{\i1}Que la brisa gentil,{\i0}
+Dialogue: 0,0:00:50.11,0:00:53.31,Default,,0,0,0,,{\i1}Da señales por las hojas,{\i0}
+Dialogue: 0,0:00:53.32,0:00:54.57,Default,,0,0,0,,{\i1}Mientras los colores del otoño caen...{\i0}
+Dialogue: 0,0:00:54.60,0:00:58.00,Default,,0,0,0,,CAPÍTULO 1\N"EL VIEJO MOLINO"
+Dialogue: 0,0:00:58.10,0:00:59.50,Default,,0,0,0,,{\i1}Mientras los colores del otoño caen...{\i0}
+Dialogue: 0,0:01:01.40,0:01:04.77,Default,,0,0,0,,Perdido en los nebulosos\Nanales de la historia
+Dialogue: 0,0:01:04.80,0:01:08.13,Default,,0,0,0,,se encuentra un lugar que pocos han visto.
+Dialogue: 0,0:01:08.13,0:01:10.53,Default,,0,0,0,,Un misterioso lugar llamado
+Dialogue: 0,0:01:10.53,0:01:12.23,Default,,0,0,0,,Lo Desconocido.
+Dialogue: 0,0:01:12.23,0:01:17.17,Default,,0,0,0,,Donde historias olvidadas se\Nrevelan a aquellos que viajen
+Dialogue: 0,0:01:17.20,0:01:18.54,Default,,0,0,0,,por el bosque.
+Dialogue: 0,0:01:18.54,0:01:20.01,Default,,0,0,0,,...Antelope, Guggenheim,
+Dialogue: 0,0:01:20.01,0:01:22.18,Default,,0,0,0,,Albert, Salami, Giggly, Jumpy,
+Dialogue: 0,0:01:22.18,0:01:24.08,Default,,0,0,0,,Tom, Thomas, Tambourine,
+Dialogue: 0,0:01:24.08,0:01:26.38,Default,,0,0,0,,Mccullen cara de pierna, Artichoke,
+Dialogue: 0,0:01:26.38,0:01:28.38,Default,,0,0,0,,Penguin, Pete, Steve,
+Dialogue: 0,0:01:29.05,0:01:32.20,Default,,0,0,0,,Pero creo que el peor\Nnombre para esta rana es -
+Dialogue: 0,0:01:32.40,0:01:33.49,Default,,0,0,0,,Espera. Espera un momento.
+Dialogue: 0,0:01:33.49,0:01:35.62,Default,,0,0,0,,Uh, Greg...
+Dialogue: 0,0:01:41.63,0:01:43.33,Default,,0,0,0,,¿Dónde estamos?
+Dialogue: 0,0:01:43.35,0:01:44.22,Default,,0,0,0,,En el bosque.
+Dialogue: 0,0:01:44.25,0:01:45.53,Default,,0,0,0,,Me refiero,
+Dialogue: 0,0:01:45.55,0:01:47.40,Default,,0,0,0,,¿Qué estamos haciendo aquí?
+Dialogue: 0,0:01:47.40,0:01:48.47,Default,,0,0,0,,Estamos caminando\Na casa.
+Dialogue: 0,0:01:48.47,0:01:50.00,Default,,0,0,0,,Greg, creo que nos perdimos.
+Dialogue: 0,0:01:50.01,0:01:51.73,Default,,0,0,0,,Debimos dejar un sendero o algo.
+Dialogue: 0,0:01:51.75,0:01:54.40,Default,,0,0,0,,Puedo dejar un sendero\Nde dulces de mis pantalones.
+Dialogue: 0,0:01:55.30,0:01:56.27,Default,,0,0,0,,No.
+Dialogue: 0,0:01:56.30,0:01:57.53,Default,,0,0,0,,{\i1}Aunque esté perdido,{\i0}
+Dialogue: 0,0:01:57.55,0:01:59.93,Default,,0,0,0,,{\i1}mi dolido corazón se encuentra en casa,{\i0}
+Dialogue: 0,0:01:59.96,0:02:03.53,Default,,0,0,0,,{\i1}en pedazos, dispersos en\Nla tumba de mi amor perdido,{\i0}
+Dialogue: 0,0:02:03.55,0:02:04.60,Default,,0,0,0,,{\i1}Pues solo -{\i0}
+Dialogue: 0,0:02:05.90,0:02:06.89,Default,,0,0,0,,¿Escuchas eso?
+Dialogue: 0,0:02:06.89,0:02:07.60,Default,,0,0,0,,Sí.
+Dialogue: 0,0:02:08.50,0:02:12.55,Default,,0,0,0,,¿Crees que sea un lunático con hacha\Nesperando a sus víctimas en la oscuridad?
+Dialogue: 0,0:02:12.57,0:02:14.36,Default,,0,0,0,,Greg.\N¡Greg!
+Dialogue: 0,0:02:16.85,0:02:19.20,Default,,0,0,0,,Greg, nos meterás en problemas otra vez.
+Dialogue: 0,0:02:25.17,0:02:26.73,Default,,0,0,0,,Deberíamos pedirle ayuda.
+Dialogue: 0,0:02:26.75,0:02:28.27,Default,,0,0,0,,No, no deberíamos.
+Dialogue: 0,0:02:28.30,0:02:29.00,Default,,0,0,0,,Pero,
+Dialogue: 0,0:02:29.08,0:02:30.50,Default,,0,0,0,,- Tú shh.\N- Tú shh.
+Dialogue: 0,0:02:35.38,0:02:38.20,Default,,0,0,0,,Maldición, ¿Crees que\Ndebimos pedirle ayuda?
+Dialogue: 0,0:02:38.22,0:02:41.59,Default,,0,0,0,,Tal vez yo pueda ayudar.\NUstedes están perdidos, ¿Cierto?
+Dialogue: 0,0:02:43.30,0:02:45.17,Default,,0,0,0,,¿Qué está ocurriendo?
+Dialogue: 0,0:02:45.20,0:02:48.90,Default,,0,0,0,,Pues, te estás golpeando\Ny yo te estoy contestando y -
+Dialogue: 0,0:02:48.93,0:02:49.77,Default,,0,0,0,,No, Greg.
+Dialogue: 0,0:02:49.80,0:02:52.63,Default,,0,0,0,,El cerebro de un ave no es\Ntan grande como para que hable.
+Dialogue: 0,0:02:52.65,0:02:53.47,Default,,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:02:53.50,0:02:55.10,Default,,0,0,0,,Quiero decir,
+Dialogue: 0,0:02:55.10,0:02:57.10,Default,,0,0,0,,Eres rara, como,\Nno normal.
+Dialogue: 0,0:02:57.14,0:02:58.24,Default,,0,0,0,,Digo, oh por Dios.
+Dialogue: 0,0:02:58.24,0:02:59.90,Default,,0,0,0,,- No le hables a la cosa, Wirt.\N- ¿Cosa?
+Dialogue: 0,0:03:00.64,0:03:01.67,Default,,0,0,0,,¡¿Qué están haciendo aquí?!
+Dialogue: 0,0:03:01.70,0:03:02.82,Default,,0,0,0,,¡Explíquense!
+Dialogue: 0,0:03:02.85,0:03:04.12,Default,,0,0,0,,Los veré después.
+Dialogue: 0,0:03:04.15,0:03:04.98,Default,,0,0,0,,Adiós.
+Dialogue: 0,0:03:04.98,0:03:06.21,Default,,0,0,0,,Tranquilícese, señor.
+Dialogue: 0,0:03:06.21,0:03:08.05,Default,,0,0,0,,Lo que usted esté haciendo\Nes asunto suyo.
+Dialogue: 0,0:03:08.08,0:03:10.67,Default,,0,0,0,,Solo queremos regresar a casa\Nsin perder nuestras extremidades.
+Dialogue: 0,0:03:10.70,0:03:13.33,Default,,0,0,0,,Este bosque no es un lugar\Npara niños.
+Dialogue: 0,0:03:13.36,0:03:15.50,Default,,0,0,0,,¿Que no saben que la bestia\Nronda por aquí?
+Dialogue: 0,0:03:15.72,0:03:18.04,Default,,0,0,0,,¿La Bestia?\NNo sabemos nada sobre eso,
+Dialogue: 0,0:03:18.09,0:03:19.97,Default,,0,0,0,,Solo intentamos llegar a casa.
+Dialogue: 0,0:03:20.00,0:03:22.10,Default,,0,0,0,,Pues, bienvenidos a\NLo Desconocido, muchachos.
+Dialogue: 0,0:03:22.13,0:03:24.50,Default,,0,0,0,,Están más perdidos de lo que comprenden.
+Dialogue: 0,0:03:29.90,0:03:35.20,Default,,0,0,0,,Encontré esta casa abandonada,\Ny usé su molino para mis propósitos.
+Dialogue: 0,0:03:37.05,0:03:40.60,Default,,0,0,0,,Tú y tu hermano deberían\Nestar a salvo aquí mientras trabajo.
+Dialogue: 0,0:03:40.65,0:03:42.28,Default,,0,0,0,,Sendero de dulces,\Nsendero de dulces,
+Dialogue: 0,0:03:42.28,0:03:43.70,Default,,0,0,0,,Sendero de dulces.
+Dialogue: 0,0:03:44.00,0:03:46.60,Default,,0,0,0,,¿Cuál es tu trabajo,\Nexáctamente?
+Dialogue: 0,0:03:47.99,0:03:50.56,Default,,0,0,0,,Todos tienen una antorcha que encender,
+Dialogue: 0,0:03:50.56,0:03:52.43,Default,,0,0,0,,y esta es la mía.
+Dialogue: 0,0:03:52.43,0:03:55.30,Default,,0,0,0,,Convierto los horribles árboles de edel
+Dialogue: 0,0:03:55.32,0:03:58.10,Default,,0,0,0,,en combustible para mantener\Nencendida la linterna.
+Dialogue: 0,0:03:58.37,0:04:00.93,Default,,0,0,0,,Este es mi propósito en la vida.
+Dialogue: 0,0:04:00.95,0:04:02.50,Default,,0,0,0,,Esta es mi carga.
+Dialogue: 0,0:04:02.55,0:04:05.00,Default,,0,0,0,,Parece estar loco.\NTal vez deberíamos escapar,
+Dialogue: 0,0:04:05.01,0:04:06.07,Default,,0,0,0,,Si es que podemos,
+Dialogue: 0,0:04:06.07,0:04:08.87,Default,,0,0,0,,Pero debe conocer bien el bosque,\Nasí que tendríamos que noquearlo,
+Dialogue: 0,0:04:08.90,0:04:11.00,Default,,0,0,0,,Aunque eso podría salir bastante mal.
+Dialogue: 0,0:04:11.01,0:04:13.27,Default,,0,0,0,,Sí, mal plan.\NOlvídalo. Mal plan.
+Dialogue: 0,0:04:13.30,0:04:14.11,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:04:14.12,0:04:15.65,Default,,0,0,0,,¿Sobre qué están susurrando?
+Dialogue: 0,0:04:15.72,0:04:17.90,Default,,0,0,0,,Hablamos sobre escapar de aquí.
+Dialogue: 0,0:04:21.00,0:04:22.62,Default,,0,0,0,,Váyanse si lo desean.
+Dialogue: 0,0:04:22.62,0:04:26.62,Default,,0,0,0,,Pero recuerden, la bestia\Nmerodea por este bosque,
+Dialogue: 0,0:04:26.65,0:04:30.97,Default,,0,0,0,,Cantando su triste melodía,
+Dialogue: 0,0:04:31.00,0:04:33.60,Default,,0,0,0,,¡En busca de almas\Nperdidas como las suyas!
+Dialogue: 0,0:04:33.64,0:04:34.63,Default,,0,0,0,,¿Para ayudarnos?
+Dialogue: 0,0:04:34.64,0:04:36.17,Default,,0,0,0,,No, no para ayudarlos.
+Dialogue: 0,0:04:36.17,0:04:38.00,Default,,0,0,0,,Tengo que trabajar en el molino.
+Dialogue: 0,0:04:38.01,0:04:40.90,Default,,0,0,0,,Cuando termine, haré todo\Nlo posible para guiarlos,
+Dialogue: 0,0:04:40.93,0:04:43.90,Default,,0,0,0,,Si es que siguen\Naquí cuando regrese.
+Dialogue: 0,0:04:47.05,0:04:49.25,Default,,0,0,0,,Supongo que podríamos irnos.
+Dialogue: 0,0:04:49.80,0:04:50.68,Default,,0,0,0,,No lo sé.
+Dialogue: 0,0:04:50.69,0:04:51.58,Default,,0,0,0,,Greg.
+Dialogue: 0,0:04:51.59,0:04:52.69,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:04:54.72,0:04:56.39,Default,,0,0,0,,Realmente crees que\Nhay una bestia,
+Dialogue: 0,0:04:56.39,0:04:58.50,Default,,0,0,0,,¿O ese sujeto solo\Njuega con nosotros?
+Dialogue: 0,0:04:59.65,0:05:03.20,Default,,0,0,0,,Digo, no ha acabado\Ncon nosotros hasta ahora,
+Dialogue: 0,0:05:03.27,0:05:05.70,Default,,0,0,0,,Y encendió esta chimenea,\Neso fue muy amable.
+Dialogue: 0,0:05:05.72,0:05:06.53,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:05:06.53,0:05:08.18,Default,,0,0,0,,Es posible que haya una bestia,
+Dialogue: 0,0:05:08.20,0:05:11.10,Default,,0,0,0,,- Considerando al ave parlante,\N- ¡Sí!
+Dialogue: 0,0:05:11.80,0:05:12.87,Default,,0,0,0,,No lo sé.
+Dialogue: 0,0:05:12.90,0:05:18.47,Default,,0,0,0,,Algunas veces siento que soy\Ncomo un bote en un río intrincado,
+Dialogue: 0,0:05:18.50,0:05:21.50,Default,,0,0,0,,Dirigiéndome hacia un mar negro sin fin.
+Dialogue: 0,0:05:22.05,0:05:25.72,Default,,0,0,0,,Poco a poco alejándome\Nde donde quiero estar,
+Dialogue: 0,0:05:25.75,0:05:27.63,Default,,0,0,0,,De quién quiero ser.
+Dialogue: 0,0:05:27.65,0:05:28.80,Default,,0,0,0,,Oh, no lo sabía.
+Dialogue: 0,0:05:28.85,0:05:32.47,Default,,0,0,0,,¿Sabías que meter una pasa en\Njugo de uva la convierte en uva?
+Dialogue: 0,0:05:32.49,0:05:34.66,Default,,0,0,0,,¡Es un hecho sólido!
+Dialogue: 0,0:05:35.36,0:05:36.50,Default,,0,0,0,,No me estás ayudando.
+Dialogue: 0,0:05:36.60,0:05:38.63,Default,,0,0,0,,¿Por qué no vas a jugar con tu rana o algo?
+Dialogue: 0,0:05:38.63,0:05:39.60,Default,,0,0,0,,¡Aw, rayos!
+Dialogue: 0,0:05:39.60,0:05:41.37,Default,,0,0,0,,¿Dónde estará esa rana?
+Dialogue: 0,0:05:41.60,0:05:43.74,Default,,0,0,0,,Espérame, segundo hermano mío.
+Dialogue: 0,0:05:43.74,0:05:45.67,Default,,0,0,0,,Pronto regresaré para tu plan.
+Dialogue: 0,0:05:52.90,0:05:54.63,Default,,0,0,0,,¡Gatito!\N¡Gatito!
+Dialogue: 0,0:05:54.65,0:05:57.20,Default,,0,0,0,,¿A dónde se metió esa\Nrana llamada Gatito?
+Dialogue: 0,0:05:57.65,0:05:59.79,Default,,0,0,0,,¡Me tropecé con mi sendero!
+Dialogue: 0,0:06:07.95,0:06:10.45,Default,,0,0,0,,Esa rana me está haciendo\Ndar vueltas.
+Dialogue: 0,0:06:15.64,0:06:16.54,Default,,0,0,0,,¡Gatito!
+Dialogue: 0,0:06:30.42,0:06:31.59,Default,,0,0,0,,Qué asco.
+Dialogue: 0,0:06:32.20,0:06:33.00,Default,,0,0,0,,¿Gatito?
+Dialogue: 0,0:06:37.45,0:06:38.66,Default,,0,0,0,,Será ese -
+Dialogue: 0,0:06:38.82,0:06:40.26,Default,,0,0,0,,Oh, ¡Ahí estás!
+Dialogue: 0,0:06:42.80,0:06:43.90,Default,,0,0,0,,¿Wirt?
+Dialogue: 0,0:06:46.00,0:06:46.73,Default,,0,0,0,,¿Gatito?
+Dialogue: 0,0:06:50.10,0:06:52.00,Default,,0,0,0,,Tienes ojos preciosos.
+Dialogue: 0,0:06:57.20,0:06:58.40,Default,,0,0,0,,¿Greg?
+Dialogue: 0,0:07:02.80,0:07:03.52,Default,,0,0,0,,¡¿Qué está ocurriendo?!
+Dialogue: 0,0:07:03.52,0:07:04.82,Default,,0,0,0,,¡¿Dónde está tu hermano?!
+Dialogue: 0,0:07:07.39,0:07:09.19,Default,,0,0,0,,Santo cielo, salchichas.
+Dialogue: 0,0:07:12.05,0:07:13.07,Default,,0,0,0,,¡Es la bestia!
+Dialogue: 0,0:07:13.10,0:07:15.27,Default,,0,0,0,,¡Atrás, muchachos!
+Dialogue: 0,0:07:15.30,0:07:16.95,Default,,0,0,0,,Esta criatura es conocida como -
+Dialogue: 0,0:07:20.70,0:07:22.08,Default,,0,0,0,,¡¿Greg por qué hiciste eso?!
+Dialogue: 0,0:07:22.10,0:07:23.80,Default,,0,0,0,,Ese era tu plan,\N¿Recuerdas?
+Dialogue: 0,0:07:23.81,0:07:24.70,Default,,0,0,0,,¡Noquearlo!
+Dialogue: 0,0:07:24.71,0:07:27.20,Default,,0,0,0,,¡No! ¡Mal plan!\N¡Te dije que olvidaras ese plan!
+Dialogue: 0,0:07:27.75,0:07:30.41,Default,,0,0,0,,¡Golpe!\N¡Golpe!
+Dialogue: 0,0:07:30.41,0:07:31.78,Default,,0,0,0,,¡Golpe!
+Dialogue: 0,0:07:34.25,0:07:35.65,Default,,0,0,0,,¡Corre, corre,\Ncorre, corre!
+Dialogue: 0,0:07:37.59,0:07:39.95,Default,,0,0,0,,¡Camuflaje de dulces!
+Dialogue: 0,0:07:40.05,0:07:41.49,Default,,0,0,0,,Corre, corre,\Ncorre, corre.
+Dialogue: 0,0:07:46.20,0:07:48.23,Default,,0,0,0,,- ¡Greg!\N- ¡Esto es increíble! ¿Cierto?
+Dialogue: 0,0:07:57.25,0:07:59.20,Default,,0,0,0,,¿Tengo que arrojar algo?
+Dialogue: 0,0:08:00.61,0:08:01.87,Default,,0,0,0,,Oh, ¡Cierto!
+Dialogue: 0,0:08:04.61,0:08:05.95,Default,,0,0,0,,Está comiendo tus dulces.
+Dialogue: 0,0:08:05.95,0:08:09.40,Default,,0,0,0,,Me pregunto si comió todo\Nel sendero que llevaba al molino.
+Dialogue: 0,0:08:09.72,0:08:12.90,Default,,0,0,0,,Greg, ¡Atrajiste a la bestia con tus dulces!
+Dialogue: 0,0:08:21.90,0:08:23.17,Default,,0,0,0,,Oye, dame esa hacha.
+Dialogue: 0,0:08:23.20,0:08:24.70,Default,,0,0,0,,Eres muy pequeño para usarla.
+Dialogue: 0,0:08:26.20,0:08:27.70,Default,,0,0,0,,¡Tenemos que salir de aquí!
+Dialogue: 0,0:08:37.05,0:08:39.70,Default,,0,0,0,,Uh, Greg, ¡Dale el\Nresto de tus dulces!
+Dialogue: 0,0:08:44.80,0:08:45.70,Default,,0,0,0,,Oops.
+Dialogue: 0,0:08:59.00,0:09:00.07,Default,,0,0,0,,Oye, Wirt, ¡Mira!
+Dialogue: 0,0:09:00.10,0:09:01.23,Default,,0,0,0,,- ¿Greg?\N- ¡Wirt!
+Dialogue: 0,0:09:01.25,0:09:04.20,Default,,0,0,0,,¡Escupió esa tortuga y ahora\Nes mi nuevo mejor amigo!
+Dialogue: 0,0:09:07.08,0:09:08.73,Default,,0,0,0,,Oye, ¿a dónde vas?
+Dialogue: 0,0:09:08.75,0:09:10.78,Default,,0,0,0,,Así son las cosas.
+Dialogue: 0,0:09:10.78,0:09:12.77,Default,,0,0,0,,El molino está destruido.
+Dialogue: 0,0:09:12.80,0:09:15.00,Default,,0,0,0,,El combustible,\N¡Se perdió!
+Dialogue: 0,0:09:15.80,0:09:17.02,Default,,0,0,0,,Pero mira,
+Dialogue: 0,0:09:17.02,0:09:19.30,Default,,0,0,0,,Resolvimos el problema de la bestia.
+Dialogue: 0,0:09:20.62,0:09:21.75,Default,,0,0,0,,¡¿Ese perro?!
+Dialogue: 0,0:09:21.76,0:09:23.59,Default,,0,0,0,,¡Esa no es la bestia!
+Dialogue: 0,0:09:23.59,0:09:27.90,Default,,0,0,0,,¡La bestia no puede ser\Naplastada como un animal de granja!
+Dialogue: 0,0:09:28.06,0:09:30.60,Default,,0,0,0,,Ella acecha como la noche.
+Dialogue: 0,0:09:31.10,0:09:33.40,Default,,0,0,0,,Canta como los cuatro vientos.
+Dialogue: 0,0:09:33.40,0:09:35.64,Default,,0,0,0,,Ella es la muerte de la esperanza.
+Dialogue: 0,0:09:35.64,0:09:38.47,Default,,0,0,0,,Ella roba a sus niños,
+Dialogue: 0,0:09:38.47,0:09:40.67,Default,,0,0,0,,Y, ella...
+Dialogue: 0,0:09:41.84,0:09:43.42,Default,,0,0,0,,Siempre metes la pata, Greg.
+Dialogue: 0,0:09:43.45,0:09:46.37,Default,,0,0,0,,¡Muchacho, estás equivocado!
+Dialogue: 0,0:09:46.40,0:09:49.02,Default,,0,0,0,,¡Tú eres el hijo mayor!
+Dialogue: 0,0:09:49.02,0:09:53.25,Default,,0,0,0,,¡Tú eres responsable por\Nlas acciones de ambos!
+Dialogue: 0,0:09:53.66,0:09:55.49,Default,,0,0,0,,Lo, lo siento.
+Dialogue: 0,0:09:55.49,0:09:56.89,Default,,0,0,0,,Tal vez puedo... ¿Arreglarlo?
+Dialogue: 0,0:09:56.89,0:09:58.27,Default,,0,0,0,,No puedo arreglarlo.
+Dialogue: 0,0:09:58.30,0:09:59.56,Default,,0,0,0,,Deben irse.
+Dialogue: 0,0:09:59.56,0:10:01.49,Default,,0,0,0,,Lleva a tu hermano al norte.
+Dialogue: 0,0:10:01.50,0:10:02.97,Default,,0,0,0,,Busquen un pueblo.
+Dialogue: 0,0:10:03.00,0:10:05.00,Default,,0,0,0,,Sí, gracias.\NVamos, Greg.
+Dialogue: 0,0:10:05.60,0:10:07.17,Default,,0,0,0,,Una última cosa.
+Dialogue: 0,0:10:07.18,0:10:09.67,Default,,0,0,0,,¡Tengan cuidado\Nde Lo Desconocido!
+Dialogue: 0,0:10:09.70,0:10:13.30,Default,,0,0,0,,¡Teman a la bestia!\Ny salgan de este bosque...
+Dialogue: 0,0:10:13.54,0:10:15.44,Default,,0,0,0,,Si es que pueden.
+Dialogue: 0,0:10:15.44,0:10:19.27,Default,,0,0,0,,¡Esa es la carga que llevarán!
+Dialogue: 0,0:10:19.30,0:10:20.87,Default,,0,0,0,,Bien, sí, entiendo.
+Dialogue: 0,0:10:20.90,0:10:25.90,Default,,0,0,0,,Y pequeño, eres responsable\Nde esa rana, dale un nombre decente.
+Dialogue: 0,0:10:27.20,0:10:28.10,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:10:32.70,0:10:36.33,Default,,0,0,0,,Wirt, pensé en un\Nnombre para nuestra rana.
+Dialogue: 0,0:10:36.35,0:10:38.37,Default,,0,0,0,,Voy a llamarlo Wirt.
+Dialogue: 0,0:10:38.40,0:10:39.87,Default,,0,0,0,,Eso será bastante confuso.
+Dialogue: 0,0:10:39.90,0:10:42.10,Default,,0,0,0,,No. A ti te llamaré Gatito.
+Dialogue: 0,0:10:42.10,0:10:44.87,Default,,0,0,0,,¿Qué? Tal vez empezaré\Na llamarte "pantalones dulces".
+Dialogue: 0,0:10:44.90,0:10:46.54,Default,,0,0,0,,¡Woah! ¡Sí!
+Dialogue: 0,0:10:47.40,0:10:48.81,Default,,0,0,0,,Buena esa, Wirt.
+Dialogue: 0,0:10:48.81,0:10:49.43,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:10:49.45,0:10:51.04,Default,,0,0,0,,No te hablo a ti.
+Dialogue: 0,0:10:51.05,0:10:52.60,Default,,0,0,0,,Le hablo a Wirt.
