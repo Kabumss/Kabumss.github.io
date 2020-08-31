@@ -1,0 +1,221 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven.Universe.Future.S01E06.A.Very.Special.Episode
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.24,0:00:03.72,Default,,0,0,0,,♪ Nosotres
+Dialogue: 0,0:00:03.72,0:00:07.21,Default,,0,0,0,,♪ Estamos en el futuro
+Dialogue: 0,0:00:07.21,0:00:08.86,Default,,0,0,0,,♪ Aquí estamos en el futuro
+Dialogue: 0,0:00:08.87,0:00:10.97,Default,,0,0,0,,♪ Y es brillante
+Dialogue: 0,0:00:10.97,0:00:12.28,Default,,0,0,0,,♪ Ah
+Dialogue: 0,0:00:12.28,0:00:14.70,Default,,0,0,0,,♪ no puedo creer
+Dialogue: 0,0:00:14.70,0:00:17.43,Default,,0,0,0,,♪ que hayamos llegado tan lejos
+Dialogue: 0,0:00:17.43,0:00:19.22,Default,,0,0,0,,♪ "Steven Universe: Futuro"
+Dialogue: 0,0:00:19.22,0:00:20.32,Default,,0,0,0,,♪ Aquí estamos
+Dialogue: 0,0:00:20.33,0:00:22.57,Default,,0,0,0,,♪ "Steven Universe: Futuro"
+Dialogue: 0,0:00:26.44,0:00:29.16,Default,,0,0,0,,Gracias Vaca Exploradora,\Npor salvarnos
+Dialogue: 0,0:00:29.16,0:00:31.65,Default,,0,0,0,,de este maldito bandido.
+Dialogue: 0,0:00:33.96,0:00:38.83,Default,,0,0,0,,Por sus heroicos esfuerzos,\Npor favor acepte dinero.
+Dialogue: 0,0:00:38.83,0:00:41.69,Default,,0,0,0,,Nuestra ciudad era un\Ndesastre sin ti
+Dialogue: 0,0:00:41.69,0:00:46.83,Default,,0,0,0,,pero ahora, bueno,\Nsupongo que sigue siendo un desastre.
+Dialogue: 0,0:00:46.83,0:00:49.35,Default,,0,0,0,,Ha sido muy divertido jugar
+Dialogue: 0,0:00:49.35,0:00:53.46,Default,,0,0,0,,pero ahora tenemos que limpiar,\Nlo que también es divertido.
+Dialogue: 0,0:00:53.46,0:00:56.05,Default,,0,0,0,,¿Estás listo para ordenar?
+Dialogue: 0,0:00:58.12,0:01:00.50,Default,,0,0,0,,Oh, Cebolla, no seas así.
+Dialogue: 0,0:01:00.50,0:01:03.26,Default,,0,0,0,,Tu mejor amigue Arcoiris\Nte ayudará a ordenar.
+Dialogue: 0,0:01:03.27,0:01:07.82,Default,,0,0,0,,Hagamos las cosas un\Npoco más animadas aquí.
+Dialogue: 0,0:01:10.86,0:01:15.86,Default,,0,0,0,,♪ Rama a rama, el pequeño\Nmirlo construye un nido ♪
+Dialogue: 0,0:01:15.86,0:01:21.01,Default,,0,0,0,,♪ Un desastre para algunos,\Npero el pequeño mirlo no está estresado ♪
+Dialogue: 0,0:01:21.01,0:01:26.01,Default,,0,0,0,,♪ Rama a rama, el pequeño\Nmirlo construye un nido ♪
+Dialogue: 0,0:01:26.01,0:01:31.29,Default,,0,0,0,,♪ Y luego toma una siesta porque\Nincluso los mirlos necesitan descansar ♪
+Dialogue: 0,0:01:31.29,0:01:35.37,Default,,0,0,0,,♪ La diversión no se detendrá\Nsi tienes une amigue cerca ♪
+Dialogue: 0,0:01:36.30,0:01:40.75,Default,,0,0,0,,♪ La diversión no se detendrá\Nsi tienes une amigue cerca ♪
+Dialogue: 0,0:01:40.75,0:01:46.34,Default,,0,0,0,,♪ Y cuando te ríes,\Nes mi sonido favorito ♪
+Dialogue: 0,0:01:46.34,0:01:50.41,Default,,0,0,0,,♪ Y de eso se trata la vida ♪
+Dialogue: 0,0:01:50.42,0:01:51.83,Default,,0,0,0,,Que...?
+Dialogue: 0,0:01:54.49,0:01:57.53,Default,,0,0,0,,La próxima vez,\Nlava tus platos.
+Dialogue: 0,0:01:57.53,0:01:59.80,Default,,0,0,0,,Puedes...
+Dialogue: 0,0:01:59.80,0:02:02.25,Default,,0,0,0,,por favor explicar qué es esto?
+Dialogue: 0,0:02:02.26,0:02:04.57,Default,,0,0,0,,Muy bien.
+Dialogue: 0,0:02:04.57,0:02:06.09,Default,,0,0,0,,Gracias por los besos
+Dialogue: 0,0:02:07.43,0:02:11.61,Default,,0,0,0,,Bien, voy a necesitar\Nunos 5 minutos.
+Dialogue: 0,0:02:14.75,0:02:16.44,Default,,0,0,0,,Steven, llegas tarde.
+Dialogue: 0,0:02:16.44,0:02:18.93,Default,,0,0,0,,Te necesito para el 'Geminario'\Nde seguridad de Sunstone.
+Dialogue: 0,0:02:18.93,0:02:20.55,Default,,0,0,0,,Oh, no, ¿eso es hoy?
+Dialogue: 0,0:02:20.55,0:02:22.67,Default,,0,0,0,,Pero Cuarzo Arcoíris prometió\Nsalir con Cebolla a...
+Dialogue: 0,0:02:22.69,0:02:24.79,Default,,0,0,0,,No te preocupes\NYo me encargaré del 'Geminario'.
+Dialogue: 0,0:02:24.79,0:02:26.52,Default,,0,0,0,,Les explicaré cada\Nposible futuro
+Dialogue: 0,0:02:26.52,0:02:28.07,Default,,0,0,0,,en los cuales se\Nlastiman en esta casa.
+Dialogue: 0,0:02:28.07,0:02:29.70,Default,,0,0,0,,No sé si es una buena idea.
+Dialogue: 0,0:02:29.70,0:02:30.80,Default,,0,0,0,,Allí estaré.
+Dialogue: 0,0:02:30.80,0:02:32.46,Default,,0,0,0,,Perla, volveré\Ntan pronto como pueda.
+Dialogue: 0,0:02:32.46,0:02:34.18,Default,,0,0,0,,¿Te quedarías con Cebolla\Nmientras yo me voy?
+Dialogue: 0,0:02:34.20,0:02:36.29,Default,,0,0,0,,Por supuesto. Ha sido un\Nsueño para Arcoiris.
+Dialogue: 0,0:02:36.29,0:02:39.12,Default,,0,0,0,,- Puedo ocuparme de las cosas aquí.\N- ¿Estás segura?
+Dialogue: 0,0:02:39.12,0:02:41.60,Default,,0,0,0,,Estoy segura de\Nque estará bien.
+Dialogue: 0,0:02:41.60,0:02:44.78,Default,,0,0,0,,Oh, míralo ahora,\Nhaciendo un collage.
+Dialogue: 0,0:02:44.78,0:02:46.09,Default,,0,0,0,,Uh...
+Dialogue: 0,0:02:46.09,0:02:48.13,Default,,0,0,0,,Escarabajo del cielo,\Nescarabajo de la tierra,
+Dialogue: 0,0:02:48.13,0:02:50.37,Default,,0,0,0,,hay un futuro en el que caes\Nen el triturador de basura
+Dialogue: 0,0:02:50.39,0:02:52.48,Default,,0,0,0,,y nadie se da cuenta\Nhasta que es demasiado tarde.
+Dialogue: 0,0:02:52.48,0:02:55.24,Default,,0,0,0,,Tengo que irme, pero\Nvolveré tan pronto como pueda.
+Dialogue: 0,0:02:55.24,0:02:57.48,Default,,0,0,0,,Tómate tu tiempo.\NEstaremos bien aquí.
+Dialogue: 0,0:02:57.48,0:03:01.14,Default,,0,0,0,,Wow, Cebolla, esa es\Nuna hermosa bolsa de cabello.
+Dialogue: 0,0:03:01.14,0:03:02.42,Default,,0,0,0,,¿De quién es?
+Dialogue: 0,0:03:04.42,0:03:06.32,Default,,0,0,0,,¿Me resbalo en las escaleras?
+Dialogue: 0,0:03:06.32,0:03:08.15,Default,,0,0,0,,Sí, te rompes en el impacto.
+Dialogue: 0,0:03:09.74,0:03:11.08,Default,,0,0,0,,Granate, aquí estoy.
+Dialogue: 0,0:03:11.08,0:03:13.74,Default,,0,0,0,,Steven, ayuda.\NCreo que las estoy asustando.
+Dialogue: 0,0:03:13.74,0:03:16.26,Default,,0,0,0,,Está bien.\NYa nos ocupamos.
+Dialogue: 0,0:03:16.26,0:03:18.09,Default,,0,0,0,,Comencemos este 'Geminario'\Nde seguridad
+Dialogue: 0,0:03:18.09,0:03:20.64,Default,,0,0,0,,con une oradore\Ninvitade muy especial.
+Dialogue: 0,0:03:25.23,0:03:29.10,Default,,0,0,0,,Tu genial amigue PiedraSolar\Nestá aquí para brillar.
+Dialogue: 0,0:03:29.10,0:03:31.58,Default,,0,0,0,,Cuidado, PiedraSolar.\NEs peligroso aquí.
+Dialogue: 0,0:03:31.59,0:03:35.24,Default,,0,0,0,,No si practicas la\Nseguridad en el hogar.
+Dialogue: 0,0:03:35.24,0:03:38.83,Default,,0,0,0,,No te resbales.\NDespeja objetos de las escaleras.
+Dialogue: 0,0:03:38.83,0:03:40.63,Default,,0,0,0,,¡Doble!
+Dialogue: 0,0:03:40.63,0:03:42.53,Default,,0,0,0,,Asegúrate de tapar tu basura,
+Dialogue: 0,0:03:42.53,0:03:45.29,Default,,0,0,0,,o podrías atraer\Nanimales salvajes.
+Dialogue: 0,0:03:45.29,0:03:47.01,Default,,0,0,0,,Venga.\NVámonos.
+Dialogue: 0,0:03:47.01,0:03:50.71,Default,,0,0,0,,No dejes correr el agua.\NPodría inundar tu casa.
+Dialogue: 0,0:03:50.71,0:03:53.54,Default,,0,0,0,,Pon cubiertas protectoras\Nen los enchufes eléctricos,
+Dialogue: 0,0:03:53.54,0:03:56.16,Default,,0,0,0,,especialmente cuando\Nhay niñes cerca.
+Dialogue: 0,0:03:56.16,0:04:01.37,Default,,0,0,0,,Y, lo más importante, apague\Nel suavizado de movimiento en su televisor.
+Dialogue: 0,0:04:01.37,0:04:03.72,Default,,0,0,0,,Wow, todo se ve mucho mejor.
+Dialogue: 0,0:04:05.79,0:04:08.31,Default,,0,0,0,,Muy bien. Agárrate fuerte.\NTengo que atender una llamada telefónica.
+Dialogue: 0,0:04:08.31,0:04:10.73,Default,,0,0,0,,Mientras tanto,\Nmiren este comercial.
+Dialogue: 0,0:04:10.73,0:04:14.01,Default,,0,0,0,,Hola, a todas las gemas\Nque hay en el universo.
+Dialogue: 0,0:04:14.01,0:04:16.97,Default,,0,0,0,,¿Te has sentido perdide y\Nconfundide en esta nueva era?
+Dialogue: 0,0:04:16.98,0:04:19.22,Default,,0,0,0,,Entonces ven a PequeñaEscuela.
+Dialogue: 0,0:04:21.19,0:04:22.84,Default,,0,0,0,,Ey, Perla, ¿cómo te va?
+Dialogue: 0,0:04:22.84,0:04:25.02,Default,,0,0,0,,Hola Steven
+Dialogue: 0,0:04:25.02,0:04:26.85,Default,,0,0,0,,Me preguntaba\Nsi volverás pronto.
+Dialogue: 0,0:04:28.30,0:04:29.92,Default,,0,0,0,,¿Está todo bien por allí?
+Dialogue: 0,0:04:29.92,0:04:31.75,Default,,0,0,0,,Bueno, tan pronto como te fuiste,
+Dialogue: 0,0:04:31.75,0:04:34.10,Default,,0,0,0,,Cebolla se puso un\Npoco... frustrado.
+Dialogue: 0,0:04:34.10,0:04:36.68,Default,,0,0,0,,Realmente está haciendo un\Nnumerito en la casa.
+Dialogue: 0,0:04:36.69,0:04:40.07,Default,,0,0,0,,Creo que extraña a Arcoiris.
+Dialogue: 0,0:04:40.07,0:04:42.55,Default,,0,0,0,,Enseguida estaré ahí.
+Dialogue: 0,0:04:45.25,0:04:47.83,Default,,0,0,0,,¡Arcoiris ha vuelto!
+Dialogue: 0,0:04:47.83,0:04:50.84,Default,,0,0,0,,Bueno, bueno, Cebolla,
+Dialogue: 0,0:04:50.84,0:04:53.70,Default,,0,0,0,,no vamos a golpear cosas,\N¿de acuerdo?
+Dialogue: 0,0:04:53.70,0:04:57.57,Default,,0,0,0,,Bueno, ¿todos esos estragos\Nte dieron sueño?
+Dialogue: 0,0:04:57.57,0:05:00.92,Default,,0,0,0,,¿Por qué no tomamos una\Npequeña siesta?
+Dialogue: 0,0:05:00.92,0:05:02.88,Default,,0,0,0,,Y nos vamos.
+Dialogue: 0,0:05:02.88,0:05:04.44,Default,,0,0,0,,Descansa bien.
+Dialogue: 0,0:05:08.20,0:05:10.06,Default,,0,0,0,,Nos vamos de nuevo.
+Dialogue: 0,0:05:19.38,0:05:22.42,Default,,0,0,0,,Muy bien, Cebolla.\NEl último.
+Dialogue: 0,0:05:24.46,0:05:28.70,Default,,0,0,0,,Oh, bueno, me pregunto\Ncómo estará Granate.
+Dialogue: 0,0:05:29.95,0:05:32.36,Default,,0,0,0,,Granate, he regresado.\NYo...
+Dialogue: 0,0:05:32.36,0:05:34.47,Default,,0,0,0,,¿Que pasó?
+Dialogue: 0,0:05:34.47,0:05:37.57,Default,,0,0,0,,Hola Steven. Establecimos una carrera\Nde obstáculos de seguridad en el hogar,
+Dialogue: 0,0:05:37.57,0:05:39.45,Default,,0,0,0,,pero luego nos distrajimos.
+Dialogue: 0,0:05:39.48,0:05:41.54,Default,,0,0,0,,¿Suavizado de movimiento?
+Dialogue: 0,0:05:41.54,0:05:43.13,Default,,0,0,0,,Es genial para el fútbol.
+Dialogue: 0,0:05:43.13,0:05:44.48,Default,,0,0,0,,Todes fuera de la casa.
+Dialogue: 0,0:05:44.48,0:05:48.31,Default,,0,0,0,,Muy bien.\NCambio de escenario.
+Dialogue: 0,0:05:48.31,0:05:50.93,Default,,0,0,0,,¿Quieren ver algo genial?
+Dialogue: 0,0:05:50.93,0:05:53.93,Default,,0,0,0,,Lo bueno es que\Nestoy usando...
+Dialogue: 0,0:05:55.90,0:05:57.77,Default,,0,0,0,,...un casco.
+Dialogue: 0,0:05:57.77,0:06:00.08,Default,,0,0,0,,¡Ooh!
+Dialogue: 0,0:06:00.08,0:06:02.32,Default,,0,0,0,,¡Ahh!
+Dialogue: 0,0:06:02.32,0:06:04.46,Default,,0,0,0,,Ahora lo están entendiendo.
+Dialogue: 0,0:06:04.46,0:06:06.60,Default,,0,0,0,,Muy bien.\NSiguiente lección.
+Dialogue: 0,0:06:06.60,0:06:09.12,Default,,0,0,0,,Whoa, ¡espera!
+Dialogue: 0,0:06:09.12,0:06:11.33,Default,,0,0,0,,¿Sabes lo que también es genial?
+Dialogue: 0,0:06:11.33,0:06:12.85,Default,,0,0,0,,El respeto.
+Dialogue: 0,0:06:12.85,0:06:16.23,Default,,0,0,0,,Respetar las señales de cruce\Nde peatones, eso es.
+Dialogue: 0,0:06:20.58,0:06:22.62,Default,,0,0,0,,Lo estás haciendo genial.
+Dialogue: 0,0:06:30.49,0:06:33.04,Default,,0,0,0,,Por favor, por favor,\Nque tenga todo bajo control.
+Dialogue: 0,0:06:33.04,0:06:35.53,Default,,0,0,0,,Steven, ¡está todo\Nfuera de control!
+Dialogue: 0,0:06:35.53,0:06:37.98,Default,,0,0,0,,Sí. Se está poniendo\Nmuy raro aquí.
+Dialogue: 0,0:06:37.98,0:06:40.19,Default,,0,0,0,,Steven, nunca fuiste así.
+Dialogue: 0,0:06:40.19,0:06:41.67,Default,,0,0,0,,Eras un buen chico.
+Dialogue: 0,0:06:41.67,0:06:43.81,Default,,0,0,0,,Lamento no haberte\Ndicho eso nunca.
+Dialogue: 0,0:06:43.81,0:06:47.06,Default,,0,0,0,,Aah! Puedo escucharlo,\Npero no puedo verlo.
+Dialogue: 0,0:06:47.06,0:06:49.71,Default,,0,0,0,,Creo que está en las paredes.\NNo sé cómo llegó allí.
+Dialogue: 0,0:06:49.71,0:06:52.96,Default,,0,0,0,,¡Y no sé cómo sacarlo!
+Dialogue: 0,0:06:54.48,0:06:56.80,Default,,0,0,0,,Granate, ¿puedes manejar las\Ncosas por tu cuenta un poco?
+Dialogue: 0,0:06:56.82,0:06:59.62,Default,,0,0,0,,No hay problema.\NNuestres alumnes me aman.
+Dialogue: 0,0:06:59.62,0:07:01.97,Default,,0,0,0,,Déjenme decirles todas las formas en\Nque pueden ser atropellades por un automóvil.
+Dialogue: 0,0:07:01.97,0:07:04.56,Default,,0,0,0,,Ah, Granate, olvídalo.\NMe quedaré. Me quedaré.
+Dialogue: 0,0:07:04.56,0:07:06.66,Default,,0,0,0,,Steven, ¡hay una serpiente!
+Dialogue: 0,0:07:06.66,0:07:09.53,Default,,0,0,0,,No importa.\N¡Aah!
+Dialogue: 0,0:07:11.18,0:07:12.63,Default,,0,0,0,,¿Hola?
+Dialogue: 0,0:07:14.01,0:07:16.33,Default,,0,0,0,,- ¡Steven!\N- ¡Aah! ¡Perla!
+Dialogue: 0,0:07:16.33,0:07:18.67,Default,,0,0,0,,No es seguro aquí.\N¡Escóndete!
+Dialogue: 0,0:07:18.67,0:07:20.05,Default,,0,0,0,,Perla, tienes que relajarte.
+Dialogue: 0,0:07:22.33,0:07:25.89,Default,,0,0,0,,Steven, no, el peligro!
+Dialogue: 0,0:07:33.90,0:07:36.42,Default,,0,0,0,,¡Aah! ¡Eso es!
+Dialogue: 0,0:07:38.21,0:07:40.21,Default,,0,0,0,,Oh. ¿Qué?
+Dialogue: 0,0:07:40.21,0:07:44.22,Default,,0,0,0,,Aw, supongo que realmente quiere\Na Arcoiris y galletas.
+Dialogue: 0,0:07:44.22,0:07:47.56,Default,,0,0,0,,- Espera, ¿va a saltar?\N- Cebolla, no lo hagas.
+Dialogue: 0,0:07:47.57,0:07:51.36,Default,,0,0,0,,¡Cebolla!\NEstá bien, ¡te atraparé, Cebolla!
+Dialogue: 0,0:07:51.36,0:07:53.54,Default,,0,0,0,,De acuerdo, e-e-eso\Ntambién está bien.
+Dialogue: 0,0:07:53.54,0:07:57.89,Default,,0,0,0,,Oh, ¿vas a compartir\Nalgo conmigo?
+Dialogue: 0,0:07:59.09,0:08:01.27,Default,,0,0,0,,- No\N- No
+Dialogue: 0,0:08:01.27,0:08:04.03,Default,,0,0,0,,Ven aquí, traviesa\Nbola de masa hervida.
+Dialogue: 0,0:08:04.03,0:08:05.41,Default,,0,0,0,,Te tengo.
+Dialogue: 0,0:08:05.41,0:08:07.07,Default,,0,0,0,,¿Por qué jugar con objetos afilados
+Dialogue: 0,0:08:07.07,0:08:09.10,Default,,0,0,0,,cuando puedes jugar con\Nmi afilado ingenio?
+Dialogue: 0,0:08:09.10,0:08:12.93,Default,,0,0,0,,Hagamos chistes, no hagamos lío,\Ncomo siempre digo. ¡Jaja!
+Dialogue: 0,0:08:12.94,0:08:17.42,Default,,0,0,0,,Pero te diré lo que no es un\Nchiste... este horrible desastre.
+Dialogue: 0,0:08:17.42,0:08:19.94,Default,,0,0,0,,Ahora, esto simplemente no servirá.
+Dialogue: 0,0:08:23.64,0:08:29.71,Default,,0,0,0,,¡Uf! Eres un puñado de lío,\Nmi niño, literalmente.
+Dialogue: 0,0:08:30.64,0:08:33.13,Default,,0,0,0,,De acuerdo, vienes conmigo.
+Dialogue: 0,0:08:33.13,0:08:35.61,Default,,0,0,0,,Es importante tener en cuenta\Nque todas estas cosas horribles
+Dialogue: 0,0:08:35.61,0:08:38.13,Default,,0,0,0,,les sucedieron en líneas\Ntemporales alternativas.
+Dialogue: 0,0:08:38.13,0:08:39.55,Default,,0,0,0,,La seguridad es divertida.
+Dialogue: 0,0:08:39.55,0:08:43.07,Default,,0,0,0,,Oye, Granate, ¿qué tal\Nsi tomas otro estudiante?
+Dialogue: 0,0:08:43.07,0:08:45.31,Default,,0,0,0,,Me siento un poco...
+Dialogue: 0,0:08:47.73,0:08:50.59,Default,,0,0,0,,No deberías haberlo\Ntraído aquí, Steven.
+Dialogue: 0,0:08:50.59,0:08:53.67,Default,,0,0,0,,No, no, no, está bien.\NE-está bien.
+Dialogue: 0,0:08:53.67,0:08:56.98,Default,,0,0,0,,Nadie necesita entrenamiento\Nde seguridad más que Cebolla.
+Dialogue: 0,0:08:56.98,0:08:59.77,Default,,0,0,0,,Estoy combinando todas\Nmis responsabilidades
+Dialogue: 0,0:08:59.78,0:09:03.09,Default,,0,0,0,,en una responsabilidad
+Dialogue: 0,0:09:03.09,0:09:06.16,Default,,0,0,0,,Es... es brillante.\NEstá bien. Estoy bien.
+Dialogue: 0,0:09:06.16,0:09:09.79,Default,,0,0,0,,De verdad, estoy bien.\NEstá bien. Estoy bien.
+Dialogue: 0,0:09:10.82,0:09:12.13,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:09:13.44,0:09:14.65,Default,,0,0,0,,¡Oh!
+Dialogue: 0,0:09:14.65,0:09:17.00,Default,,0,0,0,,Estoy bien.\NEstoy bien.
+Dialogue: 0,0:09:17.00,0:09:19.24,Default,,0,0,0,,Realmente bien.
+Dialogue: 0,0:09:19.24,0:09:20.52,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:09:37.36,0:09:39.47,Default,,0,0,0,,¡Oh no!
+Dialogue: 0,0:09:39.47,0:09:41.85,Default,,0,0,0,,Steven, rápido,\NPiedraSolar puede salvarlos.
+Dialogue: 0,0:09:41.85,0:09:43.37,Default,,0,0,0,,Bueno.
+Dialogue: 0,0:09:43.37,0:09:45.86,Default,,0,0,0,,¡Oh si!
+Dialogue: 0,0:09:45.86,0:09:48.55,Default,,0,0,0,,No, deja que Arcoiris les salve.
+Dialogue: 0,0:09:48.55,0:09:50.65,Default,,0,0,0,,Les atraparé con esto.
+Dialogue: 0,0:09:50.65,0:09:53.28,Default,,0,0,0,,Oye, espera, necesito a Steven.
+Dialogue: 0,0:09:53.28,0:09:55.31,Default,,0,0,0,,¿Qué pasa, Amatista?
+Dialogue: 0,0:09:55.31,0:09:56.97,Default,,0,0,0,,Tan solo te extraño, viejo.
+Dialogue: 0,0:09:56.97,0:10:00.70,Default,,0,0,0,,No te he visto por 11 minutos.
+Dialogue: 0,0:10:02.53,0:10:04.08,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:10:04.08,0:10:07.39,Default,,0,0,0,,No debería haber\Nsobrecargado mi agenda.
+Dialogue: 0,0:10:09.22,0:10:12.88,Default,,0,0,0,,¡No!
+Dialogue: 0,0:10:15.58,0:10:18.92,Default,,0,0,0,,Hola, niñes, no dejen\Nque esto les suceda.
+Dialogue: 0,0:10:18.92,0:10:22.34,Default,,0,0,0,,Siempre traten de administrar\Nsu tiempo sabiamente.
+Dialogue: 0,0:10:22.34,0:10:24.83,Default,,0,0,0,,No pueden estar en\Ntodas partes a la vez.
+Dialogue: 0,0:10:24.83,0:10:28.24,Default,,0,0,0,,No 'hagan un Steven',\N¿estoy en lo cierto?
+Dialogue: 0,0:10:28.24,0:10:30.28,Default,,0,0,0,,Hablando de eso, oye,
+Dialogue: 0,0:10:30.28,0:10:33.11,Default,,0,0,0,,¿No deberían estar ustedes\Nen sus clases de guitarra?
+Dialogue: 0,0:10:33.11,0:10:35.04,Default,,0,0,0,,Pero no tenemos\Nninguna g...
+Dialogue: 0,0:10:35.04,0:10:37.53,Default,,0,0,0,,¡Wowzers!\N¡Gracias PiedraSolar!
+Dialogue: 0,0:10:37.53,0:10:39.25,Default,,0,0,0,,No hay problema, amigue.
+Dialogue: 0,0:10:40.77,0:10:42.77,Default,,0,0,0,,Es genial querer\Nayudar a las personas,
+Dialogue: 0,0:10:42.78,0:10:45.74,Default,,0,0,0,,pero también es genial decir\Nque estás demasiado ocupade.
+Dialogue: 0,0:10:45.74,0:10:47.78,Default,,0,0,0,,¿Con quién estás hablando?\N¡Ay!
+Dialogue: 0,0:10:47.78,0:10:52.27,Default,,0,0,0,,Y lo más importante,\Nnunca saltes de un acantilado,
+Dialogue: 0,0:10:52.27,0:10:57.27,Default,,0,0,0,,a menos que seas une profesional\Ncapacitade, eso es.
+Dialogue: 0,0:10:57.87,0:11:01.36,Default,,0,0,0,,
+Dialogue: 0,0:11:05.69,0:11:08.08,Default,,0,0,0,,{\i1} ♪ Solo un poco de tiempo ♪ {\i0}
+Dialogue: 0,0:11:09.56,0:11:13.39,Default,,0,0,0,,{\i1} ♪ Solo algo más en su lugar ♪ {\i0}
+Dialogue: 0,0:11:13.39,0:11:15.91,Default,,0,0,0,,{\i1} ♪ Solo un poco de tiempo ♪ {\i0}

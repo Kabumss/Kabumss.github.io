@@ -1,0 +1,238 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe - 4x03 - El Libro De Buddy (Buddy's Book)
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.68,0:00:01.89,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Las{\c}{\i0}
+Dialogue: 0,0:00:01.97,0:00:04.23,Default,,0,0,0,,{\an2\i1\c&Hffffff&}- Gemas de{\c}{\i0}\N- {\i1\c&Hffffff&}Cristal{\c}{\i0}
+Dialogue: 0,0:00:04.31,0:00:07.14,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Te ayudan si estás mal{\c}{\i0}
+Dialogue: 0,0:00:07.23,0:00:08.90,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Y no hay complicación{\c}{\i0}
+Dialogue: 0,0:00:08.98,0:00:11.77,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Que no tenga solución{\c}{\i0}
+Dialogue: 0,0:00:11.86,0:00:15.74,Default,,0,0,0,,{\an2\i1\c&Hffffff&}- Por eso el mundo entero{\c}{\i0}\N{\i1\c&Hffffff&}- Hoy{\c}{\i0}
+Dialogue: 0,0:00:15.82,0:00:17.36,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Confía en{\c}{\i0}
+Dialogue: 0,0:00:17.45,0:00:19.49,Default,,0,0,0,,{\an2\i1\c&Hffffff&}- Granate{\c}{\i0}\N{\i1\c&Hffffff&}- Amatista{\c}{\i0}
+Dialogue: 0,0:00:19.57,0:00:22.74,Default,,0,0,0,,{\an2\i1\c&Hffffff&}- Y Perla{\c}{\i0}\N{\i1\c&Hffffff&}- ¡Y Steven!{\c}{\i0}
+Dialogue: 0,0:00:29.92,0:00:30.96,Default,,0,0,0,,{\an2}¡Toma!
+Dialogue: 0,0:00:33.80,0:00:35.51,Default,,0,0,0,,{\an2}¡Bien aparcado, León!
+Dialogue: 0,0:00:36.38,0:00:38.18,Default,,0,0,0,,{\an2}Está un poco torcido.
+Dialogue: 0,0:00:38.88,0:00:41.05,Default,,0,0,0,,{\an2}No importa. Está perfecto.
+Dialogue: 0,0:00:41.14,0:00:43.47,Default,,0,0,0,,{\an2}¿León va a estar bien aparcado aquí?
+Dialogue: 0,0:00:43.93,0:00:45.85,Default,,0,0,0,,{\an2}Sí, solo tengo que "cerrarlo".
+Dialogue: 0,0:00:48.35,0:00:50.69,Default,,0,0,0,,{\an2}Tranquila, no se irá a ninguna parte.
+Dialogue: 0,0:00:53.19,0:00:54.19,Default,,0,0,0,,{\an2}BIBLIOTECA PÚBLICA DE BUDDWICK
+Dialogue: 0,0:00:54.28,0:00:57.95,Default,,0,0,0,,{\an2}Sigo sin creerme que sea\Ntu primera vez en una biblioteca.
+Dialogue: 0,0:00:58.03,0:00:59.07,Default,,0,0,0,,{\an2}¿Por qué?
+Dialogue: 0,0:00:59.16,0:01:02.32,Default,,0,0,0,,{\an2}Porque está llena de lo que más te gusta.
+Dialogue: 0,0:01:05.74,0:01:07.20,Default,,0,0,0,,{\an2}¡LEE Y VÓTAME!
+Dialogue: 0,0:01:08.41,0:01:10.33,Default,,0,0,0,,{\an2}¡Libros!
+Dialogue: 0,0:01:12.25,0:01:14.63,Default,,0,0,0,,{\an2}Libros.
+Dialogue: 0,0:01:15.42,0:01:18.42,Default,,0,0,0,,{\an2}Bien, hora de darles duro a estos libros.
+Dialogue: 0,0:01:19.01,0:01:20.55,Default,,0,0,0,,{\an2}¿Qué te han hecho?
+Dialogue: 0,0:01:20.63,0:01:23.55,Default,,0,0,0,,{\an2}Estoy intentando\Nempezar bien séptimo curso.
+Dialogue: 0,0:01:23.64,0:01:26.64,Default,,0,0,0,,{\an2}Vamos a ver muchas cosas nuevas,
+Dialogue: 0,0:01:26.72,0:01:28.43,Default,,0,0,0,,{\an2}y quiero estar preparada.
+Dialogue: 0,0:01:28.52,0:01:30.69,Default,,0,0,0,,{\an2}¿No puedes buscar información\Ncon el móvil?
+Dialogue: 0,0:01:31.35,0:01:33.73,Default,,0,0,0,,{\an2}La última vez que confié en internet,
+Dialogue: 0,0:01:33.81,0:01:37.65,Default,,0,0,0,,{\an2}acabé escribiendo un...\NUn trabajo con muchos errores
+Dialogue: 0,0:01:37.74,0:01:39.82,Default,,0,0,0,,{\an2}sobre mapaches con visión térmica.
+Dialogue: 0,0:01:39.90,0:01:42.11,Default,,0,0,0,,{\an2}¿Los mapaches tienen visión térmica?
+Dialogue: 0,0:01:42.91,0:01:45.12,Default,,0,0,0,,{\an2}Deberías echar un vistazo\Nmientras empiezo.
+Dialogue: 0,0:01:45.20,0:01:48.00,Default,,0,0,0,,{\an2}Seguro que hay muchas cosas que te gustan.
+Dialogue: 0,0:01:48.08,0:01:50.54,Default,,0,0,0,,{\an2}Vale, ahora vuelvo.
+Dialogue: 0,0:01:51.04,0:01:53.04,Default,,0,0,0,,{\an2}¿Hechos reales? Qué fuerte.
+Dialogue: 0,0:01:57.67,0:02:00.34,Default,,0,0,0,,{\an2}Hasta los estantes de abajo\Ntienen libros guais.
+Dialogue: 0,0:02:02.64,0:02:04.89,Default,,0,0,0,,{\an2}¿Qué haces aquí abajo, amiguito?
+Dialogue: 0,0:02:07.60,0:02:09.35,Default,,0,0,0,,{\an2}Está en blanco.
+Dialogue: 0,0:02:14.48,0:02:16.27,Default,,0,0,0,,{\an2}¡Connie!
+Dialogue: 0,0:02:16.36,0:02:17.65,Default,,0,0,0,,{\an2}¡Mira!
+Dialogue: 0,0:02:18.28,0:02:19.57,Default,,0,0,0,,{\an2}Está en blanco.
+Dialogue: 0,0:02:19.65,0:02:22.11,Default,,0,0,0,,{\an2}Es el diario\Ndel primer oficial Buddy Buddwick.
+Dialogue: 0,0:02:22.20,0:02:24.20,Default,,0,0,0,,{\an2}- ¿El auténtico?\N- Sí.
+Dialogue: 0,0:02:24.28,0:02:28.87,Default,,0,0,0,,{\an2}Jamie hizo una obra sobre cómo Buddy ayudó\Nal alcalde Duey a descubrir Beach City.
+Dialogue: 0,0:02:28.95,0:02:31.16,Default,,0,0,0,,{\an2}Hay dibujos de ubicaciones de gemas.
+Dialogue: 0,0:02:31.25,0:02:32.75,Default,,0,0,0,,{\an2}¡Madre mía!
+Dialogue: 0,0:02:32.83,0:02:34.71,Default,,0,0,0,,{\an2}Olvida los deberes.
+Dialogue: 0,0:02:34.79,0:02:37.04,Default,,0,0,0,,{\an2}- Empecemos desde el principio.\N- Sí.
+Dialogue: 0,0:02:37.80,0:02:39.26,Default,,0,0,0,,{\an2}DIARIO DE BUDDY BUDDWICK
+Dialogue: 0,0:02:39.67,0:02:42.22,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Tras escapar de una muerte casi segura,{\c}{\i0}
+Dialogue: 0,0:02:42.30,0:02:45.64,Default,,0,0,0,,{\an2\i1\c&Hffffff&}el capitán William Duey{\c}{\i0}\N{\i1\c&Hffffff&}y yo, su primer oficial, Buddy,{\c}{\i0}
+Dialogue: 0,0:02:45.72,0:02:48.22,Default,,0,0,0,,{\an2\i1\c&Hffffff&}encontramos la tierra de Beach City.{\c}{\i0}
+Dialogue: 0,0:02:48.89,0:02:52.27,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Una vez cimentado el legado de Duey,{\c}{\i0}\N{\i1\c&Hffffff&}bueno, fundido,{\c}{\i0}
+Dialogue: 0,0:02:52.35,0:02:55.35,Default,,0,0,0,,{\an2\i1\c&Hffffff&}yo me preguntaba cuál sería mi legado.{\c}{\i0}
+Dialogue: 0,0:02:56.27,0:02:58.15,Default,,0,0,0,,{\an2\i1\c&Hffffff&}¿Alguien recordaría mi nombre?{\c}{\i0}
+Dialogue: 0,0:02:58.77,0:03:02.95,Default,,0,0,0,,{\an2\i1\c&Hffffff&}¿O lo borraría el paso del tiempo?{\c}{\i0}
+Dialogue: 0,0:03:03.61,0:03:06.45,Default,,0,0,0,,{\an2}Me imagino a Buddy\Ncomo Jamie cuando está triste.
+Dialogue: 0,0:03:06.53,0:03:08.78,Default,,0,0,0,,{\an2}Sí. Menudo teatrero.
+Dialogue: 0,0:03:09.45,0:03:11.87,Default,,0,0,0,,{\an2}¡No! No desapareceré.
+Dialogue: 0,0:03:11.95,0:03:14.75,Default,,0,0,0,,{\an2}No moriré como un humilde primer oficial.
+Dialogue: 0,0:03:14.83,0:03:17.67,Default,,0,0,0,,{\an2}Haré algo grande con mi vida.
+Dialogue: 0,0:03:17.75,0:03:20.42,Default,,0,0,0,,{\an2}Peinaré el mundo en busca de grandeza.
+Dialogue: 0,0:03:20.50,0:03:23.84,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Y así comenzó un nuevo capítulo de mi vida{\c}{\i0}
+Dialogue: 0,0:03:23.92,0:03:26.97,Default,,0,0,0,,{\an2\i1\c&Hffffff&}para explorar lo inexplorado{\c}{\i0}
+Dialogue: 0,0:03:27.05,0:03:30.18,Default,,0,0,0,,{\an2\i1\c&Hffffff&}y dejar mi huella en el mundo.{\c}{\i0}
+Dialogue: 0,0:03:30.68,0:03:32.89,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Viajé durante muchos días y noches{\c}{\i0}
+Dialogue: 0,0:03:32.98,0:03:36.48,Default,,0,0,0,,{\an2\i1\c&Hffffff&}hasta que al final{\c}{\i0}\N{\i1\c&Hffffff&}me hallé en una especie de campo,{\c}{\i0}
+Dialogue: 0,0:03:36.56,0:03:40.23,Default,,0,0,0,,{\an2\i1\c&Hffffff&}o, mejor dicho, en un campo de espadas{\c}{\i0}
+Dialogue: 0,0:03:40.32,0:03:43.15,Default,,0,0,0,,{\an2\i1\c&Hffffff&}entremezcladas con fresas enormes y dulces{\c}{\i0}
+Dialogue: 0,0:03:43.24,0:03:44.61,Default,,0,0,0,,{\an2\i1\c&Hffffff&}tan grandes como una cabeza.{\c}{\i0}
+Dialogue: 0,0:03:44.70,0:03:48.28,Default,,0,0,0,,{\an2\i1\c&Hffffff&}"¿Quién podría haber empuñado{\c}{\i0}\N{\i1\c&Hffffff&}un arma así?", me pregunté.{\c}{\i0}
+Dialogue: 0,0:03:48.37,0:03:49.41,Default,,0,0,0,,{\an8}EL MARTILLO DEL TITÁN
+Dialogue: 0,0:03:49.53,0:03:53.37,Default,,0,0,0,,{\an8\i1\c&Hffffff&}"¿Para qué tipo de batalla{\c}{\i0}\N{\i1\c&Hffffff&}podría haberse usado?".{\c}{\i0}
+Dialogue: 0,0:03:53.45,0:03:57.29,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Me puse a dibujar,{\c}{\i0}\N{\i1\c&Hffffff&}profundamente concentrado,{\c}{\i0}
+Dialogue: 0,0:03:57.37,0:04:00.71,Default,,0,0,0,,{\an2\i1\c&Hffffff&}cuando de repente{\c}{\i0}\N{\i1\c&Hffffff&}sentí el roce de una mano conocida.{\c}{\i0}
+Dialogue: 0,0:04:00.80,0:04:02.96,Default,,0,0,0,,{\an2}- Ah del barco.\N- Saludos.
+Dialogue: 0,0:04:03.05,0:04:04.72,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Eran dos de las Gemas de Cristal.{\c}{\i0}
+Dialogue: 0,0:04:06.18,0:04:08.72,Default,,0,0,0,,{\an2}¿Las Gemas serían diferentes en esa época?
+Dialogue: 0,0:04:08.80,0:04:10.55,Default,,0,0,0,,{\an2}Sí, sin duda.
+Dialogue: 0,0:04:10.97,0:04:12.72,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Eran dos de las Gemas de Cristal{\c}{\i0}
+Dialogue: 0,0:04:12.81,0:04:15.94,Default,,0,0,0,,{\an2\i1\c&Hffffff&}que salvaron a mi capitán{\c}{\i0}\N{\i1\c&Hffffff&}de una bestia marina.{\c}{\i0}
+Dialogue: 0,0:04:16.02,0:04:17.65,Default,,0,0,0,,{\an2}Y ahora vamos a salvarte a ti.
+Dialogue: 0,0:04:17.73,0:04:19.15,Default,,0,0,0,,{\an2}Pero yo no estoy en peligro.
+Dialogue: 0,0:04:19.23,0:04:22.23,Default,,0,0,0,,{\an2}Solo soy un humilde viajero\Nque quiere que su nombre
+Dialogue: 0,0:04:22.32,0:04:25.69,Default,,0,0,0,,{\an2}se recuerde para siempre.
+Dialogue: 0,0:04:25.78,0:04:30.66,Default,,0,0,0,,{\an2}Pues no vengas aquí, viajero,\Npues este sitio es muy peligroso.
+Dialogue: 0,0:04:30.74,0:04:32.74,Default,,0,0,0,,{\an2}Bien, me iré a otra parte.
+Dialogue: 0,0:04:32.83,0:04:33.83,Default,,0,0,0,,{\an2}¡Espera!
+Dialogue: 0,0:04:33.91,0:04:37.67,Default,,0,0,0,,{\an2}Hay muchos sitios en esta Tierra\Nque un humano debería evitar.
+Dialogue: 0,0:04:38.12,0:04:40.42,Default,,0,0,0,,{\an2}He marcado todos los lugares
+Dialogue: 0,0:04:40.50,0:04:43.84,Default,,0,0,0,,{\an2}que, bajo ningún concepto, debes visitar
+Dialogue: 0,0:04:43.92,0:04:45.59,Default,,0,0,0,,{\an2}si aprecias tu corta vida.
+Dialogue: 0,0:04:45.67,0:04:49.05,Default,,0,0,0,,{\an2}Solo los exploradores\Nmás valientes, osados
+Dialogue: 0,0:04:49.14,0:04:53.97,Default,,0,0,0,,{\an2}y memorables se atreverían\Na visitar esos lugares fascinantes.
+Dialogue: 0,0:04:54.81,0:04:57.35,Default,,0,0,0,,{\an2}Sí, es básicamente lo que acabo de decir.
+Dialogue: 0,0:04:57.44,0:04:59.65,Default,,0,0,0,,{\an2}Me alegro de haberlo aclarado.
+Dialogue: 0,0:05:01.36,0:05:03.48,Default,,0,0,0,,{\an2}¡Que te vaya bien!
+Dialogue: 0,0:05:03.57,0:05:06.15,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Seguro que si exploro estos lugares,{\c}{\i0}
+Dialogue: 0,0:05:06.24,0:05:09.36,Default,,0,0,0,,{\an2\i1\c&Hffffff&}me recordarán{\c}{\i0}\N{\i1\c&Hffffff&}como alguien valiente y osado.{\c}{\i0}
+Dialogue: 0,0:05:27.01,0:05:28.05,Default,,0,0,0,,{\an2}LA TORRE DE LA ARROGANCIA
+Dialogue: 0,0:05:28.13,0:05:29.72,Default,,0,0,0,,{\an2}Dibujó el centro de comunicaciones.
+Dialogue: 0,0:05:29.80,0:05:30.68,Default,,0,0,0,,{\an2}BABOSAS BRILLANTES
+Dialogue: 0,0:05:30.76,0:05:33.39,Default,,0,0,0,,{\an2}- ¿Babosas brillantes?\N- ¿Y esos nombres?
+Dialogue: 0,0:05:33.47,0:05:34.47,Default,,0,0,0,,{\an2}ESTATUA DE LA DIOSA LUNA
+Dialogue: 0,0:05:34.56,0:05:35.72,Default,,0,0,0,,{\an8}En este acertó.
+Dialogue: 0,0:05:35.81,0:05:36.68,Default,,0,0,0,,{\an8}LA GRAN PIRÁMIDE INVERTIDA
+Dialogue: 0,0:05:36.77,0:05:37.64,Default,,0,0,0,,{\an8}UN MURAL MÍSTICO
+Dialogue: 0,0:05:37.73,0:05:38.89,Default,,0,0,0,,{\an8}Parece que he vuelto allí.
+Dialogue: 0,0:05:38.98,0:05:40.27,Default,,0,0,0,,{\an8}¿Qué es este lugar?
+Dialogue: 0,0:05:40.35,0:05:41.27,Default,,0,0,0,,{\an8}EL PALANQUÍN
+Dialogue: 0,0:05:41.35,0:05:42.65,Default,,0,0,0,,{\an8}Este no lo conozco.
+Dialogue: 0,0:05:44.15,0:05:45.02,Default,,0,0,0,,{\an8}SITIO CON MUCHOS AGUJEROS
+Dialogue: 0,0:05:45.11,0:05:47.32,Default,,0,0,0,,{\an8}Parece que fue a la guardería.
+Dialogue: 0,0:05:47.40,0:05:50.65,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Me encontré en los lugares más increíbles.{\c}{\i0}
+Dialogue: 0,0:05:52.32,0:05:54.03,Default,,0,0,0,,{\an2}Muy puntiagudo.
+Dialogue: 0,0:05:54.12,0:05:56.66,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Aunque no podía evitar sentir{\c}{\i0}
+Dialogue: 0,0:05:56.74,0:06:01.33,Default,,0,0,0,,{\an2\i1\c&Hffffff&}que había algo en ese viaje{\c}{\i0}\N{\i1\c&Hffffff&}que no iba del todo... bien.{\c}{\i0}
+Dialogue: 0,0:06:03.33,0:06:05.92,Default,,0,0,0,,{\an2}¿Qué harán aquí estas cuevecitas?
+Dialogue: 0,0:06:06.00,0:06:07.34,Default,,0,0,0,,{\an2}¡Hola, amigo!
+Dialogue: 0,0:06:08.21,0:06:09.80,Default,,0,0,0,,{\an2}Soy Buddy.
+Dialogue: 0,0:06:09.88,0:06:12.05,Default,,0,0,0,,{\an2}Sal de mi agujero.
+Dialogue: 0,0:06:12.59,0:06:15.39,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Hete aquí, la tercera Gema de Cristal.{\c}{\i0}
+Dialogue: 0,0:06:15.85,0:06:18.02,Default,,0,0,0,,{\an2}¿Vives aquí?
+Dialogue: 0,0:06:18.10,0:06:19.39,Default,,0,0,0,,{\an2}Antes sí.
+Dialogue: 0,0:06:19.48,0:06:23.56,Default,,0,0,0,,{\an2}Ahora solo vuelvo de vez en cuando\Npara ver cómo está la peña.
+Dialogue: 0,0:06:23.81,0:06:25.02,Default,,0,0,0,,{\an2}¿"La peña"?
+Dialogue: 0,0:06:25.65,0:06:28.19,Default,,0,0,0,,{\an2}Hola, ¿qué tal?
+Dialogue: 0,0:06:28.69,0:06:30.78,Default,,0,0,0,,{\an2}¿Has crecido?
+Dialogue: 0,0:06:30.86,0:06:32.53,Default,,0,0,0,,{\an2}Un segundo, tengo visita.
+Dialogue: 0,0:06:32.61,0:06:34.53,Default,,0,0,0,,{\an2}¿Qué haces aquí?
+Dialogue: 0,0:06:35.49,0:06:37.58,Default,,0,0,0,,{\an2}Mis disculpas. Te lo mostraré.
+Dialogue: 0,0:06:37.66,0:06:41.04,Default,,0,0,0,,{\an2}Viajo por todo el mundo\Ncomo aventurero y explorador.
+Dialogue: 0,0:06:41.12,0:06:42.04,Default,,0,0,0,,{\an2}¡Mola!
+Dialogue: 0,0:06:42.12,0:06:45.96,Default,,0,0,0,,{\an2}He emprendido este viaje\Npara descubrir sitios desconocidos.
+Dialogue: 0,0:06:46.04,0:06:50.59,Default,,0,0,0,,{\an2}Pero por el aspecto de este sitio,\Nya ha habido mucha gente aquí antes.
+Dialogue: 0,0:06:50.67,0:06:53.26,Default,,0,0,0,,{\an2}Espera. ¿Tú has hecho este mapa?
+Dialogue: 0,0:06:53.34,0:06:55.97,Default,,0,0,0,,{\an2}Me lo dibujaron tus compatriotas.
+Dialogue: 0,0:06:56.05,0:06:57.64,Default,,0,0,0,,{\an2}Y...
+Dialogue: 0,0:06:57.72,0:06:59.35,Default,,0,0,0,,{\an2}...¿qué has descubierto tú?
+Dialogue: 0,0:06:59.43,0:07:01.89,Default,,0,0,0,,{\an2}Bueno, he... O sea...
+Dialogue: 0,0:07:01.98,0:07:04.23,Default,,0,0,0,,{\an2}Cielos.
+Dialogue: 0,0:07:04.31,0:07:07.82,Default,,0,0,0,,{\an2}No he descubierto nada en este mapa.
+Dialogue: 0,0:07:07.90,0:07:09.02,Default,,0,0,0,,{\an2}Sí, tío.
+Dialogue: 0,0:07:09.11,0:07:11.74,Default,,0,0,0,,{\an2}Estás siguiendo los pasos de otra persona.
+Dialogue: 0,0:07:11.82,0:07:13.45,Default,,0,0,0,,{\an2}Y ahí estaba yo,
+Dialogue: 0,0:07:13.53,0:07:16.16,Default,,0,0,0,,{\an2}afirmando ser\Nun gran aventurero y explorador,
+Dialogue: 0,0:07:16.24,0:07:20.62,Default,,0,0,0,,{\an2}cuando en realidad soy un turista.
+Dialogue: 0,0:07:23.83,0:07:25.83,Default,,0,0,0,,{\an2}No te me pongas a llorar.
+Dialogue: 0,0:07:25.92,0:07:29.21,Default,,0,0,0,,{\an2}Por eso parecía\Nque fallaba algo en mi viaje.
+Dialogue: 0,0:07:33.67,0:07:35.09,Default,,0,0,0,,{\an2}¡Ya lo tengo!
+Dialogue: 0,0:07:35.18,0:07:37.93,Default,,0,0,0,,{\an2}¿Por qué no intentas encontrar\Nel castillo de arena?
+Dialogue: 0,0:07:38.64,0:07:39.68,Default,,0,0,0,,{\an2}¿El qué?
+Dialogue: 0,0:07:40.43,0:07:42.22,Default,,0,0,0,,{\an2}Aparta. Te lo enseñaré.
+Dialogue: 0,0:07:42.31,0:07:45.64,Default,,0,0,0,,{\an2}Está justo aquí, en esta zona arenosa.
+Dialogue: 0,0:07:45.73,0:07:46.98,Default,,0,0,0,,{\an2}- ¿De verdad?\N- Sí.
+Dialogue: 0,0:07:47.06,0:07:49.48,Default,,0,0,0,,{\an2}Dicen que nunca está\Nen el mismo lugar dos veces.
+Dialogue: 0,0:07:49.57,0:07:52.03,Default,,0,0,0,,{\an2}Se reconstruye constantemente\Npor el desierto.
+Dialogue: 0,0:07:52.11,0:07:55.11,Default,,0,0,0,,{\an2}Parece la aventura perfecta para mí,
+Dialogue: 0,0:07:55.20,0:07:57.70,Default,,0,0,0,,{\an2}y seré el primero en verlo.
+Dialogue: 0,0:07:58.53,0:07:59.41,Default,,0,0,0,,{\an2}Vale.
+Dialogue: 0,0:07:59.83,0:08:01.99,Default,,0,0,0,,{\an2}Gracias por tu ayuda. Adiós.
+Dialogue: 0,0:08:02.08,0:08:06.04,Default,,0,0,0,,{\an2}Vuelve cuando quieras,\Npero no muy a menudo.
+Dialogue: 0,0:08:08.17,0:08:13.01,Default,,0,0,0,,{\an2}Llevo vagando por este desierto\Ndurante diez días.
+Dialogue: 0,0:08:14.22,0:08:17.72,Default,,0,0,0,,{\an2}Podría quitarme mi abrigo de explorador\Npara descansar un poco,
+Dialogue: 0,0:08:17.80,0:08:22.06,Default,,0,0,0,,{\an2}pero sin él, la gente me vería y pensaría:
+Dialogue: 0,0:08:22.14,0:08:24.68,Default,,0,0,0,,{\an2}"Solo es un hombre deambulando.
+Dialogue: 0,0:08:24.77,0:08:26.10,Default,,0,0,0,,{\an2}No es importante.
+Dialogue: 0,0:08:26.19,0:08:30.23,Default,,0,0,0,,{\an2}Ni siquiera puede encontrar\Nel escurridizo castillo de arena".
+Dialogue: 0,0:08:30.31,0:08:32.40,Default,,0,0,0,,{\an2}Se reirían.
+Dialogue: 0,0:08:32.48,0:08:35.49,Default,,0,0,0,,{\an2}Y dirían: "Qué idiota".
+Dialogue: 0,0:08:37.70,0:08:40.91,Default,,0,0,0,,{\an2}Se acabó. Este es el fin de mi aventura.
+Dialogue: 0,0:08:40.99,0:08:44.50,Default,,0,0,0,,{\an2}He seguido un mapa hasta mi propio fin.
+Dialogue: 0,0:08:45.04,0:08:48.83,Default,,0,0,0,,{\an2}Esto es lo último que veré\Na las puertas de la muerte,
+Dialogue: 0,0:08:48.92,0:08:51.38,Default,,0,0,0,,{\an2}un ángel y sus...
+Dialogue: 0,0:08:51.46,0:08:56.26,Default,,0,0,0,,{\an2}Uno, dos, tres...\NVarios leones que vienen a por mi alma.
+Dialogue: 0,0:08:56.34,0:08:57.93,Default,,0,0,0,,{\an2}¿Acaba así?
+Dialogue: 0,0:08:58.01,0:08:59.80,Default,,0,0,0,,{\an2}Supongo.
+Dialogue: 0,0:08:59.89,0:09:01.97,Default,,0,0,0,,{\an2}Espera, hay mucho más.
+Dialogue: 0,0:09:02.05,0:09:04.68,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Cuando recuperé la consciencia,{\c}{\i0}
+Dialogue: 0,0:09:04.77,0:09:08.98,Default,,0,0,0,,{\an2\i1\c&Hffffff&}vi una gran figura{\c}{\i0}\N{\i1\c&Hffffff&}con forma de mujer gigante.{\c}{\i0}
+Dialogue: 0,0:09:09.06,0:09:13.82,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Los rizos de su pelo{\c}{\i0}\N{\i1\c&Hffffff&}caían sobre sus hombros y espalda{\c}{\i0}
+Dialogue: 0,0:09:13.90,0:09:16.19,Default,,0,0,0,,{\an2\i1\c&Hffffff&}como hileras de rosas.{\c}{\i0}
+Dialogue: 0,0:09:16.28,0:09:17.40,Default,,0,0,0,,{\an2}¡Mamá!
+Dialogue: 0,0:09:17.82,0:09:19.91,Default,,0,0,0,,{\an2}Hola, ¿estás bien?
+Dialogue: 0,0:09:19.99,0:09:23.62,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Me di cuenta de que estaba rodeado{\c}{\i0}\N{\i1\c&Hffffff&}por su manada de...{\c}{\i0}
+Dialogue: 0,0:09:23.70,0:09:26.41,Default,,0,0,0,,{\an2}¿Siete leones? Por favor, no me comáis.
+Dialogue: 0,0:09:27.12,0:09:29.79,Default,,0,0,0,,{\an2}Tranquilo, no queremos hacerte daño.
+Dialogue: 0,0:09:29.87,0:09:31.71,Default,,0,0,0,,{\an2}Me alegro.
+Dialogue: 0,0:09:33.21,0:09:35.92,Default,,0,0,0,,{\an2}¿Qué trae a un humano\Na un lugar como este?
+Dialogue: 0,0:09:36.34,0:09:38.76,Default,,0,0,0,,{\an2}Era primer oficial en un barco,\Npero encontramos tierra.
+Dialogue: 0,0:09:38.88,0:09:41.51,Default,,0,0,0,,{\an2}Comprendí que no quería quedarme allí,
+Dialogue: 0,0:09:41.59,0:09:42.85,Default,,0,0,0,,{\an2}así que fui a buscar más tierra.
+Dialogue: 0,0:09:42.93,0:09:46.89,Default,,0,0,0,,{\an2}Me dijeron que no buscara esa tierra\Nporque era peligrosa.
+Dialogue: 0,0:09:46.97,0:09:48.81,Default,,0,0,0,,{\an2}Pero quería demostrar mi valía y...
+Dialogue: 0,0:09:48.89,0:09:51.02,Default,,0,0,0,,{\an2}Mira, lo he escrito todo aquí.
+Dialogue: 0,0:09:51.10,0:09:55.61,Default,,0,0,0,,{\an2}¿Por qué busco un castillo de arena\Nque seguramente ni exista?
+Dialogue: 0,0:09:55.69,0:09:57.82,Default,,0,0,0,,{\an2}- ¿Un castillo de arena?\N- Sí.
+Dialogue: 0,0:09:57.90,0:10:02.20,Default,,0,0,0,,{\an2}He peinado estos desiertos durante semanas\Ny no hay rastro de ninguno.
+Dialogue: 0,0:10:02.28,0:10:04.53,Default,,0,0,0,,{\an2}¿Crees que podría ser eso?
+Dialogue: 0,0:10:04.62,0:10:07.58,Default,,0,0,0,,{\an2}Eso es. Tengo que anotar esto.
+Dialogue: 0,0:10:07.66,0:10:09.83,Default,,0,0,0,,{\an2}Tengo que... Espera.
+Dialogue: 0,0:10:09.91,0:10:13.63,Default,,0,0,0,,{\an2}Lo has visto tú primero.\NEntonces, no cuenta.
+Dialogue: 0,0:10:13.71,0:10:15.88,Default,,0,0,0,,{\an2}Soy un explorador malísimo.
+Dialogue: 0,0:10:16.71,0:10:19.01,Default,,0,0,0,,{\an2}Cómeme. Es para lo único que sirvo.
+Dialogue: 0,0:10:19.09,0:10:22.05,Default,,0,0,0,,{\an2}Eso no es cierto.
+Dialogue: 0,0:10:22.13,0:10:25.64,Default,,0,0,0,,{\an2}Claro que todos estos lugares\Nhan sido explorados antes,
+Dialogue: 0,0:10:25.72,0:10:28.35,Default,,0,0,0,,{\an2}pero no se han registrado\Ntan personalmente
+Dialogue: 0,0:10:28.43,0:10:30.39,Default,,0,0,0,,{\an2}como lo están en este diario.
+Dialogue: 0,0:10:30.48,0:10:33.69,Default,,0,0,0,,{\an2}Hace que sean nuevos y especiales otra vez
+Dialogue: 0,0:10:33.77,0:10:36.48,Default,,0,0,0,,{\an2}para cualquier lector.
+Dialogue: 0,0:10:37.27,0:10:40.32,Default,,0,0,0,,{\an2}¿Alguna vez has pensado en ser escritor?
+Dialogue: 0,0:10:40.40,0:10:42.36,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Y eso hice, ser escritor.{\c}{\i0}
+Dialogue: 0,0:10:42.70,0:10:45.45,Default,,0,0,0,,{\an2\i1\c&Hffffff&}Escribí sin parar libro tras libro{\c}{\i0}
+Dialogue: 0,0:10:45.53,0:10:49.66,Default,,0,0,0,,{\an2\i1\c&Hffffff&}hasta que me di cuenta de que podía{\c}{\i0}\N{\i1\c&Hffffff&}llenar una biblioteca con ellos.{\c}{\i0}
+Dialogue: 0,0:10:50.75,0:10:51.66,Default,,0,0,0,,{\an2}Ya lo entiendo.
+Dialogue: 0,0:10:51.75,0:10:55.04,Default,,0,0,0,,{\an2}¡La Biblioteca de Buddy Buddwick!
+Dialogue: 0,0:10:55.79,0:10:58.67,Default,,0,0,0,,{\an2}Dejó su huella en esta ciudad.
+Dialogue: 0,0:10:58.75,0:11:00.97,Default,,0,0,0,,{\an2}Un momento.
+Dialogue: 0,0:11:01.05,0:11:02.59,Default,,0,0,0,,{\an2}¿Así es como era?
+Dialogue: 0,0:11:03.26,0:11:05.85,Default,,0,0,0,,{\an2}Nos lo imaginábamos muy diferente.
+Dialogue: 0,0:11:05.93,0:11:08.14,Default,,0,0,0,,{\an2}Me gusta más nuestra versión.
+Dialogue: 0,0:11:09.85,0:11:11.31,Default,,0,0,0,,{\an2}A mí también.
+Dialogue: 0,0:11:22.90,0:11:24.99,Default,,0,0,0,,{\an8}Subtítulos: Pilar Hernández

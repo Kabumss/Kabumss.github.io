@@ -1,0 +1,239 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven.Universe.Future.S01E11.In.Dreams
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.24,0:00:03.72,Default,,0,0,0,,♪ Nosotres
+Dialogue: 0,0:00:03.72,0:00:07.21,Default,,0,0,0,,♪ Estamos en el futuro
+Dialogue: 0,0:00:07.21,0:00:08.86,Default,,0,0,0,,♪ Aquí estamos en el futuro
+Dialogue: 0,0:00:08.87,0:00:10.97,Default,,0,0,0,,♪ Y es brillante
+Dialogue: 0,0:00:10.97,0:00:12.28,Default,,0,0,0,,♪ Ah
+Dialogue: 0,0:00:12.28,0:00:14.70,Default,,0,0,0,,♪ no puedo creer
+Dialogue: 0,0:00:14.70,0:00:17.43,Default,,0,0,0,,♪ que hayamos llegado tan lejos
+Dialogue: 0,0:00:17.43,0:00:19.22,Default,,0,0,0,,♪ "Steven Universe: Futuro"
+Dialogue: 0,0:00:19.22,0:00:20.32,Default,,0,0,0,,♪ Aquí estamos
+Dialogue: 0,0:00:20.33,0:00:22.57,Default,,0,0,0,,♪ "Steven Universe: Futuro"
+Dialogue: 0,0:00:32.85,0:00:34.02,Default,,0,0,0,,¡Bien!
+Dialogue: 0,0:00:34.05,0:00:35.99,Default,,0,0,0,,Ahora que he\Nsalvado el universo,
+Dialogue: 0,0:00:36.02,0:00:38.12,Default,,0,0,0,,¡Finalmente puedo festejar!
+Dialogue: 0,0:00:48.40,0:00:50.37,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:00:50.40,0:00:52.01,Default,,0,0,0,,¡Ey chicas!
+Dialogue: 0,0:00:52.04,0:00:53.87,Default,,0,0,0,,¿Qué pasa?\N¡Déjenme entrar!
+Dialogue: 0,0:00:53.90,0:00:55.51,Default,,0,0,0,,Steven.
+Dialogue: 0,0:00:55.54,0:01:00.85,Default,,0,0,0,,Nadie necesita tu ayuda,\Nasí que, ¿por qué sigues aquí?
+Dialogue: 0,0:01:00.88,0:01:01.95,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:01:01.98,0:01:03.88,Default,,0,0,0,,¡Aaah!
+Dialogue: 0,0:01:08.15,0:01:10.86,Default,,0,0,0,,¿Por qué sigo teniendo\Nestos sueños horribles?
+Dialogue: 0,0:01:10.89,0:01:12.33,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:01:12.36,0:01:13.39,Default,,0,0,0,,¿Peridot?
+Dialogue: 0,0:01:13.42,0:01:16.16,Default,,0,0,0,,¡Steven, Steven, Steven,\NSteven, Steven!
+Dialogue: 0,0:01:16.19,0:01:18.70,Default,,0,0,0,,¡Hoy es el día!\N¿Lo grabaste?
+Dialogue: 0,0:01:18.73,0:01:20.83,Default,,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:01:20.86,0:01:22.24,Default,,0,0,0,,¡Lo prometiste!
+Dialogue: 0,0:01:22.27,0:01:24.74,Default,,0,0,0,,Oh, ¿estás hablando\Ndel reinicio
+Dialogue: 0,0:01:24.77,0:01:27.07,Default,,0,0,0,,del gran clásico drama\Nadolescente del norte
+Dialogue: 0,0:01:27.10,0:01:29.48,Default,,0,0,0,,"Campamento corazones suspirantes"\Nque grabé...
+Dialogue: 0,0:01:29.51,0:01:30.74,Default,,0,0,0,,en esta cinta?
+Dialogue: 0,0:01:32.61,0:01:36.44,Default,,0,0,0,,El regreso de\N"Campamento corazones suspirantes"!
+Dialogue: 0,0:01:37.88,0:01:39.59,Default,,0,0,0,,Sabes, me alegra\Nque estés aquí.
+Dialogue: 0,0:01:39.62,0:01:42.19,Default,,0,0,0,,He estado teniendo\Nalgunos sueños extraños últimamente.
+Dialogue: 0,0:01:42.22,0:01:45.55,Default,,0,0,0,,- Shh! Eso es genial.\N- ¡Ahora presiona play, monstruo!
+Dialogue: 0,0:01:53.13,0:01:56.27,Default,,0,0,0,,{\i1} Oh, Jasmine, desearía\Nque volaras a mis brazos, {\i0}
+Dialogue: 0,0:01:56.30,0:01:58.07,Default,,0,0,0,,{\i1} pero cada vez ... {\i0}
+Dialogue: 0,0:02:00.07,0:02:01.94,Default,,0,0,0,,Que... que...
+Dialogue: 0,0:02:01.97,0:02:04.28,Default,,0,0,0,,¡¿Qué han hecho?!
+Dialogue: 0,0:02:04.31,0:02:06.61,Default,,0,0,0,,¿Qué pasa con\Neste tipo Rodrigo?
+Dialogue: 0,0:02:06.64,0:02:07.71,Default,,0,0,0,,¡No tiene carisma!
+Dialogue: 0,0:02:07.74,0:02:09.85,Default,,0,0,0,,¿Y podemos hablar\Nde esta cinematografía?
+Dialogue: 0,0:02:09.88,0:02:12.12,Default,,0,0,0,,Gahhhh, cambiaron\Ntodos los personajes,
+Dialogue: 0,0:02:12.15,0:02:13.75,Default,,0,0,0,,y no me interesa\Nninguno de ellos!
+Dialogue: 0,0:02:13.78,0:02:15.96,Default,,0,0,0,,¡Aah! ¡Yah!
+Dialogue: 0,0:02:15.99,0:02:18.22,Default,,0,0,0,,¿Cómo pudiste hacerme esto a mí?
+Dialogue: 0,0:02:20.12,0:02:22.30,Default,,0,0,0,,"Campamento corazones suspirantes"\Nme ayudó a escapar
+Dialogue: 0,0:02:22.33,0:02:25.30,Default,,0,0,0,,cuando todo a mi\Nalrededor era caos.
+Dialogue: 0,0:02:25.33,0:02:27.63,Default,,0,0,0,,"CCS" nos unió.
+Dialogue: 0,0:02:27.66,0:02:31.33,Default,,0,0,0,,¡Y ahora mira\Nesta pesadilla!
+Dialogue: 0,0:02:32.40,0:02:35.64,Default,,0,0,0,,Steven, ¡no me dijiste que\Nactuabas {\i1}tú!{\i0}
+Dialogue: 0,0:02:35.67,0:02:37.31,Default,,0,0,0,,¿Qué?\NNo es así.
+Dialogue: 0,0:02:37.34,0:02:40.08,Default,,0,0,0,,¿E-Es este...\Nmi sueño de anoche?
+Dialogue: 0,0:02:40.11,0:02:41.78,Default,,0,0,0,,{\i1}¡Aaah!{\i0}
+Dialogue: 0,0:02:44.48,0:02:48.49,Default,,0,0,0,,Whoa! Mis... ¡Mis poderes deben\Nestar interfiriendo con la señal de TV!
+Dialogue: 0,0:02:48.52,0:02:49.59,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:02:49.62,0:02:51.49,Default,,0,0,0,,¿Sabes qué significa esto?
+Dialogue: 0,0:02:51.52,0:02:53.56,Default,,0,0,0,,Tengo que empezar a usar\Nun sombrero de papel aluminio?
+Dialogue: 0,0:02:53.59,0:02:58.56,Default,,0,0,0,,¡No! Significa que si podemos\Nponer tus sueños en la televisión,
+Dialogue: 0,0:02:58.59,0:03:00.93,Default,,0,0,0,,podemos reiniciar el reinicio!
+Dialogue: 0,0:03:00.96,0:03:02.17,Default,,0,0,0,,Reiniciar el...
+Dialogue: 0,0:03:02.20,0:03:04.50,Default,,0,0,0,,¡Peridot, eres genial!
+Dialogue: 0,0:03:04.53,0:03:05.67,Default,,0,0,0,,Lo sé.
+Dialogue: 0,0:03:05.70,0:03:08.14,Default,,0,0,0,,Y, bueno, puede ser\Ndivertido arreglar algo
+Dialogue: 0,0:03:08.17,0:03:09.51,Default,,0,0,0,,que no sea el\Nuniverso entero.
+Dialogue: 0,0:03:09.54,0:03:11.51,Default,,0,0,0,,Aah! Este va a\Nser el comienzo
+Dialogue: 0,0:03:11.54,0:03:14.61,Default,,0,0,0,,de Producciones\NPeridot y Steven!
+Dialogue: 0,0:03:14.64,0:03:16.04,Default,,0,0,0,,¡Si!
+Dialogue: 0,0:03:18.38,0:03:20.85,Default,,0,0,0,,Entonces, Peridot, ¿crees que\Nel destino final de Jasmine
+Dialogue: 0,0:03:20.88,0:03:22.62,Default,,0,0,0,,es Khaz o Rodrigo?
+Dialogue: 0,0:03:22.65,0:03:25.16,Default,,0,0,0,,Los escritores claramente\Nestán tratando de engañarnos
+Dialogue: 0,0:03:25.19,0:03:27.33,Default,,0,0,0,,en una asociación Jasdrigo,
+Dialogue: 0,0:03:27.36,0:03:30.53,Default,,0,0,0,,pero, gah, ¡estos personajes\Nno tienen química!
+Dialogue: 0,0:03:30.56,0:03:33.17,Default,,0,0,0,,Simplemente no puedo\Ninvolucrarme con Rodrigo, ¿verdad?
+Dialogue: 0,0:03:33.20,0:03:34.97,Default,,0,0,0,,¡Es tan exasperantemente pasivo!
+Dialogue: 0,0:03:35.00,0:03:38.77,Default,,0,0,0,,Oye, oye, entiendo que su\Nansiedad social y alergia a la {\i1}poutine{\i0}
+Dialogue: 0,0:03:38.80,0:03:40.84,Default,,0,0,0,,no están realmente conectados\Na la historia general,
+Dialogue: 0,0:03:40.87,0:03:44.14,Default,,0,0,0,,pero tal vez si solo tuviera\Nalgún tipo de papel aluminio?
+Dialogue: 0,0:03:44.17,0:03:45.55,Default,,0,0,0,,Papel aluminio.
+Dialogue: 0,0:03:45.58,0:03:46.88,Default,,0,0,0,,Interesante.
+Dialogue: 0,0:03:46.91,0:03:48.34,Default,,0,0,0,,¡Lo tengo!
+Dialogue: 0,0:03:50.35,0:03:53.89,Default,,0,0,0,,Un amigo socorrista salvavidas\Ncon buenos músculos
+Dialogue: 0,0:03:53.92,0:03:56.62,Default,,0,0,0,,con el que todos siempre\Nquieren pasar el rato.
+Dialogue: 0,0:03:56.65,0:03:59.56,Default,,0,0,0,,A pesar de la bendición y la\Nmaldición de su popularidad,
+Dialogue: 0,0:03:59.59,0:04:01.83,Default,,0,0,0,,todavía tiene tiempo\Npara ayudar a su amigo Rodrigo
+Dialogue: 0,0:04:01.86,0:04:03.36,Default,,0,0,0,,con su confianza!
+Dialogue: 0,0:04:05.16,0:04:07.13,Default,,0,0,0,,Arriesgado.\N¡Me gusta!
+Dialogue: 0,0:04:07.16,0:04:09.73,Default,,0,0,0,,¡Buen trabajo, Stefan!
+Dialogue: 0,0:04:13.37,0:04:17.14,Default,,0,0,0,,¿Por qué estás comiendo\Njusto antes de acostarte?
+Dialogue: 0,0:04:17.17,0:04:18.81,Default,,0,0,0,,Oh, este chile?
+Dialogue: 0,0:04:18.84,0:04:21.01,Default,,0,0,0,,Leí que comer alimentos\Npicantes antes de acostarse
+Dialogue: 0,0:04:21.04,0:04:22.72,Default,,0,0,0,,hace tus sueños súper vívidos.
+Dialogue: 0,0:04:22.75,0:04:25.75,Default,,0,0,0,,Oh, aprecio tu iniciativa.
+Dialogue: 0,0:04:25.78,0:04:27.82,Default,,0,0,0,,Aw, gracias.
+Dialogue: 0,0:04:27.85,0:04:29.42,Default,,0,0,0,,Solo no olvides:
+Dialogue: 0,0:04:29.45,0:04:33.02,Default,,0,0,0,,Narración orientada a la acción.
+Dialogue: 0,0:04:35.79,0:04:39.27,Default,,0,0,0,,Oye, Jasmine, escuché\Nque amas a los pájaros.
+Dialogue: 0,0:04:39.30,0:04:40.60,Default,,0,0,0,,¡Claro!
+Dialogue: 0,0:04:40.63,0:04:43.57,Default,,0,0,0,,Bueno, un pajarito\Nme dijo que río abajo,
+Dialogue: 0,0:04:43.60,0:04:46.54,Default,,0,0,0,,hay una isla llena\Nde especímenes raros.
+Dialogue: 0,0:04:46.57,0:04:48.51,Default,,0,0,0,,¿Te dijo que?
+Dialogue: 0,0:04:48.54,0:04:50.87,Default,,0,0,0,,Gracias Stefan\NEres el mejor.
+Dialogue: 0,0:04:52.31,0:04:54.05,Default,,0,0,0,,Ey, Rodrigo.
+Dialogue: 0,0:04:54.08,0:04:55.45,Default,,0,0,0,,Esto es terrible.
+Dialogue: 0,0:04:55.48,0:04:56.88,Default,,0,0,0,,¡Jasmine está en peligro!
+Dialogue: 0,0:04:56.91,0:04:58.28,Default,,0,0,0,,¿Q-qué?
+Dialogue: 0,0:04:58.31,0:05:01.25,Default,,0,0,0,,¡Se dirige hacia una isla\Nllena de pájaros peligrosos!
+Dialogue: 0,0:05:01.28,0:05:05.53,Default,,0,0,0,,¡Pero si vamos río abajo,\Npodemos salvarla!
+Dialogue: 0,0:05:05.56,0:05:08.82,Default,,0,0,0,,¡OK! Gracias Stefan\NEres el mejor.
+Dialogue: 0,0:05:12.30,0:05:14.73,Default,,0,0,0,,- Gracias, Stefan.\N- ¡Eres un gran tipo!
+Dialogue: 0,0:05:14.76,0:05:17.10,Default,,0,0,0,,Oh, también eres genial, lo sabes.
+Dialogue: 0,0:05:17.13,0:05:19.14,Default,,0,0,0,,Lo suficientemente bueno\Npara que le gustes a Jasmine.
+Dialogue: 0,0:05:19.17,0:05:20.44,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:05:20.47,0:05:22.38,Default,,0,0,0,,Puedo decirlo por la\Nforma en que te mira.
+Dialogue: 0,0:05:22.41,0:05:23.64,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:05:29.08,0:05:30.95,Default,,0,0,0,,- Uhhhhh.\N- ¡Stefan!
+Dialogue: 0,0:05:30.98,0:05:32.99,Default,,0,0,0,,¿Que te ocurre?
+Dialogue: 0,0:05:33.02,0:05:34.82,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:05:34.85,0:05:36.39,Default,,0,0,0,,¡Aaaah!
+Dialogue: 0,0:05:36.42,0:05:39.02,Default,,0,0,0,,¡Oh, no!\N¡No de nuevo!
+Dialogue: 0,0:05:42.16,0:05:43.83,Default,,0,0,0,,¡Steven!\N¡Lo lograste!
+Dialogue: 0,0:05:43.86,0:05:46.63,Default,,0,0,0,,Te quedaste dormido y\Ncomenzaste a brillar rosa.
+Dialogue: 0,0:05:46.66,0:05:48.50,Default,,0,0,0,,Y luego la televisión se\Nencendió, y luego...
+Dialogue: 0,0:05:48.53,0:05:50.07,Default,,0,0,0,,¡Oh, te lo mostraré!
+Dialogue: 0,0:05:50.10,0:05:52.51,Default,,0,0,0,,¡Nuestro guión,\Nnuestra historia!
+Dialogue: 0,0:05:52.54,0:05:54.51,Default,,0,0,0,,¡Lo vi todo en vivo!
+Dialogue: 0,0:05:54.54,0:05:57.58,Default,,0,0,0,,No estoy seguro de lo que estabas\Nbuscando ahí al final.
+Dialogue: 0,0:05:57.61,0:06:01.15,Default,,0,0,0,,Eso fue bastante extraño,\Npero para un primer intento...
+Dialogue: 0,0:06:01.18,0:06:02.15,Default,,0,0,0,,¿Steven?
+Dialogue: 0,0:06:02.18,0:06:04.18,Default,,0,0,0,,Oh, lo siento.
+Dialogue: 0,0:06:04.21,0:06:05.52,Default,,0,0,0,,Solo me siento un poco apagado.
+Dialogue: 0,0:06:05.55,0:06:07.69,Default,,0,0,0,,Supongo que tal vez el chile\Nfue una mala idea.
+Dialogue: 0,0:06:07.72,0:06:09.52,Default,,0,0,0,,Ehh, no te preocupes por eso.
+Dialogue: 0,0:06:09.55,0:06:11.79,Default,,0,0,0,,Nuestro presupuesto no es nada,\Ny nuestro horario es infinito.
+Dialogue: 0,0:06:11.82,0:06:13.69,Default,,0,0,0,,Así es.\NPuedo volver a soñar.
+Dialogue: 0,0:06:13.72,0:06:16.33,Default,,0,0,0,,Podemos hacerlo tantas veces\Ncomo queramos hasta que lo hagamos bien.
+Dialogue: 0,0:06:16.36,0:06:18.36,Default,,0,0,0,,Menos hablar, más dormir.
+Dialogue: 0,0:06:48.59,0:06:49.73,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:06:49.76,0:06:52.23,Default,,0,0,0,,He llegado a la conclusión\Nde que seguimos fallando
+Dialogue: 0,0:06:52.26,0:06:53.57,Default,,0,0,0,,porque confiamos en un guión
+Dialogue: 0,0:06:53.60,0:06:56.00,Default,,0,0,0,,cuando deberíamos haber\Ntomado un enfoque más visual.
+Dialogue: 0,0:06:56.03,0:06:58.87,Default,,0,0,0,,Así que he preparado este\Nguión gráfico para ti.
+Dialogue: 0,0:06:58.90,0:07:01.51,Default,,0,0,0,,¿Dibujaste todo esto\Nen una noche?
+Dialogue: 0,0:07:01.54,0:07:03.84,Default,,0,0,0,,Bueno, dah!\NSoy bueno en todo.
+Dialogue: 0,0:07:03.87,0:07:06.71,Default,,0,0,0,,Estudia estos dibujos como\Npreparación para este nuevo sueño.
+Dialogue: 0,0:07:06.74,0:07:08.58,Default,,0,0,0,,Oh, OK.
+Dialogue: 0,0:07:08.61,0:07:11.18,Default,,0,0,0,,Wow, realmente\Nplanteaste esto bien.
+Dialogue: 0,0:07:11.21,0:07:12.32,Default,,0,0,0,,¡Gracias!
+Dialogue: 0,0:07:12.35,0:07:13.82,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:07:13.85,0:07:17.22,Default,,0,0,0,,Ey, Peridot,\N¿Por qué está Stefan besando a Jasmine?
+Dialogue: 0,0:07:17.25,0:07:18.86,Default,,0,0,0,,Es perfecto, ¿verdad?
+Dialogue: 0,0:07:18.89,0:07:20.99,Default,,0,0,0,,Justo cuando Rodrigo\Nestá a punto de precipitarse
+Dialogue: 0,0:07:21.02,0:07:26.23,Default,,0,0,0,,y salvar a su sueño adolescente,\Nse topa con Stefan,
+Dialogue: 0,0:07:26.26,0:07:31.54,Default,,0,0,0,,su buen amigo en quien tanto confía,\Nbesando a Jasmine,
+Dialogue: 0,0:07:31.57,0:07:33.94,Default,,0,0,0,,¡avivando así el fuego\Nde los celos de Rodrigo!
+Dialogue: 0,0:07:33.97,0:07:36.21,Default,,0,0,0,,¡No puedo ensuciar así a Rodrigo!
+Dialogue: 0,0:07:36.24,0:07:37.84,Default,,0,0,0,,Whoa, Steven.\NEspera.
+Dialogue: 0,0:07:37.87,0:07:40.05,Default,,0,0,0,,Estás hablando de ellos\Ncomo si fueran personas reales.
+Dialogue: 0,0:07:40.08,0:07:41.35,Default,,0,0,0,,Es solo una historia.
+Dialogue: 0,0:07:41.38,0:07:43.25,Default,,0,0,0,,Y una historia necesita conflicto.
+Dialogue: 0,0:07:43.28,0:07:45.62,Default,,0,0,0,,No, no puedo hacer esto!
+Dialogue: 0,0:07:45.65,0:07:48.89,Default,,0,0,0,,Mira, Steven,\Npareces bastante agitado.
+Dialogue: 0,0:07:48.92,0:07:50.96,Default,,0,0,0,,Vamos a cancelar todo esto.
+Dialogue: 0,0:07:50.99,0:07:54.43,Default,,0,0,0,,- ¿Qué?\N- No tiene sentido si\Nte vas a poner nervioso.
+Dialogue: 0,0:07:54.46,0:07:57.30,Default,,0,0,0,,Probablemente debería volver
+Dialogue: 0,0:07:57.33,0:07:59.49,Default,,0,0,0,,a Pequeño Hogar de todos modos.
+Dialogue: 0,0:08:01.50,0:08:03.27,Default,,0,0,0,,¡No, espera!
+Dialogue: 0,0:08:03.30,0:08:04.63,Default,,0,0,0,,Lo haré.
+Dialogue: 0,0:08:07.27,0:08:08.91,Default,,0,0,0,,Ey, Rodrigo.
+Dialogue: 0,0:08:08.94,0:08:10.38,Default,,0,0,0,,¡Esto es terrible!
+Dialogue: 0,0:08:10.41,0:08:11.98,Default,,0,0,0,,¡Jasmine está en peligro!
+Dialogue: 0,0:08:12.01,0:08:13.21,Default,,0,0,0,,¿Q-qué?
+Dialogue: 0,0:08:13.24,0:08:15.98,Default,,0,0,0,,¡Se dirige hacia una isla\Nllena de pájaros peligrosos!
+Dialogue: 0,0:08:16.01,0:08:20.45,Default,,0,0,0,,Pero si vamos río abajo,\Npodemos salvarla.
+Dialogue: 0,0:08:20.48,0:08:23.58,Default,,0,0,0,,¡Bueno! Gracias Stefan\NEres el mejor.
+Dialogue: 0,0:08:26.29,0:08:28.46,Default,,0,0,0,,Wow.\NStefan es genial.
+Dialogue: 0,0:08:28.49,0:08:30.69,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:08:33.30,0:08:34.50,Default,,0,0,0,,¡Stefan!
+Dialogue: 0,0:08:34.53,0:08:36.03,Default,,0,0,0,,¿Como pudiste?
+Dialogue: 0,0:08:37.70,0:08:38.94,Default,,0,0,0,,Uh...
+Dialogue: 0,0:08:45.37,0:08:47.04,Default,,0,0,0,,¡Aaaah!
+Dialogue: 0,0:08:55.35,0:08:56.55,Default,,0,0,0,,¿Peridot?
+Dialogue: 0,0:08:57.45,0:08:59.96,Default,,0,0,0,,¡Peridot!\N¡Vamos, tenemos que parar!
+Dialogue: 0,0:08:59.99,0:09:03.12,Default,,0,0,0,,¿Me estás escuchando?\N¿Por qué no me miras?
+Dialogue: 0,0:09:10.00,0:09:11.37,Default,,0,0,0,,¡Peridot!
+Dialogue: 0,0:09:11.40,0:09:13.81,Default,,0,0,0,,¿Peridot, dónde estas?
+Dialogue: 0,0:09:13.84,0:09:15.54,Default,,0,0,0,,¡Peridot!
+Dialogue: 0,0:09:25.35,0:09:27.72,Default,,0,0,0,,¡Peridot!\N¡Espera!
+Dialogue: 0,0:09:27.75,0:09:29.02,Default,,0,0,0,,Grr!
+Dialogue: 0,0:09:30.92,0:09:32.89,Default,,0,0,0,,¡Detente!\N¡No entres ahí!
+Dialogue: 0,0:09:32.92,0:09:37.23,Default,,0,0,0,,¡Por favor, todavía quiero\Nandar contigo!
+Dialogue: 0,0:09:37.26,0:09:38.53,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:09:40.26,0:09:42.54,Default,,0,0,0,,¡Peridot!
+Dialogue: 0,0:09:42.57,0:09:45.40,Default,,0,0,0,,¡Siempre hemos tenido\Nalgo que arreglar juntos!
+Dialogue: 0,0:09:45.43,0:09:47.91,Default,,0,0,0,,¡El Racimo, las Diamantes o Espinela!
+Dialogue: 0,0:09:47.94,0:09:49.68,Default,,0,0,0,,No creo que sepa\Ncomo ser un amigo
+Dialogue: 0,0:09:49.71,0:09:51.74,Default,,0,0,0,,sin algo que arreglar!
+Dialogue: 0,0:09:51.77,0:09:54.98,Default,,0,0,0,,¡Pero ya no puedo hacerlo!
+Dialogue: 0,0:09:55.01,0:09:56.58,Default,,0,0,0,,Estoy tan cansado.
+Dialogue: 0,0:09:56.61,0:09:58.92,Default,,0,0,0,,¡Ahora incluso lo\Nestoy haciendo en mis sueños!
+Dialogue: 0,0:09:58.95,0:10:01.35,Default,,0,0,0,,¡Lo siento, no puedo\Nhacer esto por ti!
+Dialogue: 0,0:10:01.38,0:10:02.92,Default,,0,0,0,,¡Por favor no te vayas!
+Dialogue: 0,0:10:02.95,0:10:04.79,Default,,0,0,0,,No te vayas
+Dialogue: 0,0:10:06.72,0:10:08.26,Default,,0,0,0,,Steven.
+Dialogue: 0,0:10:08.29,0:10:10.46,Default,,0,0,0,,¡Steven!\N¡Steven!
+Dialogue: 0,0:10:11.59,0:10:13.60,Default,,0,0,0,,Steven, ¡lo vi todo!
+Dialogue: 0,0:10:13.63,0:10:15.03,Default,,0,0,0,,¡E... está bien!
+Dialogue: 0,0:10:15.06,0:10:17.27,Default,,0,0,0,,Ya no tenemos que hacer esto.
+Dialogue: 0,0:10:17.30,0:10:18.94,Default,,0,0,0,,¡No me importa el programa!
+Dialogue: 0,0:10:18.97,0:10:21.74,Default,,0,0,0,,Y definitivamente no\Nme importa Rodrigo.
+Dialogue: 0,0:10:21.77,0:10:24.28,Default,,0,0,0,,¡Grr!\N¡Soy un zoquete!
+Dialogue: 0,0:10:24.31,0:10:26.91,Default,,0,0,0,,Pero realmente quería\Npasar tiempo contigo.
+Dialogue: 0,0:10:26.94,0:10:29.72,Default,,0,0,0,,Solo quería una excusa\Npara pasar el rato.
+Dialogue: 0,0:10:29.75,0:10:32.45,Default,,0,0,0,,No necesitamos una\Nexcusa para pasar el rato.
+Dialogue: 0,0:10:32.48,0:10:35.52,Default,,0,0,0,,¿Todavía podemos ver\N"CCS" juntes?
+Dialogue: 0,0:10:35.55,0:10:36.82,Default,,0,0,0,,¿Incluso si apesta?
+Dialogue: 0,0:10:38.59,0:10:40.19,Default,,0,0,0,,Por supuesto.
+Dialogue: 0,0:10:40.22,0:10:42.93,Default,,0,0,0,,{\i1} ¿Cómo pudiste\Nmentirme así, Rodrigo? {\i0}
+Dialogue: 0,0:10:42.96,0:10:45.43,Default,,0,0,0,,{\i1} ¡Supongo que no puedes\Nevitar ser una mala persona! {\i0}
+Dialogue: 0,0:10:47.66,0:10:50.20,Default,,0,0,0,,Jasmine, acabas de enterrar\Nun cuerpo en el bosque,
+Dialogue: 0,0:10:50.23,0:10:53.73,Default,,0,0,0,,y ahora estás enojado porque\NRodrigo hizo trampa con las cartas?
+Dialogue: 0,0:10:57.34,0:10:59.55,Default,,0,0,0,,¡Este programa es el peor!
+Dialogue: 0,0:10:59.58,0:11:01.78,Default,,0,0,0,,¡Este programa es el mejor!
+Dialogue: 0,0:11:04.95,0:11:07.82,Default,,0,0,0,,♪ Ser ♪
+Dialogue: 0,0:11:07.85,0:11:11.19,Default,,0,0,0,,♪ Ser humano ♪
+Dialogue: 0,0:11:12.82,0:11:15.42,Default,,0,0,0,,♪ Solo un poco de tiempo ♪

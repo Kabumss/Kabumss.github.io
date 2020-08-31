@@ -1,0 +1,764 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe 5x29 - Cambia de opini+¦n
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.01,0:00:02.19,Default,,0,0,0,,♫Las♫
+Dialogue: 0,0:00:02.36,0:00:04.24,Default,,0,0,0,,♫gemas de cristal♫
+Dialogue: 0,0:00:04.42,0:00:06.79,Default,,0,0,0,,♫te ayudan si estás mal♫
+Dialogue: 0,0:00:07.20,0:00:09.12,Default,,0,0,0,,♫y no hay complicación,♫
+Dialogue: 0,0:00:09.35,0:00:12.08,Default,,0,0,0,,♫¡Qué no tenga solución!♫
+Dialogue: 0,0:00:12.25,0:00:13.84,Default,,0,0,0,,♫Por eso el mundo♫
+Dialogue: 0,0:00:14.05,0:00:15.89,Default,,0,0,0,,♫entero hoy♫
+Dialogue: 0,0:00:16.13,0:00:17.35,Default,,0,0,0,,♫Confía en:♫
+Dialogue: 0,0:00:17.65,0:00:18.30,Default,,0,0,0,,♫Granate,♫
+Dialogue: 0,0:00:18.49,0:00:19.49,Default,,0,0,0,,♫Amatista,♫
+Dialogue: 0,0:00:19.83,0:00:21.14,Default,,0,0,0,,♫Perla,♫
+Dialogue: 0,0:00:21.32,0:00:22.80,Default,,0,0,0,,♫¡Y Steven!♫
+Dialogue: 0,0:00:24.55,0:00:27.08,Default,,0,0,0,,Cambia de Opinión
+Dialogue: 0,0:00:45.54,0:00:48.01,Default,,0,0,0,,Oh, es verdad. Prisión.
+Dialogue: 0,0:00:52.21,0:00:54.35,Default,,0,0,0,,No puedo creerlo.
+Dialogue: 0,0:00:54.38,0:00:56.35,Default,,0,0,0,,Montar un escandalo como este.
+Dialogue: 0,0:00:56.38,0:00:58.05,Default,,0,0,0,,¡No intentabamos montar un escandalo!
+Dialogue: 0,0:00:58.09,0:01:01.09,Default,,0,0,0,,Sólo estabamos...¿Bailando...?
+Dialogue: 0,0:01:01.12,0:01:02.42,Default,,0,0,0,,¿Connie?
+Dialogue: 0,0:01:02.46,0:01:04.02,Default,,0,0,0,,¿Qué le habéis hecho a Connie?
+Dialogue: 0,0:01:04.06,0:01:07.06,Default,,0,0,0,,¿Que qué he hecho? ¿Qué has hecho tú?
+Dialogue: 0,0:01:07.10,0:01:09.30,Default,,0,0,0,,Querías guardar esas formas de vida
+Dialogue: 0,0:01:09.33,0:01:10.86,Default,,0,0,0,,de la colonia Cianita.
+Dialogue: 0,0:01:10.90,0:01:13.20,Default,,0,0,0,,Yo soy la estúpida que te cree.
+Dialogue: 0,0:01:13.24,0:01:14.37,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:01:14.40,0:01:16.40,Default,,0,0,0,,Ahora tus pequeñas mascotas están
+Dialogue: 0,0:01:16.44,0:01:18.87,Default,,0,0,0,,persiguiendo a las perlas por los pasillos.
+Dialogue: 0,0:01:18.91,0:01:20.54,Default,,0,0,0,,En qué estabas pensando...
+Dialogue: 0,0:01:20.58,0:01:22.31,Default,,0,0,0,,¿Dejarlas libres en el salón de baile?
+Dialogue: 0,0:01:22.34,0:01:24.24,Default,,0,0,0,,Pueden estar en cualquier lado.
+Dialogue: 0,0:01:27.85,0:01:28.95,Default,,0,0,0,,¡Rosa!
+Dialogue: 0,0:01:31.19,0:01:33.22,Default,,0,0,0,,Ugh. Por favor,
+Dialogue: 0,0:01:33.26,0:01:35.06,Default,,0,0,0,,deshazte de ella.
+Dialogue: 0,0:01:37.36,0:01:40.59,Default,,0,0,0,,Rosa...
+Dialogue: 0,0:01:40.63,0:01:43.00,Default,,0,0,0,,Blanco esta muy enfadada contigo.
+Dialogue: 0,0:01:44.50,0:01:49.07,Default,,0,0,0,,Si esto sigue así, te va a quitar a tu perla.
+Dialogue: 0,0:01:49.10,0:01:50.47,Default,,0,0,0,,Lo sé.
+Dialogue: 0,0:01:50.51,0:01:52.47,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:01:54.34,0:01:55.64,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:01:55.68,0:01:59.98,Default,,0,0,0,,¿Por qué siempre nos haces esto, Rosa?
+Dialogue: 0,0:02:00.02,0:02:01.98,Default,,0,0,0,,¿Hah?
+Dialogue: 0,0:02:12.73,0:02:14.93,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 0,0:02:20.04,0:02:22.47,Default,,0,0,0,,¡No, detente!
+Dialogue: 0,0:02:38.32,0:02:40.95,Default,,0,0,0,,Oh, Connie, Es-estás ahí.
+Dialogue: 0,0:02:42.66,0:02:45.99,Default,,0,0,0,,Si, no es que pueda escapar exactamente...
+Dialogue: 0,0:02:51.17,0:02:55.54,Default,,0,0,0,,No puedo creerlo, montar un escandalo cómo este.
+Dialogue: 0,0:02:55.57,0:02:57.57,Default,,0,0,0,,Woah, deja blue.
+Dialogue: 0,0:02:57.61,0:02:59.54,Default,,0,0,0,,No estabamos haciendo daño a nadie.
+Dialogue: 0,0:02:59.57,0:03:00.87,Default,,0,0,0,,Sólo le pregunté a Steven si quería bailar,
+Dialogue: 0,0:03:00.91,0:03:02.71,Default,,0,0,0,,no queríamos causar problemas.
+Dialogue: 0,0:03:02.74,0:03:05.65,Default,,0,0,0,,¿Qué sabrás tú, humana?
+Dialogue: 0,0:03:05.68,0:03:08.38,Default,,0,0,0,,¿Piensa usted que no me han castigado antes?
+Dialogue: 0,0:03:08.42,0:03:09.68,Default,,0,0,0,,¿"Castigado"?
+Dialogue: 0,0:03:09.72,0:03:11.35,Default,,0,0,0,,Azul, tienes que dejarnos salir.
+Dialogue: 0,0:03:11.39,0:03:12.65,Default,,0,0,0,,Vamos a morir de hambre.
+Dialogue: 0,0:03:12.69,0:03:15.42,Default,,0,0,0,,¿"Hambre"? ¿Qué es eso?
+Dialogue: 0,0:03:15.46,0:03:17.16,Default,,0,0,0,,¿Otra manera de causar problemas?
+Dialogue: 0,0:03:17.19,0:03:20.56,Default,,0,0,0,,Otra mentira, para dejarte salir y causar más.
+Dialogue: 0,0:03:20.60,0:03:21.83,Default,,0,0,0,,Bien, esta vez no.
+Dialogue: 0,0:03:21.86,0:03:23.20,Default,,0,0,0,,No saldrás de esta torre
+Dialogue: 0,0:03:23.23,0:03:26.53,Default,,0,0,0,,hasta que pidas perdón por fusionarte en el baile.
+Dialogue: 0,0:03:28.30,0:03:30.37,Default,,0,0,0,,No.
+Dialogue: 0,0:03:30.41,0:03:34.21,Default,,0,0,0,,¡Steven! ¿Qué? No lo siento.
+Dialogue: 0,0:03:34.24,0:03:36.58,Default,,0,0,0,,Finalmente te tenemos de vuelta...
+Dialogue: 0,0:03:36.61,0:03:39.18,Default,,0,0,0,,y estás peor que nunca.
+Dialogue: 0,0:03:41.25,0:03:42.52,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:03:42.55,0:03:44.75,Default,,0,0,0,,Está bien, Connie. Ni siquiera estoy triste.
+Dialogue: 0,0:03:44.79,0:03:47.09,Default,,0,0,0,,¡Pero estás deshidratado!
+Dialogue: 0,0:03:47.12,0:03:49.86,Default,,0,0,0,,Azul, Connie y yo nos fusionamos siempre.
+Dialogue: 0,0:03:49.89,0:03:51.69,Default,,0,0,0,,Es normal y está bien.
+Dialogue: 0,0:03:51.73,0:03:56.90,Default,,0,0,0,,¡Agh! ¿En que universo esto podría estar bien?
+Dialogue: 0,0:03:56.93,0:03:58.03,Default,,0,0,0,,¡En este universo!
+Dialogue: 0,0:03:58.07,0:04:00.43,Default,,0,0,0,,Las gemas de cristal tambien se fusionan todo el tiempo.
+Dialogue: 0,0:04:00.47,0:04:02.64,Default,,0,0,0,,Azul, tienes que decirme dónde están ellas.
+Dialogue: 0,0:04:02.67,0:04:04.44,Default,,0,0,0,,No hicieron nada malo.
+Dialogue: 0,0:04:04.47,0:04:07.11,Default,,0,0,0,,¡Oh! ¡Rosa!
+Dialogue: 0,0:04:07.14,0:04:11.04,Default,,0,0,0,,Tu vida en la Tierra ha cambiado tu manera de ver lo que está bien y lo que está mal.
+Dialogue: 0,0:04:11.08,0:04:12.88,Default,,0,0,0,,Si, es posible que sea así.
+Dialogue: 0,0:04:12.91,0:04:15.05,Default,,0,0,0,,Tal vez Rosa pensó que no estabais en el derecho de encerrarla
+Dialogue: 0,0:04:15.08,0:04:16.75,Default,,0,0,0,,y tratarla de esa manera.
+Dialogue: 0,0:04:16.79,0:04:19.29,Default,,0,0,0,,Pero yo se lo que significa tener una familia cariñosa,
+Dialogue: 0,0:04:19.32,0:04:21.92,Default,,0,0,0,,Y no nos hacemos eso entre nosotros.
+Dialogue: 0,0:04:21.96,0:04:24.79,Default,,0,0,0,,Las gemas de cristal entienden que soy Steven,
+Dialogue: 0,0:04:24.83,0:04:26.96,Default,,0,0,0,,y ellas me apoyan a mí y a Connie.
+Dialogue: 0,0:04:27.00,0:04:29.73,Default,,0,0,0,,Y vosotras las evaporasteis por que me estaban defendiendo.
+Dialogue: 0,0:04:29.76,0:04:31.06,Default,,0,0,0,,Eso no es normal.
+Dialogue: 0,0:04:31.10,0:04:32.90,Default,,0,0,0,,¡Suficiente!
+Dialogue: 0,0:04:37.31,0:04:39.44,Default,,0,0,0,,Esto no es normal.
+Dialogue: 0,0:04:39.47,0:04:42.51,Default,,0,0,0,,¿Cuántas veces la has encerrado aquí?
+Dialogue: 0,0:04:42.54,0:04:45.08,Default,,0,0,0,,¿Cuántas veces la has hecho llorar?
+Dialogue: 0,0:04:45.11,0:04:47.18,Default,,0,0,0,,No es verdad, yo...
+Dialogue: 0,0:04:50.15,0:04:53.29,Default,,0,0,0,,Lo estoy haciendo otra vez, ¿Verdad?
+Dialogue: 0,0:04:59.29,0:05:03.13,Default,,0,0,0,,Y por esa razón te fuiste, ¿Cierto?
+Dialogue: 0,0:05:10.21,0:05:11.87,Default,,0,0,0,,Tenías razones para irte.
+Dialogue: 0,0:05:13.68,0:05:17.81,Default,,0,0,0,,Siempre pensé que estabas fracasando en este mundo,
+Dialogue: 0,0:05:17.85,0:05:20.61,Default,,0,0,0,,pero si fuiste más feliz en la Tierra,
+Dialogue: 0,0:05:20.65,0:05:25.62,Default,,0,0,0,,tal vez este mundo estaba fracasando para tí.
+Dialogue: 0,0:05:25.65,0:05:28.12,Default,,0,0,0,,¡No deberíamos haberte traído de vuelta!
+Dialogue: 0,0:05:28.16,0:05:31.12,Default,,0,0,0,,Tu "familia", tus "gemas de cristal" están dentro de una burbuja.
+Dialogue: 0,0:05:31.16,0:05:34.29,Default,,0,0,0,,Voy a ayudarte a llegar a tu nave...
+Dialogue: 0,0:05:34.33,0:05:37.00,Default,,0,0,0,,y volverás a tu hogar.
+Dialogue: 0,0:05:40.50,0:05:42.47,Default,,0,0,0,,Bien, es seguro.
+Dialogue: 0,0:05:45.37,0:05:46.71,Default,,0,0,0,,Steven y Connie: ¡Comida!
+Dialogue: 0,0:06:02.46,0:06:04.96,Default,,0,0,0,,Adiós, Guijarros. Deseadnos suerte.
+Dialogue: 0,0:06:06.19,0:06:10.33,Default,,0,0,0,,Estoy listo. Tenemos amigos que salvar.
+Dialogue: 0,0:06:28.62,0:06:32.25,Default,,0,0,0,,¿Qué... estáis haciendo?
+Dialogue: 0,0:06:33.99,0:06:36.92,Default,,0,0,0,,¡Voy a recuperar a mis amigos!
+Dialogue: 0,0:06:36.96,0:06:39.53,Default,,0,0,0,,¿Que estás haciendo, Azul?
+Dialogue: 0,0:06:39.56,0:06:42.03,Default,,0,0,0,,Lleva a Rosa de vuelta a la torre.
+Dialogue: 0,0:06:42.06,0:06:45.40,Default,,0,0,0,,Ella prefiere que le llamen "Steven".
+Dialogue: 0,0:06:47.44,0:06:49.70,Default,,0,0,0,,¡¿De qué estás hablando?!
+Dialogue: 0,0:06:49.74,0:06:52.04,Default,,0,0,0,,No podemos seguir rompiendo las reglas para ella, Azul.
+Dialogue: 0,0:06:52.07,0:06:55.31,Default,,0,0,0,,Ella tiene que dar el ejemplo. Tenemos que dar ejemplo.
+Dialogue: 0,0:06:55.34,0:06:59.45,Default,,0,0,0,,Si rompemos las reglas para ellas, seremos débiles para todos.
+Dialogue: 0,0:06:59.48,0:07:01.65,Default,,0,0,0,,Bueno, pues tal vez deberíais.
+Dialogue: 0,0:07:02.82,0:07:06.39,Default,,0,0,0,,Llévalos de vuelta a la torre, ¡Ahora!
+Dialogue: 0,0:07:06.42,0:07:08.32,Default,,0,0,0,,No lo haré.
+Dialogue: 0,0:07:08.36,0:07:10.26,Default,,0,0,0,,Entonces lo haré yo misma.
+Dialogue: 0,0:07:10.29,0:07:12.36,Default,,0,0,0,,¡¿Azul?!
+Dialogue: 0,0:07:16.43,0:07:17.80,Default,,0,0,0,,¡Ugh!
+Dialogue: 0,0:07:25.17,0:07:26.74,Default,,0,0,0,,Steven, Ahora.
+Dialogue: 0,0:07:33.38,0:07:35.18,Default,,0,0,0,,Cuando pensamos que Rosa se hizo añicos,
+Dialogue: 0,0:07:35.22,0:07:38.92,Default,,0,0,0,,cuando nos abandonó, yo estuve ahí para ti.
+Dialogue: 0,0:07:38.95,0:07:42.32,Default,,0,0,0,,¡¿Y ahora vas a usar tus poderes contra MÍ?!
+Dialogue: 0,0:07:56.64,0:07:58.81,Default,,0,0,0,,Son libres.
+Dialogue: 0,0:07:58.84,0:08:01.14,Default,,0,0,0,,Venga chicas, ya no estáis encerradas.
+Dialogue: 0,0:08:01.18,0:08:03.61,Default,,0,0,0,,Podéis salir.\N¿Están bien?
+Dialogue: 0,0:08:06.55,0:08:09.32,Default,,0,0,0,,¡¿Vas a hacer daño a una compañera?!
+Dialogue: 0,0:08:09.35,0:08:11.22,Default,,0,0,0,,¿No le hicimos daño a Rosa?
+Dialogue: 0,0:08:11.25,0:08:13.95,Default,,0,0,0,,Ella estuvo sufriendo en silencio durante años...
+Dialogue: 0,0:08:13.99,0:08:16.39,Default,,0,0,0,,Al igual que nuestras gemas, ¡Al igual que yo!
+Dialogue: 0,0:08:16.42,0:08:20.06,Default,,0,0,0,,Y sé que tu también estás sufriendo, Amarillo.
+Dialogue: 0,0:08:30.77,0:08:33.54,Default,,0,0,0,,¡Para!
+Dialogue: 0,0:08:35.78,0:08:38.68,Default,,0,0,0,,No puedes hacer esto.\NSi, si que puedo.
+Dialogue: 0,0:08:38.71,0:08:41.68,Default,,0,0,0,,Esto es lo que Diamante Blanco espera de todos nosotros...
+Dialogue: 0,0:08:41.72,0:08:46.25,Default,,0,0,0,,desde la mica más pequeña hasta la más profunda y dura roca,
+Dialogue: 0,0:08:46.29,0:08:50.89,Default,,0,0,0,,todos debemos hacer sacrificios por el bien de nuestro imperio perfecto.
+Dialogue: 0,0:08:50.93,0:08:53.23,Default,,0,0,0,,¿Y eso es perfecto para tí?
+Dialogue: 0,0:08:58.37,0:09:01.67,Default,,0,0,0,,Mi padre dice que si las chuletas de cerdo fueran perfectas,
+Dialogue: 0,0:09:01.70,0:09:03.50,Default,,0,0,0,,no habrían perritos calientes.
+Dialogue: 0,0:09:03.54,0:09:05.20,Default,,0,0,0,,Y eso significa, ¿Qué?
+Dialogue: 0,0:09:05.24,0:09:08.27,Default,,0,0,0,,Eso significa que, si tratas de hacer este imperio perfecto,
+Dialogue: 0,0:09:08.31,0:09:11.91,Default,,0,0,0,,si tu eliminas lo que crees que es un defecto...
+Dialogue: 0,0:09:11.95,0:09:14.51,Default,,0,0,0,,perderás todas las cosas que te hacen feliz...
+Dialogue: 0,0:09:14.55,0:09:15.85,Default,,0,0,0,,cómo los perritos calientes.
+Dialogue: 0,0:09:15.88,0:09:18.75,Default,,0,0,0,,O nuestra Rosa.
+Dialogue: 0,0:09:18.79,0:09:20.85,Default,,0,0,0,,Uh...
+Dialogue: 0,0:09:22.62,0:09:25.79,Default,,0,0,0,,Parad.
+Dialogue: 0,0:09:25.83,0:09:28.06,Default,,0,0,0,,Detente, Azul.
+Dialogue: 0,0:09:28.10,0:09:31.40,Default,,0,0,0,,Deja de usar tus poderes conmigo.
+Dialogue: 0,0:09:31.43,0:09:32.70,Default,,0,0,0,,¡Esta vez no soy yo!
+Dialogue: 0,0:09:46.41,0:09:48.78,Default,,0,0,0,,Steven, vamos. Coge las gemas.
+Dialogue: 0,0:09:48.82,0:09:50.22,Default,,0,0,0,,Vámonos de aquí.
+Dialogue: 0,0:09:50.25,0:09:52.45,Default,,0,0,0,,Cierto. Espero que estén bien,
+Dialogue: 0,0:09:52.49,0:09:54.95,Default,,0,0,0,,por lo general Amatista ya estaría de vuelta.
+Dialogue: 0,0:09:54.99,0:09:56.46,Default,,0,0,0,,No van a volver en un rato.
+Dialogue: 0,0:09:56.49,0:09:58.56,Default,,0,0,0,,Han recibido mi impacto directo.
+Dialogue: 0,0:09:58.59,0:10:00.89,Default,,0,0,0,,Amarillo, tenemos que sacarles que aquí...
+Dialogue: 0,0:10:00.93,0:10:03.83,Default,,0,0,0,,antes de que Blanco se entere de nada de esto.
+Dialogue: 0,0:10:03.87,0:10:07.27,Default,,0,0,0,,Cierto. Deprisa. Tu nave está por allí.
+Dialogue: 0,0:10:08.54,0:10:11.30,Default,,0,0,0,,No os preocupéis chicas. Os llevaré de vuelta sanas y salvas.
+Dialogue: 0,0:10:11.34,0:10:13.34,Default,,0,0,0,,Incluso si logramos escapar ahora,
+Dialogue: 0,0:10:13.37,0:10:16.24,Default,,0,0,0,,tendremos que encontrar una forma de curar las gemas corruptas.
+Dialogue: 0,0:10:16.28,0:10:19.65,Default,,0,0,0,,Podemos volver al Planeta Natal. A-Aún tenemos la nave.
+Dialogue: 0,0:10:19.68,0:10:23.42,Default,,0,0,0,,No lo sé. No creo que Blanco quiera veros después de esto.
+Dialogue: 0,0:10:23.45,0:10:25.32,Default,,0,0,0,,Ya casi hemos llegado.
+Dialogue: 0,0:10:27.16,0:10:29.66,Default,,0,0,0,,Hemos llegado. Rápido, entrad.
+Dialogue: 0,0:10:35.06,0:10:38.00,Default,,0,0,0,,No vais a ninguna parte.
+Dialogue: 0,0:11:08.50,0:11:11.20,Default,,0,0,0,,Acabais de cometer un grave error.
+Dialogue: 0,0:11:11.23,0:11:13.33,Default,,0,0,0,,¡Volved a vuestras habitaciones!
+Dialogue: 0,0:11:13.37,0:11:16.90,Default,,0,0,0,,Uh... ¿A qué habitaciones tenemos que ir?
+Dialogue: 0,0:11:16.94,0:11:20.64,Default,,0,0,0,,Azul, no la enfades más de lo que está.
+Dialogue: 0,0:11:20.68,0:11:21.91,Default,,0,0,0,,Estamos atrapados.
+Dialogue: 0,0:11:21.94,0:11:25.18,Default,,0,0,0,,Parece que esto solo se resolverá cara a cara.
+Dialogue: 0,0:11:28.42,0:11:31.02,Default,,0,0,0,,¿Amatista, Granate, Perla?
+Dialogue: 0,0:11:31.05,0:11:34.32,Default,,0,0,0,,Por favor..., creo..., que estamos realmente en problemas.
+Dialogue: 0,0:11:36.46,0:11:38.16,Default,,0,0,0,,¡¿Qué demonios es eso?!
+Dialogue: 0,0:11:47.74,0:11:51.00,Default,,0,0,0,,Amarillo, Azul... ¿Tenéis algo que ver en esto?
+Dialogue: 0,0:11:51.04,0:11:52.00,Default,,0,0,0,,De ninguna manera.
+Dialogue: 0,0:11:52.04,0:11:54.74,Default,,0,0,0,,Blanco, ¡No somos nosotras!\N¡En serio!
+Dialogue: 0,0:11:54.78,0:11:56.01,Default,,0,0,0,,¿Entonces quienes son?
+Dialogue: 0,0:11:56.04,0:11:59.38,Default,,0,0,0,,¡Que importa! ¡Ánimo!
+Dialogue: 0,0:12:13.06,0:12:15.66,Default,,0,0,0,,¿Quién es el responsable de esto?
+Dialogue: 0,0:12:25.31,0:12:27.24,Default,,0,0,0,,Gasp.
+Dialogue: 0,0:12:27.28,0:12:31.38,Default,,0,0,0,,Siempre he querido hacer esto.
+Dialogue: 0,0:12:31.41,0:12:33.38,Default,,0,0,0,,Steven y Connie: ¡Bismuto!
+Dialogue: 0,0:12:33.41,0:12:34.41,Default,,0,0,0,,¡Has venido!
+Dialogue: 0,0:12:34.45,0:12:36.25,Default,,0,0,0,,Por supuesto que hemos venido.
+Dialogue: 0,0:12:36.28,0:12:39.45,Default,,0,0,0,,¿Hemos? Por supuesto.
+Dialogue: 0,0:12:39.49,0:12:43.59,Default,,0,0,0,,¿Creías que no estaríamos aquí en un momento como este?
+Dialogue: 0,0:12:43.62,0:12:46.16,Default,,0,0,0,,¡Lapislázuli y Peridoto!
+Dialogue: 0,0:12:48.80,0:12:50.40,Default,,0,0,0,,Eso me ha gustado.
+Dialogue: 0,0:12:50.43,0:12:52.13,Default,,0,0,0,,¿Te ha molado, Steven?
+Dialogue: 0,0:12:52.17,0:12:55.77,Default,,0,0,0,,Mira el gran trabajo de restauración de las naves brazo.
+Dialogue: 0,0:12:58.01,0:13:00.61,Default,,0,0,0,,Ehmm.... ¿Quién necesita pulgares?
+Dialogue: 0,0:13:00.64,0:13:02.98,Default,,0,0,0,,Perla de Blanco: Que preciosidad.
+Dialogue: 0,0:13:03.01,0:13:06.48,Default,,0,0,0,,Me alegra que os lo estéis pasando bien.
+Dialogue: 0,0:13:06.51,0:13:10.08,Default,,0,0,0,,Sin embargo, Diamante Blanco está teniendo problemas con vuestra conducta,
+Dialogue: 0,0:13:10.12,0:13:13.35,Default,,0,0,0,,asi que tendréis que deteneros antes de que pase a mayores.
+Dialogue: 0,0:13:13.39,0:13:16.59,Default,,0,0,0,,Steven, rápido... usa una de nuestras naves y huye.
+Dialogue: 0,0:13:16.62,0:13:17.92,Default,,0,0,0,,¿Qué?\NEs verdad.
+Dialogue: 0,0:13:17.96,0:13:20.76,Default,,0,0,0,,Tienes una oportunidad, coge mi nave.
+Dialogue: 0,0:13:20.80,0:13:22.09,Default,,0,0,0,,Vuelve a la Tierra.
+Dialogue: 0,0:13:22.13,0:13:24.76,Default,,0,0,0,,Amarillo y yo la mantendremos distraída.
+Dialogue: 0,0:13:24.80,0:13:26.77,Default,,0,0,0,,Azul, Amarillo...
+Dialogue: 0,0:13:26.80,0:13:30.70,Default,,0,0,0,,No te preocupes, Steven. Ahora lo entendemos.
+Dialogue: 0,0:13:30.74,0:13:32.10,Default,,0,0,0,,Esta forma de vivir...
+Dialogue: 0,0:13:32.14,0:13:33.84,Default,,0,0,0,,debió de ser una tortura para ti.
+Dialogue: 0,0:13:35.41,0:13:38.28,Default,,0,0,0,,¡Huid! ¡Rápido! ¡Se está levantando!
+Dialogue: 0,0:13:38.31,0:13:41.05,Default,,0,0,0,,No. No, no me iré.
+Dialogue: 0,0:13:41.08,0:13:43.22,Default,,0,0,0,,Diamante Rosa huyó de vosotras.
+Dialogue: 0,0:13:43.25,0:13:46.82,Default,,0,0,0,,Cuarzo Rosa, mi madre, comenzó una guerra contra vosotras.
+Dialogue: 0,0:13:46.85,0:13:48.96,Default,,0,0,0,,Pero yo no quiero huir.
+Dialogue: 0,0:13:48.99,0:13:51.96,Default,,0,0,0,,No quiero luchar. Sólo quiero hablar.
+Dialogue: 0,0:13:51.99,0:13:54.79,Default,,0,0,0,,Hemos ido demasiado lejos para llamar su atención,
+Dialogue: 0,0:13:54.83,0:13:56.73,Default,,0,0,0,,y ahora por fin la tenemos.
+Dialogue: 0,0:13:56.76,0:14:00.93,Default,,0,0,0,,Si hemos podido arreglar está familia, ¡Podemos arreglarlo todo!
+Dialogue: 0,0:14:00.97,0:14:02.67,Default,,0,0,0,,Pero para que funcione,
+Dialogue: 0,0:14:02.70,0:14:05.67,Default,,0,0,0,,tenemos que hacerle entender que no está bien.
+Dialogue: 0,0:14:05.71,0:14:07.51,Default,,0,0,0,,Nunca nos escuchará.
+Dialogue: 0,0:14:07.54,0:14:09.14,Default,,0,0,0,,¡Pero es la verdad!
+Dialogue: 0,0:14:09.18,0:14:10.98,Default,,0,0,0,,Mi madre solía imponerme
+Dialogue: 0,0:14:11.01,0:14:12.71,Default,,0,0,0,,muchas reglas a seguir.
+Dialogue: 0,0:14:12.75,0:14:16.72,Default,,0,0,0,,Era tan desesperante, y me hizo sentir miserable.
+Dialogue: 0,0:14:16.75,0:14:18.75,Default,,0,0,0,,Después de contarle como me sentía,
+Dialogue: 0,0:14:18.79,0:14:20.89,Default,,0,0,0,,las cosas fueron mejor entre nosotras.
+Dialogue: 0,0:14:20.92,0:14:23.56,Default,,0,0,0,,Incluso me dejó ir al espacio para ayudar a Steven.
+Dialogue: 0,0:14:23.59,0:14:26.66,Default,,0,0,0,,Si lograis que Blanco entienda como os sentís,
+Dialogue: 0,0:14:26.69,0:14:28.66,Default,,0,0,0,,tal vez las cosas mejoren entre vosotras.
+Dialogue: 0,0:14:28.70,0:14:30.06,Default,,0,0,0,,¿Que me dices, Amarillo?
+Dialogue: 0,0:14:30.10,0:14:32.00,Default,,0,0,0,,¿En serio piensas que Blanco va a
+Dialogue: 0,0:14:32.03,0:14:34.67,Default,,0,0,0,,escucharnos y a cambiar?
+Dialogue: 0,0:14:34.70,0:14:36.04,Default,,0,0,0,,Valdrá la pena intentarlo.
+Dialogue: 0,0:14:36.07,0:14:38.91,Default,,0,0,0,,¿Me hechas una mano, Azul?
+Dialogue: 0,0:14:38.94,0:14:40.51,Default,,0,0,0,,Vale.
+Dialogue: 0,0:14:40.54,0:14:42.44,Default,,0,0,0,,¿Eh? ¡Las naves!
+Dialogue: 0,0:14:51.55,0:14:53.69,Default,,0,0,0,,Steven, usa una pierna.
+Dialogue: 0,0:14:53.72,0:14:55.76,Default,,0,0,0,,Vale.
+Dialogue: 0,0:14:55.79,0:14:57.79,Default,,0,0,0,,Blanco, por favor.
+Dialogue: 0,0:14:57.83,0:15:01.36,Default,,0,0,0,,¡Todo lo que queremos es que nos escuches!
+Dialogue: 0,0:15:01.40,0:15:02.80,Default,,0,0,0,,Muy bien, Steven.
+Dialogue: 0,0:15:02.83,0:15:04.70,Default,,0,0,0,,Adelante, Azul.
+Dialogue: 0,0:15:14.91,0:15:17.61,Default,,0,0,0,,Adelante. Vamos todos.
+Dialogue: 0,0:15:30.26,0:15:33.16,Default,,0,0,0,,Hey, Blanco, ya sé que estuve un momento contigo,
+Dialogue: 0,0:15:33.19,0:15:35.63,Default,,0,0,0,,pero no tuve tiempo de hablarte sobre esto.
+Dialogue: 0,0:15:35.66,0:15:38.26,Default,,0,0,0,,Hay muchas gemas que están sufriendo ahora mismo,
+Dialogue: 0,0:15:38.30,0:15:40.40,Default,,0,0,0,,¡Incluso Azul y Amarillo están sufriendo!
+Dialogue: 0,0:15:40.43,0:15:42.30,Default,,0,0,0,,¡Deberías escuchar lo que tienen que decir!
+Dialogue: 0,0:15:43.84,0:15:44.94,Default,,0,0,0,,Mmm.
+Dialogue: 0,0:15:44.97,0:15:47.31,Default,,0,0,0,,Vosotras podéis. Adelante.
+Dialogue: 0,0:15:52.61,0:15:56.58,Default,,0,0,0,,Nosotras...
+Dialogue: 0,0:15:56.62,0:15:58.95,Default,,0,0,0,,Nos... Nosotras...
+Dialogue: 0,0:15:58.99,0:16:01.42,Default,,0,0,0,,¡Tenemos que hablar!
+Dialogue: 0,0:16:01.46,0:16:03.36,Default,,0,0,0,,Sobre nosotras.
+Dialogue: 0,0:16:03.39,0:16:06.69,Default,,0,0,0,,He conquistado muchos planetas por el bien del imperio.
+Dialogue: 0,0:16:06.73,0:16:10.46,Default,,0,0,0,,Hago todo lo que me pides, todo al pié de la letra.
+Dialogue: 0,0:16:10.50,0:16:15.33,Default,,0,0,0,,Pero tus estándares son muy estrictos, y nos someten a demasiada presión.
+Dialogue: 0,0:16:15.37,0:16:19.61,Default,,0,0,0,,Una gema podría hacerse añicos bajo mucha presión.
+Dialogue: 0,0:16:19.64,0:16:21.71,Default,,0,0,0,,Los diamantes podremos ser resistentes,
+Dialogue: 0,0:16:21.74,0:16:24.71,Default,,0,0,0,,pero también somos frágiles.
+Dialogue: 0,0:16:24.75,0:16:27.11,Default,,0,0,0,,Blanco, solíamos ser muy amigas.
+Dialogue: 0,0:16:27.15,0:16:28.55,Default,,0,0,0,,¿No lo recuerdas?
+Dialogue: 0,0:16:28.58,0:16:31.28,Default,,0,0,0,,Cuando Rosa nos hacía reír,
+Dialogue: 0,0:16:31.32,0:16:34.62,Default,,0,0,0,,haciendo esas tonterías sin razón.
+Dialogue: 0,0:16:34.66,0:16:35.96,Default,,0,0,0,,Si que había una razón.
+Dialogue: 0,0:16:35.99,0:16:38.29,Default,,0,0,0,,Ella quería que fueramos felices juntas.
+Dialogue: 0,0:16:38.33,0:16:41.29,Default,,0,0,0,,Pero no lo fuimos, y todavia no lo somos.
+Dialogue: 0,0:16:41.33,0:16:43.83,Default,,0,0,0,,Se que mi proposito no es ser feliz,
+Dialogue: 0,0:16:43.86,0:16:47.03,Default,,0,0,0,,pero cada vez es más y más difícil
+Dialogue: 0,0:16:47.07,0:16:48.30,Default,,0,0,0,,cumplir estas reglas
+Dialogue: 0,0:16:48.34,0:16:50.20,Default,,0,0,0,,porque me hacen sentir miserable.
+Dialogue: 0,0:16:50.24,0:16:52.97,Default,,0,0,0,,Cuando nos hacen sentir miserables.
+Dialogue: 0,0:16:53.01,0:16:54.91,Default,,0,0,0,,Blanco, por favor,
+Dialogue: 0,0:16:54.94,0:16:57.14,Default,,0,0,0,,¿Porqué no nos dejas entrar en tu cabeza?
+Dialogue: 0,0:16:57.18,0:16:59.65,Default,,0,0,0,,Podemos encontrar una manera de ayudar a todos.
+Dialogue: 0,0:16:59.68,0:17:02.48,Default,,0,0,0,,Y podemos empezar... ayudando a Amarillo y Azul.
+Dialogue: 0,0:17:06.35,0:17:08.69,Default,,0,0,0,,¡Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+Dialogue: 0,0:17:08.72,0:17:11.26,Default,,0,0,0,,¡Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+Dialogue: 0,0:17:11.29,0:17:15.36,Default,,0,0,0,,¡Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+Dialogue: 0,0:17:15.40,0:17:16.53,Default,,0,0,0,,¡Aaaaaaah!...
+Dialogue: 0,0:17:21.87,0:17:23.40,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 0,0:17:23.44,0:17:24.57,Default,,0,0,0,,¡¿Chicas?!
+Dialogue: 0,0:17:30.28,0:17:31.18,Default,,0,0,0,,¡Ah!
+Dialogue: 0,0:17:31.21,0:17:32.91,Default,,0,0,0,,¡Tenemos que huir!
+Dialogue: 0,0:17:32.95,0:17:35.38,Default,,0,0,0,,¡Whah...aah! ¡Aaaaah!
+Dialogue: 0,0:17:36.78,0:17:38.68,Default,,0,0,0,,Peridoto, ¡Por aquí!
+Dialogue: 0,0:17:40.09,0:17:42.02,Default,,0,0,0,,Ambas: ¡Steven!
+Dialogue: 0,0:17:42.06,0:17:44.86,Default,,0,0,0,,¡Agarrate!
+Dialogue: 0,0:17:48.40,0:17:49.03,Default,,0,0,0,,¡No!
+Dialogue: 0,0:17:49.06,0:17:50.23,Default,,0,0,0,,Ambos: ¡Steven!
+Dialogue: 0,0:17:53.40,0:17:55.37,Default,,0,0,0,,¡Ah!
+Dialogue: 0,0:17:55.40,0:17:56.60,Default,,0,0,0,,¡Ah!
+Dialogue: 0,0:18:11.09,0:18:13.05,Default,,0,0,0,,¡Amatista!
+Dialogue: 0,0:18:13.09,0:18:15.55,Default,,0,0,0,,Por favor, vuelve. Te necesito.
+Dialogue: 0,0:18:15.59,0:18:17.99,Default,,0,0,0,,Amatista, ¿Puedes oírme?
+Dialogue: 0,0:18:18.03,0:18:19.63,Default,,0,0,0,,¡Estamos cayendo!
+Dialogue: 0,0:18:19.66,0:18:20.83,Default,,0,0,0,,Podemos salvarlos.
+Dialogue: 0,0:18:20.86,0:18:22.13,Default,,0,0,0,,¡Juntos!
+Dialogue: 0,0:18:25.50,0:18:26.73,Default,,0,0,0,,No te preocupes.
+Dialogue: 0,0:18:26.77,0:18:27.90,Default,,0,0,0,,Estoy aquí para...
+Dialogue: 0,0:18:27.94,0:18:29.74,Default,,0,0,0,,Uh...
+Dialogue: 0,0:18:29.77,0:18:31.74,Default,,0,0,0,,¿Que acaba de pasar?
+Dialogue: 0,0:18:31.77,0:18:33.74,Default,,0,0,0,,Mmm...
+Dialogue: 0,0:18:33.77,0:18:35.74,Default,,0,0,0,,¡Santo humo!
+Dialogue: 0,0:18:35.78,0:18:37.78,Default,,0,0,0,,¡Soy Cuarzo Ahumado!
+Dialogue: 0,0:18:37.81,0:18:39.81,Default,,0,0,0,,Steven, eres un gran genio.
+Dialogue: 0,0:18:39.85,0:18:42.95,Default,,0,0,0,,¿Has hecho salir a Amatista a través de una fusión?
+Dialogue: 0,0:18:44.02,0:18:45.18,Default,,0,0,0,,¡Perla!
+Dialogue: 0,0:18:45.22,0:18:48.75,Default,,0,0,0,,Tengo que lanzar a Steven...
+Dialogue: 0,0:18:48.79,0:18:50.92,Default,,0,0,0,,No te preocupes por mí...
+Dialogue: 0,0:18:50.96,0:18:52.83,Default,,0,0,0,,"Búho" estará bien.
+Dialogue: 0,0:18:57.00,0:18:58.86,Default,,0,0,0,,Vamos, Perla, baila conmigo.
+Dialogue: 0,0:19:04.00,0:19:05.64,Default,,0,0,0,,Bueno, ¿Sabes qué?
+Dialogue: 0,0:19:05.67,0:19:08.44,Default,,0,0,0,,Soy Cuarzo Arcoíris 2.0
+Dialogue: 0,0:19:08.48,0:19:10.78,Default,,0,0,0,,La verdad, es que estamos en un gran lío.
+Dialogue: 0,0:19:12.81,0:19:14.11,Default,,0,0,0,,Así no vamos a ninguna parte.
+Dialogue: 0,0:19:14.15,0:19:15.65,Default,,0,0,0,,Pbbbbbt!
+Dialogue: 0,0:19:17.65,0:19:19.65,Default,,0,0,0,,Cuarzo Arcoíris, poderes...
+Dialogue: 0,0:19:19.69,0:19:20.79,Default,,0,0,0,,¡Activados!
+Dialogue: 0,0:19:25.49,0:19:27.03,Default,,0,0,0,,Ah, si.
+Dialogue: 0,0:19:27.06,0:19:28.96,Default,,0,0,0,,Ahora estas dos gemas,
+Dialogue: 0,0:19:29.00,0:19:30.53,Default,,0,0,0,,con un pájaro.
+Dialogue: 0,0:19:32.83,0:19:33.90,Default,,0,0,0,,¡Wow!
+Dialogue: 0,0:19:33.93,0:19:35.23,Default,,0,0,0,,Bonita forma, Perla.
+Dialogue: 0,0:19:35.27,0:19:37.00,Default,,0,0,0,,Oh, gracias.
+Dialogue: 0,0:19:37.04,0:19:39.81,Default,,0,0,0,,Estoy particularmente a gusto con esta chaqueta.
+Dialogue: 0,0:19:39.84,0:19:40.81,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:19:40.84,0:19:43.91,Default,,0,0,0,,¡Steven! ¡Nos hemos fusionado!
+Dialogue: 0,0:19:43.94,0:19:45.41,Default,,0,0,0,,¿Estáis todos bien?
+Dialogue: 0,0:19:45.45,0:19:49.15,Default,,0,0,0,,Casi. Granate, estamos luchando contra un robot gigante.
+Dialogue: 0,0:19:49.18,0:19:50.65,Default,,0,0,0,,Necesitamos tu ayuda.
+Dialogue: 0,0:19:50.68,0:19:52.05,Default,,0,0,0,,Por favor vuelve.
+Dialogue: 0,0:19:52.09,0:19:53.15,Default,,0,0,0,,¡Estoy aquí!
+Dialogue: 0,0:19:53.19,0:19:54.39,Default,,0,0,0,,¡Te quiero!
+Dialogue: 0,0:20:20.08,0:20:22.08,Default,,0,0,0,,Ouh.........
+Dialogue: 0,0:20:22.12,0:20:23.42,Default,,0,0,0,,¡Siiiii!
+Dialogue: 0,0:20:23.45,0:20:26.22,Default,,0,0,0,,¡Será mejor que des un paso atrás!
+Dialogue: 0,0:20:29.26,0:20:31.06,Default,,0,0,0,,Tranqui, colegas.
+Dialogue: 0,0:20:31.09,0:20:34.79,Default,,0,0,0,,Vuestra amiga rockera Sunstone esta aquí.
+Dialogue: 0,0:20:34.83,0:20:35.86,Default,,0,0,0,,¡Wow!
+Dialogue: 0,0:20:35.90,0:20:36.63,Default,,0,0,0,,Santo...
+Dialogue: 0,0:20:36.66,0:20:37.63,Default,,0,0,0,,¡Genial!
+Dialogue: 0,0:20:37.67,0:20:39.47,Default,,0,0,0,,¡No me lo puedo creer!
+Dialogue: 0,0:20:39.50,0:20:41.20,Default,,0,0,0,,Pues será mejor que te lo vayas creyendo.
+Dialogue: 0,0:20:41.24,0:20:42.53,Default,,0,0,0,,¡Vale!
+Dialogue: 0,0:20:42.57,0:20:44.60,Default,,0,0,0,,Sunstone, ¿Qué vamos a hacer?
+Dialogue: 0,0:20:44.64,0:20:46.04,Default,,0,0,0,,Diamante Blanco nunca nos escuchará
+Dialogue: 0,0:20:46.07,0:20:47.97,Default,,0,0,0,,y nunca va a dejarnos escapar.
+Dialogue: 0,0:20:48.01,0:20:51.08,Default,,0,0,0,,Si no quiere escuchar, haremos que nos escuche.
+Dialogue: 0,0:20:51.11,0:20:53.55,Default,,0,0,0,,¿Y cómo vamos a hacer eso?
+Dialogue: 0,0:20:53.58,0:20:55.08,Default,,0,0,0,,Se que está ahí dentro.
+Dialogue: 0,0:20:55.12,0:20:58.25,Default,,0,0,0,,Escalaremos hasta su cabeza y le haremos cambiar de opinión.
+Dialogue: 0,0:20:58.29,0:20:59.32,Default,,0,0,0,,Todos: ¡Adelante!
+Dialogue: 0,0:20:59.35,0:21:02.25,Default,,0,0,0,,¡Calmemos a esta abusona!
+Dialogue: 0,0:21:02.29,0:21:03.66,Default,,0,0,0,,Pero recordad, niños:
+Dialogue: 0,0:21:03.69,0:21:05.66,Default,,0,0,0,,Si alguna vez tienes que lidiar con un abusón,
+Dialogue: 0,0:21:05.69,0:21:08.56,Default,,0,0,0,,habla con un adulto.
+Dialogue: 0,0:21:08.60,0:21:09.56,Default,,0,0,0,,¡Oh!
+Dialogue: 0,0:21:09.60,0:21:11.93,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:21:11.97,0:21:13.73,Default,,0,0,0,,¡Ale...hop!
+Dialogue: 0,0:21:13.77,0:21:16.00,Default,,0,0,0,,Niños, no intentéis esto en casa.
+Dialogue: 0,0:21:16.04,0:21:17.24,Default,,0,0,0,,¡Hah!
+Dialogue: 0,0:21:17.27,0:21:19.14,Default,,0,0,0,,¡Bungakowa!
+Dialogue: 0,0:21:19.17,0:21:20.74,Default,,0,0,0,,¡Ah! ¡Si!
+Dialogue: 0,0:21:22.61,0:21:24.14,Default,,0,0,0,,¡Puedes hacerlo!
+Dialogue: 0,0:21:24.18,0:21:26.18,Default,,0,0,0,,¡Cree en ti mismo!
+Dialogue: 0,0:21:26.21,0:21:28.35,Default,,0,0,0,,Siempre, da,
+Dialogue: 0,0:21:28.38,0:21:29.28,Default,,0,0,0,,¡Tu mejor versión!
+Dialogue: 0,0:21:45.33,0:21:47.33,Default,,0,0,0,,¡Oh, no!
+Dialogue: 0,0:21:47.37,0:21:50.00,Default,,0,0,0,,¡Wah! ¡Owwwwwww!
+Dialogue: 0,0:21:50.04,0:21:50.97,Default,,0,0,0,,¡Uuf!
+Dialogue: 0,0:21:51.00,0:21:52.47,Default,,0,0,0,,¡Agh! ¡Ahh!
+Dialogue: 0,0:21:52.51,0:21:53.71,Default,,0,0,0,,No hay manera.
+Dialogue: 0,0:21:53.74,0:21:55.31,Default,,0,0,0,,Necesitamos ser más grandes.
+Dialogue: 0,0:21:55.34,0:21:56.51,Default,,0,0,0,,Entonces fusionemonos.
+Dialogue: 0,0:21:56.54,0:21:58.01,Default,,0,0,0,,Nosotros cuatro.
+Dialogue: 0,0:21:58.05,0:22:00.48,Default,,0,0,0,,Esa es la única manera de llegar a su cabeza.
+Dialogue: 0,0:22:00.51,0:22:02.68,Default,,0,0,0,,¡Me apunto!\N¡Yo también!
+Dialogue: 0,0:22:02.72,0:22:04.62,Default,,0,0,0,,Entonces decidido.
+Dialogue: 0,0:22:04.65,0:22:06.82,Default,,0,0,0,,Es la hora de formar a Obsidiana.
+Dialogue: 0,0:22:32.58,0:22:34.08,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:22:34.11,0:22:35.41,Default,,0,0,0,,¡Whoa!
+Dialogue: 0,0:22:50.93,0:22:54.87,Default,,0,0,0,,¡Aaaaaaaaaaaaaaaaaaaaaaaaaaah!
+Dialogue: 0,0:22:54.90,0:22:58.04,Default,,0,0,0,,¡Son enormes!
+Dialogue: 0,0:23:06.55,0:23:08.05,Default,,0,0,0,,¡Hunh!
+Dialogue: 0,0:23:11.15,0:23:12.68,Default,,0,0,0,,¡Uah!
+Dialogue: 0,0:23:12.72,0:23:14.69,Default,,0,0,0,,Chicas, tenemos que hacer algo para
+Dialogue: 0,0:23:14.72,0:23:16.42,Default,,0,0,0,,mantener sus manos alejadas de ellos.
+Dialogue: 0,0:23:16.46,0:23:18.22,Default,,0,0,0,,Cierto. Pero primero...
+Dialogue: 0,0:23:18.26,0:23:20.29,Default,,0,0,0,,tengo algo para tí.
+Dialogue: 0,0:23:20.33,0:23:22.06,Default,,0,0,0,,¿Mi propia espada?
+Dialogue: 0,0:23:22.10,0:23:23.60,Default,,0,0,0,,¡Es perfecta!
+Dialogue: 0,0:23:23.63,0:23:25.63,Default,,0,0,0,,Mostremosle a Diamante Blanco
+Dialogue: 0,0:23:25.67,0:23:28.97,Default,,0,0,0,,de que estamos hechas.
+Dialogue: 0,0:23:29.00,0:23:31.10,Default,,0,0,0,,Agárrate.
+Dialogue: 0,0:23:32.51,0:23:35.31,Default,,0,0,0,,¡Hora de cumplir con nuestro deber!
+Dialogue: 0,0:23:37.51,0:23:39.41,Default,,0,0,0,,¡Fijate en mí, Planeta Natal!
+Dialogue: 0,0:23:39.45,0:23:42.88,Default,,0,0,0,,Yo, Peridoto, he vuelto, pero no como vuestra esclava...
+Dialogue: 0,0:23:42.92,0:23:44.95,Default,,0,0,0,,¡Sino como vuestra salvadora!
+Dialogue: 0,0:23:44.99,0:23:47.75,Default,,0,0,0,,¡Yo domino el cielo!
+Dialogue: 0,0:23:50.52,0:23:53.09,Default,,0,0,0,,¡Wh-wh-whoa!
+Dialogue: 0,0:24:12.31,0:24:13.78,Default,,0,0,0,,Intenta atraparme,
+Dialogue: 0,0:24:13.81,0:24:17.45,Default,,0,0,0,,¡Estupido robot! ¡Pardilla!
+Dialogue: 0,0:24:17.48,0:24:18.95,Default,,0,0,0,,¡Whoa! ¡Ah!
+Dialogue: 0,0:24:18.99,0:24:21.65,Default,,0,0,0,,¡Lapis! ¡Bismuto!
+Dialogue: 0,0:24:21.69,0:24:24.12,Default,,0,0,0,,¡Ahhgh!
+Dialogue: 0,0:24:24.16,0:24:25.09,Default,,0,0,0,,¡Aah-aah-aah!
+Dialogue: 0,0:24:25.13,0:24:26.99,Default,,0,0,0,,¡Espera! ¡Te tengo!
+Dialogue: 0,0:24:27.03,0:24:30.33,Default,,0,0,0,,¡Whoa-whoa-oa-oa-oa-oa!
+Dialogue: 0,0:24:32.40,0:24:34.47,Default,,0,0,0,,¡Whoa-whoa-oa-oa!
+Dialogue: 0,0:24:34.50,0:24:36.30,Default,,0,0,0,,Ooh.
+Dialogue: 0,0:24:36.34,0:24:37.54,Default,,0,0,0,,¡Uuf!
+Dialogue: 0,0:24:37.57,0:24:39.64,Default,,0,0,0,,Ah.
+Dialogue: 0,0:24:39.67,0:24:40.54,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:24:40.57,0:24:42.81,Default,,0,0,0,,¡Whoa-ah!
+Dialogue: 0,0:24:42.84,0:24:43.68,Default,,0,0,0,,¡Aaaaah!
+Dialogue: 0,0:24:43.71,0:24:46.85,Default,,0,0,0,,Ah. Ohh. Uhhhhh.
+Dialogue: 0,0:24:46.88,0:24:49.55,Default,,0,0,0,,¡Whoa-oa-oa-aah-aah-aah!
+Dialogue: 0,0:24:49.58,0:24:51.15,Default,,0,0,0,,¡Ah!
+Dialogue: 0,0:24:51.18,0:24:53.65,Default,,0,0,0,,¡Ah! Gracias.
+Dialogue: 0,0:24:56.86,0:24:58.86,Default,,0,0,0,,No os preocupéis, ¡Yo me encargo!
+Dialogue: 0,0:25:11.57,0:25:13.97,Default,,0,0,0,,¡Ahh-aah!
+Dialogue: 0,0:25:14.01,0:25:16.21,Default,,0,0,0,,Y-yo... dejare que tú te encargues.
+Dialogue: 0,0:25:37.76,0:25:40.20,Default,,0,0,0,,¡Ruoarghhhhhhh!
+Dialogue: 0,0:25:49.48,0:25:50.51,Default,,0,0,0,,¡Anh!
+Dialogue: 0,0:25:50.54,0:25:52.28,Default,,0,0,0,,¡Chicas! ¡Connie!
+Dialogue: 0,0:25:52.31,0:25:53.41,Default,,0,0,0,,¡No te preocupes!
+Dialogue: 0,0:25:53.45,0:25:56.42,Default,,0,0,0,,¡Voy detrás de tí!
+Dialogue: 0,0:25:56.45,0:25:57.35,Default,,0,0,0,,¡Aquí!
+Dialogue: 0,0:25:57.38,0:25:58.88,Default,,0,0,0,,Podemos entrar desde el ojo.
+Dialogue: 0,0:25:58.92,0:25:59.92,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:26:04.16,0:26:05.06,Default,,0,0,0,,¡Deprisa!
+Dialogue: 0,0:26:07.73,0:26:08.89,Default,,0,0,0,,¡Whoa-ah!
+Dialogue: 0,0:26:11.63,0:26:13.23,Default,,0,0,0,,¡Huh!
+Dialogue: 0,0:26:27.75,0:26:29.95,Default,,0,0,0,,Diamante Blanco.
+Dialogue: 0,0:26:29.98,0:26:32.55,Default,,0,0,0,,Oh, Luz Celestial, ¿Que estáis haciendo...
+Dialogue: 0,0:26:32.59,0:26:33.92,Default,,0,0,0,,arrastrándoos hasta aquí?
+Dialogue: 0,0:26:33.95,0:26:36.09,Default,,0,0,0,,¿Quieres tu nave de vuelta?
+Dialogue: 0,0:26:36.12,0:26:37.59,Default,,0,0,0,,¿Quieres volver a la Tierra?
+Dialogue: 0,0:26:37.62,0:26:40.56,Default,,0,0,0,,Creo que entiendes por qué no puedo dejarte ir.
+Dialogue: 0,0:26:40.59,0:26:43.96,Default,,0,0,0,,Mira lo que hiciste la última vez.
+Dialogue: 0,0:26:44.00,0:26:47.00,Default,,0,0,0,,Diamante Blanco, mi nombre es Steven Universe.
+Dialogue: 0,0:26:47.03,0:26:48.43,Default,,0,0,0,,Estoy aqui para...
+Dialogue: 0,0:26:48.47,0:26:49.60,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:26:49.64,0:26:50.97,Default,,0,0,0,,Ay, ay
+Dialogue: 0,0:26:51.00,0:26:55.27,Default,,0,0,0,,Hemos armado un escandalo, ¿No crees?
+Dialogue: 0,0:26:55.31,0:26:57.64,Default,,0,0,0,,¡¿Que les has hecho?! Están...
+Dialogue: 0,0:26:57.68,0:27:01.35,Default,,0,0,0,,¡Shhhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+Dialogue: 0,0:27:01.38,0:27:02.78,Default,,0,0,0,,Pobre Amarillo.
+Dialogue: 0,0:27:02.82,0:27:06.52,Default,,0,0,0,,Sus impurezas absorben todo el Azul de su luz.
+Dialogue: 0,0:27:06.55,0:27:08.15,Default,,0,0,0,,Es tan fuerte...
+Dialogue: 0,0:27:08.19,0:27:10.99,Default,,0,0,0,,pero tan debil, cuando Azul está delante.
+Dialogue: 0,0:27:11.02,0:27:12.62,Default,,0,0,0,,Ah, y Azul...
+Dialogue: 0,0:27:12.66,0:27:16.29,Default,,0,0,0,,sus impurezas absorben todo el calor en su espectro.
+Dialogue: 0,0:27:16.33,0:27:18.30,Default,,0,0,0,,Cree que te necesita, Rosa.
+Dialogue: 0,0:27:18.33,0:27:21.67,Default,,0,0,0,,En cuanto a mí, estoy segura de que no te necesito.
+Dialogue: 0,0:27:21.70,0:27:24.27,Default,,0,0,0,,Después de todo, soy todos los colores de la luz.
+Dialogue: 0,0:27:24.30,0:27:26.10,Default,,0,0,0,,Pero tu eres una parte de mí...
+Dialogue: 0,0:27:26.14,0:27:29.47,Default,,0,0,0,,la parte que siempre tengo que reprimir.
+Dialogue: 0,0:27:29.51,0:27:30.54,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 0,0:27:30.58,0:27:33.18,Default,,0,0,0,,Tío, ¿De qué está hablando?
+Dialogue: 0,0:27:33.21,0:27:34.65,Default,,0,0,0,,¡Eso no tiene sentido!
+Dialogue: 0,0:27:34.68,0:27:37.18,Default,,0,0,0,,Oh, ¡hola a todos!
+Dialogue: 0,0:27:37.22,0:27:39.35,Default,,0,0,0,,Tus nuevos amigos son tan divertidos...
+Dialogue: 0,0:27:39.39,0:27:41.95,Default,,0,0,0,,¿Eso es lo que se supone que son...? ¿Divertidos?
+Dialogue: 0,0:27:43.36,0:27:47.56,Default,,0,0,0,,¡Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!
+Dialogue: 0,0:27:49.86,0:27:51.83,Default,,0,0,0,,Eh, ¡maldita seas, Blanco!
+Dialogue: 0,0:27:51.87,0:27:54.30,Default,,0,0,0,,¡¿Eso es todo lo que tienes?!
+Dialogue: 0,0:27:54.33,0:27:55.17,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:27:56.60,0:27:57.97,Default,,0,0,0,,¡Oh, no!
+Dialogue: 0,0:28:00.21,0:28:01.54,Default,,0,0,0,,¡Dejala en paz!
+Dialogue: 0,0:28:02.71,0:28:05.38,Default,,0,0,0,,¡Aggggggh!
+Dialogue: 0,0:28:05.41,0:28:09.68,Default,,0,0,0,,¡Arrrrrrrggggggghhhhhhh!
+Dialogue: 0,0:28:09.72,0:28:11.05,Default,,0,0,0,,¡Para!
+Dialogue: 0,0:28:12.62,0:28:14.72,Default,,0,0,0,,¡Ah! ¡Ahh!
+Dialogue: 0,0:28:14.76,0:28:16.82,Default,,0,0,0,,¡Ahh... ahh... ahhhh!
+Dialogue: 0,0:28:16.86,0:28:19.19,Default,,0,0,0,,¡Ahhhhh!
+Dialogue: 0,0:28:19.23,0:28:22.09,Default,,0,0,0,,Diamante Blanco: Es una pena, la forma en la que sacas lo peor de los demás.
+Dialogue: 0,0:28:22.13,0:28:24.76,Default,,0,0,0,,¿Ves como potencias sus defectos?
+Dialogue: 0,0:28:24.80,0:28:27.57,Default,,0,0,0,,Esta escrito en ellas:
+Dialogue: 0,0:28:27.60,0:28:29.03,Default,,0,0,0,,Insegura,
+Dialogue: 0,0:28:29.07,0:28:31.04,Default,,0,0,0,,dependiente,
+Dialogue: 0,0:28:31.07,0:28:32.54,Default,,0,0,0,,obsesionada.
+Dialogue: 0,0:28:33.81,0:28:35.21,Default,,0,0,0,,Oh, no, no.
+Dialogue: 0,0:28:35.24,0:28:36.44,Default,,0,0,0,,¡Chicas!
+Dialogue: 0,0:28:36.48,0:28:38.11,Default,,0,0,0,,Vamos, ¡No dejeis que os controle!
+Dialogue: 0,0:28:38.15,0:28:40.25,Default,,0,0,0,,Por favor, deja de ayudarlas.
+Dialogue: 0,0:28:40.28,0:28:42.08,Default,,0,0,0,,Sólo empeoras las cosas.
+Dialogue: 0,0:28:42.12,0:28:43.72,Default,,0,0,0,,Eso es lo que haces.
+Dialogue: 0,0:28:43.75,0:28:45.68,Default,,0,0,0,,Yo hago las cosas bien...
+Dialogue: 0,0:28:45.72,0:28:48.12,Default,,0,0,0,,Así...
+Dialogue: 0,0:28:48.16,0:28:50.09,Default,,0,0,0,,Oh, gracias, Diamante Blanco.
+Dialogue: 0,0:28:50.12,0:28:51.39,Default,,0,0,0,,Me siento genial ahora.
+Dialogue: 0,0:28:52.96,0:28:56.90,Default,,0,0,0,,Oh, gracias. Que generoso de tu parte.
+Dialogue: 0,0:28:56.93,0:29:00.07,Default,,0,0,0,,Gracias, Diamante Blanco. Nos sentimos mucho mejor ahora.
+Dialogue: 0,0:29:00.10,0:29:02.43,Default,,0,0,0,,Me siento genial.
+Dialogue: 0,0:29:02.47,0:29:04.07,Default,,0,0,0,,¿Lo ves?
+Dialogue: 0,0:29:04.10,0:29:05.40,Default,,0,0,0,,He eliminado sus defectos.
+Dialogue: 0,0:29:05.44,0:29:07.41,Default,,0,0,0,,Ahora, nada impedirá que mi brillante y blanca luz
+Dialogue: 0,0:29:07.44,0:29:09.24,Default,,0,0,0,,pase a través de ellas.
+Dialogue: 0,0:29:09.28,0:29:11.61,Default,,0,0,0,,No me gusta expandirme de esta manera pero...
+Dialogue: 0,0:29:11.65,0:29:14.48,Default,,0,0,0,,ya sabes, me has obligado.
+Dialogue: 0,0:29:14.51,0:29:17.92,Default,,0,0,0,,Ahora, los defectos que has potenciado se han ido.
+Dialogue: 0,0:29:17.95,0:29:19.92,Default,,0,0,0,,Ahora, ¡Son brillantes!
+Dialogue: 0,0:29:19.95,0:29:22.39,Default,,0,0,0,,Ahora, ¡Son perfectas! Ahora...
+Dialogue: 0,0:29:22.42,0:29:25.16,Default,,0,0,0,,¡Son yo!
+Dialogue: 0,0:29:25.19,0:29:27.43,Default,,0,0,0,,Te equivocas.
+Dialogue: 0,0:29:27.46,0:29:30.43,Default,,0,0,0,,Por favor, ¡Escuchame!
+Dialogue: 0,0:29:30.46,0:29:32.60,Default,,0,0,0,,¡Mis amigas no necesitan que las arreglen!
+Dialogue: 0,0:29:32.63,0:29:35.63,Default,,0,0,0,,Están bien como están, ¡Con defectos y todo!
+Dialogue: 0,0:29:35.67,0:29:36.80,Default,,0,0,0,,Ya empezamos otra vez.
+Dialogue: 0,0:29:36.84,0:29:40.07,Default,,0,0,0,,¿No sabes porqué defiendes esos defectos?
+Dialogue: 0,0:29:40.11,0:29:41.74,Default,,0,0,0,,Yo se porqué, Rosa.
+Dialogue: 0,0:29:41.78,0:29:45.61,Default,,0,0,0,,Te gusta rodearte de gemas inferiores a tí.
+Dialogue: 0,0:29:45.65,0:29:46.58,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 0,0:29:46.61,0:29:48.75,Default,,0,0,0,,Sacas a relucir ese horrible comportamiento,
+Dialogue: 0,0:29:48.78,0:29:51.62,Default,,0,0,0,,para creerte mejor que los demás.
+Dialogue: 0,0:29:51.65,0:29:53.19,Default,,0,0,0,,¡Eso no es verdad!
+Dialogue: 0,0:29:53.22,0:29:54.82,Default,,0,0,0,,Y, aunque lo sea...
+Dialogue: 0,0:29:54.86,0:29:56.09,Default,,0,0,0,,aunque lo fuera...
+Dialogue: 0,0:29:56.12,0:29:57.46,Default,,0,0,0,,¡T-tú estás hablando de mi madre!
+Dialogue: 0,0:29:57.49,0:29:58.96,Default,,0,0,0,,¡Yo no soy así!
+Dialogue: 0,0:30:02.56,0:30:03.96,Default,,0,0,0,,¿Tu "madre"?
+Dialogue: 0,0:30:12.74,0:30:14.47,Default,,0,0,0,,¡Chicos, estoy aquí!
+Dialogue: 0,0:30:14.51,0:30:16.81,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:30:16.84,0:30:17.84,Default,,0,0,0,,¿Perla?
+Dialogue: 0,0:30:17.88,0:30:18.98,Default,,0,0,0,,¡Connie!
+Dialogue: 0,0:30:19.01,0:30:20.45,Default,,0,0,0,,Mira que tenemos aquí...
+Dialogue: 0,0:30:20.48,0:30:22.71,Default,,0,0,0,,Es otra de tus mascotas.
+Dialogue: 0,0:30:27.02,0:30:28.82,Default,,0,0,0,,¡Espera!
+Dialogue: 0,0:30:30.52,0:30:31.52,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:30:31.56,0:30:32.79,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:30:39.87,0:30:41.30,Default,,0,0,0,,Dejala ir.
+Dialogue: 0,0:30:41.33,0:30:43.80,Default,,0,0,0,,Las gemas inferiores no fueron suficiente, ¿No es así?
+Dialogue: 0,0:30:43.84,0:30:47.14,Default,,0,0,0,,¿Ves como te rodeas de vida inferior?
+Dialogue: 0,0:30:47.17,0:30:49.17,Default,,0,0,0,,Te has sofocado en ellas.
+Dialogue: 0,0:30:49.21,0:30:51.64,Default,,0,0,0,,Te sientes bien. ¿No es asi, Rosa?
+Dialogue: 0,0:30:51.68,0:30:54.65,Default,,0,0,0,,Enterrando tu poder, escondiendo tu rostro,
+Dialogue: 0,0:30:54.68,0:30:57.35,Default,,0,0,0,,Echándole la culpa de todo a otro.
+Dialogue: 0,0:30:57.38,0:31:00.09,Default,,0,0,0,,Te transformaste en Cuarzo Rosa
+Dialogue: 0,0:31:00.12,0:31:01.52,Default,,0,0,0,,para mentir a tus patéticas amigas.
+Dialogue: 0,0:31:01.55,0:31:03.22,Default,,0,0,0,,Y has mejorado en eso,
+Dialogue: 0,0:31:03.26,0:31:06.26,Default,,0,0,0,,porque ahora te mientes a tí misma.
+Dialogue: 0,0:31:06.29,0:31:08.26,Default,,0,0,0,,No. ¡Te equivocas!
+Dialogue: 0,0:31:08.30,0:31:10.23,Default,,0,0,0,,¡No soy mi madre!
+Dialogue: 0,0:31:10.26,0:31:11.40,Default,,0,0,0,,¿Pero sin embargo sabes cosas
+Dialogue: 0,0:31:11.43,0:31:15.20,Default,,0,0,0,,que nadie podría saber?
+Dialogue: 0,0:31:15.24,0:31:18.54,Default,,0,0,0,,S-solo he estado conectado a ella.
+Dialogue: 0,0:31:19.97,0:31:21.27,Default,,0,0,0,,Mis poderes, me...
+Dialogue: 0,0:31:21.31,0:31:22.91,Default,,0,0,0,,ayudan a conectar con los demás.
+Dialogue: 0,0:31:29.92,0:31:31.22,Default,,0,0,0,,N-no soy ella.
+Dialogue: 0,0:31:31.25,0:31:32.25,Default,,0,0,0,,Yo solo...
+Dialogue: 0,0:31:32.29,0:31:34.05,Default,,0,0,0,,siento lo que siente.
+Dialogue: 0,0:31:39.99,0:31:41.59,Default,,0,0,0,,¿No es obvio?
+Dialogue: 0,0:31:41.63,0:31:44.20,Default,,0,0,0,,Aunque te hayas escondido en el cuerpo de este humano,
+Dialogue: 0,0:31:44.23,0:31:47.20,Default,,0,0,0,,tu luz no puede evitar salir.
+Dialogue: 0,0:31:47.23,0:31:48.93,Default,,0,0,0,,Se que estás ahí.
+Dialogue: 0,0:31:48.97,0:31:50.54,Default,,0,0,0,,Siempre lo has sabido.
+Dialogue: 0,0:31:50.57,0:31:52.57,Default,,0,0,0,,Deja de esconderte en tu gema.
+Dialogue: 0,0:31:52.61,0:31:54.24,Default,,0,0,0,,Puedes esconderte de tí misma,
+Dialogue: 0,0:31:54.27,0:31:56.88,Default,,0,0,0,,pero no puedes esconderte de mí, Rosa.
+Dialogue: 0,0:31:57.94,0:31:59.21,Default,,0,0,0,,¡No la escuches, Steven!
+Dialogue: 0,0:31:59.25,0:32:01.71,Default,,0,0,0,,¡Sólo está tratando de confundirte!
+Dialogue: 0,0:32:05.12,0:32:06.72,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:32:16.76,0:32:17.96,Default,,0,0,0,,Ahora, Luz Celestial,
+Dialogue: 0,0:32:18.00,0:32:20.23,Default,,0,0,0,,esto ha tomado demasiado tiempo.
+Dialogue: 0,0:32:26.94,0:32:28.97,Default,,0,0,0,,Es hora de salir,
+Dialogue: 0,0:32:29.01,0:32:30.28,Default,,0,0,0,,Rosa.
+Dialogue: 0,0:32:34.81,0:32:36.61,Default,,0,0,0,,¡NOOOO!
+Dialogue: 0,0:32:42.72,0:32:44.12,Default,,0,0,0,,Connie: Steven.
+Dialogue: 0,0:32:44.16,0:32:45.96,Default,,0,0,0,,Steven, por favor.
+Dialogue: 0,0:32:45.99,0:32:48.43,Default,,0,0,0,,Steven, levantate.
+Dialogue: 0,0:32:48.46,0:32:50.20,Default,,0,0,0,,¡Mirame! Por favor...
+Dialogue: 0,0:32:50.23,0:32:52.30,Default,,0,0,0,,¿Steven?
+Dialogue: 0,0:32:52.33,0:32:53.50,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:32:54.97,0:32:57.00,Default,,0,0,0,,¿Que?
+Dialogue: 0,0:32:57.04,0:32:58.20,Default,,0,0,0,,No. ¿Dónde?
+Dialogue: 0,0:32:58.24,0:33:01.21,Default,,0,0,0,,Dónde... ¿Donde está mi...?
+Dialogue: 0,0:33:40.01,0:33:41.18,Default,,0,0,0,,¡Anh!
+Dialogue: 0,0:33:41.21,0:33:43.68,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:33:43.72,0:33:45.25,Default,,0,0,0,,No.
+Dialogue: 0,0:33:45.29,0:33:46.48,Default,,0,0,0,,Por favor, yo...
+Dialogue: 0,0:33:46.52,0:33:48.52,Default,,0,0,0,,La necesito... necesito mi...
+Dialogue: 0,0:33:48.56,0:33:51.19,Default,,0,0,0,,¿Que significa esto? ¿Dónde está Rosa?
+Dialogue: 0,0:33:51.22,0:33:52.99,Default,,0,0,0,,Se ha ido.
+Dialogue: 0,0:33:53.03,0:33:54.83,Default,,0,0,0,,¿Qué acabas de decir?
+Dialogue: 0,0:33:54.86,0:33:56.86,Default,,0,0,0,,¡Respondeme!
+Dialogue: 0,0:33:56.90,0:34:02.30,Default,,0,0,0,,Se ha ¡IDOOO!
+Dialogue: 0,0:34:16.12,0:34:17.92,Default,,0,0,0,,¿A dónde te crees que vas?
+Dialogue: 0,0:34:22.32,0:34:23.62,Default,,0,0,0,,Ayuda.
+Dialogue: 0,0:34:23.66,0:34:24.29,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:34:26.23,0:34:27.76,Default,,0,0,0,,¡Déjamelo a mi!
+Dialogue: 0,0:34:31.73,0:34:33.70,Default,,0,0,0,,¡No te atrevas a dar un paso más!
+Dialogue: 0,0:34:33.73,0:34:36.13,Default,,0,0,0,,... un paso más...
+Dialogue: 0,0:34:36.17,0:34:37.37,Default,,0,0,0,,¡Suficiente!
+Dialogue: 0,0:34:45.35,0:34:46.71,Default,,0,0,0,,Ahhh, pequeña....
+Dialogue: 0,0:34:51.75,0:34:55.22,Default,,0,0,0,,¡Agh! ¡No levantes tu escudo contra mí!
+Dialogue: 0,0:34:55.26,0:34:58.06,Default,,0,0,0,,¡Sólo quiero que seas tú misma!
+Dialogue: 0,0:34:58.09,0:34:59.79,Default,,0,0,0,,Si no puedes hacerlo por ti misma,
+Dialogue: 0,0:34:59.83,0:35:01.06,Default,,0,0,0,,yo lo haré,
+Dialogue: 0,0:35:01.09,0:35:03.26,Default,,0,0,0,,¡POR TI!
+Dialogue: 0,0:35:14.44,0:35:16.91,Default,,0,0,0,,¡Aaaah!
+Dialogue: 0,0:35:18.14,0:35:19.28,Default,,0,0,0,,No, para.
+Dialogue: 0,0:35:19.31,0:35:20.35,Default,,0,0,0,,¡Les estas haciendo daño!
+Dialogue: 0,0:35:20.38,0:35:21.81,Default,,0,0,0,,¡Ahh!
+Dialogue: 0,0:35:21.85,0:35:23.45,Default,,0,0,0,,¡Ahh!
+Dialogue: 0,0:35:31.22,0:35:32.99,Default,,0,0,0,,Ten.
+Dialogue: 0,0:35:42.64,0:35:43.70,Default,,0,0,0,,¿Qué estás haciendo?
+Dialogue: 0,0:35:43.74,0:35:46.04,Default,,0,0,0,,¡Rosa! ¿Porqué te ries?
+Dialogue: 0,0:36:03.16,0:36:05.99,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:36:06.03,0:36:07.83,Default,,0,0,0,,¡Oh!
+Dialogue: 0,0:36:07.86,0:36:11.23,Default,,0,0,0,,¿Volvéis a estar juntos? ¿Vuelves a ser tú?
+Dialogue: 0,0:36:11.26,0:36:13.50,Default,,0,0,0,,¡Si! ¡Soy yo!
+Dialogue: 0,0:36:13.53,0:36:15.30,Default,,0,0,0,,Siempre fui yo...
+Dialogue: 0,0:36:15.34,0:36:18.00,Default,,0,0,0,,¡No! ¡Tú eres Diamante Rosa!
+Dialogue: 0,0:36:18.04,0:36:21.47,Default,,0,0,0,,¡Esa es la gema de Diamante Rosa! ¡No eres como ella!
+Dialogue: 0,0:36:21.51,0:36:22.84,Default,,0,0,0,,¡Tu voz no es como la suya!
+Dialogue: 0,0:36:22.88,0:36:25.58,Default,,0,0,0,,No eres mitad humano, solo estás...
+Dialogue: 0,0:36:25.61,0:36:28.21,Default,,0,0,0,,¡comportándote como un crío!
+Dialogue: 0,0:36:28.25,0:36:30.18,Default,,0,0,0,,Soy un crío.
+Dialogue: 0,0:36:30.22,0:36:32.05,Default,,0,0,0,,¿Cuál es tu excusa ahora?
+Dialogue: 0,0:36:45.53,0:36:47.00,Default,,0,0,0,,¿Qué está pasando?
+Dialogue: 0,0:36:47.03,0:36:48.03,Default,,0,0,0,,¿Qué es esto?
+Dialogue: 0,0:36:48.07,0:36:49.50,Default,,0,0,0,,¿Que les pasa a ellas?
+Dialogue: 0,0:36:49.54,0:36:52.10,Default,,0,0,0,,¡Se están volviendo rosas!
+Dialogue: 0,0:36:52.14,0:36:53.71,Default,,0,0,0,,No lo entiendo...
+Dialogue: 0,0:36:53.74,0:36:57.28,Default,,0,0,0,,Están bajo mi control, están...
+Dialogue: 0,0:36:57.31,0:36:58.44,Default,,0,0,0,,¡Algo esta mal!
+Dialogue: 0,0:36:58.48,0:37:00.35,Default,,0,0,0,,¡Soy yo!
+Dialogue: 0,0:37:00.38,0:37:02.11,Default,,0,0,0,,¡No!
+Dialogue: 0,0:37:08.42,0:37:09.85,Default,,0,0,0,,Ambos: ¡Chicos!
+Dialogue: 0,0:37:09.89,0:37:14.36,Default,,0,0,0,,Steven...\N¿Estáis bien?
+Dialogue: 0,0:37:14.39,0:37:16.63,Default,,0,0,0,,Uh, ¿Qué ha pasado?
+Dialogue: 0,0:37:16.66,0:37:18.86,Default,,0,0,0,,¡Creó que Steven lo ha logrado!
+Dialogue: 0,0:37:18.90,0:37:20.10,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:37:20.13,0:37:22.77,Default,,0,0,0,,¡Hah!\N¡Ha!
+Dialogue: 0,0:37:22.80,0:37:24.54,Default,,0,0,0,,Escuchad, diamantes...
+Dialogue: 0,0:37:24.57,0:37:27.44,Default,,0,0,0,,Las Gemas de Cristal están aquí para... ¿Eh?
+Dialogue: 0,0:37:29.98,0:37:31.11,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:37:32.45,0:37:34.58,Default,,0,0,0,,¿Estás bien? ¿Estás herido?
+Dialogue: 0,0:37:34.61,0:37:35.88,Default,,0,0,0,,Oh, mira a Blanco.
+Dialogue: 0,0:37:35.92,0:37:38.55,Default,,0,0,0,,¡Esta temblando como un flan!
+Dialogue: 0,0:37:38.58,0:37:42.22,Default,,0,0,0,,Qu... ¿Que ha pasado?
+Dialogue: 0,0:37:42.26,0:37:43.89,Default,,0,0,0,,¿Dónde estoy?
+Dialogue: 0,0:37:43.92,0:37:45.22,Default,,0,0,0,,Bienvenida de nuevo.
+Dialogue: 0,0:37:45.26,0:37:46.66,Default,,0,0,0,,¡¿Qué es esto?!
+Dialogue: 0,0:37:46.69,0:37:49.66,Default,,0,0,0,,Me siento... ridícula.
+Dialogue: 0,0:37:49.70,0:37:51.63,Default,,0,0,0,,¡Amarillo, Azul!
+Dialogue: 0,0:37:51.66,0:37:55.77,Default,,0,0,0,,¡Esta descolorida!
+Dialogue: 0,0:37:58.77,0:38:00.31,Default,,0,0,0,,¡Esto no puede estar pasando!
+Dialogue: 0,0:38:00.34,0:38:03.94,Default,,0,0,0,,¡No puedo tener un defecto! ¡Se supone que soy perfecta!
+Dialogue: 0,0:38:03.98,0:38:07.08,Default,,0,0,0,,Si no soy perfecta, entonces... ¿Quién soy?
+Dialogue: 0,0:38:07.11,0:38:10.48,Default,,0,0,0,,Si tu no eres Rosa, entonces... ¿Quién eres tú?
+Dialogue: 0,0:38:10.52,0:38:12.75,Default,,0,0,0,,Qu... ¿Quién es quién entonces?
+Dialogue: 0,0:38:12.79,0:38:16.79,Default,,0,0,0,,Sabes, si simplemente dejas que todos sean quienes quieran,
+Dialogue: 0,0:38:16.82,0:38:20.09,Default,,0,0,0,,tal vez tu también puedas ser quien quieras.
+Dialogue: 0,0:38:20.13,0:38:22.09,Default,,0,0,0,,¡Pero se supone que no debería ser así!
+Dialogue: 0,0:38:22.13,0:38:25.70,Default,,0,0,0,,¡Se supone que se más que los demás! ¡Se supone que soy mejor!
+Dialogue: 0,0:38:25.73,0:38:29.53,Default,,0,0,0,,¡Se supone que hago todo bien!
+Dialogue: 0,0:38:29.57,0:38:30.97,Default,,0,0,0,,¡Y puedes!
+Dialogue: 0,0:38:31.00,0:38:34.11,Default,,0,0,0,,Pero primero, vas a tener que salir de tu cabeza.
+Dialogue: 0,0:38:42.32,0:38:43.55,Default,,0,0,0,,Y miremos aquel lugar,
+Dialogue: 0,0:38:43.58,0:38:45.65,Default,,0,0,0,,♫Bueno, chico eso esta genial.♫
+Dialogue: 0,0:38:45.69,0:38:48.32,Default,,0,0,0,,♫Iremos tambien en ese lugar♫
+Dialogue: 0,0:38:48.35,0:38:51.49,Default,,0,0,0,,♫Donde nadie nos pueda oir,♫
+Dialogue: 0,0:38:51.52,0:38:54.16,Default,,0,0,0,,♫Y se que no tengo un plan,♫
+Dialogue: 0,0:38:54.19,0:38:56.66,Default,,0,0,0,,♫Trabajaré en ello,♫
+Dialogue: 0,0:38:56.70,0:38:58.80,Default,,0,0,0,,♫Y tengo una caravana,♫
+Dialogue: 0,0:38:58.83,0:39:01.67,Default,,0,0,0,,♫Entonces conduciré a tu corazón,♫
+Dialogue: 0,0:39:01.70,0:39:04.34,Default,,0,0,0,,♫dejame conducir en tu corazón,♫
+Dialogue: 0,0:39:04.37,0:39:06.87,Default,,0,0,0,,♫dejame conducir en tu corazón,♫
+Dialogue: 0,0:39:06.91,0:39:09.67,Default,,0,0,0,,♫dejame conducir en tu corazón♫
+Dialogue: 0,0:39:09.71,0:39:14.31,Default,,0,0,0,,♫¡dejame conducir en tu corazón!♫
+Dialogue: 0,0:39:28.36,0:39:30.60,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:39:30.63,0:39:31.73,Default,,0,0,0,,¡Papá!
+Dialogue: 0,0:39:34.13,0:39:36.10,Default,,0,0,0,,¡Uuf!
+Dialogue: 0,0:39:36.14,0:39:38.00,Default,,0,0,0,,¡Bienvenido a casa!
+Dialogue: 0,0:39:38.04,0:39:39.77,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:39:44.58,0:39:49.21,Default,,0,0,0,,Padparadscha: Predigo que nuestro viaje acabará pronto.
+Dialogue: 0,0:39:49.25,0:39:51.05,Default,,0,0,0,,Lars: Bienvenidos a casa, amigos.
+Dialogue: 0,0:39:51.08,0:39:53.42,Default,,0,0,0,,¡Lo hemos logrado! ¡La Tierra!
+Dialogue: 0,0:39:53.45,0:39:55.59,Default,,0,0,0,,¡No más correr, no más esconderse!
+Dialogue: 0,0:39:55.62,0:39:58.39,Default,,0,0,0,,¡No más Autoridad Diamante!
+Dialogue: 0,0:40:01.39,0:40:03.46,Default,,0,0,0,,Bueno... la hemos palmao.
+Dialogue: 0,0:40:03.50,0:40:06.06,Default,,0,0,0,,¡Esperad! ¡Todo está bien!
+Dialogue: 0,0:40:06.10,0:40:08.87,Default,,0,0,0,,Se lo que estáis pensando, pero están aquí para ayudar.
+Dialogue: 0,0:40:08.90,0:40:11.57,Default,,0,0,0,,Excluidos, os presento a las diamantes.
+Dialogue: 0,0:40:11.60,0:40:14.41,Default,,0,0,0,,Diamantes, os presento a los excluidos.
+Dialogue: 0,0:40:16.34,0:40:17.94,Default,,0,0,0,,Hola.
+Dialogue: 0,0:40:17.98,0:40:20.14,Default,,0,0,0,,¡Aah! ¡Los diamantes!
+Dialogue: 0,0:40:21.31,0:40:23.55,Default,,0,0,0,,¡Padparadscha, tranquila!
+Dialogue: 0,0:40:23.58,0:40:27.22,Default,,0,0,0,,Hey, Lars, ¿Recuerdas a León?
+Dialogue: 0,0:40:27.25,0:40:29.09,Default,,0,0,0,,Hey, hola amigo.
+Dialogue: 0,0:40:29.12,0:40:30.99,Default,,0,0,0,,¡Wow!
+Dialogue: 0,0:40:31.02,0:40:34.39,Default,,0,0,0,,¿Lars? ¡Realmente eres tú!
+Dialogue: 0,0:40:34.43,0:40:36.33,Default,,0,0,0,,¡¿Sadie?!
+Dialogue: 0,0:40:36.36,0:40:38.40,Default,,0,0,0,,¡Alii está! ¡Es ella!
+Dialogue: 0,0:40:38.43,0:40:41.23,Default,,0,0,0,,Vamos a conocer a Sadie... ¡En persona!
+Dialogue: 0,0:40:41.27,0:40:43.60,Default,,0,0,0,,Hey.
+Dialogue: 0,0:40:43.64,0:40:45.84,Default,,0,0,0,,¡Lars no va a saber que decir!
+Dialogue: 0,0:40:45.87,0:40:48.24,Default,,0,0,0,,Rhodonita: ¡Shh! ¡Dales un momento!
+Dialogue: 0,0:40:48.27,0:40:51.28,Default,,0,0,0,,Lars... ¡Mirate!
+Dialogue: 0,0:40:51.31,0:40:53.64,Default,,0,0,0,,Eres... ¡Eres un pirata espacial!
+Dialogue: 0,0:40:53.68,0:40:58.32,Default,,0,0,0,,¡Mirate! ¡Eres una estrella de Rock!
+Dialogue: 0,0:40:58.35,0:41:00.52,Default,,0,0,0,,Bueno...
+Dialogue: 0,0:41:04.56,0:41:06.59,Default,,0,0,0,,¡Creo que nos queda bien!
+Dialogue: 0,0:41:06.63,0:41:09.13,Default,,0,0,0,,Si. ¡Yo también lo creo!
+Dialogue: 0,0:41:09.16,0:41:11.93,Default,,0,0,0,,¡...Una más... una más...!\N¡Ah! ¡Tengo que volver al escenario!
+Dialogue: 0,0:41:11.96,0:41:14.77,Default,,0,0,0,,¡Oh, no! ¡Me he cargado tu concierto!
+Dialogue: 0,0:41:14.80,0:41:17.30,Default,,0,0,0,,¡Más quisieras! Esta vez ha sido Steven.
+Dialogue: 0,0:41:17.34,0:41:18.54,Default,,0,0,0,,¡Lo siento, Sadie!
+Dialogue: 0,0:41:18.57,0:41:19.77,Default,,0,0,0,,¡Te lo compensaré!
+Dialogue: 0,0:41:19.81,0:41:23.94,Default,,0,0,0,,Hey, ¡Esa no es mala idea!
+Dialogue: 0,0:41:23.98,0:41:26.31,Default,,0,0,0,,Hey, Beach City, ¡Esto aún no ha acabado!
+Dialogue: 0,0:41:26.35,0:41:29.48,Default,,0,0,0,,Me gustaría darle la bienvenida al escenario a un amigo mio...
+Dialogue: 0,0:41:29.52,0:41:31.62,Default,,0,0,0,,¡Steven Universe!
+Dialogue: 0,0:41:33.59,0:41:35.39,Default,,0,0,0,,¡Gracias, Sadie!
+Dialogue: 0,0:41:36.99,0:41:38.36,Default,,0,0,0,,♫Las♫
+Dialogue: 0,0:41:38.39,0:41:40.96,Default,,0,0,0,,♫Gemas de Cristal♫
+Dialogue: 0,0:41:40.99,0:41:43.86,Default,,0,0,0,,♫te ayudan si estás mal,♫
+Dialogue: 0,0:41:43.90,0:41:46.83,Default,,0,0,0,,♫y no hay complicación,♫
+Dialogue: 0,0:41:46.87,0:41:49.53,Default,,0,0,0,,♫qué no tenga solución.♫
+Dialogue: 0,0:41:49.57,0:41:54.04,Default,,0,0,0,,♫Por eso el mundo entero hoy,♫
+Dialogue: 0,0:41:54.07,0:41:55.74,Default,,0,0,0,,♫confía en:♫
+Dialogue: 0,0:41:55.78,0:41:59.48,Default,,0,0,0,,♫Granate, Amatista, Perla♫
+Dialogue: 0,0:41:59.51,0:42:00.98,Default,,0,0,0,,♫y...♫
+Dialogue: 0,0:42:23.64,0:42:26.17,Default,,0,0,0,,♫Si te pararas a observarnos,♫
+Dialogue: 0,0:42:26.21,0:42:29.34,Default,,0,0,0,,♫verás que somos mucho más que cuatro,♫
+Dialogue: 0,0:42:29.38,0:42:32.18,Default,,0,0,0,,♫y cada nuevo amigo nos completa,♫
+Dialogue: 0,0:42:32.21,0:42:34.85,Default,,0,0,0,,♫Iremos juntos, comeremos pizza.♫
+Dialogue: 0,0:42:34.88,0:42:39.18,Default,,0,0,0,,♫Porque, yo creo, en paz♫
+Dialogue: 0,0:42:39.22,0:42:40.85,Default,,0,0,0,,♫y amor,♫
+Dialogue: 0,0:42:40.89,0:42:46.22,Default,,0,0,0,,♫me quiero reir.♫
+Dialogue: 0,0:42:46.26,0:42:48.73,Default,,0,0,0,,♫Si no estas♫
+Dialogue: 0,0:42:48.76,0:42:51.63,Default,,0,0,0,,♫deseando pelear,♫
+Dialogue: 0,0:42:51.66,0:42:54.53,Default,,0,0,0,,♫eso es,♫
+Dialogue: 0,0:42:54.57,0:42:57.03,Default,,0,0,0,,♫que hemos ganado.♫
+Dialogue: 0,0:43:48.85,0:43:50.66,Default,,0,0,0,,Perla: ¿Hay sitio para tres más?
+Dialogue: 0,0:43:52.12,0:43:53.42,Default,,0,0,0,,Siempre.
+Dialogue: 0,0:43:53.46,0:43:55.93,Default,,0,0,0,,¿Qué estás tocando? Tengo una idea.
+Dialogue: 0,0:43:55.96,0:43:59.66,Default,,0,0,0,,Tengo una idea para una canción... pero sólo es una idea.
+Dialogue: 0,0:43:59.70,0:44:00.93,Default,,0,0,0,,Vamos a escucharla.
+Dialogue: 0,0:44:00.97,0:44:03.07,Default,,0,0,0,,¡Sí! ¡Sí, por favor!
+Dialogue: 0,0:44:03.10,0:44:07.20,Default,,0,0,0,,♫No necesito que me respeten, me respeto.♫
+Dialogue: 0,0:44:07.24,0:44:11.11,Default,,0,0,0,,♫No necesito que me quieran, me quiero.♫
+Dialogue: 0,0:44:11.14,0:44:14.45,Default,,0,0,0,,♫Pero quiero que tu sepas que podrás...♫
+Dialogue: 0,0:44:14.48,0:44:19.28,Default,,0,0,0,,♫Si tú cambias de opinión...♫
+Dialogue: 0,0:44:19.32,0:44:23.05,Default,,0,0,0,,♫Si tú cambias de opinión...♫
+Dialogue: 0,0:44:23.09,0:44:27.63,Default,,0,0,0,,♫Si tú cambias de opinión...♫
+Dialogue: 0,0:44:27.66,0:44:34.10,Default,,0,0,0,,♫Cambiar de opinión.♫
+Dialogue: 0,0:44:35.94,0:44:42.71,Default,,0,0,0,,Subtitulado por Carlos Chamba Cabrera.

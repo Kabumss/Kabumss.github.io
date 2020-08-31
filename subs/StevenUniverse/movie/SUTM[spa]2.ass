@@ -1,0 +1,1359 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven.Universe.The.Movie.2019.720p.WEBRip.x264.AAC-[YTS.MX]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.71,0:00:16.02,Default,,0,0,0,,♪ Steven ♪
+Dialogue: 0,0:00:16.18,0:00:20.30,Default,,0,0,0,,♪ Todos creen en ♪
+Dialogue: 0,0:00:20.30,0:00:22.44,Default,,0,0,0,,♪ Steven ♪
+Dialogue: 0,0:00:22.58,0:00:26.48,Default,,0,0,0,,♪ A través del universo ♪
+Dialogue: 0,0:00:26.97,0:00:29.10,Default,,0,0,0,,♪ Siempre compasivo ♪
+Dialogue: 0,0:00:29.21,0:00:31.11,Default,,0,0,0,,♪ ¿Puedes imaginarlo? ♪
+Dialogue: 0,0:00:31.20,0:00:35.23,Default,,0,0,0,,♪ Incluso con nosotras siendo de lo peor ♪
+Dialogue: 0,0:00:35.86,0:00:39.73,Default,,0,0,0,,♪ Hijo híbrido de una Diamond ♪
+Dialogue: 0,0:00:40.00,0:00:44.10,Default,,0,0,0,,♪ Hijo humano de una Rose ♪
+Dialogue: 0,0:00:44.20,0:00:48.31,Default,,0,0,0,,♪ Que revelación, es una revolución ♪
+Dialogue: 0,0:00:48.39,0:00:53.34,Default,,0,0,0,,♪ Una gema que ama y crece ♪
+Dialogue: 0,0:00:53.40,0:00:55.65,Default,,0,0,0,,♪ Steven ♪
+Dialogue: 0,0:00:55.93,0:00:59.96,Default,,0,0,0,,♪ ¿Has oído la historia de ♪
+Dialogue: 0,0:01:00.01,0:01:02.22,Default,,0,0,0,,♪ Steven? ♪
+Dialogue: 0,0:01:02.38,0:01:06.62,Default,,0,0,0,,♪ Siempre poniendo a los demás primero ♪
+Dialogue: 0,0:01:06.90,0:01:11.29,Default,,0,0,0,,♪ ¿Puedes imaginarlo? Siempre compasivo ♪
+Dialogue: 0,0:01:11.31,0:01:17.22,Default,,0,0,0,,♪ Steven Universe ♪
+Dialogue: 0,0:01:17.45,0:01:19.02,Default,,0,0,0,,Hace mucho tiempo
+Dialogue: 0,0:01:19.03,0:01:22.19,Default,,0,0,0,,el planeta natal de las gemas\Nestaba reinado por las Diamantes...
+Dialogue: 0,0:01:22.59,0:01:24.99,Default,,0,0,0,,White, Yellow, Blue...
+Dialogue: 0,0:01:25.22,0:01:27.59,Default,,0,0,0,,Y la más pequeña, Pink.
+Dialogue: 0,0:01:28.65,0:01:32.06,Default,,0,0,0,,Mientras las demás Diamantes conquistaban\Nmuchos mundos a través de la galaxia,
+Dialogue: 0,0:01:32.40,0:01:35.44,Default,,0,0,0,,Pink sólo tenía uno... El planeta Tierra.
+Dialogue: 0,0:01:36.79,0:01:40.26,Default,,0,0,0,,Un día, Pink huyó de las comodidades de Homeworld.
+Dialogue: 0,0:01:40.55,0:01:44.10,Default,,0,0,0,,En la Tierra encontró un nuevo hogar, nuevos amigos,
+Dialogue: 0,0:01:44.46,0:01:46.50,Default,,0,0,0,,y finalmente, una nueva vida.
+Dialogue: 0,0:01:46.79,0:01:48.23,Default,,0,0,0,,Renunciando a su forma
+Dialogue: 0,0:01:48.42,0:01:51.95,Default,,0,0,0,,para cederle su gema a su hijo mitad humano.
+Dialogue: 0,0:01:53.21,0:01:57.00,Default,,0,0,0,,Sin Pink, las gemas entraron\Nen un era de desesperación.
+Dialogue: 0,0:01:57.26,0:01:59.70,Default,,0,0,0,,Pero cuando\NSteven Universe supo de su herencia,
+Dialogue: 0,0:01:59.75,0:02:01.84,Default,,0,0,0,,se reunió con sus compañeras Diamantes
+Dialogue: 0,0:02:01.85,0:02:05.50,Default,,0,0,0,,y se estableció una nueva era de paz y libertad
+Dialogue: 0,0:02:05.51,0:02:08.30,Default,,0,0,0,,a través de las más lejanas regiones del espacio.
+Dialogue: 0,0:02:09.20,0:02:13.85,Default,,0,0,0,,Y ahora, queridas gemas de todas partes,\Nme complace anunciarles
+Dialogue: 0,0:02:13.85,0:02:16.00,Default,,0,0,0,,que Steven esta finalmente listo para tomar
+Dialogue: 0,0:02:16.01,0:02:19.30,Default,,0,0,0,,su correspondiente lugar en\Nel trono de Pink Diamond.
+Dialogue: 0,0:02:21.44,0:02:23.00,Default,,0,0,0,,¿Cómo les va a todos?
+Dialogue: 0,0:02:25.08,0:02:28.20,Default,,0,0,0,,Sé que todos deben estar pensando\Nque soy la nueva Pink Diamond,
+Dialogue: 0,0:02:28.21,0:02:29.97,Default,,0,0,0,,pero no tienen que ponerme en un trono.
+Dialogue: 0,0:02:30.25,0:02:32.62,Default,,0,0,0,,Ya tengo un lugar que\Nme corresponde, y es en la Tierra.
+Dialogue: 0,0:02:33.34,0:02:34.35,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:02:35.73,0:02:37.96,Default,,0,0,0,,Es una casa en la playa, donde vivo con mis amigas
+Dialogue: 0,0:02:38.01,0:02:39.78,Default,,0,0,0,,Garnet, Amethyst y Pearl.
+Dialogue: 0,0:02:39.98,0:02:42.40,Default,,0,0,0,,Por mucho que me haya\Ngustado desmantelar el imperio
+Dialogue: 0,0:02:42.41,0:02:43.66,Default,,0,0,0,,y salvar todos sus planetas,
+Dialogue: 0,0:02:44.02,0:02:47.10,Default,,0,0,0,,no puedo esperar para volver a mi hogar y\Npasar un tiempo de calidad con mis amigos.
+Dialogue: 0,0:02:49.33,0:02:50.20,Default,,0,0,0,,Corten la transmisión.
+Dialogue: 0,0:02:50.63,0:02:52.40,Default,,0,0,0,,Su tiempo se terminó de todos modos.
+Dialogue: 0,0:02:57.78,0:02:58.90,Default,,0,0,0,,Creo que eso salió bien.
+Dialogue: 0,0:02:59.54,0:03:01.31,Default,,0,0,0,,Steven, por favor.
+Dialogue: 0,0:03:01.31,0:03:02.67,Default,,0,0,0,,No puedes irte.
+Dialogue: 0,0:03:02.68,0:03:03.94,Default,,0,0,0,,Debes quedarte.
+Dialogue: 0,0:03:03.98,0:03:06.15,Default,,0,0,0,,Eres todo lo que nos queda de Pink.
+Dialogue: 0,0:03:06.56,0:03:10.11,Default,,0,0,0,,Steven, perteneces aquí, con nosotras.
+Dialogue: 0,0:03:10.99,0:03:13.10,Default,,0,0,0,,Gracias, pero... no gracias.
+Dialogue: 0,0:03:14.00,0:03:17.19,Default,,0,0,0,,♪ Ven a vivir con nosotras en el palacio ♪
+Dialogue: 0,0:03:17.39,0:03:20.09,Default,,0,0,0,,♪ Hay una habitación esperando por ti ♪
+Dialogue: 0,0:03:20.82,0:03:22.49,Default,,0,0,0,,♪ Vamos ♪\N♪ Vamos ♪
+Dialogue: 0,0:03:22.49,0:03:23.85,Default,,0,0,0,,♪ Vamos ♪
+Dialogue: 0,0:03:24.15,0:03:27.03,Default,,0,0,0,,♪ Sólo déjanos adorarte ♪
+Dialogue: 0,0:03:27.15,0:03:29.86,Default,,0,0,0,,Chicas, realmente han mejorado\Nen cómo dar afecto,
+Dialogue: 0,0:03:30.06,0:03:31.81,Default,,0,0,0,,pero tengo que una vida a la que volver.
+Dialogue: 0,0:03:31.94,0:03:33.75,Default,,0,0,0,,No lo olviden, no soy Pink Diamond.
+Dialogue: 0,0:03:33.89,0:03:37.09,Default,,0,0,0,,♪ Sí, sabemos que no eres ella ♪
+Dialogue: 0,0:03:37.09,0:03:39.19,Default,,0,0,0,,♪ pero lo eras ♪
+Dialogue: 0,0:03:40.98,0:03:44.41,Default,,0,0,0,,♪ Sabes lo que significaba amarla ♪
+Dialogue: 0,0:03:44.42,0:03:47.88,Default,,0,0,0,,♪ Y nos recuerdas tanto a ella ♪
+Dialogue: 0,0:03:48.06,0:03:50.12,Default,,0,0,0,,Gracias. Pero realmente tengo que irme.
+Dialogue: 0,0:03:50.19,0:03:51.28,Default,,0,0,0,,¡Pero Steven...!
+Dialogue: 0,0:03:51.61,0:03:53.31,Default,,0,0,0,,¡Disolví mis ejércitos!
+Dialogue: 0,0:03:53.32,0:03:55.12,Default,,0,0,0,,Liberé mis colonias.
+Dialogue: 0,0:03:55.13,0:03:56.18,Default,,0,0,0,,Ya no me deprimo.
+Dialogue: 0,0:03:56.30,0:03:57.96,Default,,0,0,0,,Ya no hago llorar a nadie.
+Dialogue: 0,0:03:58.00,0:04:02.19,Default,,0,0,0,,He estado diciendo "por favor" y "gracias",\Nincluso a formas de vida inferiores.
+Dialogue: 0,0:04:02.45,0:04:03.72,Default,,0,0,0,,¿Qué hablamos sobre eso?
+Dialogue: 0,0:04:04.68,0:04:06.63,Default,,0,0,0,,Formas de vida {\i1}iguales{\i0}
+Dialogue: 0,0:04:06.70,0:04:09.87,Default,,0,0,0,,Steven, hemos hecho todo lo que nos has pedido.
+Dialogue: 0,0:04:09.94,0:04:11.53,Default,,0,0,0,,¡Eso es genial! Buen trabajo.
+Dialogue: 0,0:04:11.55,0:04:13.04,Default,,0,0,0,,Sigan así. ¡Adiós!
+Dialogue: 0,0:04:24.61,0:04:26.74,Default,,0,0,0,,¡Steven! ¿Por qué tardaste tanto?
+Dialogue: 0,0:04:29.17,0:04:30.16,Default,,0,0,0,,Las Diamantes.
+Dialogue: 0,0:04:30.42,0:04:32.73,Default,,0,0,0,,{\i1}Realmente{\i0} quieren que viva con ellas.
+Dialogue: 0,0:04:32.98,0:04:35.00,Default,,0,0,0,,-¿Porqué?\N-Porque quieren sofocarme
+Dialogue: 0,0:04:35.01,0:04:36.90,Default,,0,0,0,,con atención las 24 horas.
+Dialogue: 0,0:04:37.69,0:04:38.95,Default,,0,0,0,,Suena divertido.
+Dialogue: 0,0:04:39.08,0:04:40.63,Default,,0,0,0,,No, no lo es.
+Dialogue: 0,0:04:40.99,0:04:43.04,Default,,0,0,0,,Bueno, me alegra poder verte antes de irme.
+Dialogue: 0,0:04:43.44,0:04:44.83,Default,,0,0,0,,¿Realmente vas a ir?
+Dialogue: 0,0:04:45.08,0:04:47.86,Default,,0,0,0,,Por supuesto. Siempre he querido ir\Nal campamento espacial.
+Dialogue: 0,0:04:48.01,0:04:50.95,Default,,0,0,0,,Pero literalmente has estado\Nen el espacio varias veces.
+Dialogue: 0,0:04:50.96,0:04:53.24,Default,,0,0,0,,Y has hecho cosas más geniales que\Nsólo acampar.
+Dialogue: 0,0:04:53.30,0:04:55.91,Default,,0,0,0,,Mis padres hacen lo que pueden para\Napoyar mis intereses.
+Dialogue: 0,0:04:56.08,0:04:57.03,Default,,0,0,0,,Es dulce.
+Dialogue: 0,0:04:57.42,0:05:00.30,Default,,0,0,0,,Además, tendré todo el helado liofilizado que\Npueda comer.
+Dialogue: 0,0:05:00.67,0:05:03.11,Default,,0,0,0,,Pero {\i1}Sadie Killer and the Suspects{\i0} tocan\Nesta noche.
+Dialogue: 0,0:05:03.20,0:05:05.95,Default,,0,0,0,,¿No es un concierto de Rock un poco mejor\Nque el campamento espacial?
+Dialogue: 0,0:05:06.41,0:05:08.59,Default,,0,0,0,,Es, quizás, igual que el campamento.
+Dialogue: 0,0:05:10.25,0:05:12.34,Default,,0,0,0,,Es mi madre. Debería irme.
+Dialogue: 0,0:05:17.28,0:05:18.28,Default,,0,0,0,,¡Adiós!
+Dialogue: 0,0:05:22.55,0:05:25.65,Default,,0,0,0,,Dile a todos en el campamento que\Nel espacio solía ser aterrador y peligroso,
+Dialogue: 0,0:05:25.66,0:05:26.63,Default,,0,0,0,,¡Pero que ahora es genial!
+Dialogue: 0,0:05:26.78,0:05:28.45,Default,,0,0,0,,¡Lo haré!
+Dialogue: 0,0:05:31.78,0:05:33.67,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,0:05:34.38,0:05:37.62,Default,,0,0,0,,♪ Este es futuro, y es brillante ♪
+Dialogue: 0,0:05:40.05,0:05:42.75,Default,,0,0,0,,♪ Nada que temer, nadie con quien luchar ♪
+Dialogue: 0,0:05:44.38,0:05:46.97,Default,,0,0,0,,♪ No puedo creer ♪
+Dialogue: 0,0:05:47.05,0:05:49.52,Default,,0,0,0,,♪ Que hayamos llegado tan lejos ♪
+Dialogue: 0,0:05:50.38,0:05:53.03,Default,,0,0,0,,♪ Felices para siempre, aquí estamos ♪
+Dialogue: 0,0:05:55.38,0:05:57.04,Default,,0,0,0,,♪ Hace mucho tiempo ♪
+Dialogue: 0,0:05:57.06,0:06:00.45,Default,,0,0,0,,♪ creía que siempre estaría\Nen la sombra de mi madre ♪
+Dialogue: 0,0:06:00.70,0:06:02.38,Default,,0,0,0,,♪ Respondiendo por sus crímenes ♪
+Dialogue: 0,0:06:02.39,0:06:05.89,Default,,0,0,0,,♪ creí que iba a estar una batalla eterna ♪
+Dialogue: 0,0:06:06.37,0:06:09.91,Default,,0,0,0,,♪ Hasta que comencé a perfeccionar ♪
+Dialogue: 0,0:06:11.72,0:06:15.16,Default,,0,0,0,,♪ Un poder propio ♪
+Dialogue: 0,0:06:17.07,0:06:22.34,Default,,0,0,0,,♪ Que podía sentir crecer\Ncada vez más fuerte cada día ♪
+Dialogue: 0,0:06:22.35,0:06:24.17,Default,,0,0,0,,♪ Y ahora he salvado el mundo ♪
+Dialogue: 0,0:06:24.18,0:06:26.51,Default,,0,0,0,,♪ No sólo eso,\Nla galaxia entera está salvada ♪
+Dialogue: 0,0:06:26.51,0:06:27.35,Default,,0,0,0,,♪ ¡Lo hicimos! ♪
+Dialogue: 0,0:06:27.79,0:06:29.65,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,0:06:31.58,0:06:33.05,Default,,0,0,0,,¡Hola, Pearl! ¡Hola, Papá!
+Dialogue: 0,0:06:33.16,0:06:34.21,Default,,0,0,0,,Hola, Stewball.
+Dialogue: 0,0:06:34.24,0:06:37.15,Default,,0,0,0,,¡Steven!\NEstoy aprendiendo a tocar el "bajó".
+Dialogue: 0,0:06:37.32,0:06:39.36,Default,,0,0,0,,Sigo diciéndole que es "bajo".
+Dialogue: 0,0:06:39.64,0:06:42.88,Default,,0,0,0,,Disculpa, B-A-J-O, se pronuncia "bajó".
+Dialogue: 0,0:06:43.10,0:06:43.95,Default,,0,0,0,,Tú eres la jefa.
+Dialogue: 0,0:06:44.92,0:06:46.40,Default,,0,0,0,,Diablos, sí, lo soy.
+Dialogue: 0,0:06:47.43,0:06:49.15,Default,,0,0,0,,♪ Hace mucho tiempo ♪
+Dialogue: 0,0:06:49.16,0:06:52.56,Default,,0,0,0,,♪ vivía sólo para servir a Pink Diamond ♪
+Dialogue: 0,0:06:52.71,0:06:54.94,Default,,0,0,0,,♪ Hasta el día en que las dos ♪
+Dialogue: 0,0:06:54.95,0:06:57.91,Default,,0,0,0,,♪ nos infiltramos en la superficie\Nde este planeta ♪
+Dialogue: 0,0:06:58.75,0:07:03.02,Default,,0,0,0,,♪ ¡Se convirtió en nuestra fantasía! ♪
+Dialogue: 0,0:07:03.72,0:07:08.20,Default,,0,0,0,,♪ ¡Y estaba segura de que ella me liberó! ♪
+Dialogue: 0,0:07:09.06,0:07:14.56,Default,,0,0,0,,♪ Pero al final supongo que\Nnunca me fui de su lado ♪
+Dialogue: 0,0:07:14.60,0:07:16.31,Default,,0,0,0,,♪ Y después de amar y perder ♪
+Dialogue: 0,0:07:16.32,0:07:19.35,Default,,0,0,0,,♪ y las lágrimas que derramé, descubro que ♪
+Dialogue: 0,0:07:19.73,0:07:21.45,Default,,0,0,0,,♪ este es el futuro ♪
+Dialogue: 0,0:07:23.59,0:07:24.11,Default,,0,0,0,,Hola, amigo.
+Dialogue: 0,0:07:24.74,0:07:25.84,Default,,0,0,0,,Iré a la ciudad.
+Dialogue: 0,0:07:25.86,0:07:27.34,Default,,0,0,0,,¿Te veo en el concierto esta noche?
+Dialogue: 0,0:07:27.36,0:07:28.76,Default,,0,0,0,,No me lo perdería por nada del mundo.
+Dialogue: 0,0:07:41.22,0:07:42.33,Default,,0,0,0,,¡Aquí estamos!
+Dialogue: 0,0:07:42.70,0:07:43.76,Default,,0,0,0,,Te guardé un asiento.
+Dialogue: 0,0:07:43.97,0:07:44.68,Default,,0,0,0,,Gracias, Garnet.
+Dialogue: 0,0:07:45.12,0:07:46.67,Default,,0,0,0,,Hola, chicos, ¿De qué me perdí?
+Dialogue: 0,0:07:46.99,0:07:49.40,Default,,0,0,0,,Llegas justo a tiempo para\Nmi parte favorita de la historia.
+Dialogue: 0,0:07:49.93,0:07:51.81,Default,,0,0,0,,♪ Hace mucho tiempo ♪
+Dialogue: 0,0:07:51.84,0:07:55.27,Default,,0,0,0,,♪ Una Sapphire vino a la Tierra con su soldado Ruby ♪
+Dialogue: 0,0:07:55.42,0:07:57.67,Default,,0,0,0,,♪ El destino fatal de Sapphire estaba decidido ♪
+Dialogue: 0,0:07:57.68,0:08:01.05,Default,,0,0,0,,♪ hasta que la Ruby corrió a salvarla ♪
+Dialogue: 0,0:08:01.38,0:08:05.35,Default,,0,0,0,,♪ De repente se estaban fusionando ♪
+Dialogue: 0,0:08:06.65,0:08:10.51,Default,,0,0,0,,♪ Hermoso, extraño, confuso ♪
+Dialogue: 0,0:08:11.92,0:08:17.22,Default,,0,0,0,,♪ Y allí estaba, llena de preguntas,\Ntan ingenua ♪
+Dialogue: 0,0:08:17.28,0:08:19.02,Default,,0,0,0,,♪ que si me hubieras dicho esto ♪
+Dialogue: 0,0:08:19.03,0:08:22.13,Default,,0,0,0,,♪ no te hubiera creído\Nen ese entonces, pero ♪
+Dialogue: 0,0:08:22.50,0:08:24.35,Default,,0,0,0,,♪ este es el futuro ♪
+Dialogue: 0,0:08:24.86,0:08:26.20,Default,,0,0,0,,Déjame guardar esto.
+Dialogue: 0,0:08:27.24,0:08:29.33,Default,,0,0,0,,Oye ¿Alguna idea de lo que\Nestá haciendo Amethyst?
+Dialogue: 0,0:08:29.38,0:08:31.65,Default,,0,0,0,,Tengo todas las ideas de lo que\Ntodos están haciendo.
+Dialogue: 0,0:08:32.40,0:08:34.20,Default,,0,0,0,,La encontrarás si vas\Na Little Homeworld.
+Dialogue: 0,0:08:34.58,0:08:35.27,Default,,0,0,0,,Toma el portal.
+Dialogue: 0,0:08:40.76,0:08:41.88,Default,,0,0,0,,¡Cuidado, viejo!
+Dialogue: 0,0:08:43.76,0:08:45.00,Default,,0,0,0,,!Un, dos, tres!\N!Un, dos, tres!
+Dialogue: 0,0:08:45.80,0:08:46.81,Default,,0,0,0,,Gracias, Amethyst.
+Dialogue: 0,0:08:47.58,0:08:48.75,Default,,0,0,0,,Steven,
+Dialogue: 0,0:08:48.80,0:08:50.07,Default,,0,0,0,,¡Llegas justo a tiempo!
+Dialogue: 0,0:08:50.22,0:08:51.99,Default,,0,0,0,,Estamos a punto de instalar\Nel nuevo portal.
+Dialogue: 0,0:08:52.13,0:08:55.50,Default,,0,0,0,,Lo que significa que Little Homeworld está\Nun 83,7% completo.
+Dialogue: 0,0:08:55.62,0:08:57.83,Default,,0,0,0,,¿Sólo 83,7%?
+Dialogue: 0,0:08:57.91,0:08:59.23,Default,,0,0,0,,Será mejor que nos apresuremos.
+Dialogue: 0,0:08:59.25,0:09:00.45,Default,,0,0,0,,¡Estoy en eso!
+Dialogue: 0,0:09:05.23,0:09:06.94,Default,,0,0,0,,Little Homeworld está creciendo rápido.
+Dialogue: 0,0:09:07.04,0:09:07.99,Default,,0,0,0,,Igual que tú.
+Dialogue: 0,0:09:08.37,0:09:10.37,Default,,0,0,0,,¡Mírame! ¡Soy un adulto joven!
+Dialogue: 0,0:09:11.67,0:09:14.64,Default,,0,0,0,,Me encanta que todas estas gemas quieran\Nhacer su nuevo hogar en la Tierra.
+Dialogue: 0,0:09:14.68,0:09:16.93,Default,,0,0,0,,Desearía haber tenido esto cuando emergí.
+Dialogue: 0,0:09:18.08,0:09:19.63,Default,,0,0,0,,♪ Hace mucho tiempo ♪
+Dialogue: 0,0:09:19.64,0:09:23.24,Default,,0,0,0,,♪ nací dentro del Kindergarten ♪
+Dialogue: 0,0:09:23.40,0:09:25.01,Default,,0,0,0,,♪ Producto de una guerra ♪
+Dialogue: 0,0:09:25.15,0:09:28.69,Default,,0,0,0,,♪ de la que no sabía que era parte ♪
+Dialogue: 0,0:09:29.11,0:09:32.13,Default,,0,0,0,,♪ Nací tarde y sola ♪
+Dialogue: 0,0:09:34.33,0:09:37.20,Default,,0,0,0,,♪ No conocía nada más que mi hogar ♪
+Dialogue: 0,0:09:39.91,0:09:42.07,Default,,0,0,0,,♪ Pero ahora se exactamente ♪
+Dialogue: 0,0:09:42.07,0:09:45.37,Default,,0,0,0,,♪ ¡Quién se supone que soy! ♪
+Dialogue: 0,0:09:46.25,0:09:48.75,Default,,0,0,0,,♪ Y es una parte de esta familia ♪
+Dialogue: 0,0:09:53.72,0:09:55.50,Default,,0,0,0,,Entonces, ¿Qué te parece?
+Dialogue: 0,0:09:55.95,0:09:59.95,Default,,0,0,0,,♪ Si pudiera parar aquí y haber ♪
+Dialogue: 0,0:10:01.23,0:10:03.86,Default,,0,0,0,,♪ Por fin terminado, por fin nosotros ♪
+Dialogue: 0,0:10:03.90,0:10:07.86,Default,,0,0,0,,♪ Por fin este ♪
+Dialogue: 0,0:10:07.91,0:10:09.90,Default,,0,0,0,,♪Es el futuro ♪
+Dialogue: 0,0:10:10.39,0:10:13.84,Default,,0,0,0,,♪ Este es el futuro, y es brillante ♪
+Dialogue: 0,0:10:16.05,0:10:18.45,Default,,0,0,0,,♪ Nada que temer, nadie con quien luchar ♪
+Dialogue: 0,0:10:20.38,0:10:25.50,Default,,0,0,0,,♪ No puedo creer, que hemos llegado tan lejos ♪
+Dialogue: 0,0:10:26.42,0:10:27.62,Default,,0,0,0,,♪ Felices para siempre ♪
+Dialogue: 0,0:10:27.62,0:10:30.69,Default,,0,0,0,,♪ Felices para siempre ♪\N♪ Felices para siempre ♪
+Dialogue: 0,0:10:30.77,0:10:37.83,Default,,0,0,0,,♪ ¡Aquí estamos! ♪
+Dialogue: 0,0:10:48.05,0:10:50.92,Default,,0,0,0,,Quiero que todo se quede exactamente así
+Dialogue: 0,0:10:50.99,0:10:52.22,Default,,0,0,0,,y que nunca cambie.
+Dialogue: 0,0:10:52.35,0:10:54.41,Default,,0,0,0,,-Estoy de acuerdo\N-Eso, eso.
+Dialogue: 0,0:10:54.61,0:10:55.79,Default,,0,0,0,,¿Cómo se ve el futuro, Garnet?
+Dialogue: 0,0:10:55.99,0:10:58.35,Default,,0,0,0,,¿Nos quedamos así para siempre?
+Dialogue: 0,0:11:01.02,0:11:01.40,Default,,0,0,0,,No.
+Dialogue: 0,0:11:23.91,0:11:26.37,Default,,0,0,0,,¡Oye! ¿Tú eres Steven Universe?
+Dialogue: 0,0:11:26.50,0:11:28.20,Default,,0,0,0,,Um... ¿Si?
+Dialogue: 0,0:11:28.50,0:11:29.90,Default,,0,0,0,,Perfecto.
+Dialogue: 0,0:11:40.19,0:11:40.77,Default,,0,0,0,,¡Muévanse!
+Dialogue: 0,0:11:47.39,0:11:49.58,Default,,0,0,0,,Oye, buen trabajo estacionándote, tonta.
+Dialogue: 0,0:12:03.55,0:12:05.29,Default,,0,0,0,,Vaya, vaya, vaya, vaya, vaya.
+Dialogue: 0,0:12:05.30,0:12:08.08,Default,,0,0,0,,Déjenme hecharle un vistazo al zoológico.
+Dialogue: 0,0:12:08.78,0:12:10.22,Default,,0,0,0,,Tú debes ser Amethyst.
+Dialogue: 0,0:12:10.36,0:12:11.78,Default,,0,0,0,,Tú debes ser Garnet.
+Dialogue: 0,0:12:12.12,0:12:14.19,Default,,0,0,0,,Y la Pearl de Pink Diamond,
+Dialogue: 0,0:12:14.80,0:12:16.39,Default,,0,0,0,,te trajo con ella.
+Dialogue: 0,0:12:16.40,0:12:18.86,Default,,0,0,0,,Acaso no es eso... ¿Genial?
+Dialogue: 0,0:12:19.25,0:12:20.60,Default,,0,0,0,,No puede ser.
+Dialogue: 0,0:12:22.13,0:12:25.24,Default,,0,0,0,,Pero claro que puede ser, y lo es.
+Dialogue: 0,0:12:25.51,0:12:29.01,Default,,0,0,0,,Tengo un nuevo estilo y un par de\Njuguetes nuevos
+Dialogue: 0,0:12:29.02,0:12:33.32,Default,,0,0,0,,que pondrán fin a tu felices para siempre...
+Dialogue: 0,0:12:33.53,0:12:34.92,Default,,0,0,0,,¡De una vez por todas!
+Dialogue: 0,0:12:35.68,0:12:37.42,Default,,0,0,0,,Esto tiene que ser un malentendido.
+Dialogue: 0,0:12:37.67,0:12:40.08,Default,,0,0,0,,En caso de que no lo hayas escuchado,\Nestablecí la paz a través de...
+Dialogue: 0,0:12:40.09,0:12:42.24,Default,,0,0,0,,Sí, sí, sí. ¡Lo escuché!
+Dialogue: 0,0:12:42.36,0:12:45.13,Default,,0,0,0,,He recibido tu pequeño mensaje para\Nel universo...
+Dialogue: 0,0:12:45.18,0:12:46.19,Default,,0,0,0,,¡Varias veces!
+Dialogue: 0,0:12:49.05,0:12:51.43,Default,,0,0,0,,Me encanta esa parte
+Dialogue: 0,0:12:51.56,0:12:53.98,Default,,0,0,0,,en la que Pink Diamond pasa\Nel resto de sus días
+Dialogue: 0,0:12:54.03,0:12:56.63,Default,,0,0,0,,en este insignificante planeta
+Dialogue: 0,0:12:56.77,0:13:01.00,Default,,0,0,0,,con un puñado de... Don nadies.
+Dialogue: 0,0:13:01.51,0:13:04.87,Default,,0,0,0,,♪ Así es, escuché la historia una y otra vez ♪
+Dialogue: 0,0:13:04.88,0:13:09.10,Default,,0,0,0,,♪ Cielos, es genial por fin conocer\Na sus otros amigos ♪
+Dialogue: 0,0:13:09.64,0:13:11.42,Default,,0,0,0,,♪ Así es, escuché la historia ♪
+Dialogue: 0,0:13:11.42,0:13:13.27,Default,,0,0,0,,♪ Realmente no me gusta el final ♪
+Dialogue: 0,0:13:13.28,0:13:17.07,Default,,0,0,0,,♪ Cielos, es genial por fin conocer a sus otros amigos ♪
+Dialogue: 0,0:13:17.62,0:13:21.42,Default,,0,0,0,,♪ ¿Qué dijo ella de mí? ¿Qué les dijo?♪
+Dialogue: 0,0:13:21.85,0:13:25.49,Default,,0,0,0,,♪ ¿Qué hicieron sin mí? ¿Qué hicieron? ♪
+Dialogue: 0,0:13:25.76,0:13:29.21,Default,,0,0,0,,♪ ¿Jugaron algo sin mí? ¿Qué jugaron? ♪
+Dialogue: 0,0:13:29.30,0:13:33.20,Default,,0,0,0,,♪ ¿Realmente creyeron que nunca iba\Na saber sobre ustedes? ♪
+Dialogue: 0,0:13:33.21,0:13:37.27,Default,,0,0,0,,♪ Oh, así es, escuché la historia una y otra vez ♪
+Dialogue: 0,0:13:37.28,0:13:43.46,Default,,0,0,0,,♪ Cielos, es genial por fin conocer\Na sus otros amigos ♪
+Dialogue: 0,0:13:45.68,0:13:47.45,Default,,0,0,0,,Nos está rodeando.
+Dialogue: 0,0:13:47.45,0:13:50.28,Default,,0,0,0,,Estoy oxidada. ¡Dame un respiro!
+Dialogue: 0,0:13:50.60,0:13:51.70,Default,,0,0,0,,Realmente es ella.
+Dialogue: 0,0:13:52.07,0:13:53.85,Default,,0,0,0,,Pero no puede estar hablando en serio.
+Dialogue: 0,0:13:54.13,0:13:55.72,Default,,0,0,0,,¿La conoces, Pearl?
+Dialogue: 0,0:13:56.09,0:13:57.46,Default,,0,0,0,,¿Puedes decirnos quién es?
+Dialogue: 0,0:14:00.45,0:14:04.04,Default,,0,0,0,,♪ ¿Quién soy? ¿Quién soy?\N¿Qué es lo que estás diciendo? ♪
+Dialogue: 0,0:14:04.06,0:14:08.24,Default,,0,0,0,,♪ Soy la perdedora del juego\Nque no sabías que estabas jugando ♪
+Dialogue: 0,0:14:08.50,0:14:11.97,Default,,0,0,0,,♪ Juguemos otro juego,\Nesta vez yo puedo ganar ♪
+Dialogue: 0,0:14:12.19,0:14:14.42,Default,,0,0,0,,♪ La vida en juego, el ganador se lleva todo ♪
+Dialogue: 0,0:14:14.44,0:14:16.34,Default,,0,0,0,,♪ Listos o no, comencemos ♪
+Dialogue: 0,0:14:16.35,0:14:20.02,Default,,0,0,0,,♪ Oh, así es, escuché la historia una y otra vez ♪
+Dialogue: 0,0:14:20.28,0:14:24.08,Default,,0,0,0,,♪ Cielos, es genial vencer a sus otros amigos ♪
+Dialogue: 0,0:14:24.13,0:14:26.59,Default,,0,0,0,,♪ Oh, así es, escuché la historia ♪
+Dialogue: 0,0:14:26.64,0:14:28.44,Default,,0,0,0,,♪ Realmente no me gusta el final ♪
+Dialogue: 0,0:14:28.53,0:14:32.80,Default,,0,0,0,,♪ Cielos, es genial vencer a sus otros ♪
+Dialogue: 0,0:14:32.80,0:14:38.87,Default,,0,0,0,,♪ Otros ♪
+Dialogue: 0,0:14:38.90,0:14:42.40,Default,,0,0,0,,♪ amigos ♪
+Dialogue: 0,0:14:50.17,0:14:51.23,Default,,0,0,0,,¡Es suficiente!
+Dialogue: 0,0:14:51.52,0:14:53.71,Default,,0,0,0,,¿Qué pasa, Steven?
+Dialogue: 0,0:14:53.76,0:14:55.67,Default,,0,0,0,,¿Ya las hechas de menos?
+Dialogue: 0,0:14:55.92,0:14:57.04,Default,,0,0,0,,Bueno, no te preocupes.
+Dialogue: 0,0:14:57.22,0:14:58.69,Default,,0,0,0,,¡Tú eres el siguiente!
+Dialogue: 0,0:15:05.30,0:15:06.34,Default,,0,0,0,,¡Eso no fue nada!
+Dialogue: 0,0:15:07.55,0:15:10.31,Default,,0,0,0,,¡Entonces supongo no te importará\Nsi lo hago de nuevo!
+Dialogue: 0,0:15:13.62,0:15:14.58,Default,,0,0,0,,¡Ya basta!
+Dialogue: 0,0:15:14.95,0:15:16.64,Default,,0,0,0,,No te evaporas, ¿Verdad?
+Dialogue: 0,0:15:17.52,0:15:18.60,Default,,0,0,0,,Lo suponía.
+Dialogue: 0,0:15:18.68,0:15:19.66,Default,,0,0,0,,¡Sólo espera!
+Dialogue: 0,0:15:19.88,0:15:24.48,Default,,0,0,0,,Tu mitad humana no tendrá\Noportunidad contra mi inyector.
+Dialogue: 0,0:15:24.88,0:15:27.90,Default,,0,0,0,,¡No después de lo que acabo de hacerle a tu gema!
+Dialogue: 0,0:15:28.83,0:15:30.15,Default,,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:15:30.45,0:15:34.69,Default,,0,0,0,,No siempre fuiste un poderoso héroe, ¿Cierto?
+Dialogue: 0,0:15:49.92,0:15:52.40,Default,,0,0,0,,Mejor te pongo en una burbuja antes\Nde que suceda algo más.
+Dialogue: 0,0:15:54.31,0:15:54.80,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:15:58.14,0:15:59.07,Default,,0,0,0,,¿Dónde está mi burbuja?
+Dialogue: 0,0:15:59.85,0:16:01.23,Default,,0,0,0,,Vamos...
+Dialogue: 0,0:16:11.21,0:16:12.25,Default,,0,0,0,,¿Qué está pasando?
+Dialogue: 0,0:16:19.84,0:16:22.34,Default,,0,0,0,,¡Steven! ¡Vine tan rápido como pude!
+Dialogue: 0,0:16:22.47,0:16:23.40,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:16:23.92,0:16:26.71,Default,,0,0,0,,Santo.... ¡Realmente las venció a todas!
+Dialogue: 0,0:16:27.00,0:16:28.74,Default,,0,0,0,,-¿Es ella?\N-Sí.
+Dialogue: 0,0:16:29.21,0:16:30.66,Default,,0,0,0,,-¿Quién?\N-Ni idea.
+Dialogue: 0,0:16:30.74,0:16:32.65,Default,,0,0,0,,-¿Por qué?\N-Ni idea.
+Dialogue: 0,0:16:32.85,0:16:33.63,Default,,0,0,0,,¿Cómo?
+Dialogue: 0,0:16:33.78,0:16:35.61,Default,,0,0,0,,Nos atacó con esto.
+Dialogue: 0,0:16:39.74,0:16:41.29,Default,,0,0,0,,Me hizo algo muy raro a mí,
+Dialogue: 0,0:16:41.30,0:16:42.93,Default,,0,0,0,,y ahora mis poderes no funcionan bien.
+Dialogue: 0,0:16:43.17,0:16:43.63,Default,,0,0,0,,Mira.
+Dialogue: 0,0:16:46.43,0:16:47.97,Default,,0,0,0,,Algo malo me está pasando, Papá.
+Dialogue: 0,0:16:50.74,0:16:52.76,Default,,0,0,0,,No tengo idea de lo que está pasando.
+Dialogue: 0,0:16:53.16,0:16:56.47,Default,,0,0,0,,Bueno, hijo, ahora sabes\Ncomo me siento casi todo el tiempo.
+Dialogue: 0,0:16:56.92,0:16:57.88,Default,,0,0,0,,¿Pero sabes qué más?
+Dialogue: 0,0:16:58.15,0:17:00.67,Default,,0,0,0,,En cualquier momento,\Nlas gemas harán eso donde
+Dialogue: 0,0:17:00.69,0:17:04.30,Default,,0,0,0,,brillan y flotan en el aire y reaparecen\Nmejor que nunca.
+Dialogue: 0,0:17:05.35,0:17:06.90,Default,,0,0,0,,¿Lo ves? Aquí viene.
+Dialogue: 0,0:17:06.92,0:17:07.90,Default,,0,0,0,,Nuestra vieja Pearl.
+Dialogue: 0,0:17:10.87,0:17:11.77,Default,,0,0,0,,Bueno, eso es nuevo.
+Dialogue: 0,0:17:12.04,0:17:13.78,Default,,0,0,0,,Por favor identifíquese.
+Dialogue: 0,0:17:14.39,0:17:16.49,Default,,0,0,0,,Um, ¿Greg Universe?
+Dialogue: 0,0:17:17.10,0:17:19.27,Default,,0,0,0,,Saludos, Um Greg Universe.
+Dialogue: 0,0:17:19.47,0:17:22.18,Default,,0,0,0,,Por favor, indique\Nlas opciones de personalización preferidas.
+Dialogue: 0,0:17:23.68,0:17:25.05,Default,,0,0,0,,¿Qué se supone que diga?
+Dialogue: 0,0:17:25.31,0:17:26.73,Default,,0,0,0,,N-No lo sé.
+Dialogue: 0,0:17:26.75,0:17:29.69,Default,,0,0,0,,Configuración predeterminada seleccionada.\NPor favor, espere.
+Dialogue: 0,0:17:44.30,0:17:45.16,Default,,0,0,0,,¡Pearl!
+Dialogue: 0,0:17:45.52,0:17:46.94,Default,,0,0,0,,¡Pearl, gracias al cielo volviste!
+Dialogue: 0,0:17:48.53,0:17:48.93,Default,,0,0,0,,¿Pearl?
+Dialogue: 0,0:17:51.57,0:17:53.40,Default,,0,0,0,,♪ ¿Cómo le va? ♪
+Dialogue: 0,0:17:53.93,0:17:56.00,Default,,0,0,0,,♪ Mi "Um Greg Universe" ♪
+Dialogue: 0,0:17:56.34,0:18:00.32,Default,,0,0,0,,♪ Gracias por traerme al mundo ♪
+Dialogue: 0,0:18:01.07,0:18:05.55,Default,,0,0,0,,♪ Estoy a su eterno servicio ♪
+Dialogue: 0,0:18:05.56,0:18:08.90,Default,,0,0,0,,♪ Salude a su nueva Pearl ♪
+Dialogue: 0,0:18:10.80,0:18:13.20,Default,,0,0,0,,-¡¿Qué está pasando?!\N-¡¿Qué está pasando?!
+Dialogue: 0,0:18:13.55,0:18:15.02,Default,,0,0,0,,¿Podría ser que su gema esté rota?
+Dialogue: 0,0:18:16.72,0:18:17.93,Default,,0,0,0,,Se ve bien para mí.
+Dialogue: 0,0:18:23.53,0:18:25.75,Default,,0,0,0,,¡Ruby! ¿Estás... Estás bien?
+Dialogue: 0,0:18:26.60,0:18:27.53,Default,,0,0,0,,¿Quién eres tú?
+Dialogue: 0,0:18:27.76,0:18:29.07,Default,,0,0,0,,Tú no eres mi objetivo.
+Dialogue: 0,0:18:29.28,0:18:31.47,Default,,0,0,0,,Me vendría bien una explicación aquí.
+Dialogue: 0,0:18:31.58,0:18:33.07,Default,,0,0,0,,Permítame iluminarle.
+Dialogue: 0,0:18:34.40,0:18:36.12,Default,,0,0,0,,♪ Una guardia Ruby ♪
+Dialogue: 0,0:18:36.83,0:18:38.71,Default,,0,0,0,,♪ Pero sólo una ♪
+Dialogue: 0,0:18:39.25,0:18:43.10,Default,,0,0,0,,♪ Suelen venir en equipos de tres o más ♪
+Dialogue: 0,0:18:44.00,0:18:46.30,Default,,0,0,0,,♪ Una preciosa Sapphire ♪
+Dialogue: 0,0:18:46.45,0:18:48.44,Default,,0,0,0,,♪ Ella ve el futuro ♪
+Dialogue: 0,0:18:48.49,0:18:51.62,Default,,0,0,0,,♪ Para ella es la Ruby ♪
+Dialogue: 0,0:18:51.97,0:18:53.09,Default,,0,0,0,,Mi Sapphire.
+Dialogue: 0,0:18:53.13,0:18:55.48,Default,,0,0,0,,Como mi jurado deber y único propósito,
+Dialogue: 0,0:18:55.52,0:18:57.72,Default,,0,0,0,,la protegeré con mi vida.
+Dialogue: 0,0:18:57.89,0:18:59.86,Default,,0,0,0,,Sé que lo harás, por eso predigo
+Dialogue: 0,0:18:59.87,0:19:01.44,Default,,0,0,0,,que no durarás más de un día.
+Dialogue: 0,0:19:02.06,0:19:03.39,Default,,0,0,0,,-¿Qué?\N-Ven.
+Dialogue: 0,0:19:08.91,0:19:11.20,Default,,0,0,0,,¡Amethyst! Oye, ¿Amethyst?
+Dialogue: 0,0:19:11.74,0:19:12.91,Default,,0,0,0,,Oye, ¿Amethyst?
+Dialogue: 0,0:19:13.21,0:19:17.03,Default,,0,0,0,,¿Qué? No. Tú eres Amethyst.
+Dialogue: 0,0:19:17.65,0:19:19.25,Default,,0,0,0,,♪ Debes estar en lo cierto ♪
+Dialogue: 0,0:19:20.00,0:19:22.10,Default,,0,0,0,,♪ Esta es una Amethyst ♪
+Dialogue: 0,0:19:22.42,0:19:26.43,Default,,0,0,0,,♪ Excepto que una Amethyst es grande y fuerte ♪
+Dialogue: 0,0:19:27.22,0:19:31.60,Default,,0,0,0,,♪ Esta no es el mejor ejemplo ♪
+Dialogue: 0,0:19:31.61,0:19:34.89,Default,,0,0,0,,♪ Algo está claramente mal ♪
+Dialogue: 0,0:19:36.74,0:19:39.85,Default,,0,0,0,,En serio, algo {\i1}está{\i0} claramente mal.
+Dialogue: 0,0:19:40.50,0:19:42.57,Default,,0,0,0,,¿Qué están haciendo\Ntodas estas diferentes gemas
+Dialogue: 0,0:19:42.57,0:19:44.06,Default,,0,0,0,,en este extraño lugar?
+Dialogue: 0,0:19:44.28,0:19:46.01,Default,,0,0,0,,Pearl, ¿No las reconoces?
+Dialogue: 0,0:19:46.31,0:19:47.52,Default,,0,0,0,,¿No me reconoces a mí?
+Dialogue: 0,0:19:50.15,0:19:53.57,Default,,0,0,0,,Bueno, ciertamente reconozco\Na mi Um Greg Universe.
+Dialogue: 0,0:19:53.68,0:19:54.81,Default,,0,0,0,,Oh, cielos.
+Dialogue: 0,0:19:55.28,0:19:56.79,Default,,0,0,0,,En cuanto a ti...
+Dialogue: 0,0:20:02.24,0:20:02.91,Default,,0,0,0,,¡Apártense!
+Dialogue: 0,0:20:07.85,0:20:09.21,Default,,0,0,0,,¡Viva!
+Dialogue: 0,0:20:10.80,0:20:13.15,Default,,0,0,0,,¡Estoy tan emocionada de conocerte!
+Dialogue: 0,0:20:13.37,0:20:14.90,Default,,0,0,0,,¿N-No estás enojada?
+Dialogue: 0,0:20:15.44,0:20:17.73,Default,,0,0,0,,¿Enojada? ¡¿Por qué estaría enojada,
+Dialogue: 0,0:20:17.74,0:20:20.50,Default,,0,0,0,,con mi mejor amigo?!
+Dialogue: 0,0:20:22.71,0:20:24.47,Default,,0,0,0,,♪ Esto será divertido ♪
+Dialogue: 0,0:20:25.04,0:20:26.99,Default,,0,0,0,,♪ ¿No eres afortunado? ♪
+Dialogue: 0,0:20:27.21,0:20:31.62,Default,,0,0,0,,♪ Su corte es perfecto, y además, es rosa ♪
+Dialogue: 0,0:20:32.23,0:20:36.62,Default,,0,0,0,,♪ Te dará entretenimiento sin fin ♪
+Dialogue: 0,0:20:36.66,0:20:40.03,Default,,0,0,0,,♪ Tu nueva mejor amiga, Spinel ♪
+Dialogue: 0,0:20:43.90,0:20:45.53,Default,,0,0,0,,¡Tú!
+Dialogue: 0,0:20:45.76,0:20:47.67,Default,,0,0,0,,¿Qué nos hiciste?
+Dialogue: 0,0:20:49.65,0:20:51.57,Default,,0,0,0,,¡Ahora es tu turno!
+Dialogue: 0,0:20:54.60,0:20:57.50,Default,,0,0,0,,¿P-P-P-Podrías parar?
+Dialogue: 0,0:21:00.50,0:21:01.16,Default,,0,0,0,,¿Por favor?
+Dialogue: 0,0:21:03.50,0:21:04.20,Default,,0,0,0,,Oye, ¡Mira!
+Dialogue: 0,0:21:05.71,0:21:06.90,Default,,0,0,0,,¡Hay más gemas!
+Dialogue: 0,0:21:08.10,0:21:09.92,Default,,0,0,0,,Pidámosles que jueguen.
+Dialogue: 0,0:21:10.38,0:21:11.20,Default,,0,0,0,,Espera un momento.
+Dialogue: 0,0:21:11.39,0:21:12.55,Default,,0,0,0,,¿No lo recuerdas?
+Dialogue: 0,0:21:12.89,0:21:13.65,Default,,0,0,0,,¿Recordar qué?
+Dialogue: 0,0:21:20.09,0:21:22.42,Default,,0,0,0,,¡Esa cosa sí que es enorme!
+Dialogue: 0,0:21:22.67,0:21:24.27,Default,,0,0,0,,¿Quieres escalarla o algo?
+Dialogue: 0,0:21:24.41,0:21:27.27,Default,,0,0,0,,Espera, espera. ¿Lo dices en serio?
+Dialogue: 0,0:21:27.53,0:21:28.91,Default,,0,0,0,,¿Que hay de esa cosa que dijiste
+Dialogue: 0,0:21:28.91,0:21:31.55,Default,,0,0,0,,sobre que no tendría\Noportunidad contra tu inyector?
+Dialogue: 0,0:21:31.85,0:21:32.80,Default,,0,0,0,,¿Que dije qué?
+Dialogue: 0,0:21:33.76,0:21:35.42,Default,,0,0,0,,Realmente no lo recuerdas.
+Dialogue: 0,0:21:37.47,0:21:38.59,Default,,0,0,0,,¿Qué hay de ti, León?
+Dialogue: 0,0:21:38.77,0:21:40.15,Default,,0,0,0,,¿Le encuentras algún sentido a esto?
+Dialogue: 0,0:21:41.85,0:21:43.20,Default,,0,0,0,,Tampoco eres de ayuda.
+Dialogue: 0,0:21:43.93,0:21:45.88,Default,,0,0,0,,Al menos puedo guardar esto en tu melena.
+Dialogue: 0,0:21:48.67,0:21:50.88,Default,,0,0,0,,¿No puedo guardar cosas en la melena de León?
+Dialogue: 0,0:21:50.97,0:21:52.96,Default,,0,0,0,,¡Es la cosa más fácil que hago!
+Dialogue: 0,0:21:56.12,0:21:56.94,Default,,0,0,0,,¿Qué hago ahora?
+Dialogue: 0,0:21:57.19,0:21:59.17,Default,,0,0,0,,No tengo amigos que me ayuden, excepto...
+Dialogue: 0,0:22:01.48,0:22:03.11,Default,,0,0,0,,Bismuth, Lapis y Peridot.
+Dialogue: 0,0:22:03.46,0:22:05.95,Default,,0,0,0,,Vamos, chicos.\NEncontremos la manera de arreglar esto.
+Dialogue: 0,0:22:06.93,0:22:07.98,Default,,0,0,0,,¿Ch-Chicos?
+Dialogue: 0,0:22:08.43,0:22:10.19,Default,,0,0,0,,Mi Um Greg, permítame.
+Dialogue: 0,0:22:16.45,0:22:18.30,Default,,0,0,0,,¿Ruby? ¿Sapphire?
+Dialogue: 0,0:22:18.62,0:22:20.74,Default,,0,0,0,,Ella no irá a ninguna parte contigo.
+Dialogue: 0,0:22:20.97,0:22:23.54,Default,,0,0,0,,Nos veo siguiéndolo al área rural.
+Dialogue: 0,0:22:23.75,0:22:25.55,Default,,0,0,0,,¡Olvídalo! Vamos.
+Dialogue: 0,0:22:25.60,0:22:28.42,Default,,0,0,0,,Espera. ¡No me dejes solo con estas dos!
+Dialogue: 0,0:22:28.87,0:22:31.10,Default,,0,0,0,,Sólo vigílalas por ahora. Volveré.
+Dialogue: 0,0:22:36.95,0:22:39.35,Default,,0,0,0,,¡¿Llegó montando eso?!
+Dialogue: 0,0:22:39.52,0:22:42.00,Default,,0,0,0,,Sí. Ella dijo que mi mitad humana
+Dialogue: 0,0:22:42.03,0:22:44.45,Default,,0,0,0,,no tendría oportunidad contra su inyector.
+Dialogue: 0,0:22:44.99,0:22:46.59,Default,,0,0,0,,¿Qué significa eso?
+Dialogue: 0,0:22:46.72,0:22:48.47,Default,,0,0,0,,¿Por qué no le preguntamos?
+Dialogue: 0,0:22:49.50,0:22:51.40,Default,,0,0,0,,Bueno, la cosa es que...
+Dialogue: 0,0:22:52.50,0:22:52.90,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:22:53.07,0:22:53.76,Default,,0,0,0,,A dónde...
+Dialogue: 0,0:22:54.21,0:22:55.37,Default,,0,0,0,,¡Sorpresa!
+Dialogue: 0,0:22:56.36,0:22:59.60,Default,,0,0,0,,Aquí está, mi nueva mejor amiga, Spinel.
+Dialogue: 0,0:22:59.65,0:23:02.00,Default,,0,0,0,,Un placer conocerlas a todas.
+Dialogue: 0,0:23:02.34,0:23:04.51,Default,,0,0,0,,Creí que dijiste que intentaba matarte.
+Dialogue: 0,0:23:05.46,0:23:06.25,Default,,0,0,0,,Cambió rápido.
+Dialogue: 0,0:23:06.26,0:23:09.61,Default,,0,0,0,,En serio. A mí me llevó\Nmeses dejar intentar matar a Steven.
+Dialogue: 0,0:23:09.65,0:23:12.15,Default,,0,0,0,,A mí un día, ¿Un día y medio?
+Dialogue: 0,0:23:12.25,0:23:13.90,Default,,0,0,0,,Yo sigo dudándolo.
+Dialogue: 0,0:23:15.02,0:23:17.12,Default,,0,0,0,,Bien, veamos esta cosa con la que te atacó.
+Dialogue: 0,0:23:17.40,0:23:18.20,Default,,0,0,0,,Uh, bien.
+Dialogue: 0,0:23:20.40,0:23:22.05,Default,,0,0,0,,Era, como, un láser o...
+Dialogue: 0,0:23:22.06,0:23:23.46,Default,,0,0,0,,Ten cuidado con eso.
+Dialogue: 0,0:23:23.65,0:23:25.00,Default,,0,0,0,,Es un rejuvenecedor.
+Dialogue: 0,0:23:26.96,0:23:28.45,Default,,0,0,0,,Homeworld solía usar estas cosas
+Dialogue: 0,0:23:28.46,0:23:30.71,Default,,0,0,0,,en gemas que comenzaban a pasarse de la raya.
+Dialogue: 0,0:23:30.77,0:23:31.97,Default,,0,0,0,,Un golpe con esto...
+Dialogue: 0,0:23:33.20,0:23:34.64,Default,,0,0,0,,Y vuelves a como te hicieron.
+Dialogue: 0,0:23:35.04,0:23:36.90,Default,,0,0,0,,¿Qué estás mirando?
+Dialogue: 0,0:23:37.24,0:23:39.90,Default,,0,0,0,,Oh, por mis estrellas, ¡Lo toqué!
+Dialogue: 0,0:23:40.10,0:23:42.45,Default,,0,0,0,,Podría haber perdido\Ntodo mi desarrollo de personaje.
+Dialogue: 0,0:23:42.45,0:23:46.30,Default,,0,0,0,,Espera, ¿Cómo sobreviviste a ser golpeado\Ncon esa cosa, Steven?
+Dialogue: 0,0:23:46.89,0:23:48.65,Default,,0,0,0,,C-Creo que no lo he hecho.
+Dialogue: 0,0:23:48.85,0:23:50.92,Default,,0,0,0,,Mi mitad humana impidió que me evaporara...
+Dialogue: 0,0:23:51.32,0:23:53.40,Default,,0,0,0,,pero mi mitad gema recibió el golpe.
+Dialogue: 0,0:23:53.53,0:23:56.03,Default,,0,0,0,,Me hizo retroceder.\NEs como si fuese un niño otra vez.
+Dialogue: 0,0:23:56.04,0:23:57.94,Default,,0,0,0,,Apenas puedo controlar mis poderes.
+Dialogue: 0,0:23:58.06,0:23:59.46,Default,,0,0,0,,¿Cómo revertimos esto?
+Dialogue: 0,0:23:59.80,0:24:00.53,Default,,0,0,0,,Oh, no.
+Dialogue: 0,0:24:00.90,0:24:02.40,Default,,0,0,0,,¿Necesito traer a las Diamantes?
+Dialogue: 0,0:24:02.43,0:24:04.08,Default,,0,0,0,,Tú eres el único con poderes curativos.
+Dialogue: 0,0:24:04.08,0:24:06.65,Default,,0,0,0,,Si alguien puede arreglar esto, ese eres tú.
+Dialogue: 0,0:24:07.20,0:24:08.80,Default,,0,0,0,,No puedo creerlo.
+Dialogue: 0,0:24:08.81,0:24:11.71,Default,,0,0,0,,Por primera vez en años, todos están en peligro.
+Dialogue: 0,0:24:11.88,0:24:14.68,Default,,0,0,0,,Todos me necesitan, y soy inútil.
+Dialogue: 0,0:24:16.01,0:24:17.91,Default,,0,0,0,,Bismuth, ¿Qué hacemos?
+Dialogue: 0,0:24:18.50,0:24:19.70,Default,,0,0,0,,Lo siento, Steven.
+Dialogue: 0,0:24:20.20,0:24:21.40,Default,,0,0,0,,No lo sé.
+Dialogue: 0,0:24:24.49,0:24:25.99,Default,,0,0,0,,Garnet sabría que hacer.
+Dialogue: 0,0:24:26.70,0:24:29.00,Default,,0,0,0,,Garnet siempre sabe que hacer.
+Dialogue: 0,0:24:29.50,0:24:31.10,Default,,0,0,0,,Oye, no estés triste
+Dialogue: 0,0:24:31.26,0:24:33.90,Default,,0,0,0,,Tu nueva mejor amiga, tu nueva mejor amiga,
+Dialogue: 0,0:24:33.91,0:24:36.29,Default,,0,0,0,,Tu nueva mejor amiga, ¡Tu nueva mejor amiga,
+Dialogue: 0,0:24:36.30,0:24:38.10,Default,,0,0,0,,Spinel, está aquí!
+Dialogue: 0,0:24:46.08,0:24:48.38,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,0:24:48.78,0:24:52.78,Default,,0,0,0,,♪ Este es el futuro, y está mal ♪
+Dialogue: 0,0:24:54.45,0:24:58.00,Default,,0,0,0,,♪ Hace un momento,\Ncantábamos esta canción ♪
+Dialogue: 0,0:24:59.70,0:25:02.36,Default,,0,0,0,,♪ Y ahora, no están ♪
+Dialogue: 0,0:25:02.70,0:25:06.00,Default,,0,0,0,,♪ Por culpa de ella ♪
+Dialogue: 0,0:25:06.95,0:25:11.00,Default,,0,0,0,,♪ Felices para siempre estábamos ♪
+Dialogue: 0,0:25:12.60,0:25:14.84,Default,,0,0,0,,♪ ¿Cúando ha sido fácil? ♪
+Dialogue: 0,0:25:15.24,0:25:18.97,Default,,0,0,0,,♪ ¿Acaso nunca ha sido duro, ser nosotros? ♪
+Dialogue: 0,0:25:22.58,0:25:24.78,Default,,0,0,0,,♪ Cuando vas contra de la corriente ♪
+Dialogue: 0,0:25:25.30,0:25:29.20,Default,,0,0,0,,♪ Siempre hay alguien cerca en\Nquién no puedes confiar ♪
+Dialogue: 0,0:25:32.25,0:25:35.27,Default,,0,0,0,,♪ Por eso debemos tenernos\Nlos unos a los otros ♪
+Dialogue: 0,0:25:35.28,0:25:37.70,Default,,0,0,0,,♪ Mientras solucionamos esto,\Ndebemos hacerlo ♪
+Dialogue: 0,0:25:37.70,0:25:42.20,Default,,0,0,0,,♪ Porque somos las Crystal Gems ♪
+Dialogue: 0,0:25:42.90,0:25:47.65,Default,,0,0,0,,♪ Y nunca nos rendimos.\NNunca abandonamos a nuestros amigos ♪
+Dialogue: 0,0:25:47.80,0:25:52.90,Default,,0,0,0,,♪ Mientras uno de nosotros esté\Nen pie para blandir la estrella ♪
+Dialogue: 0,0:25:52.95,0:25:55.59,Default,,0,0,0,,♪ Encontraremos una forma\Nde salvar el día ♪
+Dialogue: 0,0:25:55.60,0:25:57.50,Default,,0,0,0,,♪ ¡Es quienes somos! ♪
+Dialogue: 0,0:25:59.32,0:26:01.38,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,0:26:01.70,0:26:05.50,Default,,0,0,0,,♪ Este es el futuro, y está mal ♪
+Dialogue: 0,0:26:06.90,0:26:10.26,Default,,0,0,0,,♪ Míralas, ni siquiera están\Ncantando con nosotros ♪
+Dialogue: 0,0:26:10.90,0:26:15.20,Default,,0,0,0,,♪ Si hubiese podido parar\Njusto ahí, estaríamos ♪
+Dialogue: 0,0:26:16.47,0:26:21.40,Default,,0,0,0,,♪ Totalmente bien, todos juntos, incluso yo ♪
+Dialogue: 0,0:26:21.40,0:26:24.50,Default,,0,0,0,,♪ Aunque nos tome\Nmil años traerlas devuelta ♪
+Dialogue: 0,0:26:24.51,0:26:25.91,Default,,0,0,0,,♪ lo haremos ♪
+Dialogue: 0,0:26:26.48,0:26:31.28,Default,,0,0,0,,♪ Puede que no sepan quienes son,\Npero nosotros sí ♪
+Dialogue: 0,0:26:31.75,0:26:34.50,Default,,0,0,0,,♪ Créeme, Steven, las conozco hace más tiempo ♪
+Dialogue: 0,0:26:34.51,0:26:37.75,Default,,0,0,0,,♪ Las he visto atravesar peores y volver\Naún mas fuertes ♪
+Dialogue: 0,0:26:37.76,0:26:42.31,Default,,0,0,0,,♪ Por eso creo en ellas, ¡Y creo en ti! ♪
+Dialogue: 0,0:26:42.32,0:26:46.50,Default,,0,0,0,,♪ Porque somos las Crystal Gems ♪
+Dialogue: 0,0:26:47.00,0:26:52.10,Default,,0,0,0,,♪ Y nunca nos rendiremos,\Nno, nunca abandonamos a nuestros amigos ♪
+Dialogue: 0,0:26:52.11,0:26:57.37,Default,,0,0,0,,♪ Mientras uno de nosotros esté\Nen pie para blandir la estrella ♪
+Dialogue: 0,0:26:57.38,0:26:58.90,Default,,0,0,0,,♪ Encontraremos la forma ♪
+Dialogue: 0,0:26:58.91,0:27:00.10,Default,,0,0,0,,♪ de salvar el día ♪
+Dialogue: 0,0:27:00.11,0:27:02.35,Default,,0,0,0,,♪ ¡Es quienes somos! ♪
+Dialogue: 0,0:27:03.00,0:27:04.60,Default,,0,0,0,,Bien. De acuerdo.
+Dialogue: 0,0:27:04.61,0:27:05.90,Default,,0,0,0,,Pensemos juntos.
+Dialogue: 0,0:27:06.00,0:27:08.12,Default,,0,0,0,,Tiene que haber alguna manera de que recuerden
+Dialogue: 0,0:27:08.15,0:27:09.75,Default,,0,0,0,,¿Que tal si es como un rompecabezas?
+Dialogue: 0,0:27:10.30,0:27:12.55,Default,,0,0,0,,Si les damos todas las piezas,
+Dialogue: 0,0:27:12.56,0:27:14.55,Default,,0,0,0,,eventualmente, obtendrán la imagen.
+Dialogue: 0,0:27:14.56,0:27:17.10,Default,,0,0,0,,Spinel, puede que sea una buena idea.
+Dialogue: 0,0:27:17.10,0:27:20.35,Default,,0,0,0,,Si cada recuerdo que perdieron\Nes una pieza de quienes son,
+Dialogue: 0,0:27:20.45,0:27:22.65,Default,,0,0,0,,sólo tenemos que devolverles\Ntodas las piezas,
+Dialogue: 0,0:27:22.70,0:27:24.00,Default,,0,0,0,,una experiencia a la vez.
+Dialogue: 0,0:27:24.27,0:27:25.30,Default,,0,0,0,,¿Hablas en serio?
+Dialogue: 0,0:27:25.31,0:27:26.90,Default,,0,0,0,,¡Podría llevarnos una eternidad!
+Dialogue: 0,0:27:27.00,0:27:29.60,Default,,0,0,0,,Exacto. Así que comencemos.
+Dialogue: 0,0:27:29.75,0:27:33.91,Default,,0,0,0,,♪ Encontraremos una forma de salvar el día\N¡Es quienes somos! ♪
+Dialogue: 0,0:27:36.10,0:27:37.85,Default,,0,0,0,,♪ ¡Este es el futuro! ♪
+Dialogue: 0,0:27:38.10,0:27:40.30,Default,,0,0,0,,♪ ¡Sí! ¡Este es el futuro ♪
+Dialogue: 0,0:27:40.30,0:27:43.25,Default,,0,0,0,,♪ ¡Y está mal! ♪
+Dialogue: 0,0:27:43.26,0:27:45.79,Default,,0,0,0,,Spinel, está bien, ya terminamos.
+Dialogue: 0,0:27:53.36,0:27:56.65,Default,,0,0,0,,Entonces, cuando Ruby y Sapphire\Nse convirtieron en Garnet,
+Dialogue: 0,0:27:56.67,0:27:58.95,Default,,0,0,0,,Ruby corrió a salvar a Sapphire del peligro,
+Dialogue: 0,0:27:58.96,0:28:00.75,Default,,0,0,0,,y {\i1}bam{\i0}... Se fusionaron.
+Dialogue: 0,0:28:00.90,0:28:04.25,Default,,0,0,0,,Así que, tal vez hay que crear\Nalguna clase de situación peligrosa.
+Dialogue: 0,0:28:04.65,0:28:07.75,Default,,0,0,0,,Bueno, ¿Qué tenemos que sea\Npeligroso y mortal por aquí?
+Dialogue: 0,0:28:07.80,0:28:09.80,Default,,0,0,0,,¡Creo que podríamos encontrar algo!
+Dialogue: 0,0:28:11.45,0:28:14.08,Default,,0,0,0,,Peligro, peligro, peligro.
+Dialogue: 0,0:28:14.10,0:28:15.00,Default,,0,0,0,,¿Qué tenemos aquí?
+Dialogue: 0,0:28:16.50,0:28:17.25,Default,,0,0,0,,No.
+Dialogue: 0,0:28:19.22,0:28:20.70,Default,,0,0,0,,¿Un corta pizzas gigante?
+Dialogue: 0,0:28:20.83,0:28:22.95,Default,,0,0,0,,Es una de sus funciones, sí.
+Dialogue: 0,0:28:23.25,0:28:24.98,Default,,0,0,0,,No puedo amenazarlas con esto.
+Dialogue: 0,0:28:26.25,0:28:26.70,Default,,0,0,0,,Aquí.
+Dialogue: 0,0:28:27.45,0:28:29.25,Default,,0,0,0,,Ahora es mucho más amenazante.
+Dialogue: 0,0:28:29.26,0:28:30.50,Default,,0,0,0,,Ahora, ve.
+Dialogue: 0,0:28:30.68,0:28:32.00,Default,,0,0,0,,¡Buena suerte!
+Dialogue: 0,0:28:37.54,0:28:38.38,Default,,0,0,0,,¡Alto!
+Dialogue: 0,0:28:38.39,0:28:40.60,Default,,0,0,0,,No puedo permitir que te acerques a mi Zafiro
+Dialogue: 0,0:28:40.61,0:28:42.40,Default,,0,0,0,,con un dispositivo tan amenazante.
+Dialogue: 0,0:28:42.55,0:28:46.70,Default,,0,0,0,,Pues que mal, por que voy a... ¡Atacarte!
+Dialogue: 0,0:28:47.00,0:28:47.95,Default,,0,0,0,,¿Esto va a funcionar?
+Dialogue: 0,0:28:48.99,0:28:51.69,Default,,0,0,0,,¿Permiso para despachar\Nal cabello rizado, mi Sapphire?
+Dialogue: 0,0:28:51.70,0:28:54.85,Default,,0,0,0,,No hace falta.\NPredigo que no será capaz de continuar.
+Dialogue: 0,0:28:55.05,0:28:55.95,Default,,0,0,0,,Tiene razón.
+Dialogue: 0,0:28:56.93,0:28:57.93,Default,,0,0,0,,No puedo.
+Dialogue: 0,0:28:59.20,0:29:00.85,Default,,0,0,0,,Aunque sólo estemos fingiendo.
+Dialogue: 0,0:29:01.90,0:29:03.90,Default,,0,0,0,,Mi Sapphire, ¡Tenía razón!
+Dialogue: 0,0:29:03.91,0:29:05.80,Default,,0,0,0,,¿Qué predice que pasará luego?
+Dialogue: 0,0:29:05.84,0:29:09.40,Default,,0,0,0,,Bueno, la Spinel tomará\Nese dispositivo por pura curiosidad.
+Dialogue: 0,0:29:11.70,0:29:13.20,Default,,0,0,0,,Comenzará un entretenido desastre.
+Dialogue: 0,0:29:14.00,0:29:15.50,Default,,0,0,0,,Tal vez deberíamos intentar...
+Dialogue: 0,0:29:15.51,0:29:17.60,Default,,0,0,0,,Espera, Spinel. ¡No, no, no, no!
+Dialogue: 0,0:29:17.61,0:29:19.20,Default,,0,0,0,,¡No toques eso!
+Dialogue: 0,0:29:20.99,0:29:23.10,Default,,0,0,0,,¡Oye, acabamos de construir eso!
+Dialogue: 0,0:29:28.16,0:29:29.16,Default,,0,0,0,,¡Ahí viene!
+Dialogue: 0,0:29:30.70,0:29:31.60,Default,,0,0,0,,¡Spinel!
+Dialogue: 0,0:29:38.23,0:29:39.50,Default,,0,0,0,,Mis andamios.
+Dialogue: 0,0:29:39.90,0:29:42.17,Default,,0,0,0,,¡Mis preciosos andamios!
+Dialogue: 0,0:29:43.30,0:29:44.25,Default,,0,0,0,,¿Qué pasará después?
+Dialogue: 0,0:29:44.50,0:29:45.50,Default,,0,0,0,,En unos instantes,
+Dialogue: 0,0:29:45.75,0:29:48.10,Default,,0,0,0,,los andamios comenzarán\Na caer a tu alrededor.
+Dialogue: 0,0:29:48.55,0:29:49.00,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:29:53.30,0:29:54.45,Default,,0,0,0,,¡Eres increíble!
+Dialogue: 0,0:29:55.10,0:29:57.55,Default,,0,0,0,,Luego, la Peridot contendrá
+Dialogue: 0,0:29:57.56,0:29:58.90,Default,,0,0,0,,algunos de los escombros.
+Dialogue: 0,0:29:58.91,0:30:00.65,Default,,0,0,0,,Tres grandes jarrones caerán.
+Dialogue: 0,0:30:00.71,0:30:02.45,Default,,0,0,0,,La Bismuth atrapará dos de ellos.
+Dialogue: 0,0:30:02.70,0:30:03.80,Default,,0,0,0,,¡Yo me encargo, Bis!
+Dialogue: 0,0:30:03.90,0:30:06.45,Default,,0,0,0,,Buen trabajo, Peridot... ¡Oh cielos!
+Dialogue: 0,0:30:07.00,0:30:08.55,Default,,0,0,0,,Ah. ¡Demonios!
+Dialogue: 0,0:30:08.65,0:30:11.50,Default,,0,0,0,,¡Oh, no! ¡Los Heaven y Earth Beetles
+Dialogue: 0,0:30:11.50,0:30:13.74,Default,,0,0,0,,están en su constitucional de la tarde!
+Dialogue: 0,0:30:13.75,0:30:16.55,Default,,0,0,0,,La Lapis intervendrá\Ny los salvará en el último segundo.
+Dialogue: 0,0:30:20.64,0:30:21.50,Default,,0,0,0,,¿Están bien?
+Dialogue: 0,0:30:27.30,0:30:28.70,Default,,0,0,0,,¿Se... acabó?
+Dialogue: 0,0:30:29.35,0:30:30.12,Default,,0,0,0,,¡La sierra!
+Dialogue: 0,0:30:30.52,0:30:32.15,Default,,0,0,0,,La sierra continuará cortando.
+Dialogue: 0,0:30:33.80,0:30:35.25,Default,,0,0,0,,El yunque caerá.
+Dialogue: 0,0:30:38.53,0:30:41.00,Default,,0,0,0,,Y tú... ¡Tú serás destruida!.
+Dialogue: 0,0:30:49.70,0:30:52.00,Default,,0,0,0,,El poder del cabello rizado se desvanece.
+Dialogue: 0,0:30:55.15,0:30:57.15,Default,,0,0,0,,Ruby, ¡Lo siento!
+Dialogue: 0,0:30:57.35,0:30:59.45,Default,,0,0,0,,Te dije que no durarías más de un día.
+Dialogue: 0,0:30:59.55,0:31:03.12,Default,,0,0,0,,Bueno, le agradezco\Nal destino por haberte conocido.
+Dialogue: 0,0:31:04.90,0:31:05.85,Default,,0,0,0,,¡No!
+Dialogue: 0,0:31:21.20,0:31:23.14,Default,,0,0,0,,♪ De repente, calor soy ♪
+Dialogue: 0,0:31:23.99,0:31:26.15,Default,,0,0,0,,♪ De repente, frío soy ♪
+Dialogue: 0,0:31:26.81,0:31:31.70,Default,,0,0,0,,♪ De repente una genio soy,\Nde repente una tonta soy ♪
+Dialogue: 0,0:31:32.20,0:31:35.40,Default,,0,0,0,,♪ De repente un hecho, pero me siento ♪
+Dialogue: 0,0:31:35.45,0:31:38.10,Default,,0,0,0,,♪ mas extraña que la ficción, soy nueva ♪
+Dialogue: 0,0:31:38.11,0:31:43.00,Default,,0,0,0,,♪ Pero de repente retrocedo,\Nsoy una contradicción ambulante ♪
+Dialogue: 0,0:31:44.10,0:31:47.45,Default,,0,0,0,,♪ ¿No tiene esto un nombre? ♪
+Dialogue: 0,0:31:49.77,0:31:53.20,Default,,0,0,0,,♪ ¿No tiene esto un nombre? ♪
+Dialogue: 0,0:31:55.47,0:31:59.27,Default,,0,0,0,,♪ ¿No tiene esto un nombre? ♪
+Dialogue: 0,0:31:59.50,0:32:02.24,Default,,0,0,0,,♪ Acaso no es, acaso no es ♪
+Dialogue: 0,0:32:02.65,0:32:05.11,Default,,0,0,0,,♪ ¿Acaso no es amor? ♪
+Dialogue: 0,0:32:05.52,0:32:22.90,Default,,0,0,0,,♪ Acaso no es, acaso no es...\N¿Acaso no es amor? ♪
+Dialogue: 0,0:32:32.10,0:32:33.18,Default,,0,0,0,,¡Garnet!
+Dialogue: 0,0:32:33.58,0:32:34.88,Default,,0,0,0,,¡Garnet! ¡Has vuelto!
+Dialogue: 0,0:32:36.41,0:32:37.51,Default,,0,0,0,,Gracias al cielo eres tú.
+Dialogue: 0,0:32:37.70,0:32:39.30,Default,,0,0,0,,¿Q-Q-Qué está pasando?
+Dialogue: 0,0:32:39.35,0:32:41.90,Default,,0,0,0,,Todos han perdido la memoria,\Ny mis poderes son un desastre.
+Dialogue: 0,0:32:41.90,0:32:42.80,Default,,0,0,0,,¡Necesitamos tu ayuda!
+Dialogue: 0,0:32:42.95,0:32:44.25,Default,,0,0,0,,¿Qué deberíamos hacer, Garnet?
+Dialogue: 0,0:32:44.75,0:32:45.85,Default,,0,0,0,,Lo siento, pero...
+Dialogue: 0,0:32:46.66,0:32:47.76,Default,,0,0,0,,¿Me conoces?
+Dialogue: 0,0:32:49.29,0:32:50.79,Default,,0,0,0,,Buena pregunta.
+Dialogue: 0,0:32:50.90,0:32:52.30,Default,,0,0,0,,Sus recuerdos no han regresado.
+Dialogue: 0,0:32:52.60,0:32:54.75,Default,,0,0,0,,Supongo que la fusión era\Nsólo la primera pieza.
+Dialogue: 0,0:33:06.61,0:33:08.26,Default,,0,0,0,,Atención todos.
+Dialogue: 0,0:33:08.26,0:33:10.71,Default,,0,0,0,,Um Greg Universe ha llegado.
+Dialogue: 0,0:33:11.09,0:33:11.89,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:33:12.95,0:33:14.15,Default,,0,0,0,,¿Has visto a Amethyst?
+Dialogue: 0,0:33:14.20,0:33:15.90,Default,,0,0,0,,¿Qué? Te dije que la vigilaras.
+Dialogue: 0,0:33:15.95,0:33:17.11,Default,,0,0,0,,Debió haber escapado
+Dialogue: 0,0:33:17.12,0:33:20.05,Default,,0,0,0,,mientras luchaba\Npor mi ropa sucia con Pearl.
+Dialogue: 0,0:33:22.40,0:33:24.30,Default,,0,0,0,,¡Pearl! No tienes que hacer eso.
+Dialogue: 0,0:33:24.49,0:33:26.26,Default,,0,0,0,,¡Tengo un lavadero de autos!
+Dialogue: 0,0:33:26.46,0:33:28.00,Default,,0,0,0,,Tengo que encontrar a Amethyst.
+Dialogue: 0,0:33:28.01,0:33:30.05,Default,,0,0,0,,-¿Puedes vigilar a Garnet?\N-Sí, claro.
+Dialogue: 0,0:33:30.06,0:33:32.28,Default,,0,0,0,,Pero parece que está\Nhaciendo un gran trabajo
+Dialogue: 0,0:33:32.28,0:33:33.31,Default,,0,0,0,,vigilándose a sí misma.
+Dialogue: 0,0:33:34.20,0:33:34.70,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:33:36.50,0:33:38.65,Default,,0,0,0,,¡No te olvides de tu mejor amiga, Spinel!
+Dialogue: 0,0:33:38.93,0:33:39.93,Default,,0,0,0,,Oh, cierto.
+Dialogue: 0,0:33:40.18,0:33:42.18,Default,,0,0,0,,Spinel, quédate aquí con los demás,
+Dialogue: 0,0:33:42.20,0:33:44.48,Default,,0,0,0,,y yo volveré enseguida.
+Dialogue: 0,0:33:45.55,0:33:46.18,Default,,0,0,0,,¡No!
+Dialogue: 0,0:33:47.25,0:33:48.45,Default,,0,0,0,,O-Ok.
+Dialogue: 0,0:33:48.75,0:33:50.35,Default,,0,0,0,,¿Vamos juntos?
+Dialogue: 0,0:33:51.12,0:33:52.12,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:33:56.85,0:33:58.45,Default,,0,0,0,,¿Amethyst?
+Dialogue: 0,0:33:59.80,0:34:01.10,Default,,0,0,0,,¿Amethyst?
+Dialogue: 0,0:34:01.40,0:34:03.20,Default,,0,0,0,,¿Amethyst?
+Dialogue: 0,0:34:04.65,0:34:05.90,Default,,0,0,0,,¿Amethyst?
+Dialogue: 0,0:34:09.25,0:34:10.90,Default,,0,0,0,,Espere, ¿Puede darme un par para llevar?
+Dialogue: 0,0:34:11.80,0:34:13.40,Default,,0,0,0,,¡Amethyst!
+Dialogue: 0,0:34:13.64,0:34:15.65,Default,,0,0,0,,¡Tengo deliciosas rosquillas!
+Dialogue: 0,0:34:15.70,0:34:16.90,Default,,0,0,0,,¡Ven por ellas!
+Dialogue: 0,0:34:17.35,0:34:18.40,Default,,0,0,0,,Valía la pena intentarlo.
+Dialogue: 0,0:34:19.00,0:34:19.80,Default,,0,0,0,,¿Dónde podría estar?
+Dialogue: 0,0:34:25.72,0:34:26.57,Default,,0,0,0,,¿Amethyst?
+Dialogue: 0,0:34:29.59,0:34:31.13,Default,,0,0,0,,¿Qué es este lugar?
+Dialogue: 0,0:34:31.53,0:34:32.73,Default,,0,0,0,,E-Es un estudio de arte.
+Dialogue: 0,0:34:33.60,0:34:35.35,Default,,0,0,0,,Amethyst solía venir aquí todo el tiempo.
+Dialogue: 0,0:34:43.00,0:34:44.84,Default,,0,0,0,,Amethyst, gracias al cielo estás bien.
+Dialogue: 0,0:34:45.15,0:34:46.60,Default,,0,0,0,,Gracias al cielo estás bien.
+Dialogue: 0,0:34:47.20,0:34:49.00,Default,,0,0,0,,No estoy muy bien,
+Dialogue: 0,0:34:49.20,0:34:50.45,Default,,0,0,0,,pero tengo un plan.
+Dialogue: 0,0:34:50.82,0:34:53.07,Default,,0,0,0,,Voy a traernos de vuelta pieza por pieza.
+Dialogue: 0,0:34:53.15,0:34:54.90,Default,,0,0,0,,Sólo tengo que descifrar tus piezas.
+Dialogue: 0,0:34:55.55,0:34:56.50,Default,,0,0,0,,Estos cuadros.
+Dialogue: 0,0:34:56.79,0:34:58.04,Default,,0,0,0,,¿Recuerdas haber sido pintada?
+Dialogue: 0,0:34:58.35,0:34:59.25,Default,,0,0,0,,¿Haber sido pintada?
+Dialogue: 0,0:35:00.62,0:35:01.80,Default,,0,0,0,,¿Recuerdas nuestro saludo?
+Dialogue: 0,0:35:02.85,0:35:03.70,Default,,0,0,0,,¿Nuestro saludo?
+Dialogue: 0,0:35:04.30,0:35:06.60,Default,,0,0,0,,Cantar y bailar, esa tiene que ser una pieza.
+Dialogue: 0,0:35:06.80,0:35:08.93,Default,,0,0,0,,¿Recuerdas haber cantado y bailado conmigo?
+Dialogue: 0,0:35:11.00,0:35:15.07,Default,,0,0,0,,♪ En la luz del día, en la oscuridad de la noche ♪
+Dialogue: 0,0:35:15.35,0:35:17.30,Default,,0,0,0,,♪ Cuando estás lista para la acción ♪
+Dialogue: 0,0:35:17.50,0:35:19.75,Default,,0,0,0,,♪ Cuando estas cansada por la pelea ♪
+Dialogue: 0,0:35:19.80,0:35:23.24,Default,,0,0,0,,♪ Cuando estés perdiendo la cabeza,\Ndéjame darte algo en que pensar ♪
+Dialogue: 0,0:35:24.08,0:35:27.68,Default,,0,0,0,,♪ Estaré a tu lado no importa qué ♪
+Dialogue: 0,0:35:28.29,0:35:30.80,Default,,0,0,0,,-♪ En la oscuridad de la noche ♪\N-♪ En la oscuridad de la noche ♪
+Dialogue: 0,0:35:30.85,0:35:32.90,Default,,0,0,0,,-♪ En la luz del día ♪\N-♪ En la luz del día ♪
+Dialogue: 0,0:35:32.91,0:35:35.00,Default,,0,0,0,,-♪ Cuando despiertas ♪\N-♪ Cuando despiertas ♪
+Dialogue: 0,0:35:35.01,0:35:37.21,Default,,0,0,0,,-♪ Cuando vas a dormir ♪\N-♪ Cuando vas a dormir ♪
+Dialogue: 0,0:35:37.21,0:35:39.31,Default,,0,0,0,,-♪ Estaré cerca ♪\N-♪ Estaré cerca ♪
+Dialogue: 0,0:35:39.32,0:35:41.57,Default,,0,0,0,,-♪ Lo quieras o no ♪\N-♪ Lo quieras o no ♪
+Dialogue: 0,0:35:41.58,0:35:45.40,Default,,0,0,0,,♪ Estaré a tu lado no importa qué ♪
+Dialogue: 0,0:35:54.51,0:35:56.89,Default,,0,0,0,,-♪ No importa qué ♪\N-♪ No importa qué ♪
+Dialogue: 0,0:35:56.95,0:35:59.05,Default,,0,0,0,,-♪ No importa qué ♪\N-♪ No importa qué ♪
+Dialogue: 0,0:35:59.05,0:36:00.21,Default,,0,0,0,,♪ No importa qué ♪
+Dialogue: 0,0:36:00.22,0:36:02.18,Default,,0,0,0,,-♪ No importa qué ♪\N-♪ No importa qué ♪
+Dialogue: 0,0:36:02.20,0:36:03.20,Default,,0,0,0,,♪ No importa qué ♪
+Dialogue: 0,0:36:03.25,0:36:05.60,Default,,0,0,0,,-♪ Estaré ♪\N-♪ Estaré ♪
+Dialogue: 0,0:36:05.61,0:36:07.85,Default,,0,0,0,,-♪ a tu lado ♪\N-♪ a tu lado ♪
+Dialogue: 0,0:36:07.86,0:36:11.45,Default,,0,0,0,,♪ Estaré a tu lado no importa qué ♪
+Dialogue: 0,0:36:29.48,0:36:33.65,Default,,0,0,0,,♪ En la oscuridad de la noche, en la luz del día ♪
+Dialogue: 0,0:36:33.75,0:36:37.69,Default,,0,0,0,,♪ Cuando despiertas, cuando vas a dormir ♪
+Dialogue: 0,0:36:38.09,0:36:40.25,Default,,0,0,0,,♪ Sólo recuerda esta canción ♪
+Dialogue: 0,0:36:40.49,0:36:41.75,Default,,0,0,0,,¿Cómo sigue? Lo olvidé.
+Dialogue: 0,0:36:42.40,0:36:46.49,Default,,0,0,0,,♪ Estaré a tu lado no importa qué ♪
+Dialogue: 0,0:36:46.76,0:36:49.16,Default,,0,0,0,,-♪ A través de quién fuiste ♪\N-♪ A través de quién fuiste ♪
+Dialogue: 0,0:36:49.17,0:36:51.37,Default,,0,0,0,,-♪ A través de quién vayas a ser ♪\N-♪ A través de quién vayas a ser ♪
+Dialogue: 0,0:36:51.37,0:36:53.60,Default,,0,0,0,,-♪ A través de lo que pierdas ♪\N-♪ A través de lo que pierdas ♪
+Dialogue: 0,0:36:53.60,0:36:56.24,Default,,0,0,0,,-♪ Siempre me tendrás ♪\N-♪ Siempre me tendrás ♪
+Dialogue: 0,0:36:56.24,0:36:58.51,Default,,0,0,0,,-♪ Al final de tu camino ♪\N-♪ Al final de tu camino ♪
+Dialogue: 0,0:36:58.51,0:37:01.08,Default,,0,0,0,,-♪ Te abrazaré con fuerza ♪\N-♪ Te abrazaré con fuerza ♪
+Dialogue: 0,0:37:01.08,0:37:05.83,Default,,0,0,0,,♪ Estaré a tu lado no importa qué ♪
+Dialogue: 0,0:37:06.85,0:37:11.45,Default,,0,0,0,,♪ Estaré a tu lado, estaré a tu lado ♪
+Dialogue: 0,0:37:11.49,0:37:17.25,Default,,0,0,0,,♪ Estaré a tu lado, no importa qué ♪
+Dialogue: 0,0:37:25.85,0:37:28.80,Default,,0,0,0,,Un, dos, tres
+Dialogue: 0,0:37:30.45,0:37:31.60,Default,,0,0,0,,¡Amethyst!
+Dialogue: 0,0:37:47.62,0:37:49.10,Default,,0,0,0,,¿Qué pasó?
+Dialogue: 0,0:37:49.15,0:37:51.15,Default,,0,0,0,,Amethyst, ¡Funcionó! ¡Volviste!
+Dialogue: 0,0:38:00.02,0:38:04.17,Default,,0,0,0,,¡Tú! ¡¿Q-Qué estás haciendo aquí?!
+Dialogue: 0,0:38:05.35,0:38:07.18,Default,,0,0,0,,Sólo... déjame explicarlo.
+Dialogue: 0,0:38:07.19,0:38:10.24,Default,,0,0,0,,¡Aléjate de él, monstruo!
+Dialogue: 0,0:38:13.90,0:38:14.85,Default,,0,0,0,,¿Un monstruo?
+Dialogue: 0,0:38:15.40,0:38:16.30,Default,,0,0,0,,¿Dónde está?
+Dialogue: 0,0:38:16.75,0:38:17.62,Default,,0,0,0,,No, no lo veo.
+Dialogue: 0,0:38:18.55,0:38:19.99,Default,,0,0,0,,Tú lo eres.
+Dialogue: 0,0:38:22.45,0:38:25.30,Default,,0,0,0,,¡Listos o no, aquí voy!
+Dialogue: 0,0:38:30.75,0:38:32.47,Default,,0,0,0,,¡Olvidé decir "tú lo eres"!
+Dialogue: 0,0:38:35.34,0:38:36.87,Default,,0,0,0,,Ok, las traes, ¡Tú lo eres!
+Dialogue: 0,0:38:39.36,0:38:40.74,Default,,0,0,0,,¿De qué demonios se trata esto?
+Dialogue: 0,0:38:40.86,0:38:42.80,Default,,0,0,0,,Ella no recuerda habernos atacado.
+Dialogue: 0,0:38:42.85,0:38:44.60,Default,,0,0,0,,Ni siquiera recuerda esa cosa.
+Dialogue: 0,0:38:44.76,0:38:45.69,Default,,0,0,0,,Pero que...
+Dialogue: 0,0:38:49.70,0:38:51.35,Default,,0,0,0,,¿No saben jugar a las traes?
+Dialogue: 0,0:39:01.70,0:39:04.20,Default,,0,0,0,,Steven, ¿Qué está pasando?
+Dialogue: 0,0:39:04.25,0:39:06.33,Default,,0,0,0,,No estoy seguro. Pero lo averiguaré.
+Dialogue: 0,0:39:06.34,0:39:08.69,Default,,0,0,0,,Abramos los refugios. Tal vez necesitemos evacuar.
+Dialogue: 0,0:39:14.65,0:39:16.74,Default,,0,0,0,,¡Lapis, Bismuth, Peridot!
+Dialogue: 0,0:39:17.52,0:39:18.58,Default,,0,0,0,,¿Cuál es el daño?
+Dialogue: 0,0:39:18.94,0:39:20.73,Default,,0,0,0,,Amethyst, aléjate de mí.
+Dialogue: 0,0:39:20.74,0:39:23.57,Default,,0,0,0,,No puedo soportar verte\Nvacía y carente personalidad.
+Dialogue: 0,0:39:23.85,0:39:25.15,Default,,0,0,0,,Ya regresé, tonta.
+Dialogue: 0,0:39:26.52,0:39:29.39,Default,,0,0,0,,Bueno, ¡Llegaron justo a tiempo para el fin del mundo!
+Dialogue: 0,0:39:29.81,0:39:31.85,Default,,0,0,0,,Este no es un inyector ordinario.
+Dialogue: 0,0:39:31.87,0:39:34.18,Default,,0,0,0,,Lo que sea que esté filtrando en el suelo es tóxico.
+Dialogue: 0,0:39:34.33,0:39:36.50,Default,,0,0,0,,Hagamos un escaneo para ver a qué nos enfrentamos.
+Dialogue: 0,0:39:45.50,0:39:46.63,Default,,0,0,0,,Justo como pensaba.
+Dialogue: 0,0:39:48.15,0:39:50.83,Default,,0,0,0,,Bio-veneno. Puro y sin rebajar.
+Dialogue: 0,0:39:51.35,0:39:55.55,Default,,0,0,0,,Hasta ahora, la ampolla ha drenado\N15,4% de su contenidos, significa que el veneno
+Dialogue: 0,0:39:55.56,0:39:59.43,Default,,0,0,0,,se está liberando a una velocidad de\N5 metros cúbicos por hora, dándonos...
+Dialogue: 0,0:40:00.48,0:40:03.66,Default,,0,0,0,,41 horas hasta de la destrucción de\Ntoda la vida orgánica de la Tierra.
+Dialogue: 0,0:40:04.06,0:40:05.84,Default,,0,0,0,,¿Toda la vida orgánica?
+Dialogue: 0,0:40:06.02,0:40:08.97,Default,,0,0,0,,Si, como los animales, las plantas, los insectos.
+Dialogue: 0,0:40:09.02,0:40:10.80,Default,,0,0,0,,Ya sabes... la gente.
+Dialogue: 0,0:40:11.64,0:40:12.50,Default,,0,0,0,,Oh, no.
+Dialogue: 0,0:40:12.83,0:40:14.83,Default,,0,0,0,,Esto es a lo que Spinel se refería.
+Dialogue: 0,0:40:14.96,0:40:17.88,Default,,0,0,0,,"Tu mitad humana no tendrá oportunidad contra mi inyector".
+Dialogue: 0,0:40:17.89,0:40:20.32,Default,,0,0,0,,Ella... Ella trajo esto para matarme,
+Dialogue: 0,0:40:20.34,0:40:23.52,Default,,0,0,0,,Y ahora... ¿Ahora matará a\Ntodos los demás en la Tierra también?
+Dialogue: 0,0:40:23.56,0:40:25.08,Default,,0,0,0,,¡Tengo que hacer algo!
+Dialogue: 0,0:40:25.10,0:40:27.05,Default,,0,0,0,,No, Steven, ¡Espera!\N¡Steven! ¡Detente!
+Dialogue: 0,0:40:27.87,0:40:30.38,Default,,0,0,0,,¡Super fuerza Steven!
+Dialogue: 0,0:40:37.66,0:40:39.35,Default,,0,0,0,,-¡Steven!\N-¡Cuidado!
+Dialogue: 0,0:40:39.40,0:40:41.40,Default,,0,0,0,,¿En que está pensando ese tonto?
+Dialogue: 0,0:40:41.59,0:40:44.17,Default,,0,0,0,,¡Si! ¡Levanta con las piernas!
+Dialogue: 0,0:41:02.65,0:41:04.93,Default,,0,0,0,,Vaya, miren lo que atrapé.
+Dialogue: 0,0:41:04.94,0:41:06.64,Default,,0,0,0,,-¡Steven!\N-¿Estás bien?
+Dialogue: 0,0:41:06.80,0:41:08.34,Default,,0,0,0,,Mi chaqueta orgánica.
+Dialogue: 0,0:41:10.59,0:41:12.99,Default,,0,0,0,,No puedo hacer nada con mis poderes así.
+Dialogue: 0,0:41:13.20,0:41:15.53,Default,,0,0,0,,Bismuth, Lapis, ¿No pueden levantar esa cosa?
+Dialogue: 0,0:41:15.55,0:41:17.33,Default,,0,0,0,,Peridot, ¿Qué hay de tus poderes sobre el metal?
+Dialogue: 0,0:41:17.45,0:41:19.14,Default,,0,0,0,,¿Crees que no lo intentamos?
+Dialogue: 0,0:41:19.14,0:41:22.20,Default,,0,0,0,,Perturbar el inyector acelera\Nla velocidad de liberación del veneno.
+Dialogue: 0,0:41:22.43,0:41:24.27,Default,,0,0,0,,Además, podría explotar.
+Dialogue: 0,0:41:24.54,0:41:28.14,Default,,0,0,0,,Tenemos que encontrar\Nuna manera de moverlo sin tocarlo,
+Dialogue: 0,0:41:28.32,0:41:29.91,Default,,0,0,0,,antes de que sea demasiado tarde.
+Dialogue: 0,0:41:30.25,0:41:32.25,Default,,0,0,0,,Spinel... Ella lo activó,
+Dialogue: 0,0:41:32.25,0:41:33.97,Default,,0,0,0,,así que tiene que poder desactivarlo,
+Dialogue: 0,0:41:34.29,0:41:36.36,Default,,0,0,0,,pero no recuerda lo que es,
+Dialogue: 0,0:41:36.56,0:41:38.34,Default,,0,0,0,,y mucho menos como controlarlo.
+Dialogue: 0,0:41:38.85,0:41:40.52,Default,,0,0,0,,Entonces tiene que regresarla a como era.
+Dialogue: 0,0:41:40.82,0:41:41.91,Default,,0,0,0,,¡De ninguna manera!
+Dialogue: 0,0:41:41.96,0:41:43.44,Default,,0,0,0,,Es adorable e inofensiva ahora,
+Dialogue: 0,0:41:43.45,0:41:45.75,Default,,0,0,0,,pero si la traemos de vuelta, ¡Nos matará a todos!
+Dialogue: 0,0:41:46.06,0:41:48.65,Default,,0,0,0,,Morirás de todas formas
+Dialogue: 0,0:41:48.68,0:41:51.12,Default,,0,0,0,,si no haces que desactive esa cosa.
+Dialogue: 0,0:41:51.23,0:41:53.56,Default,,0,0,0,,Tiene razón, Steven. Me trajiste de vuelta.
+Dialogue: 0,0:41:53.80,0:41:56.15,Default,,0,0,0,,Lo que sea que hiciste por mí, hazlo por ella.
+Dialogue: 0,0:41:56.31,0:41:57.89,Default,,0,0,0,,Eso es diferente. Te conozco.
+Dialogue: 0,0:41:57.98,0:41:59.62,Default,,0,0,0,,No se nada sobre Spinel.
+Dialogue: 0,0:41:59.78,0:42:01.94,Default,,0,0,0,,Ninguno de nosotros había oído hablar de ella antes.
+Dialogue: 0,0:42:02.34,0:42:04.10,Default,,0,0,0,,Excepto... Pearl.
+Dialogue: 0,0:42:04.45,0:42:05.40,Default,,0,0,0,,Pearl la conocía.
+Dialogue: 0,0:42:06.00,0:42:07.45,Default,,0,0,0,,Me temo que no puedo ayudar.
+Dialogue: 0,0:42:07.55,0:42:11.87,Default,,0,0,0,,Estoy al servicio de mi Um Greg Universe,\Npreparando el concierto de esta noche,
+Dialogue: 0,0:42:11.92,0:42:16.90,Default,,0,0,0,,exhibiendo a una prometedora banda\Ndel género "Rockinroll".
+Dialogue: 0,0:42:18.88,0:42:20.95,Default,,0,0,0,,¿Está evacuando la gente a la bodega?
+Dialogue: 0,0:42:21.13,0:42:22.71,Default,,0,0,0,,Cancelaré el concierto.
+Dialogue: 0,0:42:23.15,0:42:24.91,Default,,0,0,0,,¿No? Tiene razón.
+Dialogue: 0,0:42:25.08,0:42:26.96,Default,,0,0,0,,Sadie Killer siempre atrae una multitud.
+Dialogue: 0,0:42:27.32,0:42:29.96,Default,,0,0,0,,Muy bien, Alcaldesa. No cobraré las entradas
+Dialogue: 0,0:42:29.98,0:42:32.39,Default,,0,0,0,,y, diablos, 30% de descuento en mercancías.
+Dialogue: 0,0:42:32.67,0:42:35.06,Default,,0,0,0,,-Papá.\N-Steven, ¡Encontraste a Amethyst!
+Dialogue: 0,0:42:35.38,0:42:37.04,Default,,0,0,0,,¿Quién es Amethyst?
+Dialogue: 0,0:42:37.31,0:42:39.58,Default,,0,0,0,,Oh, no. Está mucho peor.
+Dialogue: 0,0:42:39.85,0:42:41.93,Default,,0,0,0,,Nah, sólo bromeaba.
+Dialogue: 0,0:42:42.09,0:42:43.51,Default,,0,0,0,,Demasiado pronto, Amethyst.
+Dialogue: 0,0:42:45.16,0:42:46.58,Default,,0,0,0,,Garnet, ¿Estás bien?
+Dialogue: 0,0:42:46.65,0:42:49.07,Default,,0,0,0,,¿Querías el cable rojo o el azul?
+Dialogue: 0,0:42:49.19,0:42:51.69,Default,,0,0,0,,¡No importa! ¡Son lo mismo!
+Dialogue: 0,0:42:52.92,0:42:55.89,Default,,0,0,0,,Pearl, ¿Qué estás haciendo? ¡Necesitamos eso para el concierto!
+Dialogue: 0,0:42:56.09,0:42:58.32,Default,,0,0,0,,¿A quién le importa el concierto?
+Dialogue: 0,0:42:58.43,0:43:02.34,Default,,0,0,0,,Tenemos que detener el inyector de Spinel,\N¡O todos en la Tierra morirán!
+Dialogue: 0,0:43:02.59,0:43:04.34,Default,,0,0,0,,Para detenerlo,\Nnecesitamos a Spinel de vuelta,
+Dialogue: 0,0:43:04.36,0:43:05.93,Default,,0,0,0,,y para eso, necesitamos a Pearl de vuelta,
+Dialogue: 0,0:43:05.95,0:43:08.08,Default,,0,0,0,,y para eso, necesitamos sus piezas faltantes.
+Dialogue: 0,0:43:08.18,0:43:11.06,Default,,0,0,0,,Pearl y Mamá se rebelaron juntas,\Nasí que ella tiene que rebelarse contigo.
+Dialogue: 0,0:43:11.11,0:43:13.30,Default,,0,0,0,,Tenemos que organizar\Nalgún evento grande y dramático,
+Dialogue: 0,0:43:13.30,0:43:15.88,Default,,0,0,0,,algo para refrescar su memoria,\Ncómo... cómo...
+Dialogue: 0,0:43:15.89,0:43:18.02,Default,,0,0,0,,¡Cómo un concierto de Rock!
+Dialogue: 0,0:43:18.66,0:43:20.49,Default,,0,0,0,,¡Cómo un concierto de Rock!
+Dialogue: 0,0:43:20.77,0:43:22.10,Default,,0,0,0,,¿Como un concierto de Rock?
+Dialogue: 0,0:43:22.28,0:43:23.26,Default,,0,0,0,,-¡Sí!\N-¡Sí!
+Dialogue: 0,0:43:24.52,0:43:26.23,Default,,0,0,0,,Por aquí, ciudadanos.
+Dialogue: 0,0:43:26.69,0:43:28.73,Default,,0,0,0,,¿Concierto o evacuado?
+Dialogue: 0,0:43:31.15,0:43:32.84,Default,,0,0,0,,¡¿Quién  está aquí por show?!
+Dialogue: 0,0:43:34.34,0:43:36.85,Default,,0,0,0,,¡¿Quién está aquí por que es el fin del mundo?!
+Dialogue: 0,0:43:37.21,0:43:38.07,Default,,0,0,0,,Espera, ¿Qué?
+Dialogue: 0,0:43:38.36,0:43:41.93,Default,,0,0,0,,¡La primera canción es una\Npetición especial de Steven Universe!
+Dialogue: 0,0:43:46.84,0:43:48.88,Default,,0,0,0,,Esto tiene que regresar\Nlos recuerdos de Pearl.
+Dialogue: 0,0:43:49.04,0:43:51.25,Default,,0,0,0,,Se trata de renunciar\Na un horrible trabajo de servicio.
+Dialogue: 0,0:43:51.74,0:43:54.28,Default,,0,0,0,,Gracias, gracias, gracias.
+Dialogue: 0,0:43:54.73,0:43:57.49,Default,,0,0,0,,Gracias por honrarme con su presencia.
+Dialogue: 0,0:43:58.66,0:44:01.86,Default,,0,0,0,,♪ Buenas tardes, señor, ¿Qué puedo hacer, señor? ♪
+Dialogue: 0,0:44:01.86,0:44:05.39,Default,,0,0,0,,♪ Sólo de la orden, señor, todo por usted, señor ♪
+Dialogue: 0,0:44:05.43,0:44:08.80,Default,,0,0,0,,♪ Sus amigos dicen, señor, "No la mereces" ♪
+Dialogue: 0,0:44:08.81,0:44:12.07,Default,,0,0,0,,♪ No estoy de acuerdo, señor,\Nvivo para servir, señor. ♪
+Dialogue: 0,0:44:12.28,0:44:16.01,Default,,0,0,0,,♪ Pienso en todo el tiempo que desperdicié ♪
+Dialogue: 0,0:44:16.01,0:44:18.98,Default,,0,0,0,,♪ Quiero ser... desobediente ♪
+Dialogue: 0,0:44:18.98,0:44:22.52,Default,,0,0,0,,♪ Sin dormir me pregunté a\Ndónde fueron mis veranos ♪
+Dialogue: 0,0:44:22.82,0:44:25.99,Default,,0,0,0,,♪ Quiero ser... desobediente ♪
+Dialogue: 0,0:44:26.12,0:44:29.56,Default,,0,0,0,,♪ Desobediente, desobediente ♪
+Dialogue: 0,0:44:32.93,0:44:36.48,Default,,0,0,0,,♪ He sido buena, señor, tan buena ¿Y para qué? ♪
+Dialogue: 0,0:44:36.54,0:44:39.79,Default,,0,0,0,,♪ Y le he dado todo lo que tenía ♪
+Dialogue: 0,0:44:39.79,0:44:43.14,Default,,0,0,0,,♪ Se siente raro, amigo, todo este arreglo ♪
+Dialogue: 0,0:44:43.15,0:44:46.03,Default,,0,0,0,,♪ Terminará volviéndome loca ♪
+Dialogue: 0,0:44:46.04,0:44:50.14,Default,,0,0,0,,♪ Cuando pienso en\Ntodo el tiempo que desperdicié ♪
+Dialogue: 0,0:44:50.15,0:44:53.36,Default,,0,0,0,,♪ Quiero ser... desobediente ♪
+Dialogue: 0,0:44:53.37,0:44:56.65,Default,,0,0,0,,♪ Sin dormir me pregunté a\Ndónde fueron mis veranos ♪
+Dialogue: 0,0:44:57.05,0:45:00.42,Default,,0,0,0,,♪ Quiero ser... desobediente ♪
+Dialogue: 0,0:45:00.43,0:45:03.62,Default,,0,0,0,,♪ Desobediente, desobediente ♪
+Dialogue: 0,0:45:05.03,0:45:05.71,Default,,0,0,0,,Un segundo.
+Dialogue: 0,0:45:08.33,0:45:09.64,Default,,0,0,0,,No es suficiente.
+Dialogue: 0,0:45:09.95,0:45:12.03,Default,,0,0,0,,Tal vez necesitamos darle\Ndónde más le duele.
+Dialogue: 0,0:45:12.19,0:45:14.96,Default,,0,0,0,,-¿Qué?\N-Ya sabes, ¿Su jefe original?
+Dialogue: 0,0:45:14.98,0:45:16.03,Default,,0,0,0,,¿El amor de su vida?
+Dialogue: 0,0:45:16.05,0:45:18.32,Default,,0,0,0,,La razón por la cual se rebeló en primer lugar.
+Dialogue: 0,0:45:18.57,0:45:20.73,Default,,0,0,0,,Mamá. Tiene que recordar a mamá.
+Dialogue: 0,0:45:21.15,0:45:23.15,Default,,0,0,0,,-Pero...\N-Si es necesario...
+Dialogue: 0,0:45:37.90,0:45:42.50,Default,,0,0,0,,♪ Quiero ser ♪
+Dialogue: 0,0:45:43.60,0:45:45.10,Default,,0,0,0,,♪ desobediente ♪
+Dialogue: 0,0:45:45.45,0:45:49.66,Default,,0,0,0,,♪ Quiero ser ♪
+Dialogue: 0,0:45:51.21,0:45:55.24,Default,,0,0,0,,♪ Desobediente, desobediente ♪
+Dialogue: 0,0:45:55.53,0:46:00.51,Default,,0,0,0,,♪ Desobediente, desobediente ♪
+Dialogue: 0,0:46:05.23,0:46:06.49,Default,,0,0,0,,¿Cómo pudo fallar eso?
+Dialogue: 0,0:46:06.78,0:46:07.74,Default,,0,0,0,,¿Qué nos está faltando?
+Dialogue: 0,0:46:10.49,0:46:12.94,Default,,0,0,0,,¡No se preocupe! ¡Puedo aplaudir por usted!
+Dialogue: 0,0:46:14.81,0:46:17.24,Default,,0,0,0,,¿Qué hará que dejes de servirme?
+Dialogue: 0,0:46:17.60,0:46:20.12,Default,,0,0,0,,Mientras usted exista, le serviré.
+Dialogue: 0,0:46:21.33,0:46:23.54,Default,,0,0,0,,"Mientras usted exista".
+Dialogue: 0,0:46:23.68,0:46:24.95,Default,,0,0,0,,Esa es la última pieza.
+Dialogue: 0,0:46:24.98,0:46:25.98,Default,,0,0,0,,Mamá desapareció.
+Dialogue: 0,0:46:26.38,0:46:28.07,Default,,0,0,0,,Papá, tengo una idea.
+Dialogue: 0,0:46:30.18,0:46:31.18,Default,,0,0,0,,¿Estás seguro?
+Dialogue: 0,0:46:31.20,0:46:32.78,Default,,0,0,0,,¿No se supone que tus poderes funcionan mal?
+Dialogue: 0,0:46:33.03,0:46:34.45,Default,,0,0,0,,¡Al menos puedo intentarlo!
+Dialogue: 0,0:46:34.52,0:46:36.85,Default,,0,0,0,,¿Pero qué hay de mí? Nunca he...
+Dialogue: 0,0:46:37.03,0:46:39.26,Default,,0,0,0,,Vamos Papá. Hagamos un dueto.
+Dialogue: 0,0:46:42.56,0:46:44.87,Default,,0,0,0,,Vamos, poderes, ayúdenme aquí.
+Dialogue: 0,0:46:56.52,0:46:57.15,Default,,0,0,0,,¿Um Greg?
+Dialogue: 0,0:46:57.68,0:46:58.34,Default,,0,0,0,,¿Steven?
+Dialogue: 0,0:46:59.65,0:47:01.83,Default,,0,0,0,,Es un gran, viejo universo el de ahí afuera.
+Dialogue: 0,0:47:02.12,0:47:04.78,Default,,0,0,0,,Y cuando te está aplastando\Nel peso de sus estrellas...
+Dialogue: 0,0:47:04.80,0:47:05.64,Default,,0,0,0,,¿Qué... Dónde...?
+Dialogue: 0,0:47:06.00,0:47:08.39,Default,,0,0,0,,Bueno, a veces,\Nnecesitas a ese alguien especial
+Dialogue: 0,0:47:08.72,0:47:10.82,Default,,0,0,0,,para que te recuerde que tú eres mucho más.
+Dialogue: 0,0:47:12.10,0:47:12.79,Default,,0,0,0,,¿Qué...?
+Dialogue: 0,0:47:30.68,0:47:31.91,Default,,0,0,0,,♪ Nada ♪
+Dialogue: 0,0:47:32.88,0:47:36.00,Default,,0,0,0,,♪ Te retiene ahora ♪
+Dialogue: 0,0:47:37.01,0:47:38.08,Default,,0,0,0,,♪ Nadie ♪
+Dialogue: 0,0:47:39.11,0:47:41.02,Default,,0,0,0,,♪ Te puede dar ordenes ♪
+Dialogue: 0,0:47:43.92,0:47:45.84,Default,,0,0,0,,♪ ¿Qué es lo que quieres hacer? ♪
+Dialogue: 0,0:47:47.01,0:47:48.71,Default,,0,0,0,,♪ Eres tu propia jefa ♪
+Dialogue: 0,0:47:48.90,0:47:54.13,Default,,0,0,0,,♪ ¿Y no es ese pensamiento suficiente para\Nlevantarte del suelo? ♪
+Dialogue: 0,0:47:56.20,0:47:57.15,Default,,0,0,0,,♪ Nada ♪
+Dialogue: 0,0:47:58.51,0:48:01.84,Default,,0,0,0,,♪ Me retiene ahora ♪
+Dialogue: 0,0:48:02.43,0:48:03.74,Default,,0,0,0,,♪ Nadie ♪
+Dialogue: 0,0:48:05.11,0:48:06.96,Default,,0,0,0,,♪ Me puede dar ordenes ♪
+Dialogue: 0,0:48:09.43,0:48:11.64,Default,,0,0,0,,♪ ¿Qué es lo que quiero ser? ♪
+Dialogue: 0,0:48:12.64,0:48:14.28,Default,,0,0,0,,♪ Soy mi propia jefa ♪
+Dialogue: 0,0:48:14.74,0:48:16.62,Default,,0,0,0,,♪ ¿Y no es esa idea suficiente ♪
+Dialogue: 0,0:48:16.65,0:48:20.45,Default,,0,0,0,,♪ para levantarme del suelo? ♪
+Dialogue: 0,0:48:21.05,0:48:24.16,Default,,0,0,0,,♪ Podríamos ser independientes juntos ♪
+Dialogue: 0,0:48:25.46,0:48:30.24,Default,,0,0,0,,♪ Independientes juntos, podemos volar ♪
+Dialogue: 0,0:48:31.92,0:48:33.74,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:48:35.08,0:48:37.27,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:48:38.31,0:48:42.67,Default,,0,0,0,,♪ Independientes juntos, tú y yo ♪
+Dialogue: 0,0:49:07.37,0:49:12.76,Default,,0,0,0,,♪ Encima de un mar sin fin ♪
+Dialogue: 0,0:49:13.58,0:49:19.02,Default,,0,0,0,,♪ Nadie nos trajo aquí excepto yo ♪
+Dialogue: 0,0:49:20.26,0:49:25.35,Default,,0,0,0,,♪ Cada paso y cada decisión ♪
+Dialogue: 0,0:49:25.96,0:49:31.50,Default,,0,0,0,,♪ Es muy culpa, es mi pensamiento,\Nson mis palabras, es mi voz ♪
+Dialogue: 0,0:49:32.70,0:49:34.60,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:49:35.92,0:49:40.20,Default,,0,0,0,,♪ Independientes juntos, si lo intentamos ♪
+Dialogue: 0,0:49:42.32,0:49:44.12,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:49:45.50,0:49:47.37,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:49:48.70,0:49:52.90,Default,,0,0,0,,♪ Independientes juntos, tú y yo ♪
+Dialogue: 0,0:49:55.10,0:49:56.94,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:49:58.36,0:50:02.80,Default,,0,0,0,,♪ Independientes juntos, podemos volar ♪
+Dialogue: 0,0:50:04.70,0:50:06.50,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:50:07.93,0:50:09.76,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:50:11.12,0:50:14.73,Default,,0,0,0,,♪ Independientes juntos, tú y yo ♪
+Dialogue: 0,0:50:17.54,0:50:19.77,Default,,0,0,0,,♪ Independientes juntos ♪
+Dialogue: 0,0:50:20.06,0:50:23.19,Default,,0,0,0,,♪ Tú y yo ♪
+Dialogue: 0,0:50:26.78,0:50:29.35,Default,,0,0,0,,¡Lo lograste! ¿Steven?
+Dialogue: 0,0:50:39.03,0:50:39.63,Default,,0,0,0,,Espera.
+Dialogue: 0,0:50:40.20,0:50:40.85,Default,,0,0,0,,¡Spinel!
+Dialogue: 0,0:50:42.19,0:50:44.13,Default,,0,0,0,,Steven, ¿Estás bien?
+Dialogue: 0,0:50:44.40,0:50:46.91,Default,,0,0,0,,N-No se preocupen por mí. Es Spinel.
+Dialogue: 0,0:50:47.13,0:50:49.36,Default,,0,0,0,,Necesitamos que recuerde\Ncomo apagar su inyector.
+Dialogue: 0,0:50:50.62,0:50:52.48,Default,,0,0,0,,Pearl, ¿Qué sabes sobre de ella?
+Dialogue: 0,0:50:52.74,0:50:55.58,Default,,0,0,0,,¿Spinel? Era la compañera de\Njuegos de Pink Diamond.
+Dialogue: 0,0:50:55.59,0:50:58.47,Default,,0,0,0,,Solían pasar años juntas en el jardín de Pink...
+Dialogue: 0,0:50:58.49,0:51:01.10,Default,,0,0,0,,-¿Jardín?\N-Ahí es donde solían jugar.
+Dialogue: 0,0:51:01.11,0:51:02.80,Default,,0,0,0,,Entonces, ¿Cuál es su problema con nosotros?
+Dialogue: 0,0:51:02.99,0:51:05.76,Default,,0,0,0,,No lo sé. No la he visto en 6.000 años.
+Dialogue: 0,0:51:06.08,0:51:08.37,Default,,0,0,0,,Algo debió pasarle desde entonces.
+Dialogue: 0,0:51:08.51,0:51:10.24,Default,,0,0,0,,Entonces eso es lo que necesito averiguar.
+Dialogue: 0,0:51:11.05,0:51:13.35,Default,,0,0,0,,Hijo, ¿Estás seguro de que\Nno necesitas un descanso?
+Dialogue: 0,0:51:13.50,0:51:16.03,Default,,0,0,0,,Parece que esa fusión agotó toda tu energía.
+Dialogue: 0,0:51:16.36,0:51:18.94,Default,,0,0,0,,Tengo que hacer lo que pueda\Ncon lo poco que me queda.
+Dialogue: 0,0:51:19.52,0:51:20.70,Default,,0,0,0,,Voy tras Spinel.
+Dialogue: 0,0:51:21.10,0:51:22.42,Default,,0,0,0,,Steven, ¡Espera!
+Dialogue: 0,0:51:23.49,0:51:26.34,Default,,0,0,0,,Steven, ¡Algunos de los ciudadanos aún no\Nhan llegado los refugios!
+Dialogue: 0,0:51:26.37,0:51:27.87,Default,,0,0,0,,¿Ha visto a una gema rosa pasar por aquí?
+Dialogue: 0,0:51:28.52,0:51:29.10,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:51:32.57,0:51:34.69,Default,,0,0,0,,Esta mañana todo era perfecto.
+Dialogue: 0,0:51:34.89,0:51:36.52,Default,,0,0,0,,¿Por qué todo tuvo que cambiar?
+Dialogue: 0,0:51:38.22,0:51:40.31,Default,,0,0,0,,Quiero mis felices para siempre de vuelta.
+Dialogue: 0,0:51:42.23,0:51:43.07,Default,,0,0,0,,Esa podría ser ella.
+Dialogue: 0,0:51:44.82,0:51:47.06,Default,,0,0,0,,Ve a buscar a Connie.\NNecesitamos toda la ayuda posible.
+Dialogue: 0,0:51:51.40,0:51:52.05,Default,,0,0,0,,¿Spinel?
+Dialogue: 0,0:51:54.05,0:51:54.75,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:51:58.19,0:52:02.22,Default,,0,0,0,,Comencé a tener\Nestos sentimientos regresando a mí.
+Dialogue: 0,0:52:02.47,0:52:03.72,Default,,0,0,0,,Eso... eso es bueno.
+Dialogue: 0,0:52:04.08,0:52:05.37,Default,,0,0,0,,Necesito que recuerdes.
+Dialogue: 0,0:52:05.63,0:52:08.51,Default,,0,0,0,,Si no lo haces, algo realmente malo va a\Npasarme a mí y a mi hogar.
+Dialogue: 0,0:52:08.94,0:52:10.08,Default,,0,0,0,,Por favor, ¡Piensa!
+Dialogue: 0,0:52:10.89,0:52:12.27,Default,,0,0,0,,¿Recuerdas el jardín?
+Dialogue: 0,0:52:13.10,0:52:13.97,Default,,0,0,0,,¿El jardín?
+Dialogue: 0,0:52:14.52,0:52:16.06,Default,,0,0,0,,¿Estás recordando algo?
+Dialogue: 0,0:52:20.37,0:52:21.04,Default,,0,0,0,,¡No!
+Dialogue: 0,0:52:21.73,0:52:23.60,Default,,0,0,0,,Spinel, ¿A dónde vamos?
+Dialogue: 0,0:52:24.08,0:52:27.22,Default,,0,0,0,,De regreso... al lugar del que nunca me fui.
+Dialogue: 0,0:52:42.22,0:52:42.80,Default,,0,0,0,,¡Spinel!
+Dialogue: 0,0:52:47.72,0:52:49.57,Default,,0,0,0,,Este era nuestro jardín.
+Dialogue: 0,0:52:50.00,0:52:51.66,Default,,0,0,0,,Un mundo especial,
+Dialogue: 0,0:52:52.00,0:52:54.06,Default,,0,0,0,,construido sólo para Pink y para mí.
+Dialogue: 0,0:52:56.64,0:53:00.59,Default,,0,0,0,,En Homeworld, Pink estaba\Nmuy sola y triste, pero aquí no.
+Dialogue: 0,0:53:02.06,0:53:05.14,Default,,0,0,0,,Aquí, jugábamos durante horas.
+Dialogue: 0,0:53:11.23,0:53:13.68,Default,,0,0,0,,Cada día nos divertíamos tanto.
+Dialogue: 0,0:53:17.55,0:53:20.44,Default,,0,0,0,,O al menos... Eso es lo que yo pensaba.
+Dialogue: 0,0:53:21.23,0:53:22.33,Default,,0,0,0,,¿Acaso pasó algo?
+Dialogue: 0,0:53:24.25,0:53:26.90,Default,,0,0,0,,Pink quería una colonia más que\Ncualquier otra cosa.
+Dialogue: 0,0:53:27.83,0:53:30.62,Default,,0,0,0,,Un día, ¡Su deseo se cumplió!
+Dialogue: 0,0:53:31.29,0:53:35.50,Default,,0,0,0,,Blue y Yellow le dieron\Na Pink su propio planeta, ¡La Tierra!
+Dialogue: 0,0:53:36.16,0:53:37.84,Default,,0,0,0,,¡Estaba tan emocionada!
+Dialogue: 0,0:53:38.53,0:53:41.08,Default,,0,0,0,,¡Un nuevo lugar para jugar!
+Dialogue: 0,0:53:42.36,0:53:44.47,Default,,0,0,0,,Entonces, ¿Por qué no fuiste con ella?
+Dialogue: 0,0:54:05.36,0:54:09.34,Default,,0,0,0,,♪ Aquí el Jardín, juguemos algo ♪
+Dialogue: 0,0:54:09.71,0:54:12.21,Default,,0,0,0,,♪ Te mostraré cómo hacerlo ♪
+Dialogue: 0,0:54:14.15,0:54:17.70,Default,,0,0,0,,♪ Aquí en el jardín, quédate muy quieta ♪
+Dialogue: 0,0:54:18.54,0:54:21.07,Default,,0,0,0,,♪ Esto será muy divertido ♪
+Dialogue: 0,0:54:22.93,0:54:26.57,Default,,0,0,0,,♪ Y luego sonrió, eso es lo que busco ♪
+Dialogue: 0,0:54:26.96,0:54:31.36,Default,,0,0,0,,♪ la sonrisa en sus ojos, el sonido de su risa ♪
+Dialogue: 0,0:54:31.79,0:54:35.60,Default,,0,0,0,,♪ Feliz de escuchar, feliz de jugar ♪
+Dialogue: 0,0:54:36.08,0:54:43.43,Default,,0,0,0,,♪ Felizmente viéndola irse lejos ♪
+Dialogue: 0,0:54:47.04,0:54:51.15,Default,,0,0,0,,♪ Felizmente esperando, por cuenta propia ♪
+Dialogue: 0,0:54:51.46,0:54:54.23,Default,,0,0,0,,♪ bajo el cielo sin fin ♪
+Dialogue: 0,0:54:55.83,0:54:59.51,Default,,0,0,0,,♪ Contando los segundos, esperando sola ♪
+Dialogue: 0,0:54:59.67,0:55:03.28,Default,,0,0,0,,♪ mientras miles de años pasaban ♪
+Dialogue: 0,0:55:04.72,0:55:08.22,Default,,0,0,0,,♪ Felizmente preguntándome,\Nnoche tras noche ♪
+Dialogue: 0,0:55:08.47,0:55:12.83,Default,,0,0,0,,♪ ¿Es así como se juega?\N¿Lo estoy haciendo bien? ♪
+Dialogue: 0,0:55:13.45,0:55:17.24,Default,,0,0,0,,♪ Feliz de escuchar, feliz de quedarme ♪
+Dialogue: 0,0:55:17.93,0:55:25.12,Default,,0,0,0,,♪ Felizmente viéndola irse lejos ♪
+Dialogue: 0,0:55:28.01,0:55:32.50,Default,,0,0,0,,♪ Sigues pasando páginas ♪
+Dialogue: 0,0:55:32.59,0:55:34.73,Default,,0,0,0,,♪ Por gente a la que ♪
+Dialogue: 0,0:55:34.96,0:55:39.24,Default,,0,0,0,,♪ Gente a la que no le importas ♪
+Dialogue: 0,0:55:41.13,0:55:45.74,Default,,0,0,0,,♪ Y aún así, te lleva años ♪
+Dialogue: 0,0:55:45.76,0:55:50.14,Default,,0,0,0,,♪ Ver que ya no hay nadie,\Nver que ya no hay nadie ♪
+Dialogue: 0,0:55:50.35,0:55:52.39,Default,,0,0,0,,♪ Ver que ya no hay nadie ♪
+Dialogue: 0,0:55:52.55,0:55:54.68,Default,,0,0,0,,♪ Todos se fueron ♪
+Dialogue: 0,0:55:54.78,0:55:56.88,Default,,0,0,0,,♪ Sin ti ♪
+Dialogue: 0,0:55:59.60,0:56:03.43,Default,,0,0,0,,♪ Por fin algo, por fin noticias ♪
+Dialogue: 0,0:56:03.79,0:56:07.06,Default,,0,0,0,,♪ De cómo termina la historia ♪
+Dialogue: 0,0:56:08.11,0:56:12.00,Default,,0,0,0,,♪ Ella ya no existe, la sobrevive su hijo ♪
+Dialogue: 0,0:56:12.18,0:56:16.33,Default,,0,0,0,,♪ y todos sus nuevos amigos ♪
+Dialogue: 0,0:56:17.07,0:56:20.64,Default,,0,0,0,,♪ ¿No es encantador? ¿No es genial? ♪
+Dialogue: 0,0:56:20.73,0:56:25.42,Default,,0,0,0,,♪ ¿Y no es eso cruel?\NY acaso no soy tonta por haber ♪
+Dialogue: 0,0:56:25.49,0:56:29.80,Default,,0,0,0,,♪ Felizmente escuchado,\Nfelizmente esperado ♪
+Dialogue: 0,0:56:30.26,0:56:36.27,Default,,0,0,0,,♪ Felizmente viéndola irse lejos ♪
+Dialogue: 0,0:56:36.47,0:56:48.96,Default,,0,0,0,,♪ Irse ♪
+Dialogue: 0,0:56:49.23,0:56:50.19,Default,,0,0,0,,♪ lejos ♪
+Dialogue: 0,0:56:56.97,0:57:00.25,Default,,0,0,0,,S-Spinel, recuperaste tus recuerdos.
+Dialogue: 0,0:57:00.75,0:57:02.61,Default,,0,0,0,,No puedo creer que mamá te hiciera eso.
+Dialogue: 0,0:57:03.43,0:57:05.40,Default,,0,0,0,,De hecho, sí puedo creerlo.
+Dialogue: 0,0:57:05.62,0:57:06.98,Default,,0,0,0,,No eres la única a la que ha lastimado.
+Dialogue: 0,0:57:08.42,0:57:10.95,Default,,0,0,0,,Claro, ¡Debes saber todo sobre su vida sin mí!
+Dialogue: 0,0:57:11.04,0:57:12.44,Default,,0,0,0,,Presúmelo, ¡¿Quieres?!
+Dialogue: 0,0:57:12.72,0:57:14.05,Default,,0,0,0,,¡No! ¡No es eso!
+Dialogue: 0,0:57:14.41,0:57:16.13,Default,,0,0,0,,Te mereces un amigo mejor.
+Dialogue: 0,0:57:23.65,0:57:26.35,Default,,0,0,0,,Spinel, regresa a la Tierra y sálvala conmigo.
+Dialogue: 0,0:57:26.94,0:57:29.42,Default,,0,0,0,,Puedes empezar desde cero ahí,\Nhacer nuevos amigos.
+Dialogue: 0,0:57:32.41,0:57:37.05,Default,,0,0,0,,♪ Algún día, en algún lugar, de alguna manera ♪
+Dialogue: 0,0:57:38.49,0:57:41.39,Default,,0,0,0,,♪ Volverás a amar ♪
+Dialogue: 0,0:57:41.99,0:57:46.69,Default,,0,0,0,,♪ Sólo necesitas encontrar a alguien ♪
+Dialogue: 0,0:57:50.76,0:57:55.81,Default,,0,0,0,,♪ Algún día, en algún lugar, de alguna manera ♪
+Dialogue: 0,0:57:56.87,0:57:59.87,Default,,0,0,0,,-♪ Volverás a amar ♪\N-♪ Volveré a amar ♪
+Dialogue: 0,0:58:00.36,0:58:08.60,Default,,0,0,0,,-♪ Sólo necesitas encontrar a alguien ♪\N-♪ Sólo necesito encontrar a alguien ♪
+Dialogue: 0,0:58:09.18,0:58:10.72,Default,,0,0,0,,♪ Alguien ♪
+Dialogue: 0,0:58:11.80,0:58:14.48,Default,,0,0,0,,-♪ Que te trate mejor ♪\N-♪ Que me trate mejor ♪
+Dialogue: 0,0:58:14.75,0:58:18.78,Default,,0,0,0,,-♪ Alguien, que te quiera cerca ♪\N-♪ Alguien, que me quiera cerca ♪
+Dialogue: 0,0:58:19.95,0:58:24.29,Default,,0,0,0,,♪ Algún día, en algún lugar, de alguna manera ♪
+Dialogue: 0,0:58:24.44,0:58:28.67,Default,,0,0,0,,-♪ Te sentirás encontrada ♪\N-♪Me sentiré encontrada ♪
+Dialogue: 0,0:58:32.25,0:58:36.20,Default,,0,0,0,,♪ Hoy, aquí, ahora ♪
+Dialogue: 0,0:58:36.52,0:58:41.54,Default,,0,0,0,,♪ Me siento encontrada ♪
+Dialogue: 0,0:58:47.41,0:58:49.89,Default,,0,0,0,,Si la encuentra, volverá aquí, ¿Cierto?
+Dialogue: 0,0:58:50.92,0:58:52.16,Default,,0,0,0,,¡Chicas! ¿Adivinen quién volvió?
+Dialogue: 0,0:58:52.56,0:58:56.99,Default,,0,0,0,,-Ven, baja.\N-¿No estarán... no exacta e increíblemente
+Dialogue: 0,0:58:57.00,0:59:00.26,Default,,0,0,0,,emocionadas de verme así?
+Dialogue: 0,0:59:00.73,0:59:02.19,Default,,0,0,0,,Sólo tenemos que hablar con ellas.
+Dialogue: 0,0:59:07.97,0:59:09.40,Default,,0,0,0,,¡¿Q-Q-Q-Q-Qué?!
+Dialogue: 0,0:59:11.54,0:59:13.88,Default,,0,0,0,,Oh, Spinel, ¿Cambiaste de peinado?
+Dialogue: 0,0:59:15.65,0:59:18.17,Default,,0,0,0,,Spinel recuperó sus recuerdos,\Npero no va a hacernos daño.
+Dialogue: 0,0:59:18.31,0:59:20.05,Default,,0,0,0,,Todo está bien.
+Dialogue: 0,0:59:25.56,0:59:27.28,Default,,0,0,0,,¡Ya estoy aquí! ¿Dónde está la pelea?
+Dialogue: 0,0:59:27.76,0:59:30.13,Default,,0,0,0,,¡No peleen! ¡Todo está bien!
+Dialogue: 0,0:59:36.12,0:59:38.57,Default,,0,0,0,,Está bien, está bien. Me lavaré las manos.
+Dialogue: 0,0:59:40.11,0:59:40.94,Default,,0,0,0,,Bien.
+Dialogue: 0,0:59:41.37,0:59:43.22,Default,,0,0,0,,Spinel, ¿Puedo pedirte un favor?
+Dialogue: 0,0:59:43.50,0:59:44.47,Default,,0,0,0,,¿Estás bromeando?
+Dialogue: 0,0:59:44.82,0:59:45.90,Default,,0,0,0,,Lo que sea.
+Dialogue: 0,0:59:54.48,0:59:56.50,Default,,0,0,0,,-Eso suena mal.\N-Eso se ve mal.
+Dialogue: 0,0:59:56.78,0:59:58.28,Default,,0,0,0,,Eso {\i1}está{\i0} mal.
+Dialogue: 0,0:59:58.40,0:59:59.91,Default,,0,0,0,,Estamos llegando al punto crítico.
+Dialogue: 0,1:00:00.03,1:00:01.45,Default,,0,0,0,,Entonces creo que\Nllegamos justo a tiempo.
+Dialogue: 0,1:00:02.94,1:00:05.10,Default,,0,0,0,,¡Steven! ¿Cuál es el estado de Spinel?
+Dialogue: 0,1:00:05.33,1:00:07.65,Default,,0,0,0,,Ha vuelto, y está aquí para ayudar.
+Dialogue: 0,1:00:24.70,1:00:26.52,Default,,0,0,0,,Bien, ¿Alguien puede ponerme\Nal tanto de lo que pasa?
+Dialogue: 0,1:00:27.93,1:00:28.79,Default,,0,0,0,,Gracias, Spinel.
+Dialogue: 0,1:00:29.12,1:00:29.98,Default,,0,0,0,,Cielos.
+Dialogue: 0,1:00:30.37,1:00:31.38,Default,,0,0,0,,¿Para qué están los amigos?
+Dialogue: 0,1:00:31.90,1:00:34.79,Default,,0,0,0,,Bien, ya casi limpiamos todo este desastre.\NAhora todo lo que necesitamos
+Dialogue: 0,1:00:34.80,1:00:38.39,Default,,0,0,0,,son los recuerdos de Garnet y mis poderes,\Ny podremos volver a nuestro felices para siempre.
+Dialogue: 0,1:00:38.84,1:00:42.34,Default,,0,0,0,,¿Qué podría funcionar con Garnet?\NAlgo sobre la fusión, algo sobre amor...
+Dialogue: 0,1:00:42.47,1:00:43.68,Default,,0,0,0,,¿Qué hay de mí?
+Dialogue: 0,1:00:45.92,1:00:47.83,Default,,0,0,0,,¿Eso es todo para lo que me necesitabas?
+Dialogue: 0,1:00:48.07,1:00:49.87,Default,,0,0,0,,¿Para apagar mi inyector?
+Dialogue: 0,1:00:50.27,1:00:52.72,Default,,0,0,0,,No. Bueno... algo así, pero...
+Dialogue: 0,1:00:52.77,1:00:55.41,Default,,0,0,0,,Bueno, ¿Ahora qué? H-Hice lo que querías.
+Dialogue: 0,1:00:55.56,1:00:57.76,Default,,0,0,0,,-¿Eso es todo?\N-Bueno, si.
+Dialogue: 0,1:00:57.87,1:01:00.94,Default,,0,0,0,,Podemos simplemente...\Nolvidar que todo esto pasó.
+Dialogue: 0,1:01:01.04,1:01:03.31,Default,,0,0,0,,¿Cómo vas a olvidarlo conmigo aquí?
+Dialogue: 0,1:01:03.58,1:01:05.85,Default,,0,0,0,,Soy la fuente de todos tus problemas.
+Dialogue: 0,1:01:05.86,1:01:07.39,Default,,0,0,0,,No finjas que me quieres aquí.
+Dialogue: 0,1:01:07.55,1:01:09.79,Default,,0,0,0,,¿Cuál es tu plan para mí, eh?\N¿Vas a ponerme en algún lugar?
+Dialogue: 0,1:01:09.79,1:01:12.92,Default,,0,0,0,,¿Vas a abandonarme en algún lado?\N¿Vas a dejarme sola?
+Dialogue: 0,1:01:12.99,1:01:13.85,Default,,0,0,0,,Spinel.
+Dialogue: 0,1:01:20.63,1:01:21.31,Default,,0,0,0,,¿Qué es esto?
+Dialogue: 0,1:01:22.00,1:01:23.56,Default,,0,0,0,,G-Garnet, ¡N-No toques eso!
+Dialogue: 0,1:01:26.71,1:01:28.51,Default,,0,0,0,,¿Por qué tienes eso?
+Dialogue: 0,1:01:30.91,1:01:32.18,Default,,0,0,0,,S-Sólo lo estaba cargando.
+Dialogue: 0,1:01:32.74,1:01:34.23,Default,,0,0,0,,N-No tenía otro lugar donde guardarlo.
+Dialogue: 0,1:01:35.59,1:01:37.91,Default,,0,0,0,,"Podemos simplemente olvidar que todo esto pasó".
+Dialogue: 0,1:01:38.45,1:01:42.26,Default,,0,0,0,,¡Querrás decir que {\i1}yo{\i0} puedo\Nsimplemente olvidar que todo esto pasó!
+Dialogue: 0,1:01:47.06,1:01:48.53,Default,,0,0,0,,¡Qué gran plan!
+Dialogue: 0,1:01:48.86,1:01:50.30,Default,,0,0,0,,Apago el inyector,
+Dialogue: 0,1:01:50.30,1:01:52.70,Default,,0,0,0,,y en el momento en el que te doy la espalda...
+Dialogue: 0,1:01:52.79,1:01:55.62,Default,,0,0,0,,¡Bam! ¡Presto! ¡Cambio! ¡Problema resuelto!
+Dialogue: 0,1:01:55.85,1:01:56.91,Default,,0,0,0,,Bueno, piénsalo de nuevo.
+Dialogue: 0,1:01:57.24,1:01:59.69,Default,,0,0,0,,No vas a deshacerte de mí tan fácil.
+Dialogue: 0,1:02:06.15,1:02:07.47,Default,,0,0,0,,¡Huyan!
+Dialogue: 0,1:02:15.36,1:02:19.11,Default,,0,0,0,,No dejaré que me pases por encima,\NSteven Universe.
+Dialogue: 0,1:02:19.46,1:02:21.46,Default,,0,0,0,,No iba borrar tus recuerdos, Spinel.
+Dialogue: 0,1:02:21.83,1:02:25.64,Default,,0,0,0,,¿Esperas que crea que me quieres así?
+Dialogue: 0,1:02:25.85,1:02:26.81,Default,,0,0,0,,¿Steven?
+Dialogue: 0,1:02:27.37,1:02:28.49,Default,,0,0,0,,¿Por qué están peleando?
+Dialogue: 0,1:02:28.68,1:02:29.83,Default,,0,0,0,,¿No somos todos amigos?
+Dialogue: 0,1:02:30.37,1:02:32.47,Default,,0,0,0,,Parece que aún tenemos espectadores.
+Dialogue: 0,1:02:32.95,1:02:35.24,Default,,0,0,0,,-¿Qué te parece un asiento de primera fila?\N-¡Garnet!
+Dialogue: 0,1:02:35.48,1:02:37.48,Default,,0,0,0,,Sabes, esto es un poco retorcido,
+Dialogue: 0,1:02:37.50,1:02:41.11,Default,,0,0,0,,pero me siento un poco alagada de\Nque te gustara la antigua yo...
+Dialogue: 0,1:02:41.52,1:02:45.39,Default,,0,0,0,,Inocente, adorable, estúpida.
+Dialogue: 0,1:02:45.67,1:02:48.44,Default,,0,0,0,,Si eso es lo que te gusta, ¿Por qué no la dejas así?
+Dialogue: 0,1:02:49.00,1:02:50.50,Default,,0,0,0,,Aléjate de ella.
+Dialogue: 0,1:02:50.53,1:02:53.71,Default,,0,0,0,,Oh, eres tan protector con tus amigos de verdad,
+Dialogue: 0,1:02:53.73,1:02:56.18,Default,,0,0,0,,y tan descuidado con los falsos!
+Dialogue: 0,1:02:56.30,1:02:58.29,Default,,0,0,0,,-Detente.\N-¡Entonces detenme!
+Dialogue: 0,1:02:58.40,1:03:00.93,Default,,0,0,0,,Quieres atacarme. Sólo admítelo.
+Dialogue: 0,1:03:01.10,1:03:03.42,Default,,0,0,0,,O mejor, ¡Sólo inténtalo!
+Dialogue: 0,1:03:03.79,1:03:05.04,Default,,0,0,0,,-¡No!\N-¿Por qué  no?
+Dialogue: 0,1:03:05.25,1:03:06.96,Default,,0,0,0,,¡Porque esa no es la verdad!
+Dialogue: 0,1:03:08.26,1:03:09.17,Default,,0,0,0,,La verdad.
+Dialogue: 0,1:03:12.38,1:03:14.26,Default,,0,0,0,,He pasado dificultades y confusión,
+Dialogue: 0,1:03:14.42,1:03:16.12,Default,,0,0,0,,pero el amor puede superarlas
+Dialogue: 0,1:03:16.42,1:03:19.22,Default,,0,0,0,,si afrontamos la verdad juntos
+Dialogue: 0,1:03:20.80,1:03:21.99,Default,,0,0,0,,Su última pieza.
+Dialogue: 0,1:03:22.29,1:03:23.64,Default,,0,0,0,,No. ¡Detente!
+Dialogue: 0,1:03:24.14,1:03:25.69,Default,,0,0,0,,¡No te atrevas!
+Dialogue: 0,1:03:31.03,1:03:32.27,Default,,0,0,0,,♪ Oh ♪
+Dialogue: 0,1:03:32.55,1:03:36.34,Default,,0,0,0,,♪ Cuando tienes un día difícil ♪
+Dialogue: 0,1:03:36.74,1:03:41.24,Default,,0,0,0,,♪ mantener la calma es difícil pero\N es por eso que ♪
+Dialogue: 0,1:03:41.64,1:03:46.61,Default,,0,0,0,,♪ debes intentarlo, debes intentarlo ♪
+Dialogue: 0,1:03:49.22,1:03:50.98,Default,,0,0,0,,♪ Y cuando ♪
+Dialogue: 0,1:03:51.18,1:03:55.33,Default,,0,0,0,,♪ Hay una gran tormenta afuera ♪
+Dialogue: 0,1:03:55.68,1:04:00.12,Default,,0,0,0,,♪ Bajo las sábanas te acurrucas y escondes ♪
+Dialogue: 0,1:04:00.46,1:04:05.65,Default,,0,0,0,,♪ Abre los ojos, abre los ojos ♪
+Dialogue: 0,1:04:08.03,1:04:12.65,Default,,0,0,0,,♪ Es el verdadero, es el verdadero ♪
+Dialogue: 0,1:04:12.84,1:04:17.08,Default,,0,0,0,,♪ Es el verdadero tipo de amor ♪
+Dialogue: 0,1:04:17.51,1:04:22.01,Default,,0,0,0,,♪ Es el verdadero, es el verdadero ♪
+Dialogue: 0,1:04:22.17,1:04:26.51,Default,,0,0,0,,♪ Es el verdadero tipo de amor ♪
+Dialogue: 0,1:04:27.41,1:04:28.17,Default,,0,0,0,,♪ Atascados ♪
+Dialogue: 0,1:04:28.99,1:04:32.69,Default,,0,0,0,,♪ En medio del miedo y la verg�?enza ♪
+Dialogue: 0,1:04:33.36,1:04:37.57,Default,,0,0,0,,♪ Todos buscan a quien culpar ♪
+Dialogue: 0,1:04:38.12,1:04:42.87,Default,,0,0,0,,♪ Como si fuese un juego,\Ncomo si fuese un juego ♪
+Dialogue: 0,1:04:45.72,1:04:51.91,Default,,0,0,0,,♪ Y ahora soy mejor que "ganar o perder" ♪
+Dialogue: 0,1:04:52.18,1:04:56.58,Default,,0,0,0,,♪ Hay un nuevo nuevo camino que\Nme gusta elegir ♪
+Dialogue: 0,1:04:56.88,1:05:02.59,Default,,0,0,0,,♪ Se llama verdad, se llama verdad ♪
+Dialogue: 0,1:05:34.62,1:05:36.21,Default,,0,0,0,,Tenemos que detener a Spinel.
+Dialogue: 0,1:05:37.02,1:05:38.68,Default,,0,0,0,,Esperen. Ustedes tienen sus poderes.
+Dialogue: 0,1:05:38.69,1:05:39.99,Default,,0,0,0,,Tienen que salvar a todos.
+Dialogue: 0,1:05:40.35,1:05:41.52,Default,,0,0,0,,Yo me encargaré de Spinel.
+Dialogue: 0,1:05:41.76,1:05:43.36,Default,,0,0,0,,Te aplastará, viejo.
+Dialogue: 0,1:05:43.41,1:05:45.25,Default,,0,0,0,,No puedes luchar contra ella.
+Dialogue: 0,1:05:45.64,1:05:47.27,Default,,0,0,0,,Pero aún puedo hablar con ella.
+Dialogue: 0,1:05:47.50,1:05:48.68,Default,,0,0,0,,Por favor, apresúrense.
+Dialogue: 0,1:05:49.17,1:05:49.69,Default,,0,0,0,,Bien.
+Dialogue: 0,1:05:50.99,1:05:51.64,Default,,0,0,0,,Vamos.
+Dialogue: 0,1:07:21.60,1:07:23.62,Default,,0,0,0,,♪ Oye, tú ♪
+Dialogue: 0,1:07:23.87,1:07:28.42,Default,,0,0,0,,♪ Muéstrame ese problema solucionable ♪
+Dialogue: 0,1:07:28.67,1:07:30.48,Default,,0,0,0,,♪ Podemos superarlo ♪
+Dialogue: 0,1:07:30.50,1:07:36.98,Default,,0,0,0,,♪ Haré la parte más difícil ♪
+Dialogue: 0,1:07:37.01,1:07:39.80,Default,,0,0,0,,♪ contigo ♪
+Dialogue: 0,1:07:39.83,1:07:44.59,Default,,0,0,0,,♪ El es verdadero, es el verdadero ♪
+Dialogue: 0,1:07:44.59,1:07:48.69,Default,,0,0,0,,♪ Es el verdadero tipo de amor ♪
+Dialogue: 0,1:07:49.27,1:07:53.86,Default,,0,0,0,,♪ El es verdadero, es el verdadero ♪
+Dialogue: 0,1:07:53.86,1:07:58.44,Default,,0,0,0,,♪ Es el verdadero tipo de amor ♪
+Dialogue: 0,1:07:58.60,1:08:03.04,Default,,0,0,0,,♪ El es verdadero, es el verdadero ♪
+Dialogue: 0,1:08:03.40,1:08:07.81,Default,,0,0,0,,♪ Es el verdadero tipo de amor ♪
+Dialogue: 0,1:08:08.08,1:08:12.66,Default,,0,0,0,,♪ El es verdadero, es el verdadero ♪
+Dialogue: 0,1:08:12.80,1:08:17.84,Default,,0,0,0,,♪ Es el verdadero tipo de amor ♪
+Dialogue: 0,1:08:27.70,1:08:30.74,Default,,0,0,0,,Spinel, vamos, podemos\Nresolver esto hablando.
+Dialogue: 0,1:08:31.35,1:08:33.62,Default,,0,0,0,,Ya no quiero jugar.
+Dialogue: 0,1:08:35.03,1:08:38.26,Default,,0,0,0,,Spinel, ¡Esto no es un juego!
+Dialogue: 0,1:08:57.54,1:09:01.54,Default,,0,0,0,,Sabes, vine aquí para desquitarme\Ncon un grupo de extraños,
+Dialogue: 0,1:09:01.80,1:09:03.66,Default,,0,0,0,,pero ahora que te conozco,
+Dialogue: 0,1:09:04.06,1:09:07.23,Default,,0,0,0,,tengo más deseos de matarte.
+Dialogue: 0,1:09:17.37,1:09:18.57,Default,,0,0,0,,¡No lo entiendo!
+Dialogue: 0,1:09:20.08,1:09:21.42,Default,,0,0,0,,¿Por qué no regresan mis poderes?
+Dialogue: 0,1:09:21.65,1:09:24.88,Default,,0,0,0,,¿Acaso no estoy reviviendo\Ncada cosa horrible que me ha pasado?
+Dialogue: 0,1:09:25.33,1:09:27.39,Default,,0,0,0,,Una gema apenas conozco\Nestá intentando matarme.
+Dialogue: 0,1:09:27.41,1:09:30.36,Default,,0,0,0,,Estoy pagando por cosas que mi madre hizo\Nque no tienen nada que ver conmigo.
+Dialogue: 0,1:09:30.36,1:09:33.26,Default,,0,0,0,,Estoy luchando con mis poderes.\N¡El mundo está a punto de acabarse!
+Dialogue: 0,1:09:33.57,1:09:35.22,Default,,0,0,0,,¿Qué pieza podría estar faltándome?
+Dialogue: 0,1:09:35.66,1:09:37.61,Default,,0,0,0,,¡Esta es la historia de mi vida!
+Dialogue: 0,1:09:41.39,1:09:43.38,Default,,0,0,0,,Sabía que esto te haría retroceder,
+Dialogue: 0,1:09:43.42,1:09:46.61,Default,,0,0,0,,¿Pero {\i1}así{\i0} es cómo empezaste?
+Dialogue: 0,1:09:46.81,1:09:49.77,Default,,0,0,0,,La leyenda, ¿Steven Universe?
+Dialogue: 0,1:09:51.37,1:09:54.09,Default,,0,0,0,,Debes estar bromeando.
+Dialogue: 0,1:09:54.24,1:09:57.57,Default,,0,0,0,,¡¿Cómo es que un perdedor sin poderes como tú
+Dialogue: 0,1:09:57.67,1:10:00.12,Default,,0,0,0,,se convirtió en el salvador de la galaxia?!
+Dialogue: 0,1:10:01.85,1:10:02.76,Default,,0,0,0,,Cambié.
+Dialogue: 0,1:10:03.62,1:10:05.04,Default,,0,0,0,,Esa es la última pieza.
+Dialogue: 0,1:10:05.51,1:10:08.54,Default,,0,0,0,,Todas estas luchas, aprendí de ellas, y crecí.
+Dialogue: 0,1:10:08.90,1:10:09.83,Default,,0,0,0,,Oh, cielos.
+Dialogue: 0,1:10:10.02,1:10:12.25,Default,,0,0,0,,No eran sólo mis poderes de gema lo que olvidé.
+Dialogue: 0,1:10:12.66,1:10:14.50,Default,,0,0,0,,Todo esto del "Felices para siempre"
+Dialogue: 0,1:10:14.50,1:10:17.20,Default,,0,0,0,,me ha hecho olvidar el primer poder que tuve...
+Dialogue: 0,1:10:17.55,1:10:19.07,Default,,0,0,0,,El poder de cambiar.
+Dialogue: 0,1:10:45.46,1:10:47.39,Default,,0,0,0,,♪ Puedo hacer una promesa ♪
+Dialogue: 0,1:10:48.67,1:10:50.70,Default,,0,0,0,,♪ Puedo hacer un plan ♪
+Dialogue: 0,1:10:51.84,1:10:54.08,Default,,0,0,0,,♪ Puedo hacer la diferencia ♪
+Dialogue: 0,1:10:54.98,1:10:57.05,Default,,0,0,0,,♪ Puedo tomar una postura ♪
+Dialogue: 0,1:10:58.22,1:11:00.11,Default,,0,0,0,,♪ Puedo hacer un esfuerzo ♪
+Dialogue: 0,1:11:01.05,1:11:04.62,Default,,0,0,0,,♪ Sólo si entiendo ♪
+Dialogue: 0,1:11:05.06,1:11:09.91,Default,,0,0,0,,♪ Que yo, yo puedo hacer un cambio ♪
+Dialogue: 0,1:11:21.33,1:11:22.44,Default,,0,0,0,,Escúchame, Spinel.
+Dialogue: 0,1:11:22.67,1:11:23.82,Default,,0,0,0,,Lo entiendo.
+Dialogue: 0,1:11:24.08,1:11:25.67,Default,,0,0,0,,Después de todo lo que pasaste,
+Dialogue: 0,1:11:25.67,1:11:27.26,Default,,0,0,0,,debes de estar sufriendo mucho.
+Dialogue: 0,1:11:27.40,1:11:29.51,Default,,0,0,0,,No. ¡No!
+Dialogue: 0,1:11:30.04,1:11:31.53,Default,,0,0,0,,¡No lo entiendes!
+Dialogue: 0,1:11:31.59,1:11:33.57,Default,,0,0,0,,¡No puedes cambiar cómo me siento!
+Dialogue: 0,1:11:38.76,1:11:41.19,Default,,0,0,0,,¡Es verdad! Sólo tú puedes.
+Dialogue: 0,1:11:51.03,1:11:53.05,Default,,0,0,0,,♪ Puedes hacerlo de otra forma ♪
+Dialogue: 0,1:11:54.20,1:11:55.98,Default,,0,0,0,,♪ Puedes hacerlo bien ♪
+Dialogue: 0,1:11:57.23,1:11:59.36,Default,,0,0,0,,♪ Puedes hacerlo mejor ♪
+Dialogue: 0,1:12:00.61,1:12:02.27,Default,,0,0,0,,♪ ¡No tenemos que luchar! ♪
+Dialogue: 0,1:12:03.62,1:12:06.28,Default,,0,0,0,,♪ Puedes hacer un esfuerzo ♪
+Dialogue: 0,1:12:06.65,1:12:10.38,Default,,0,0,0,,♪ Empezando esta noche ♪
+Dialogue: 0,1:12:10.94,1:12:13.24,Default,,0,0,0,,♪ Porque tú ♪
+Dialogue: 0,1:12:13.47,1:12:15.77,Default,,0,0,0,,♫Tú puedes hacer un cambio.♫
+Dialogue: 0,1:12:16.04,1:12:17.56,Default,,0,0,0,,Sólo cállate, ¡¿Quieres?!
+Dialogue: 0,1:12:19.20,1:12:21.60,Default,,0,0,0,,¡No puedes hacer que todo mejore
+Dialogue: 0,1:12:21.60,1:12:24.51,Default,,0,0,0,,cantando una estúpida canción!
+Dialogue: 0,1:12:35.88,1:12:38.42,Default,,0,0,0,,Para ti es fácil decirlo,
+Dialogue: 0,1:12:38.65,1:12:41.31,Default,,0,0,0,,Cuando tú cambias, cambias para mejor.
+Dialogue: 0,1:12:41.38,1:12:45.45,Default,,0,0,0,,Cuando yo cambio, ¡Cambio para peor!
+Dialogue: 0,1:12:46.14,1:12:48.39,Default,,0,0,0,,No solía ser lo suficientemente buena...
+Dialogue: 0,1:12:48.50,1:12:50.30,Default,,0,0,0,,No fui lo suficientemente buena para Pink,
+Dialogue: 0,1:12:50.32,1:12:52.99,Default,,0,0,0,,Pero ahora... ahora...
+Dialogue: 0,1:12:53.03,1:12:55.86,Default,,0,0,0,,¡No soy buena en absoluto!
+Dialogue: 0,1:13:02.84,1:13:04.70,Default,,0,0,0,,Es divertido, ¿No lo crees?
+Dialogue: 0,1:13:05.66,1:13:07.63,Default,,0,0,0,,Al menos tu me encontraste entretenida.
+Dialogue: 0,1:13:08.77,1:13:11.98,Default,,0,0,0,,Realmente te agradé, ¿Cierto?
+Dialogue: 0,1:13:12.94,1:13:14.38,Default,,0,0,0,,¿Qué estoy haciendo?
+Dialogue: 0,1:13:15.15,1:13:17.62,Default,,0,0,0,,¿Por qué quiero tanto hacerte daño?
+Dialogue: 0,1:13:18.41,1:13:20.28,Default,,0,0,0,,Se supone que soy una amiga.
+Dialogue: 0,1:13:21.02,1:13:22.69,Default,,0,0,0,,Sólo quiero ser una amiga.
+Dialogue: 0,1:13:28.22,1:13:28.99,Default,,0,0,0,,Spinel.
+Dialogue: 0,1:13:42.28,1:13:43.16,Default,,0,0,0,,¡¿Steven?!
+Dialogue: 0,1:13:43.50,1:13:44.59,Default,,0,0,0,,¡Steven!
+Dialogue: 0,1:13:56.16,1:13:58.36,Default,,0,0,0,,Oh, no, no, no, no, no. ¿Qué hice?
+Dialogue: 0,1:13:58.57,1:13:59.94,Default,,0,0,0,,Destrocé todo.
+Dialogue: 0,1:14:00.26,1:14:03.68,Default,,0,0,0,,Bueno, esa es una manera de\Ndeshacerse de tu inyector.
+Dialogue: 0,1:14:04.03,1:14:06.64,Default,,0,0,0,,¿Pero que hay del veneno? ¿Qué hay del planeta?
+Dialogue: 0,1:14:06.67,1:14:08.99,Default,,0,0,0,,¿Qué hay de tu felices para s0iempre?
+Dialogue: 0,1:14:09.55,1:14:11.54,Default,,0,0,0,,No existe tal cosa como felices para siempre.
+Dialogue: 0,1:14:13.36,1:14:14.85,Default,,0,0,0,,Siempre tendré más trabajo que hacer.
+Dialogue: 0,1:14:21.98,1:14:23.19,Default,,0,0,0,,Lo siento.
+Dialogue: 0,1:14:23.42,1:14:25.38,Default,,0,0,0,,-¿Steven?\N-¿Connie?
+Dialogue: 0,1:14:25.68,1:14:27.59,Default,,0,0,0,,¡Steven!
+Dialogue: 0,1:14:28.02,1:14:29.53,Default,,0,0,0,,¿Dónde estás?
+Dialogue: 0,1:14:29.70,1:14:31.33,Default,,0,0,0,,¡Connie!
+Dialogue: 0,1:14:31.56,1:14:33.91,Default,,0,0,0,,Ahora vuelvo. En serio.
+Dialogue: 0,1:14:36.84,1:14:39.27,Default,,0,0,0,,Vimos esa enorme explosión y...
+Dialogue: 0,1:14:39.92,1:14:42.32,Default,,0,0,0,,E-Estoy bien. Estoy bien.\N¿Qué hay de ti?
+Dialogue: 0,1:14:43.15,1:14:44.10,Default,,0,0,0,,Estoy bien.
+Dialogue: 0,1:14:44.40,1:14:45.30,Default,,0,0,0,,¡León!
+Dialogue: 0,1:14:46.49,1:14:47.69,Default,,0,0,0,,¿Estabas preocupado por mí?
+Dialogue: 0,1:14:48.02,1:14:49.21,Default,,0,0,0,,Parece que sí.
+Dialogue: 0,1:14:54.91,1:14:55.95,Default,,0,0,0,,¡Steven!
+Dialogue: 0,1:14:55.97,1:14:57.13,Default,,0,0,0,,¡Chicas! ¡Papá!
+Dialogue: 0,1:14:58.25,1:14:59.94,Default,,0,0,0,,¿Están todos bien en Beach City?
+Dialogue: 0,1:15:00.08,1:15:01.61,Default,,0,0,0,,Todo el mundo está a sano y salvo.
+Dialogue: 0,1:15:03.39,1:15:04.99,Default,,0,0,0,,Papá, tu brazo.
+Dialogue: 0,1:15:05.46,1:15:07.96,Default,,0,0,0,,Oye, sólo fui un poco descuidado y...
+Dialogue: 0,1:15:07.98,1:15:09.80,Default,,0,0,0,,No te preocupes.\NEstará como nuevo en un momento.
+Dialogue: 0,1:15:09.93,1:15:11.40,Default,,0,0,0,,Pero, Steven, no tienes tus...
+Dialogue: 0,1:15:12.87,1:15:15.67,Default,,0,0,0,,¡Steven! ¡Recuperaste tus poderes!
+Dialogue: 0,1:15:16.04,1:15:18.70,Default,,0,0,0,,Sería genial si pudieras\N hacerle eso a todo el planeta.
+Dialogue: 0,1:15:19.20,1:15:21.73,Default,,0,0,0,,Amethyst, esa no es mala idea.
+Dialogue: 0,1:15:22.50,1:15:24.83,Default,,0,0,0,,Viejo, estaba bromeando.
+Dialogue: 0,1:15:30.89,1:15:32.64,Default,,0,0,0,,Oh, cielos. ¿Realmente funcionó?
+Dialogue: 0,1:15:36.57,1:15:39.12,Default,,0,0,0,,Parece que tengo muchos besos que dar.
+Dialogue: 0,1:15:40.09,1:15:41.56,Default,,0,0,0,,¿Deberíamos darle una mano?
+Dialogue: 0,1:15:41.68,1:15:43.53,Default,,0,0,0,,Probablemente deberíamos traerle agua.
+Dialogue: 0,1:15:43.64,1:15:45.59,Default,,0,0,0,,Mantenerse hidratado es muy importante
+Dialogue: 0,1:15:45.63,1:15:46.83,Default,,0,0,0,,cuando se trata de besar.
+Dialogue: 0,1:15:49.20,1:15:50.41,Default,,0,0,0,,Spinel, ¡Espera!
+Dialogue: 0,1:15:51.17,1:15:53.16,Default,,0,0,0,,Realmente iba a volver.
+Dialogue: 0,1:15:53.38,1:15:54.12,Default,,0,0,0,,Lo sé.
+Dialogue: 0,1:15:54.35,1:15:56.25,Default,,0,0,0,,¿Entonces a d-dónde vas?
+Dialogue: 0,1:15:56.29,1:15:57.89,Default,,0,0,0,,Tengo trabajo que hacer.
+Dialogue: 0,1:15:58.59,1:16:01.60,Default,,0,0,0,,La amistad no será fácil para mí.
+Dialogue: 0,1:16:01.80,1:16:03.42,Default,,0,0,0,,Tendré que trabajar en eso.
+Dialogue: 0,1:16:03.74,1:16:05.71,Default,,0,0,0,,Tú me animas a intentarlo, pero...
+Dialogue: 0,1:16:07.36,1:16:09.88,Default,,0,0,0,,ya lo arruiné bastante contigo.
+Dialogue: 0,1:16:10.23,1:16:13.12,Default,,0,0,0,,Desearía empezar de cero con alguien.
+Dialogue: 0,1:16:13.62,1:16:15.10,Default,,0,0,0,,Spinel, yo...
+Dialogue: 0,1:16:18.75,1:16:20.14,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 0,1:16:20.54,1:16:21.71,Default,,0,0,0,,Toc, toc, Steven.
+Dialogue: 0,1:16:21.91,1:16:22.87,Default,,0,0,0,,Somos nosotras.
+Dialogue: 0,1:16:23.02,1:16:24.08,Default,,0,0,0,,Las Diamantes.
+Dialogue: 0,1:16:24.74,1:16:26.81,Default,,0,0,0,,¿Estamos interrumpiendo algo?
+Dialogue: 0,1:16:27.08,1:16:28.58,Default,,0,0,0,,Uh... ¡Sí!
+Dialogue: 0,1:16:32.15,1:16:35.88,Default,,0,0,0,,Yellow, Blue, White,\N¿Qué están haciendo todas aquí?
+Dialogue: 0,1:16:35.98,1:16:38.15,Default,,0,0,0,,Bueno, Steven, estuvimos hablando y...
+Dialogue: 0,1:16:39.94,1:16:42.09,Default,,0,0,0,,Lo siento, pero, ¿Qué es ese olor?
+Dialogue: 0,1:16:42.43,1:16:43.47,Default,,0,0,0,,Yo no huelo nada.
+Dialogue: 0,1:16:44.35,1:16:45.78,Default,,0,0,0,,Eso es porque vives aquí.
+Dialogue: 0,1:16:45.89,1:16:48.30,Default,,0,0,0,,En fin, estuvimos hablando, y decidimos...
+Dialogue: 0,1:16:48.30,1:16:49.73,Default,,0,0,0,,¡Esto está tomando demasiado tiempo!
+Dialogue: 0,1:16:49.87,1:16:54.66,Default,,0,0,0,,¡Steven!\N¡Vinimos a la Tierra para vivir contigo!
+Dialogue: 0,1:16:54.99,1:16:58.21,Default,,0,0,0,,¿Qué? Mi casa no es lo suficientemente\Ngrande para todos nosotros.
+Dialogue: 0,1:16:58.37,1:17:01.57,Default,,0,0,0,,Oh, bueno, estoy segura de que\Npodríamos arreglarnos con...
+Dialogue: 0,1:17:03.29,1:17:06.35,Default,,0,0,0,,¿Tu planeta siempre estuvo tan...
+Dialogue: 0,1:17:07.78,1:17:08.95,Default,,0,0,0,,destruido?
+Dialogue: 0,1:17:09.14,1:17:11.82,Default,,0,0,0,,-No es que estamos juzgando.\N-Cielos, no.
+Dialogue: 0,1:17:11.90,1:17:15.99,Default,,0,0,0,,¡Porque juzgar\Nen base a las apariencias esta mal!
+Dialogue: 0,1:17:17.29,1:17:18.96,Default,,0,0,0,,Sí, no estoy seguro sobre esto.
+Dialogue: 0,1:17:19.39,1:17:23.79,Default,,0,0,0,,Pero, Steven, ¡Ha sido tan aburrido
+Dialogue: 0,1:17:23.80,1:17:25.24,Default,,0,0,0,,desde que te fuiste!
+Dialogue: 0,1:17:26.35,1:17:28.23,Default,,0,0,0,,Supongo que sólo esperaremos
+Dialogue: 0,1:17:28.26,1:17:32.40,Default,,0,0,0,,a que nos visites cuando estés listo.
+Dialogue: 0,1:17:32.92,1:17:34.61,Default,,0,0,0,,Vamos, no seas así.
+Dialogue: 0,1:17:34.84,1:17:37.98,Default,,0,0,0,,E-Es sólo que estaba despidiéndome de...
+Dialogue: 0,1:17:38.93,1:17:40.72,Default,,0,0,0,,¿Recuerdan a Spinel?
+Dialogue: 0,1:17:41.12,1:17:42.52,Default,,0,0,0,,Disculpa, ¿Quién?
+Dialogue: 0,1:17:43.05,1:17:45.31,Default,,0,0,0,,Spinel, ya conoces a las Diamantes, ¿Cierto?
+Dialogue: 0,1:17:45.63,1:17:49.56,Default,,0,0,0,,S-Si, pero nunca me han visto así.
+Dialogue: 0,1:17:50.16,1:17:52.57,Default,,0,0,0,,Blue, Yellow, White, esta es Spinel.
+Dialogue: 0,1:17:53.13,1:17:55.38,Default,,0,0,0,,Mis Diamantes.
+Dialogue: 0,1:17:57.01,1:17:58.70,Default,,0,0,0,,¿La compañera de juegos de Pink?
+Dialogue: 0,1:17:59.10,1:18:01.10,Default,,0,0,0,,Uno de los tesoros perdidos de Pink.
+Dialogue: 0,1:18:01.22,1:18:03.60,Default,,0,0,0,,Mamá la abandonó\Nen un jardín flotante en el espacio.
+Dialogue: 0,1:18:03.90,1:18:05.13,Default,,0,0,0,,Pobrecita.
+Dialogue: 0,1:18:06.03,1:18:07.74,Default,,0,0,0,,Sólo fueron 6.000 años.
+Dialogue: 0,1:18:07.74,1:18:09.81,Default,,0,0,0,,¡Podría hacerlo de cabeza!
+Dialogue: 0,1:18:14.35,1:18:16.51,Default,,0,0,0,,¡Sólo 6.000 años!
+Dialogue: 0,1:18:17.18,1:18:19.40,Default,,0,0,0,,Es cierto, ¡No es nada!
+Dialogue: 0,1:18:21.32,1:18:23.01,Default,,0,0,0,,Y esa pose tan graciosa.
+Dialogue: 0,1:18:25.62,1:18:26.99,Default,,0,0,0,,Me gusta esta gema.
+Dialogue: 0,1:18:27.20,1:18:29.83,Default,,0,0,0,,Es adorable, y se parece mucho a Pink.
+Dialogue: 0,1:18:30.20,1:18:31.45,Default,,0,0,0,,Spinel, yo...
+Dialogue: 0,1:18:32.90,1:18:35.94,Default,,0,0,0,,Steven, ya que la Tierra es tan desagradable,
+Dialogue: 0,1:18:36.06,1:18:38.25,Default,,0,0,0,,nos llevaremos a Spinel de\Nvuelta a Homeworld con nosotras
+Dialogue: 0,1:18:38.25,1:18:39.34,Default,,0,0,0,,y tú puedes quedarte aquí.
+Dialogue: 0,1:18:39.59,1:18:40.30,Default,,0,0,0,,¿En serio?
+Dialogue: 0,1:18:42.34,1:18:45.95,Default,,0,0,0,,♪ Ven a vivir con nosotras en el palacio ♪
+Dialogue: 0,1:18:46.35,1:18:49.69,Default,,0,0,0,,♪ Hay una habitación esperando por ti ♪
+Dialogue: 0,1:18:50.41,1:18:52.36,Default,,0,0,0,,♪ Vamos ♪\N♪ Vamos ♪
+Dialogue: 0,1:18:52.43,1:18:53.58,Default,,0,0,0,,♪ ¡Vamos! ♪
+Dialogue: 0,1:18:54.39,1:18:57.46,Default,,0,0,0,,♪ Sólo déjanos adorarte ♪
+Dialogue: 0,1:18:58.02,1:19:01.03,Default,,0,0,0,,♪ Ven a vivir con nosotras en el palacio ♪
+Dialogue: 0,1:19:01.43,1:19:04.33,Default,,0,0,0,,♪ Hay una habitación esperando por ti ♪
+Dialogue: 0,1:19:04.90,1:19:06.55,Default,,0,0,0,,♪ Vamos ♪\N♪ Vamos ♪
+Dialogue: 0,1:19:06.62,1:19:07.80,Default,,0,0,0,,♪ ¡Vamos! ♪
+Dialogue: 0,1:19:08.35,1:19:11.14,Default,,0,0,0,,♪ Sólo déjanos adorarte ♪
+Dialogue: 0,1:19:11.62,1:19:14.29,Default,,0,0,0,,♪ Sí, sabemos que no eres ella ♪
+Dialogue: 0,1:19:14.31,1:19:17.51,Default,,0,0,0,,♪ pero eras de ella ♪
+Dialogue: 0,1:19:18.16,1:19:21.63,Default,,0,0,0,,♪ Sabes lo que significaba amarla ♪
+Dialogue: 0,1:19:22.09,1:19:25.02,Default,,0,0,0,,♪ y nos recuerdas tanto a ella ♪
+Dialogue: 0,1:19:25.79,1:19:27.03,Default,,0,0,0,,¿Crees que podrás manejarlo?
+Dialogue: 0,1:19:27.49,1:19:29.73,Default,,0,0,0,,No es exactamente fácil convivir con ellas.
+Dialogue: 0,1:19:31.57,1:19:34.35,Default,,0,0,0,,♪ Hoy, aquí ♪
+Dialogue: 0,1:19:34.83,1:19:36.10,Default,,0,0,0,,♪ Ahora ♪
+Dialogue: 0,1:19:37.40,1:19:39.53,Default,,0,0,0,,♪ Volveré a amar ♪
+Dialogue: 0,1:19:40.27,1:19:42.65,Default,,0,0,0,,♪ Ya encontré a alguien ♪
+Dialogue: 0,1:19:42.68,1:19:45.22,Default,,0,0,0,,♪ Sólo déjanos adorarte ♪
+Dialogue: 0,1:19:45.24,1:19:48.19,Default,,0,0,0,,-♪ Hoy, aquí ♪\N-♪ Ven a vivir con nosotras en el palacio ♪
+Dialogue: 0,1:19:48.25,1:19:52.84,Default,,0,0,0,,-♪ Ahora, volveré a amar ♪\N-♪ Hay una habitación esperando por ti ♪
+Dialogue: 0,1:19:52.88,1:19:54.02,Default,,0,0,0,,-♪ Vamos ♪\N-♪ Vamos ♪
+Dialogue: 0,1:19:54.04,1:19:56.30,Default,,0,0,0,,-♪ ¡Vamos! ♪\N-♪ Ya encontré a alguien ♪
+Dialogue: 0,1:19:56.32,1:19:59.06,Default,,0,0,0,,♪ Sólo déjanos adorarte ♪
+Dialogue: 0,1:19:59.25,1:20:02.38,Default,,0,0,0,,♪ Sí, se que no son ella ♪
+Dialogue: 0,1:20:02.39,1:20:04.46,Default,,0,0,0,,♪ y que fui de ella ♪
+Dialogue: 0,1:20:05.95,1:20:09.64,Default,,0,0,0,,♪ Pero saben lo que significaba amarla ♪
+Dialogue: 0,1:20:09.84,1:20:12.54,Default,,0,0,0,,♪ y me recuerdan tanto a ella ♪
+Dialogue: 0,1:20:12.55,1:20:17.68,Default,,0,0,0,,♪ Hoy, aquí, ahora ♪
+Dialogue: 0,1:20:18.63,1:20:20.60,Default,,0,0,0,,♪ Volveremos a amar ♪
+Dialogue: 0,1:20:21.51,1:20:25.76,Default,,0,0,0,,♪ Hemos encontrado a alguien ♪
+Dialogue: 0,1:20:34.25,1:20:36.39,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,1:20:37.29,1:20:41.29,Default,,0,0,0,,♪ Este es el futuro, y es brillante ♪
+Dialogue: 0,1:20:43.43,1:20:46.40,Default,,0,0,0,,♪ Nada que temer, nadie con que luchar ♪
+Dialogue: 0,1:20:48.47,1:20:51.07,Default,,0,0,0,,♪ No puedo creer ♪
+Dialogue: 0,1:20:51.45,1:20:54.43,Default,,0,0,0,,♪ que hayamos llegado tan lejos ♪
+Dialogue: 0,1:20:55.21,1:20:57.90,Default,,0,0,0,,♪ Felices para siempre estábamos ♪
+Dialogue: 0,1:20:57.91,1:21:00.14,Default,,0,0,0,,♪ ¡Y estamos! ♪
+Dialogue: 0,1:21:00.38,1:21:02.92,Default,,0,0,0,,♪ Así que felizmente enfrentaremos ♪
+Dialogue: 0,1:21:03.52,1:21:05.97,Default,,0,0,0,,♪ lo que aparezca en nuestro camino ♪
+Dialogue: 0,1:21:06.49,1:21:10.16,Default,,0,0,0,,♪ Y luego, quizás lo hagamos de nuevo ♪
+Dialogue: 0,1:21:10.18,1:21:11.77,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,1:21:11.78,1:21:12.18,Default,,0,0,0,,-♪ Este es el futuro ♪
+Dialogue: 0,1:21:12.18,1:21:13.45,Default,,0,0,0,,-♪ Este es el futuro ♪\N-♪ Estaré listo cada día ♪
+Dialogue: 0,1:21:13.45,1:21:15.00,Default,,0,0,0,,-♪ Estaré listo cada día ♪
+Dialogue: 0,1:21:15.50,1:21:18.42,Default,,0,0,0,,♪ mientras pueda decir ♪
+Dialogue: 0,1:21:19.32,1:21:22.32,Default,,0,0,0,,♪ yo, puedo hacer un cambio ♪
+Dialogue: 0,1:21:22.34,1:21:24.80,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,1:21:25.21,1:21:28.32,Default,,0,0,0,,♪ Yo, puedo hacer un cambio ♪
+Dialogue: 0,1:21:28.34,1:21:29.77,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,1:21:29.78,1:21:31.27,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,1:21:31.29,1:21:34.23,Default,,0,0,0,,♪ Yo, puedo hacer un cambio ♪
+Dialogue: 0,1:21:34.27,1:21:36.67,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,1:21:37.27,1:21:48.77,Default,,0,0,0,,♪ Este es el futuro ♪
+Dialogue: 0,1:21:49.11,1:21:51.86,Default,,0,0,0,,♪ Aquí estamos, aquí estamos ♪
+Dialogue: 0,1:21:52.08,1:21:54.96,Default,,0,0,0,,♪ Llegamos tan lejos, llegamos tan lejos ♪
+Dialogue: 0,1:21:55.14,1:22:00.44,Default,,0,0,0,,♪ Y es brillante, y es brillante, y es brillante ♪
+Dialogue: 0,1:22:00.50,1:22:04.23,Default,,0,0,0,,♪ Estaré listo cada día ♪
+Dialogue: 0,1:22:04.52,1:22:08.28,Default,,0,0,0,,♪ Mientras pueda decir ♪
+Dialogue: 0,1:22:08.90,1:22:10.98,Default,,0,0,0,,♪ Estoy en el futuro ♪
+Dialogue: 0,1:22:11.00,1:22:12.83,Default,,0,0,0,,-♪ con mis amigos ♪\N-♪ Yo puedo hacer un cambio ♪
+Dialogue: 0,1:22:12.94,1:22:15.89,Default,,0,0,0,,♪ Por eso es un ♪
+Dialogue: 0,1:22:16.96,1:22:24.43,Default,,0,0,0,,♪ felices para siempre sin final ♪

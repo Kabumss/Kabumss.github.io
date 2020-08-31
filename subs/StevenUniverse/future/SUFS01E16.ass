@@ -1,0 +1,259 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven.Universe.Future.S01E16.Fragments
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.24,0:00:03.72,Default,,0,0,0,,♪ Nosotres
+Dialogue: 0,0:00:03.72,0:00:07.21,Default,,0,0,0,,♪ Estamos en el futuro
+Dialogue: 0,0:00:07.21,0:00:08.86,Default,,0,0,0,,♪ Aquí estamos en el futuro
+Dialogue: 0,0:00:08.87,0:00:10.97,Default,,0,0,0,,♪ Y es brillante
+Dialogue: 0,0:00:10.97,0:00:12.28,Default,,0,0,0,,♪ Ah
+Dialogue: 0,0:00:12.28,0:00:14.70,Default,,0,0,0,,♪ no puedo creer
+Dialogue: 0,0:00:14.70,0:00:17.43,Default,,0,0,0,,♪ que hayamos llegado tan lejos
+Dialogue: 0,0:00:17.43,0:00:19.22,Default,,0,0,0,,♪ "Steven Universe: Futuro"
+Dialogue: 0,0:00:19.22,0:00:20.32,Default,,0,0,0,,♪ Aquí estamos
+Dialogue: 0,0:00:20.33,0:00:22.57,Default,,0,0,0,,♪ "Steven Universe: Futuro"
+Dialogue: 0,0:00:24.59,0:00:26.29,Default,,0,0,0,,
+Dialogue: 0,0:00:38.30,0:00:39.43,Default,,0,0,0,,¿Cómo pudo pasar esto?
+Dialogue: 0,0:00:39.44,0:00:41.53,Default,,0,0,0,,¿Chocaste la camioneta\Ncon Greg adentro?
+Dialogue: 0,0:00:41.54,0:00:43.20,Default,,0,0,0,,Sabes lo frágil\Nque es.
+Dialogue: 0,0:00:43.21,0:00:45.71,Default,,0,0,0,,Estos arrebatos rosados\N​​tuyos se están yendo de las manos.
+Dialogue: 0,0:00:45.71,0:00:48.14,Default,,0,0,0,,¡No es un arrebato!
+Dialogue: 0,0:00:48.14,0:00:51.28,Default,,0,0,0,,¿Ves? Esto es exactamente de\Nlo que estoy hablando.
+Dialogue: 0,0:00:51.28,0:00:52.78,Default,,0,0,0,,¿Que te ocurre?
+Dialogue: 0,0:00:52.78,0:00:53.78,Default,,0,0,0,,¡Nada!
+Dialogue: 0,0:00:53.78,0:00:55.78,Default,,0,0,0,,-No es nada.\N-S-Steven.
+Dialogue: 0,0:00:55.78,0:00:56.98,Default,,0,0,0,,¿A dónde vas?
+Dialogue: 0,0:00:56.99,0:00:58.62,Default,,0,0,0,,No hemos terminado - ¡Aah!
+Dialogue: 0,0:00:58.62,0:01:00.69,Default,,0,0,0,,¡Steven!\NBaja esta pared.
+Dialogue: 0,0:01:00.69,0:01:02.16,Default,,0,0,0,,¡Ah!\NPerla, lo siento.
+Dialogue: 0,0:01:02.16,0:01:04.46,Default,,0,0,0,,Lo estoy intentando.\NYo solo...
+Dialogue: 0,0:01:04.46,0:01:05.63,Default,,0,0,0,,necesito...
+Dialogue: 0,0:01:05.63,0:01:07.56,Default,,0,0,0,,un poco de espacio ¿Si?
+Dialogue: 0,0:01:07.56,0:01:08.70,Default,,0,0,0,,Estaré en mi cuarto.
+Dialogue: 0,0:01:08.70,0:01:10.16,Default,,0,0,0,,No tan rápido, amigo.
+Dialogue: 0,0:01:10.17,0:01:12.17,Default,,0,0,0,,Tienes que decirnos\Nqué está pasando.
+Dialogue: 0,0:01:12.17,0:01:14.63,Default,,0,0,0,,Parece que Steven está tratando\Nde evitar una discusión seria
+Dialogue: 0,0:01:14.64,0:01:16.30,Default,,0,0,0,,sobre todo esto.
+Dialogue: 0,0:01:16.31,0:01:18.67,Default,,0,0,0,,¡No, no es así!
+Dialogue: 0,0:01:19.37,0:01:20.54,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:01:20.54,0:01:22.71,Default,,0,0,0,,Tienes que calmarte y\Nhablar con nosotras.
+Dialogue: 0,0:01:22.71,0:01:25.31,Default,,0,0,0,,Solo relájate, amigo.
+Dialogue: 0,0:01:25.31,0:01:27.38,Default,,0,0,0,,Necesitamos hacer\Nalgo al respecto
+Dialogue: 0,0:01:27.38,0:01:28.68,Default,,0,0,0,,antes de que\Nalguien salga lastimado.
+Dialogue: 0,0:01:28.68,0:01:29.88,Default,,0,0,0,,
+Dialogue: 0,0:01:29.89,0:01:31.59,Default,,0,0,0,,No dejes que este poder\Nte controle.
+Dialogue: 0,0:01:31.59,0:01:32.92,Default,,0,0,0,,Eres mejor que esto.
+Dialogue: 0,0:01:32.92,0:01:36.69,Default,,0,0,0,,¡Hrrrr!\N¡Déjenme solo!
+Dialogue: 0,0:01:36.69,0:01:37.93,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:01:40.03,0:01:42.86,Default,,0,0,0,,Estoy... acelerado de nuevo.
+Dialogue: 0,0:01:42.86,0:01:44.36,Default,,0,0,0,,Tengo que salir de aquí.
+Dialogue: 0,0:01:44.37,0:01:50.20,Default,,0,0,0,,
+Dialogue: 0,0:01:50.21,0:01:52.07,Default,,0,0,0,,
+Dialogue: 0,0:01:55.71,0:01:58.71,Default,,0,0,0,,Y es por eso que\Nno puedo regresar.
+Dialogue: 0,0:01:58.71,0:02:00.38,Default,,0,0,0,,Entonces...
+Dialogue: 0,0:02:00.38,0:02:02.22,Default,,0,0,0,,lo que dices es...
+Dialogue: 0,0:02:02.22,0:02:03.45,Default,,0,0,0,,que estás aquí
+Dialogue: 0,0:02:03.45,0:02:04.58,Default,,0,0,0,,para una revancha!
+Dialogue: 0,0:02:04.59,0:02:06.05,Default,,0,0,0,,¿Qué? ¡No!
+Dialogue: 0,0:02:06.05,0:02:08.29,Default,,0,0,0,,Te dije por qué estoy\Naquí afuera en primer lugar.
+Dialogue: 0,0:02:08.29,0:02:10.39,Default,,0,0,0,,Creo que mis poderes\NDiamante se están manifestando.
+Dialogue: 0,0:02:10.39,0:02:11.63,Default,,0,0,0,,No puedo controlarlos.
+Dialogue: 0,0:02:11.63,0:02:14.59,Default,,0,0,0,,Solo necesito estar solo\Npara no lastimar a nadie.
+Dialogue: 0,0:02:14.60,0:02:15.96,Default,,0,0,0,,Pfft.
+Dialogue: 0,0:02:15.96,0:02:17.56,Default,,0,0,0,,Si realmente quieres\Nestar solo,
+Dialogue: 0,0:02:17.57,0:02:19.87,Default,,0,0,0,,lo estás haciendo mal.
+Dialogue: 0,0:02:19.87,0:02:21.23,Default,,0,0,0,,Pero, Jaspe...
+Dialogue: 0,0:02:21.24,0:02:24.44,Default,,0,0,0,,este es el último lugar\Ndonde alguien me buscaría.
+Dialogue: 0,0:02:24.44,0:02:27.44,Default,,0,0,0,,E-Espera, no me dejes aquí.
+Dialogue: 0,0:02:27.44,0:02:29.98,Default,,0,0,0,,
+Dialogue: 0,0:02:29.98,0:02:32.98,Default,,0,0,0,,Esta cosa con mis poderes\Nes un problema real.
+Dialogue: 0,0:02:32.98,0:02:35.75,Default,,0,0,0,,El único problema\Nque tienes son tus amigas.
+Dialogue: 0,0:02:35.75,0:02:37.22,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:02:37.22,0:02:39.89,Default,,0,0,0,,¿No ves que-\Nte están frenando?
+Dialogue: 0,0:02:39.89,0:02:41.15,Default,,0,0,0,,¿Qué? No.
+Dialogue: 0,0:02:41.16,0:02:42.76,Default,,0,0,0,,Están... solo están\Npreocupadas por mí.
+Dialogue: 0,0:02:42.76,0:02:44.06,Default,,0,0,0,,Tienen miedo...
+Dialogue: 0,0:02:44.06,0:02:45.76,Default,,0,0,0,,de tu poder.
+Dialogue: 0,0:02:45.76,0:02:48.56,Default,,0,0,0,,Si. Si.\NSupongo que sí.
+Dialogue: 0,0:02:48.56,0:02:50.00,Default,,0,0,0,,Y tu tambien.
+Dialogue: 0,0:02:50.00,0:02:53.13,Default,,0,0,0,,Viniste hasta aquí\Npara esconderte de él.
+Dialogue: 0,0:02:53.14,0:02:54.97,Default,,0,0,0,,Pero no estoy aquí\Npara esconderme.
+Dialogue: 0,0:02:54.97,0:02:57.97,Default,,0,0,0,,No sofoco mi ira\Nni mi poder.
+Dialogue: 0,0:02:57.97,0:02:59.57,Default,,0,0,0,,Lo canalizo...
+Dialogue: 0,0:02:59.58,0:03:01.44,Default,,0,0,0,,en entrenamiento.
+Dialogue: 0,0:03:01.44,0:03:03.11,Default,,0,0,0,,Oh, si.
+Dialogue: 0,0:03:03.11,0:03:04.61,Default,,0,0,0,,Este bosque destruido.
+Dialogue: 0,0:03:04.61,0:03:08.11,Default,,0,0,0,,No tengo a nadie a\Nquien servir, a dónde ir.
+Dialogue: 0,0:03:08.12,0:03:11.75,Default,,0,0,0,,¡Todo lo que me\Nqueda es poder!
+Dialogue: 0,0:03:11.75,0:03:13.99,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:03:13.99,0:03:15.49,Default,,0,0,0,,
+Dialogue: 0,0:03:16.86,0:03:20.79,Default,,0,0,0,,Y para controlar ese poder,\Ntengo que usarlo.
+Dialogue: 0,0:03:20.80,0:03:24.20,Default,,0,0,0,,Esas supuestas amigas\Ntuyas no entienden.
+Dialogue: 0,0:03:24.20,0:03:28.47,Default,,0,0,0,,Quieren que te sientas\Nmal por ser tú mismo.
+Dialogue: 0,0:03:29.77,0:03:31.81,Default,,0,0,0,,Me siento mal.
+Dialogue: 0,0:03:34.44,0:03:36.81,Default,,0,0,0,,
+Dialogue: 0,0:03:36.81,0:03:39.38,Default,,0,0,0,,¡Aaaaaaaaaah!
+Dialogue: 0,0:03:39.38,0:03:40.48,Default,,0,0,0,,¡Uhh! Aaagh.
+Dialogue: 0,0:03:40.48,0:03:42.95,Default,,0,0,0,,¡Si! ¡Destruye ese\Ndébil árbol!
+Dialogue: 0,0:03:42.95,0:03:44.48,Default,,0,0,0,,¡No! Muah.
+Dialogue: 0,0:03:44.49,0:03:45.32,Default,,0,0,0,,Agh.
+Dialogue: 0,0:03:45.32,0:03:46.89,Default,,0,0,0,,Que asco.\NEso es asqueroso.
+Dialogue: 0,0:03:46.89,0:03:48.39,Default,,0,0,0,,Blaaah. ¡No!
+Dialogue: 0,0:03:48.39,0:03:49.56,Default,,0,0,0,,¡El pasto!
+Dialogue: 0,0:03:49.56,0:03:50.82,Default,,0,0,0,,Ugh.\N¡Fuera de aquí!
+Dialogue: 0,0:03:50.83,0:03:51.99,Default,,0,0,0,,¡Ugh! ¡Ugh!
+Dialogue: 0,0:03:51.99,0:03:54.49,Default,,0,0,0,,Deja de ayudar al\Necosistema local a recuperarse.
+Dialogue: 0,0:03:54.50,0:03:56.46,Default,,0,0,0,,- Muéstrame.\N- ¿Eh?
+Dialogue: 0,0:03:56.46,0:03:59.50,Default,,0,0,0,,- Muéstrame tu poder.\N- ¡Uhh!
+Dialogue: 0,0:03:59.50,0:04:01.07,Default,,0,0,0,,
+Dialogue: 0,0:04:01.07,0:04:02.97,Default,,0,0,0,,De ninguna manera, Jaspe.
+Dialogue: 0,0:04:02.97,0:04:04.67,Default,,0,0,0,,No me puedo controlar.
+Dialogue: 0,0:04:04.67,0:04:06.57,Default,,0,0,0,,¡Cállate!
+Dialogue: 0,0:04:06.58,0:04:07.87,Default,,0,0,0,,
+Dialogue: 0,0:04:07.88,0:04:09.68,Default,,0,0,0,,¡Ahhhh!
+Dialogue: 0,0:04:09.68,0:04:11.08,Default,,0,0,0,,¿Eso es todo?
+Dialogue: 0,0:04:11.08,0:04:13.55,Default,,0,0,0,,¿Esto es lo que\Nte preocupaba?
+Dialogue: 0,0:04:13.55,0:04:14.58,Default,,0,0,0,,No es nada.
+Dialogue: 0,0:04:14.58,0:04:16.65,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:04:16.65,0:04:19.99,Default,,0,0,0,,Soy más fuerte que\Nquienes quieren retenerte
+Dialogue: 0,0:04:19.99,0:04:22.02,Default,,0,0,0,,porque no\Nle tengo miedo.
+Dialogue: 0,0:04:22.02,0:04:24.36,Default,,0,0,0,,Y tú tampoco\Ndeberías tenerlo.
+Dialogue: 0,0:04:27.10,0:04:30.60,Default,,0,0,0,,¡Ahhh!
+Dialogue: 0,0:04:30.60,0:04:32.87,Default,,0,0,0,,¡Si!\NAhí va mejor.
+Dialogue: 0,0:04:32.87,0:04:35.67,Default,,0,0,0,,
+Dialogue: 0,0:04:35.67,0:04:37.44,Default,,0,0,0,,
+Dialogue: 0,0:04:37.44,0:04:39.11,Default,,0,0,0,,Ahora dime --
+Dialogue: 0,0:04:39.11,0:04:42.28,Default,,0,0,0,,¿Se sintió bien\Ndejar salir tu ira?
+Dialogue: 0,0:04:43.68,0:04:45.21,Default,,0,0,0,,S-Si.
+Dialogue: 0,0:04:45.21,0:04:47.68,Default,,0,0,0,,Si me quedo aquí,
+Dialogue: 0,0:04:47.68,0:04:50.22,Default,,0,0,0,,¿Me enseñarás\Ncómo controlar este sentimiento?
+Dialogue: 0,0:04:50.22,0:04:53.59,Default,,0,0,0,,No te voy a enseñar,\Na menos que pelees conmigo.
+Dialogue: 0,0:04:53.59,0:04:56.59,Default,,0,0,0,,Bueno, no voy a pelear\Ncontigo a menos que me enseñes.
+Dialogue: 0,0:04:56.59,0:04:57.96,Default,,0,0,0,,Hmm...
+Dialogue: 0,0:04:57.96,0:05:00.36,Default,,0,0,0,,- Bien.\N- ¿De Verdad?
+Dialogue: 0,0:05:00.36,0:05:01.46,Default,,0,0,0,,Lección uno --
+Dialogue: 0,0:05:01.46,0:05:02.96,Default,,0,0,0,,Dejar de sonreír.
+Dialogue: 0,0:05:02.96,0:05:04.80,Default,,0,0,0,,Pero te he visto sonreír.
+Dialogue: 0,0:05:04.80,0:05:06.40,Default,,0,0,0,,
+Dialogue: 0,0:05:06.40,0:05:07.73,Default,,0,0,0,,Leccion dos --
+Dialogue: 0,0:05:07.74,0:05:09.20,Default,,0,0,0,,¡Cállate!
+Dialogue: 0,0:05:09.20,0:05:10.30,Default,,0,0,0,,¡Uhh!
+Dialogue: 0,0:05:10.31,0:05:12.54,Default,,0,0,0,,
+Dialogue: 0,0:05:12.54,0:05:15.38,Default,,0,0,0,,Supongo que mi\Nentrenamiento comienza ahora.
+Dialogue: 0,0:05:15.38,0:05:19.48,Default,,0,0,0,,
+Dialogue: 0,0:05:19.48,0:05:20.75,Default,,0,0,0,,
+Dialogue: 0,0:05:20.75,0:05:23.92,Default,,0,0,0,,¡Ooohhh! ¡Uhh!
+Dialogue: 0,0:05:23.92,0:05:26.32,Default,,0,0,0,,
+Dialogue: 0,0:05:26.32,0:05:27.65,Default,,0,0,0,,¡Ahhhhh!
+Dialogue: 0,0:05:27.66,0:05:33.66,Default,,0,0,0,,
+Dialogue: 0,0:05:33.66,0:05:35.66,Default,,0,0,0,,
+Dialogue: 0,0:05:35.66,0:05:38.63,Default,,0,0,0,,
+Dialogue: 0,0:05:38.63,0:05:41.07,Default,,0,0,0,,
+Dialogue: 0,0:05:41.07,0:05:42.90,Default,,0,0,0,,¡Aaahhh! ¡Uhh!
+Dialogue: 0,0:05:42.90,0:05:44.84,Default,,0,0,0,,
+Dialogue: 0,0:05:44.84,0:05:46.07,Default,,0,0,0,,
+Dialogue: 0,0:05:46.07,0:05:47.77,Default,,0,0,0,,
+Dialogue: 0,0:05:47.78,0:05:53.98,Default,,0,0,0,,
+Dialogue: 0,0:05:53.98,0:05:56.62,Default,,0,0,0,,
+Dialogue: 0,0:05:56.62,0:05:58.45,Default,,0,0,0,,¡Aaahhh!
+Dialogue: 0,0:05:58.45,0:06:04.96,Default,,0,0,0,,
+Dialogue: 0,0:06:04.96,0:06:11.20,Default,,0,0,0,,
+Dialogue: 0,0:06:11.20,0:06:13.03,Default,,0,0,0,,- ¡Aah!
+Dialogue: 0,0:06:13.03,0:06:21.84,Default,,0,0,0,,
+Dialogue: 0,0:06:21.84,0:06:23.88,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:06:23.88,0:06:31.55,Default,,0,0,0,,
+Dialogue: 0,0:06:31.55,0:06:39.06,Default,,0,0,0,,
+Dialogue: 0,0:06:39.06,0:06:41.49,Default,,0,0,0,,
+Dialogue: 0,0:06:41.50,0:06:50.97,Default,,0,0,0,,
+Dialogue: 0,0:06:50.97,0:07:00.68,Default,,0,0,0,,
+Dialogue: 0,0:07:00.68,0:07:02.48,Default,,0,0,0,,
+Dialogue: 0,0:07:02.48,0:07:10.19,Default,,0,0,0,,
+Dialogue: 0,0:07:10.19,0:07:18.20,Default,,0,0,0,,
+Dialogue: 0,0:07:18.20,0:07:20.03,Default,,0,0,0,,- ¡Si!\N- Hmm.
+Dialogue: 0,0:07:20.04,0:07:22.60,Default,,0,0,0,,Nada mal para\Ntres días de trabajo.
+Dialogue: 0,0:07:22.60,0:07:24.00,Default,,0,0,0,,
+Dialogue: 0,0:07:24.01,0:07:25.87,Default,,0,0,0,,No te enseñé eso.
+Dialogue: 0,0:07:25.87,0:07:28.57,Default,,0,0,0,,
+Dialogue: 0,0:07:28.58,0:07:30.71,Default,,0,0,0,,Encontré algunas\Nrocas nuevas.
+Dialogue: 0,0:07:30.71,0:07:31.78,Default,,0,0,0,,
+Dialogue: 0,0:07:31.78,0:07:33.55,Default,,0,0,0,,No creerías lo difícil\Nque es encontrar
+Dialogue: 0,0:07:33.55,0:07:35.41,Default,,0,0,0,,buenas rocas\Npor aquí.
+Dialogue: 0,0:07:35.42,0:07:37.55,Default,,0,0,0,,Ya basta de rocas,\NJaspe.
+Dialogue: 0,0:07:37.55,0:07:39.52,Default,,0,0,0,,¿Eh? ¿Qué?
+Dialogue: 0,0:07:39.52,0:07:41.05,Default,,0,0,0,,Estoy listo.
+Dialogue: 0,0:07:41.06,0:07:42.89,Default,,0,0,0,,¡Para nuestra revancha!
+Dialogue: 0,0:07:42.89,0:07:47.13,Default,,0,0,0,,
+Dialogue: 0,0:07:47.13,0:07:48.70,Default,,0,0,0,,
+Dialogue: 0,0:07:48.70,0:07:50.63,Default,,0,0,0,,Ya era hora.
+Dialogue: 0,0:07:54.24,0:07:55.47,Default,,0,0,0,,Adelante entonces.
+Dialogue: 0,0:07:55.47,0:07:57.57,Default,,0,0,0,,Muéstrame lo\Nque has aprendido.
+Dialogue: 0,0:07:57.57,0:08:07.08,Default,,0,0,0,,
+Dialogue: 0,0:08:07.08,0:08:08.08,Default,,0,0,0,,
+Dialogue: 0,0:08:08.08,0:08:16.59,Default,,0,0,0,,
+Dialogue: 0,0:08:16.59,0:08:19.26,Default,,0,0,0,,
+Dialogue: 0,0:08:19.26,0:08:21.16,Default,,0,0,0,,¿Por qué te\Nestás conteniendo?
+Dialogue: 0,0:08:21.16,0:08:22.76,Default,,0,0,0,,¿Crees que no\Npuedo soportarlo?
+Dialogue: 0,0:08:22.76,0:08:25.06,Default,,0,0,0,,No te voy a\Nconsentir, Steven.
+Dialogue: 0,0:08:25.07,0:08:27.50,Default,,0,0,0,,¿Quieres ir a casa\Ncon tus Gemas?
+Dialogue: 0,0:08:27.50,0:08:28.43,Default,,0,0,0,,No.
+Dialogue: 0,0:08:28.44,0:08:30.77,Default,,0,0,0,,¿Tienes miedo\Nde ser fuerte?
+Dialogue: 0,0:08:30.77,0:08:32.61,Default,,0,0,0,,¿Eres patético?
+Dialogue: 0,0:08:32.61,0:08:34.57,Default,,0,0,0,,¿Eres débil?
+Dialogue: 0,0:08:34.58,0:08:37.94,Default,,0,0,0,,¡No lo soy!
+Dialogue: 0,0:08:37.95,0:08:42.62,Default,,0,0,0,,
+Dialogue: 0,0:08:42.62,0:08:44.08,Default,,0,0,0,,
+Dialogue: 0,0:08:44.09,0:08:45.65,Default,,0,0,0,,¿Eso es todo?
+Dialogue: 0,0:08:45.65,0:08:48.29,Default,,0,0,0,,
+Dialogue: 0,0:08:48.29,0:08:49.59,Default,,0,0,0,,
+Dialogue: 0,0:08:49.59,0:08:50.96,Default,,0,0,0,,¡Ahhh!
+Dialogue: 0,0:08:50.96,0:08:52.66,Default,,0,0,0,,
+Dialogue: 0,0:08:52.66,0:08:54.13,Default,,0,0,0,,
+Dialogue: 0,0:08:54.13,0:08:56.80,Default,,0,0,0,,
+Dialogue: 0,0:08:56.80,0:08:59.20,Default,,0,0,0,,Ahí va mejor.
+Dialogue: 0,0:09:02.20,0:09:03.80,Default,,0,0,0,,¡Vamos! ¡Vamos!
+Dialogue: 0,0:09:03.81,0:09:06.21,Default,,0,0,0,,Muéstrame\Nlo que realmente puedes hacer
+Dialogue: 0,0:09:06.21,0:09:08.81,Default,,0,0,0,,
+Dialogue: 0,0:09:08.81,0:09:14.28,Default,,0,0,0,,
+Dialogue: 0,0:09:14.28,0:09:19.95,Default,,0,0,0,,
+Dialogue: 0,0:09:19.95,0:09:21.85,Default,,0,0,0,,
+Dialogue: 0,0:09:21.86,0:09:26.86,Default,,0,0,0,,
+Dialogue: 0,0:09:26.86,0:09:28.56,Default,,0,0,0,,Tienes razón, Jaspe.
+Dialogue: 0,0:09:32.50,0:09:34.97,Default,,0,0,0,,{\i1} He estado {\i0} conteniéndome.
+Dialogue: 0,0:09:34.97,0:09:37.90,Default,,0,0,0,,
+Dialogue: 0,0:09:37.91,0:09:39.04,Default,,0,0,0,,
+Dialogue: 0,0:09:39.04,0:09:41.84,Default,,0,0,0,,
+Dialogue: 0,0:09:41.84,0:09:44.01,Default,,0,0,0,,He enviado muchos mensajes
+Dialogue: 0,0:09:44.01,0:09:46.55,Default,,0,0,0,,pero no ha respondido.
+Dialogue: 0,0:09:46.55,0:09:48.51,Default,,0,0,0,,¡Steven!\N¿Dónde has estado?
+Dialogue: 0,0:09:48.52,0:09:50.15,Default,,0,0,0,,Te hemos buscado por\Ntodas partes.
+Dialogue: 0,0:09:50.15,0:09:51.59,Default,,0,0,0,,¡Ahora no!
+Dialogue: 0,0:09:57.03,0:09:59.49,Default,,0,0,0,,
+Dialogue: 0,0:10:07.57,0:10:09.87,Default,,0,0,0,,Por favor.\NPor favor haz que esto funcione.
+Dialogue: 0,0:10:12.04,0:10:13.37,Default,,0,0,0,,Jaspe, lo siento.
+Dialogue: 0,0:10:13.37,0:10:15.61,Default,,0,0,0,,Por favor, regresa.
+Dialogue: 0,0:10:23.18,0:10:25.62,Default,,0,0,0,,Por favor.
+Dialogue: 0,0:10:26.79,0:10:33.06,Default,,0,0,0,,
+Dialogue: 0,0:10:33.06,0:10:36.80,Default,,0,0,0,,
+Dialogue: 0,0:10:36.80,0:10:40.23,Default,,0,0,0,,
+Dialogue: 0,0:10:40.24,0:10:41.77,Default,,0,0,0,,Que--
+Dialogue: 0,0:10:41.77,0:10:42.97,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:10:42.97,0:10:45.27,Default,,0,0,0,,Tú... me destrozaste.
+Dialogue: 0,0:10:45.27,0:10:46.44,Default,,0,0,0,,¡Jaspe!
+Dialogue: 0,0:10:46.44,0:10:48.24,Default,,0,0,0,,Lo siento mucho.\NDebería haberme detenido.
+Dialogue: 0,0:10:48.24,0:10:50.24,Default,,0,0,0,,N-no estaba pensando.
+Dialogue: 0,0:10:54.15,0:10:57.95,Default,,0,0,0,,Me inclino ante tu fuerza
+Dialogue: 0,0:10:57.95,0:10:59.99,Default,,0,0,0,,mi Diamante.
+Dialogue: 0,0:10:59.99,0:11:01.49,Default,,0,0,0,,No.
+Dialogue: 0,0:11:02.96,0:11:06.06,Default,,0,0,0,,♪ Solo algo que necesito ♪
+Dialogue: 0,0:11:06.06,0:11:09.56,Default,,0,0,0,,♪ Solo un poco de tiempo ♪
+Dialogue: 0,0:11:09.56,0:11:12.90,Default,,0,0,0,,♪ Solo un sentimiento ganando velocidad ♪
+Dialogue: 0,0:11:12.90,0:11:16.30,Default,,0,0,0,,♪ Estoy soñando con... ♪
