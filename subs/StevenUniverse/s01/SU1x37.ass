@@ -1,0 +1,157 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E37 - Alone Together (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:28.84,0:00:30.34,Default,,0,0,0,,Cinco, seis, siete, ocho.
+Dialogue: 0,0:00:32.84,0:00:34.30,Default,,0,0,0,,Sincronizaos.
+Dialogue: 0,0:00:36.26,0:00:37.43,Default,,0,0,0,,Seriedad.
+Dialogue: 0,0:00:43.77,0:00:45.44,Default,,0,0,0,,Fíjate bien, Steven.
+Dialogue: 0,0:00:55.91,0:00:56.87,Default,,0,0,0,,¿Has visto?
+Dialogue: 0,0:01:29.40,0:01:32.20,Default,,0,0,0,,No lo pillo. Creí que lo tenía.
+Dialogue: 0,0:01:32.28,0:01:35.87,Default,,0,0,0,,Nadie espera que te fusiones a la primera.
+Dialogue: 0,0:01:35.95,0:01:38.87,Default,,0,0,0,,Sí. Incluso a nosotras nos cuesta.
+Dialogue: 0,0:01:38.95,0:01:40.04,Default,,0,0,0,,A mí no.
+Dialogue: 0,0:01:40.12,0:01:44.42,Default,,0,0,0,,Seguiremos practicando.\NY quizás en unos años…
+Dialogue: 0,0:01:44.50,0:01:48.92,Default,,0,0,0,,No sé si el cuerpo\Nde Steven es capaz de fusionarse.
+Dialogue: 0,0:01:49.00,0:01:53.80,Default,,0,0,0,,La fusión une los cuerpos de las Gemas,\Npero él es medio humano.
+Dialogue: 0,0:01:53.88,0:01:55.26,Default,,0,0,0,,Es orgánico.
+Dialogue: 0,0:01:55.34,0:01:56.34,Default,,0,0,0,,¿Orgánico?
+Dialogue: 0,0:01:56.97,0:02:00.52,Default,,0,0,0,,Venga ya. Es Steven.\N¿Quién sabe qué pasará?
+Dialogue: 0,0:02:02.85,0:02:04.98,Default,,0,0,0,,Yo creo que sí puede.
+Dialogue: 0,0:02:08.19,0:02:10.48,Default,,0,0,0,,¿Y si te dibujan los pasos?
+Dialogue: 0,0:02:10.57,0:02:13.70,Default,,0,0,0,,No. No creo que solo sea por el baile.
+Dialogue: 0,0:02:13.78,0:02:18.03,Default,,0,0,0,,Al fusionarse,\Nbrillan y se mezclan entre ellas.
+Dialogue: 0,0:02:18.12,0:02:19.74,Default,,0,0,0,,Dudo que yo pueda.
+Dialogue: 0,0:02:19.83,0:02:23.62,Default,,0,0,0,,Pues es increíble\Nque puedas bailar con ellas.
+Dialogue: 0,0:02:23.71,0:02:25.21,Default,,0,0,0,,Yo sería incapaz.
+Dialogue: 0,0:02:25.87,0:02:26.92,Default,,0,0,0,,¿Por qué?
+Dialogue: 0,0:02:27.00,0:02:29.84,Default,,0,0,0,,Nunca he bailado delante de nadie.
+Dialogue: 0,0:02:29.92,0:02:31.00,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:02:31.09,0:02:35.38,Default,,0,0,0,,Sí. Hubo un baile\Nen mi cole y me apetecía mucho ir,
+Dialogue: 0,0:02:35.47,0:02:38.18,Default,,0,0,0,,pero al final no me atreví.
+Dialogue: 0,0:02:38.26,0:02:42.06,Default,,0,0,0,,Solo pensaba\Nen que todos me estarían mirando.
+Dialogue: 0,0:02:42.14,0:02:44.98,Default,,0,0,0,,Nadie te está mirando ahora.
+Dialogue: 0,0:02:47.69,0:02:48.73,Default,,0,0,0,,Tú sí.
+Dialogue: 0,0:02:49.73,0:02:51.44,Default,,0,0,0,,Sí. Espera.
+Dialogue: 0,0:02:55.99,0:03:00.20,Default,,0,0,0,,Quería decirte que bailaras conmigo.
+Dialogue: 0,0:03:41.37,0:03:42.41,Default,,0,0,0,,¿Por qué estoy…?
+Dialogue: 0,0:03:43.49,0:03:47.33,Default,,0,0,0,,¿Por qué no entra tu sandalia en mis…?
+Dialogue: 0,0:03:47.41,0:03:49.33,Default,,0,0,0,,¿Tus pies?
+Dialogue: 0,0:03:53.09,0:03:54.25,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:03:54.34,0:03:55.46,Default,,0,0,0,,¡Connie!
+Dialogue: 0,0:03:55.55,0:03:57.17,Default,,0,0,0,,Lo he hecho.
+Dialogue: 0,0:03:57.26,0:03:58.17,Default,,0,0,0,,¿Lo has hecho?
+Dialogue: 0,0:03:58.26,0:03:59.30,Default,,0,0,0,,Espera.
+Dialogue: 0,0:03:59.84,0:04:01.22,Default,,0,0,0,,Esto… No.
+Dialogue: 0,0:04:01.30,0:04:03.81,Default,,0,0,0,,¡Esto es genial!
+Dialogue: 0,0:04:04.89,0:04:07.52,Default,,0,0,0,,Oh, vaya. Mírate.
+Dialogue: 0,0:04:09.02,0:04:10.85,Default,,0,0,0,,Soy una fusión.
+Dialogue: 0,0:04:17.40,0:04:18.78,Default,,0,0,0,,Iré a que me vean.
+Dialogue: 0,0:04:20.86,0:04:22.28,Default,,0,0,0,,Está guay, ¿eh?
+Dialogue: 0,0:04:23.16,0:04:26.49,Default,,0,0,0,,¿Se ha fusionado? ¿Con su amiga Connie?
+Dialogue: 0,0:04:28.12,0:04:29.75,Default,,0,0,0,,Mira a Granate.
+Dialogue: 0,0:04:32.54,0:04:34.63,Default,,0,0,0,,Esto no tiene precedentes.
+Dialogue: 0,0:04:34.71,0:04:37.96,Default,,0,0,0,,¿Una Gema fusionada con un ser humano?
+Dialogue: 0,0:04:38.59,0:04:40.09,Default,,0,0,0,,Es imposible.
+Dialogue: 0,0:04:40.18,0:04:42.18,Default,,0,0,0,,O, al menos, inapropiado.
+Dialogue: 0,0:04:42.26,0:04:44.26,Default,,0,0,0,,¡Guau!
+Dialogue: 0,0:04:44.35,0:04:46.81,Default,,0,0,0,,Moláis mucho juntos.
+Dialogue: 0,0:04:46.89,0:04:50.39,Default,,0,0,0,,¿Qué se siente, Steven? ¿Connie?
+Dialogue: 0,0:04:50.48,0:04:51.90,Default,,0,0,0,,¿Stevonnie?
+Dialogue: 0,0:04:51.98,0:04:53.77,Default,,0,0,0,,Es alucinante.
+Dialogue: 0,0:04:53.86,0:04:56.40,Default,,0,0,0,,Me alegro de que os divirtáis,
+Dialogue: 0,0:04:56.48,0:04:58.65,Default,,0,0,0,,pero debéis separaros ya.
+Dialogue: 0,0:04:58.74,0:04:59.86,Default,,0,0,0,,Espera. ¿Por qué?
+Dialogue: 0,0:04:59.95,0:05:03.07,Default,,0,0,0,,Te preocupaba que Steven no lo hiciera.
+Dialogue: 0,0:05:03.16,0:05:06.33,Default,,0,0,0,,- ¿No estás orgullosa?\N- Claro que sí.
+Dialogue: 0,0:05:06.41,0:05:07.45,Default,,0,0,0,,Yo…
+Dialogue: 0,0:05:07.54,0:05:09.62,Default,,0,0,0,,Granate, ayúdame con esto.
+Dialogue: 0,0:05:09.70,0:05:10.66,Default,,0,0,0,,Stevonnie,
+Dialogue: 0,0:05:11.62,0:05:13.00,Default,,0,0,0,,escúchame.
+Dialogue: 0,0:05:13.08,0:05:15.09,Default,,0,0,0,,No sois dos personas,
+Dialogue: 0,0:05:15.17,0:05:17.34,Default,,0,0,0,,ni tampoco sois una.
+Dialogue: 0,0:05:17.42,0:05:20.76,Default,,0,0,0,,Sois… una experiencia.
+Dialogue: 0,0:05:20.84,0:05:24.01,Default,,0,0,0,,Haced que sea una buena experiencia.
+Dialogue: 0,0:05:24.09,0:05:27.56,Default,,0,0,0,,Y ahora, ¡pasadlo bien!
+Dialogue: 0,0:06:08.85,0:06:10.10,Default,,0,0,0,,- No.\N- Sí.
+Dialogue: 0,0:06:10.18,0:06:12.81,Default,,0,0,0,,- Sí. Muy bien.\N- No creo que…
+Dialogue: 0,0:06:14.02,0:06:17.90,Default,,0,0,0,,¿En… qué puedo ayudar… me?
+Dialogue: 0,0:06:20.11,0:06:22.07,Default,,0,0,0,,Dos dónuts, por favor.
+Dialogue: 0,0:06:26.36,0:06:27.87,Default,,0,0,0,,¿Cuánto es?
+Dialogue: 0,0:06:29.53,0:06:31.70,Default,,0,0,0,,Nada. Invita la casa.
+Dialogue: 0,0:06:31.79,0:06:32.83,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:06:33.50,0:06:34.50,Default,,0,0,0,,Bien.
+Dialogue: 0,0:06:36.71,0:06:38.17,Default,,0,0,0,,Pero os digo esto.
+Dialogue: 0,0:06:38.25,0:06:40.80,Default,,0,0,0,,Así no haréis mucho negocio.
+Dialogue: 0,0:06:42.76,0:06:44.09,Default,,0,0,0,,ABIERTO
+Dialogue: 0,0:06:45.88,0:06:50.10,Default,,0,0,0,,Bien. Dos dónuts. Uno para mí y otro para…
+Dialogue: 0,0:06:51.43,0:06:52.47,Default,,0,0,0,,…mí.
+Dialogue: 0,0:06:56.39,0:06:58.02,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:07:00.15,0:07:02.53,Default,,0,0,0,,Lo dejamos si tú… No, no.
+Dialogue: 0,0:07:02.61,0:07:03.90,Default,,0,0,0,,No te preocupes.
+Dialogue: 0,0:07:09.62,0:07:11.95,Default,,0,0,0,,Eh, Nata… chico desconocido.
+Dialogue: 0,0:07:12.58,0:07:14.16,Default,,0,0,0,,Bonitos pantalones.
+Dialogue: 0,0:07:14.25,0:07:16.71,Default,,0,0,0,,Gracias. Esta noche hay fiesta.
+Dialogue: 0,0:07:17.83,0:07:19.63,Default,,0,0,0,,¿Un baile?
+Dialogue: 0,0:07:19.71,0:07:21.42,Default,,0,0,0,,Sí. En el almacén.
+Dialogue: 0,0:07:21.50,0:07:25.84,Default,,0,0,0,,Pincharé discos e irán\Nmis amigos de internet.
+Dialogue: 0,0:07:25.92,0:07:27.26,Default,,0,0,0,,Habrá palos fluorescentes…
+Dialogue: 0,0:07:28.89,0:07:29.84,Default,,0,0,0,,…gratis.
+Dialogue: 0,0:07:29.93,0:07:32.60,Default,,0,0,0,,Sí. No me lo pierdo. Sí. Gracias.
+Dialogue: 0,0:07:33.89,0:07:34.98,Default,,0,0,0,,Guay.
+Dialogue: 0,0:07:59.87,0:08:00.88,Default,,0,0,0,,Sí.
+Dialogue: 0,0:08:11.72,0:08:13.43,Default,,0,0,0,,Soy la caña.
+Dialogue: 0,0:08:31.24,0:08:33.58,Default,,0,0,0,,Creía que esto era un baile.
+Dialogue: 0,0:08:33.66,0:08:35.66,Default,,0,0,0,,¿Por qué no baila nadie?
+Dialogue: 0,0:08:38.25,0:08:41.50,Default,,0,0,0,,Así mola uno en un baile molón, ¿no?
+Dialogue: 0,0:08:41.58,0:08:44.13,Default,,0,0,0,,Se supone que se hace así.
+Dialogue: 0,0:08:44.21,0:08:46.09,Default,,0,0,0,,¿Por qué no se hace así?
+Dialogue: 0,0:09:00.77,0:09:01.77,Default,,0,0,0,,Hola, nena.
+Dialogue: 0,0:09:04.65,0:09:05.77,Default,,0,0,0,,Prepárate.
+Dialogue: 0,0:09:07.28,0:09:09.53,Default,,0,0,0,,Kevin ha llegado.
+Dialogue: 0,0:09:29.63,0:09:31.47,Default,,0,0,0,,No sé qué pasa.
+Dialogue: 0,0:09:31.55,0:09:34.55,Default,,0,0,0,,Bailar te mola, pero esto no te mola.
+Dialogue: 0,0:09:34.64,0:09:37.72,Default,,0,0,0,,Debería gustarte. ¿Por qué no?
+Dialogue: 0,0:09:40.39,0:09:42.19,Default,,0,0,0,,Ojalá estuvieras aquí.
+Dialogue: 0,0:09:42.27,0:09:44.19,Default,,0,0,0,,Así estaría bien.
+Dialogue: 0,0:09:44.27,0:09:47.19,Default,,0,0,0,,Estamos juntos, pero no está bien.
+Dialogue: 0,0:09:47.98,0:09:49.40,Default,,0,0,0,,Estoy sola.
+Dialogue: 0,0:09:49.48,0:09:50.82,Default,,0,0,0,,Esta noche no.
+Dialogue: 0,0:09:51.36,0:09:54.11,Default,,0,0,0,,¿Por qué me dejaste en la pista?
+Dialogue: 0,0:09:54.20,0:09:55.28,Default,,0,0,0,,Yo no…
+Dialogue: 0,0:09:56.58,0:09:58.37,Default,,0,0,0,,No quiero bailar más.
+Dialogue: 0,0:09:58.45,0:09:59.83,Default,,0,0,0,,¿Qué dices?
+Dialogue: 0,0:09:59.91,0:10:02.12,Default,,0,0,0,,Nunca habían visto algo así.
+Dialogue: 0,0:10:02.21,0:10:04.79,Default,,0,0,0,,- Vuelve conmigo.\N- ¿Por qué?
+Dialogue: 0,0:10:04.87,0:10:08.75,Default,,0,0,0,,Porque somos ángeles entre mediocres.
+Dialogue: 0,0:10:08.84,0:10:10.71,Default,,0,0,0,,Somos la pareja ideal.
+Dialogue: 0,0:10:10.80,0:10:13.30,Default,,0,0,0,,¿Cómo lo sabes? No nos conoces.
+Dialogue: 0,0:10:13.38,0:10:17.30,Default,,0,0,0,,Solo quiero bailar. No te alteres.
+Dialogue: 0,0:10:17.39,0:10:20.10,Default,,0,0,0,,No me altero. No quiero estar sola.
+Dialogue: 0,0:10:20.18,0:10:22.93,Default,,0,0,0,,Si estás tan sola, baila conmigo.
+Dialogue: 0,0:10:24.35,0:10:27.27,Default,,0,0,0,,Bien. ¿Quieres bailar? Vamos.
+Dialogue: 0,0:10:30.78,0:10:33.86,Default,,0,0,0,,Y soy Stevonnie. No tu nena.
+Dialogue: 0,0:10:40.45,0:10:42.29,Default,,0,0,0,,Vale. Tranquila, tía.
+Dialogue: 0,0:10:48.38,0:10:50.38,Default,,0,0,0,,Son dos críos. Me piro.
+Dialogue: 0,0:10:51.63,0:10:52.63,Default,,0,0,0,,Hemos vuelto.
+Dialogue: 0,0:11:00.81,0:11:03.06,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:11:33.34,0:11:35.42,Default,,0,0,0,,Subtítulos: Ivars Barzdevics

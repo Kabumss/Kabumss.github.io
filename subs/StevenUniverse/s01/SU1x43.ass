@@ -1,0 +1,234 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E43 - Maximum Capacity (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:26.95,0:00:30.24,Default,,0,0,0,,Me encantan los de la espiral con estela.
+Dialogue: 0,0:00:30.33,0:00:33.08,Default,,0,0,0,,Que se me resbala. Sujétalo bien.
+Dialogue: 0,0:00:33.16,0:00:34.08,Default,,0,0,0,,Perdona.
+Dialogue: 0,0:00:34.17,0:00:35.42,Default,,0,0,0,,No pasa nada.
+Dialogue: 0,0:00:35.50,0:00:38.42,Default,,0,0,0,,Este cartel promocional no funcionó,
+Dialogue: 0,0:00:38.50,0:00:40.92,Default,,0,0,0,,pero no me tiraré a mí mismo.
+Dialogue: 0,0:00:41.01,0:00:43.22,Default,,0,0,0,,Lo guardaré este invierno.
+Dialogue: 0,0:00:43.30,0:00:45.84,Default,,0,0,0,,¿Qué fuegos artificiales prefieres?
+Dialogue: 0,0:00:46.76,0:00:48.35,Default,,0,0,0,,No lo sé.
+Dialogue: 0,0:00:48.43,0:00:50.60,Default,,0,0,0,,Lo mejor es verlos contigo.
+Dialogue: 0,0:00:51.64,0:00:54.52,Default,,0,0,0,,Sí. Mañana es Nochevieja y me siento
+Dialogue: 0,0:00:54.60,0:00:56.85,Default,,0,0,0,,como si llevara un año esperando.
+Dialogue: 0,0:00:56.94,0:00:58.94,Default,,0,0,0,,Bueno, por algo será.
+Dialogue: 0,0:01:11.58,0:01:14.54,Default,,0,0,0,,No lo he ordenado desde que tu mamá…
+Dialogue: 0,0:01:15.29,0:01:16.92,Default,,0,0,0,,Quizá es el momento.
+Dialogue: 0,0:01:17.00,0:01:20.09,Default,,0,0,0,,Empezaré el año deshaciéndome de todo.
+Dialogue: 0,0:01:20.17,0:01:23.38,Default,,0,0,0,,- Me las puedo quedar.\N- Buen comienzo,
+Dialogue: 0,0:01:23.46,0:01:27.01,Default,,0,0,0,,pero necesitaré más ayuda.\NEste no lo hará.
+Dialogue: 0,0:01:27.09,0:01:30.14,Default,,0,0,0,,¿Quién puede ordenar semejante caos?
+Dialogue: 0,0:01:30.22,0:01:32.10,Default,,0,0,0,,Hay una Gema perfecta.
+Dialogue: 0,0:01:33.35,0:01:35.60,Default,,0,0,0,,- Amatista.\N- Sorpresa.
+Dialogue: 0,0:01:37.65,0:01:39.27,Default,,0,0,0,,- ¿Pasa algo?\N- No.
+Dialogue: 0,0:01:39.36,0:01:41.90,Default,,0,0,0,,Creía que te referías a Perla.
+Dialogue: 0,0:01:41.98,0:01:44.40,Default,,0,0,0,,Mejor que Perla no lo vea.
+Dialogue: 0,0:01:44.49,0:01:47.11,Default,,0,0,0,,Amatista es experta en desorden.
+Dialogue: 0,0:01:47.20,0:01:48.82,Default,,0,0,0,,No estoy tan seguro.
+Dialogue: 0,0:01:48.91,0:01:51.78,Default,,0,0,0,,Si ya te he visto las vergüenzas.
+Dialogue: 0,0:01:51.87,0:01:54.29,Default,,0,0,0,,Aquí hace falta un sistema
+Dialogue: 0,0:01:54.37,0:01:57.29,Default,,0,0,0,,para separar trastos y basura.
+Dialogue: 0,0:01:57.37,0:01:58.54,Default,,0,0,0,,Mirad esto.
+Dialogue: 0,0:01:59.71,0:02:01.92,Default,,0,0,0,,Son cajas para ordenar,
+Dialogue: 0,0:02:02.00,0:02:05.05,Default,,0,0,0,,así lo podemos clasificar fácilmente
+Dialogue: 0,0:02:05.13,0:02:07.47,Default,,0,0,0,,en guardar, vender y quemar.
+Dialogue: 0,0:02:07.55,0:02:08.55,Default,,0,0,0,,¿Os gusta?
+Dialogue: 0,0:02:08.63,0:02:11.05,Default,,0,0,0,,Sería mejor no quemar nada.
+Dialogue: 0,0:02:11.14,0:02:14.43,Default,,0,0,0,,Venga, Greg. ¿De qué tienes miedo?
+Dialogue: 0,0:02:14.52,0:02:15.56,Default,,0,0,0,,¿Del fuego?
+Dialogue: 0,0:02:17.73,0:02:20.65,Default,,0,0,0,,Guardar. Guardar. Guardar.
+Dialogue: 0,0:02:21.73,0:02:24.57,Default,,0,0,0,,Alto. ¿No deberíamos tirar cosas?
+Dialogue: 0,0:02:24.65,0:02:28.65,Default,,0,0,0,,¿Qué dices?\NAquí hay cosas que molan un montón.
+Dialogue: 0,0:02:28.74,0:02:29.95,Default,,0,0,0,,Como…
+Dialogue: 0,0:02:30.03,0:02:31.20,Default,,0,0,0,,¡Libros!
+Dialogue: 0,0:02:31.28,0:02:33.37,Default,,0,0,0,,¿Los libros molan ahora?
+Dialogue: 0,0:02:33.45,0:02:37.16,Default,,0,0,0,,Claro, como estoy castigado\Nmil años sin tele.
+Dialogue: 0,0:02:37.25,0:02:38.41,Default,,0,0,0,,¿Eso hicimos?
+Dialogue: 0,0:02:38.50,0:02:39.75,Default,,0,0,0,,¿Me los das?
+Dialogue: 0,0:02:39.83,0:02:42.25,Default,,0,0,0,,Espera. Déjamelos ver primero.
+Dialogue: 0,0:02:42.34,0:02:43.21,Default,,0,0,0,,PERRO ESPACIAL
+Dialogue: 0,0:02:43.29,0:02:46.13,Default,,0,0,0,,Claro. Estos te gustarán, y este…
+Dialogue: 0,0:02:46.21,0:02:47.42,Default,,0,0,0,,PASIONES DE XANXOR
+Dialogue: 0,0:02:47.51,0:02:50.55,Default,,0,0,0,,Este, para cuando seas mayor.
+Dialogue: 0,0:02:52.43,0:02:53.64,Default,,0,0,0,,VENDER - QUEMAR
+Dialogue: 0,0:02:53.72,0:02:54.72,Default,,0,0,0,,GUARDAR
+Dialogue: 0,0:02:54.81,0:02:56.52,Default,,0,0,0,,¿Te compraste esto?
+Dialogue: 0,0:02:58.14,0:03:00.39,Default,,0,0,0,,No necesito las mancuernas.
+Dialogue: 0,0:03:01.69,0:03:04.52,Default,,0,0,0,,Venga. ¿No quieres ponerte cachas?
+Dialogue: 0,0:03:06.03,0:03:08.24,Default,,0,0,0,,Venga, Amatista. Vale ya.
+Dialogue: 0,0:03:10.07,0:03:11.24,Default,,0,0,0,,¡Cielos!
+Dialogue: 0,0:03:12.57,0:03:15.58,Default,,0,0,0,,- No puede ser.\N- Sois mamá y tú.
+Dialogue: 0,0:03:16.49,0:03:19.33,Default,,0,0,0,,No pasa nada. Es solo el marco.
+Dialogue: 0,0:03:20.12,0:03:21.25,Default,,0,0,0,,¡Eh!
+Dialogue: 0,0:03:21.33,0:03:24.75,Default,,0,0,0,,He encontrado algo que no es basura.
+Dialogue: 0,0:03:24.84,0:03:27.00,Default,,0,0,0,,¿La herencia de mi tío?
+Dialogue: 0,0:03:27.09,0:03:28.30,Default,,0,0,0,,Mejor aún.
+Dialogue: 0,0:03:29.72,0:03:31.84,Default,,0,0,0,,¿Es {\i1}Minimayordomo{\i0}?
+Dialogue: 0,0:03:31.93,0:03:34.26,Default,,0,0,0,,¿Dónde te habías metido?
+Dialogue: 0,0:03:35.14,0:03:38.06,Default,,0,0,0,,{\i1}Minimayordomo, eres el mejor{\i0}
+Dialogue: 0,0:03:38.14,0:03:40.73,Default,,0,0,0,,Oye, ¿qué es {\i1}Minimayordomo{\i0}?
+Dialogue: 0,0:03:40.81,0:03:42.02,Default,,0,0,0,,Venga ya.
+Dialogue: 0,0:03:42.10,0:03:44.90,Default,,0,0,0,,Antes la veíamos a todas horas.
+Dialogue: 0,0:03:44.98,0:03:46.86,Default,,0,0,0,,Tienes que verla.
+Dialogue: 0,0:03:50.74,0:03:51.61,Default,,0,0,0,,¡Eh!
+Dialogue: 0,0:03:51.70,0:03:54.41,Default,,0,0,0,,Que aún sigo castigado.
+Dialogue: 0,0:03:54.49,0:03:58.95,Default,,0,0,0,,- Va, solo uno. Por los viejos tiempos.\N- Uno y basta.
+Dialogue: 0,0:04:03.21,0:04:06.84,Default,,0,0,0,,{\i1}Un huérfano desamparado{\i0}\N{\i1}En la mansión han dejado{\i0}
+Dialogue: 0,0:04:06.92,0:04:10.21,Default,,0,0,0,,{\i1}Minimayordomo, Minimayordomo{\i0}
+Dialogue: 0,0:04:10.30,0:04:14.39,Default,,0,0,0,,{\i1}Le hemos dado un baldeo{\i0}\N{\i1}Y también un buen empleo{\i0}
+Dialogue: 0,0:04:14.47,0:04:16.72,Default,,0,0,0,,{\i1}Minimayordomo, Minimayordomo{\i0}
+Dialogue: 0,0:04:16.80,0:04:18.14,Default,,0,0,0,,REPARTO
+Dialogue: 0,0:04:18.22,0:04:21.14,Default,,0,0,0,,{\i1}Oh, Minimayordomo{\i0}
+Dialogue: 0,0:04:21.23,0:04:24.23,Default,,0,0,0,,{\i1}Te llevamos en el corazón{\i0}
+Dialogue: 0,0:04:24.31,0:04:25.31,Default,,0,0,0,,EL PERRO
+Dialogue: 0,0:04:25.40,0:04:29.23,Default,,0,0,0,,{\i1}Barre, pasa el plumero{\i0}\N{\i1}Y te enseña a ser sincero{\i0}
+Dialogue: 0,0:04:29.32,0:04:31.65,Default,,0,0,0,,{\i1}Minimayordomo{\i0}
+Dialogue: 0,0:04:31.74,0:04:32.86,Default,,0,0,0,,{\i1}Eres el mejor{\i0}
+Dialogue: 0,0:04:32.95,0:04:34.86,Default,,0,0,0,,{\an8}RANDY ANDERSON ES “MINIMAYORDOMO”
+Dialogue: 0,0:04:34.95,0:04:37.20,Default,,0,0,0,,Tenéis demasiado dinero.
+Dialogue: 0,0:04:37.28,0:04:38.33,Default,,0,0,0,,MINIMAYORDOMO
+Dialogue: 0,0:04:40.62,0:04:42.87,Default,,0,0,0,,¡No! ¡Estoy castigado!
+Dialogue: 0,0:04:42.96,0:04:46.13,Default,,0,0,0,,¿No teníamos que ordenar el depósito?
+Dialogue: 0,0:04:47.00,0:04:49.80,Default,,0,0,0,,¡Vaya! ¿Este es el piloto?
+Dialogue: 0,0:04:49.88,0:04:52.59,Default,,0,0,0,,- Si no tenían ni el perro.\N- Ya.
+Dialogue: 0,0:04:52.67,0:04:55.05,Default,,0,0,0,,Solo un gato llamado Dinero.
+Dialogue: 0,0:04:58.39,0:05:02.18,Default,,0,0,0,,Steven, es tarde.\N¿Y si lo dejamos por hoy?
+Dialogue: 0,0:05:02.27,0:05:04.52,Default,,0,0,0,,Mañana seguimos con ello.
+Dialogue: 0,0:05:04.60,0:05:06.81,Default,,0,0,0,,Vale.
+Dialogue: 0,0:05:06.90,0:05:10.23,Default,,0,0,0,,- Hasta mañana.\N- {\i1}¿Habéis pedido un niño?{\i0}
+Dialogue: 0,0:05:10.32,0:05:11.48,Default,,0,0,0,,CAMINATA FRITA
+Dialogue: 0,0:05:12.19,0:05:15.40,Default,,0,0,0,,Dos desayunos especiales, gracias.
+Dialogue: 0,0:05:15.49,0:05:19.41,Default,,0,0,0,,Claro. ¡Ronaldo, dos de pastel de patatas!
+Dialogue: 0,0:05:19.49,0:05:22.83,Default,,0,0,0,,Papá y yo hacemos limpieza en el depósito
+Dialogue: 0,0:05:22.91,0:05:24.83,Default,,0,0,0,,para empezar bien el año.
+Dialogue: 0,0:05:24.91,0:05:27.38,Default,,0,0,0,,Vaya, eso es muy práctico.
+Dialogue: 0,0:05:27.46,0:05:29.59,Default,,0,0,0,,Yo estoy con las salsas.
+Dialogue: 0,0:05:29.67,0:05:31.05,Default,,0,0,0,,Lavo los botes.
+Dialogue: 0,0:05:31.13,0:05:34.13,Default,,0,0,0,,Tres veces, aunque con dos bastaría.
+Dialogue: 0,0:05:34.22,0:05:35.76,Default,,0,0,0,,Mejor si es impar.
+Dialogue: 0,0:05:36.80,0:05:39.18,Default,,0,0,0,,¿Irás a los fuegos artificiales?
+Dialogue: 0,0:05:39.26,0:05:43.02,Default,,0,0,0,,¡Sí! Se ve que serán superespectaculares.
+Dialogue: 0,0:05:43.10,0:05:44.23,Default,,0,0,0,,{\an8}AÑO NUEVO
+Dialogue: 0,0:05:44.31,0:05:48.40,Default,,0,0,0,,El alcalde los ha preparado.\NHabrá de los azules.
+Dialogue: 0,0:05:48.48,0:05:50.36,Default,,0,0,0,,Me encantan los azules.
+Dialogue: 0,0:05:50.44,0:05:52.48,Default,,0,0,0,,Serán alucinantes.
+Dialogue: 0,0:05:54.49,0:05:56.74,Default,,0,0,0,,¿Hola? ¿Papá?
+Dialogue: 0,0:05:56.82,0:06:01.28,Default,,0,0,0,,{\i1}Si voy en un simple poni,{\i0}\N{\i1}se reirá el cole entero.{\i0}
+Dialogue: 0,0:06:01.37,0:06:04.37,Default,,0,0,0,,¡Tenéis demasiado dinero!
+Dialogue: 0,0:06:06.21,0:06:09.71,Default,,0,0,0,,Cómo no. Minimayordomo siempre lo clava.
+Dialogue: 0,0:06:09.79,0:06:12.50,Default,,0,0,0,,Minimayordomo siempre está ahí.
+Dialogue: 0,0:06:12.59,0:06:13.84,Default,,0,0,0,,Ya.
+Dialogue: 0,0:06:13.92,0:06:16.09,Default,,0,0,0,,Con él todo es genial.
+Dialogue: 0,0:06:16.17,0:06:18.22,Default,,0,0,0,,- ¿Uno más?\N- ¡Venga!
+Dialogue: 0,0:06:18.30,0:06:20.47,Default,,0,0,0,,- ¡Eh!\N- Steven.
+Dialogue: 0,0:06:20.55,0:06:22.60,Default,,0,0,0,,¿Qué haces tan tarde?
+Dialogue: 0,0:06:22.68,0:06:24.93,Default,,0,0,0,,Ya es… de día.
+Dialogue: 0,0:06:25.02,0:06:27.77,Default,,0,0,0,,Vaya. Se nos ha pasado volando.
+Dialogue: 0,0:06:27.85,0:06:30.77,Default,,0,0,0,,¿No os cansáis nunca de la serie?
+Dialogue: 0,0:06:31.48,0:06:35.23,Default,,0,0,0,,En la tercera temporada empieza lo bueno.
+Dialogue: 0,0:06:35.32,0:06:38.78,Default,,0,0,0,,Cuando los Richington se mudan al lado.
+Dialogue: 0,0:06:39.41,0:06:40.66,Default,,0,0,0,,¡Es tronchante!
+Dialogue: 0,0:06:40.74,0:06:42.37,Default,,0,0,0,,{\i1}¡No puede ser!{\i0}
+Dialogue: 0,0:06:42.45,0:06:44.66,Default,,0,0,0,,{\i1}¡Sí puede ser!{\i0}
+Dialogue: 0,0:06:46.79,0:06:48.33,Default,,0,0,0,,¿Qué? ¿Empezamos?
+Dialogue: 0,0:06:48.41,0:06:50.17,Default,,0,0,0,,Claro.
+Dialogue: 0,0:06:50.25,0:06:52.25,Default,,0,0,0,,Este trozo es buenísimo.
+Dialogue: 0,0:06:55.17,0:06:57.72,Default,,0,0,0,,El depósito puede esperar.
+Dialogue: 0,0:06:57.80,0:07:00.38,Default,,0,0,0,,Bien, me parece buena idea.
+Dialogue: 0,0:07:00.47,0:07:01.72,Default,,0,0,0,,Más comida.
+Dialogue: 0,0:07:01.80,0:07:03.80,Default,,0,0,0,,¿Nos vemos en los fuegos?
+Dialogue: 0,0:07:03.89,0:07:04.89,Default,,0,0,0,,Hecho.
+Dialogue: 0,0:07:06.22,0:07:07.39,Default,,0,0,0,,Vale.
+Dialogue: 0,0:07:08.89,0:07:10.52,Default,,0,0,0,,Nos vemos ahí.
+Dialogue: 0,0:07:12.06,0:07:12.90,Default,,0,0,0,,PAPÁ GUAY
+Dialogue: 0,0:07:12.98,0:07:14.11,Default,,0,0,0,,¿Así?
+Dialogue: 0,0:07:14.19,0:07:16.23,Default,,0,0,0,,Sí. Estáis auténticas.
+Dialogue: 0,0:07:16.90,0:07:19.57,Default,,0,0,0,,Y las cacerolas para hacer ruido.
+Dialogue: 0,0:07:19.65,0:07:23.49,Default,,0,0,0,,Lo hacemos cada año.\NTambién hay para Amatista.
+Dialogue: 0,0:07:23.57,0:07:25.24,Default,,0,0,0,,Estarán al caer.
+Dialogue: 0,0:07:25.33,0:07:27.24,Default,,0,0,0,,¿Ella y Greg? ¿Por qué?
+Dialogue: 0,0:07:27.87,0:07:29.87,Default,,0,0,0,,¿Vuelven a las andadas?
+Dialogue: 0,0:07:29.96,0:07:31.21,Default,,0,0,0,,¿“Vuelven”?
+Dialogue: 0,0:07:31.29,0:07:33.54,Default,,0,0,0,,¿No estarán con esa serie?
+Dialogue: 0,0:07:33.63,0:07:34.96,Default,,0,0,0,,¿{\i1}Minimayordomo{\i0}?
+Dialogue: 0,0:07:35.88,0:07:38.88,Default,,0,0,0,,¡Increíble! Lo han vuelto a hacer.
+Dialogue: 0,0:07:38.97,0:07:41.22,Default,,0,0,0,,Desaparecían días enteros,
+Dialogue: 0,0:07:41.30,0:07:45.43,Default,,0,0,0,,para tragarse esos vídeos asquerosos\Nsin parar.
+Dialogue: 0,0:07:45.51,0:07:47.18,Default,,0,0,0,,- ¡6! ¡5!\N- Hasta…
+Dialogue: 0,0:07:47.26,0:07:48.98,Default,,0,0,0,,- ¿Hasta que…?\N- ¡4!
+Dialogue: 0,0:07:49.06,0:07:52.73,Default,,0,0,0,,- No sé. De pronto, un día pararon.\N- ¡3! ¡2!
+Dialogue: 0,0:07:52.81,0:07:53.85,Default,,0,0,0,,¡Uno!
+Dialogue: 0,0:08:01.65,0:08:04.78,Default,,0,0,0,,Feliz Año Nuevo. ¿Qué tal le doy?
+Dialogue: 0,0:08:04.87,0:08:05.99,Default,,0,0,0,,Flojo.
+Dialogue: 0,0:08:15.71,0:08:17.55,Default,,0,0,0,,TELEVISOR Y VÍDEO
+Dialogue: 0,0:08:19.09,0:08:22.13,Default,,0,0,0,,¿Y eso? ¡Que me pierdo los fuegos!
+Dialogue: 0,0:08:22.22,0:08:23.72,Default,,0,0,0,,Son más de las 12.
+Dialogue: 0,0:08:23.80,0:08:26.39,Default,,0,0,0,,La serie me ha vuelto a abducir,
+Dialogue: 0,0:08:26.47,0:08:29.18,Default,,0,0,0,,como si no existiera nada más.
+Dialogue: 0,0:08:31.56,0:08:34.48,Default,,0,0,0,,Quédate. Lo estamos pasando bomba.
+Dialogue: 0,0:08:34.56,0:08:38.48,Default,,0,0,0,,Mira.\NTengo el especial de Hawái de dos partes.
+Dialogue: 0,0:08:38.57,0:08:41.82,Default,,0,0,0,,Steven quería celebrar el Año Nuevo.
+Dialogue: 0,0:08:41.90,0:08:44.57,Default,,0,0,0,,Lo superará. Es un tío duro.
+Dialogue: 0,0:08:44.66,0:08:46.28,Default,,0,0,0,,Yo también quería.
+Dialogue: 0,0:08:46.95,0:08:48.62,Default,,0,0,0,,Habría ido así…
+Dialogue: 0,0:08:49.24,0:08:50.87,Default,,0,0,0,,¡Fuegos artificiales!
+Dialogue: 0,0:08:52.29,0:08:55.42,Default,,0,0,0,,Va, papá, vamos a ver {\i1}Minimayordomo{\i0}.
+Dialogue: 0,0:08:55.50,0:08:58.38,Default,,0,0,0,,No me gustan las transformaciones.
+Dialogue: 0,0:08:59.50,0:09:02.72,Default,,0,0,0,,Vaya, lo siento. Intentaba animarte.
+Dialogue: 0,0:09:03.76,0:09:07.72,Default,,0,0,0,,Está bien. Olvidaba lo sensible que eres.
+Dialogue: 0,0:09:07.80,0:09:10.77,Default,,0,0,0,,No me chinches, no tiene gracia.
+Dialogue: 0,0:09:10.85,0:09:14.14,Default,,0,0,0,,No me quedaré. Mi hijo me necesita.
+Dialogue: 0,0:09:15.81,0:09:17.44,Default,,0,0,0,,¿Y qué hay de mí?
+Dialogue: 0,0:09:17.52,0:09:21.73,Default,,0,0,0,,¡Yo tenía a alguien\Nhasta que empezó a salir contigo!
+Dialogue: 0,0:09:21.82,0:09:24.28,Default,,0,0,0,,Basta ya, Amatista. En serio.
+Dialogue: 0,0:09:24.36,0:09:26.36,Default,,0,0,0,,Por ella te quedarías.
+Dialogue: 0,0:09:26.45,0:09:27.87,Default,,0,0,0,,Ni se te ocurra.
+Dialogue: 0,0:09:27.95,0:09:30.41,Default,,0,0,0,,¿El qué? ¿Esto?
+Dialogue: 0,0:09:32.58,0:09:33.83,Default,,0,0,0,,Hola, Greg.
+Dialogue: 0,0:09:34.71,0:09:37.04,Default,,0,0,0,,Date la vuelta. Mírame.
+Dialogue: 0,0:09:37.12,0:09:41.71,Default,,0,0,0,,Sabía que lo harías.\NQuiero que hagamos las paces,
+Dialogue: 0,0:09:41.80,0:09:44.55,Default,,0,0,0,,pero no me lo vuelvas a hacer.
+Dialogue: 0,0:09:44.63,0:09:45.51,Default,,0,0,0,,¡Parad!
+Dialogue: 0,0:09:50.72,0:09:52.89,Default,,0,0,0,,Pero ¿qué hacéis?
+Dialogue: 0,0:09:55.89,0:09:59.11,Default,,0,0,0,,Lo pillo. Es duro enfrentarse al pasado
+Dialogue: 0,0:09:59.19,0:10:01.52,Default,,0,0,0,,y lo evitáis porque son cosas
+Dialogue: 0,0:10:01.61,0:10:04.36,Default,,0,0,0,,que os importan, significan mucho
+Dialogue: 0,0:10:04.44,0:10:06.40,Default,,0,0,0,,y os cuesta tirarlas.
+Dialogue: 0,0:10:06.49,0:10:09.74,Default,,0,0,0,,Pero hacedlo, porque esto está a tope.
+Dialogue: 0,0:10:09.82,0:10:12.62,Default,,0,0,0,,A ver, ¿cuándo has tenido un gato?
+Dialogue: 0,0:10:20.58,0:10:21.67,Default,,0,0,0,,ENCENDIDO
+Dialogue: 0,0:10:24.34,0:10:27.26,Default,,0,0,0,,- Vale, hoy lo terminamos.\N- Bien.
+Dialogue: 0,0:10:27.34,0:10:28.22,Default,,0,0,0,,DEPÓSITO
+Dialogue: 0,0:10:28.30,0:10:29.59,Default,,0,0,0,,¿Qué? ¿Perla?
+Dialogue: 0,0:10:30.39,0:10:34.43,Default,,0,0,0,,- Hola. Qué bien que hayas venido.\N- Increíble.
+Dialogue: 0,0:10:35.77,0:10:38.02,Default,,0,0,0,,Perdona por el caos.
+Dialogue: 0,0:10:38.10,0:10:39.94,Default,,0,0,0,,¿Ha sido idea tuya?
+Dialogue: 0,0:10:40.02,0:10:43.02,Default,,0,0,0,,- Bueno…\N- Ha sido Amatista.
+Dialogue: 0,0:10:43.11,0:10:44.65,Default,,0,0,0,,GUARDAR
+Dialogue: 0,0:10:46.53,0:10:49.95,Default,,0,0,0,,Nos lo podríamos llevar al templo.
+Dialogue: 0,0:10:50.03,0:10:52.83,Default,,0,0,0,,A mi cuarto, y no hay que tirar nada,
+Dialogue: 0,0:10:52.91,0:10:55.20,Default,,0,0,0,,pero te puedes quedar esto.
+Dialogue: 0,0:11:00.83,0:11:02.84,Default,,0,0,0,,Gracias, Amatista.
+Dialogue: 0,0:11:30.74,0:11:32.82,Default,,0,0,0,,Subtítulos: Jordi Bosch Díez

@@ -1,0 +1,175 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E39 - Future Vision (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:31.12,0:00:35.29,Default,,0,0,0,,Muy bien,\Ncreo que todos sabemos lo que pasa aquí.
+Dialogue: 0,0:00:35.37,0:00:38.04,Default,,0,0,0,,Sabíais que este día llegaría.
+Dialogue: 0,0:00:40.67,0:00:44.09,Default,,0,0,0,,Vuestra inquietud no justifica\Nese lenguaje.
+Dialogue: 0,0:00:44.17,0:00:46.46,Default,,0,0,0,,Soy una Gema. Ya soy mayor.
+Dialogue: 0,0:00:47.13,0:00:51.26,Default,,0,0,0,,Y debo dejar de decir cosas como:\N“Ya soy mayor”.
+Dialogue: 0,0:00:53.60,0:00:57.60,Default,,0,0,0,,Sé que esto es duro,\Npero seamos positivos.
+Dialogue: 0,0:00:58.68,0:01:02.06,Default,,0,0,0,,Se acabó el Equipo Ninja para mí.
+Dialogue: 0,0:01:02.15,0:01:03.15,Default,,0,0,0,,¡EQUIPO NINJA!
+Dialogue: 0,0:01:03.23,0:01:04.94,Default,,0,0,0,,¡Adiós, Equipo Ninja!
+Dialogue: 0,0:01:05.02,0:01:06.36,Default,,0,0,0,,GUERREROS ESTELARES
+Dialogue: 0,0:01:06.44,0:01:08.90,Default,,0,0,0,,¡Sí! ¡Nuevo Equipo Ninja!
+Dialogue: 0,0:01:10.36,0:01:12.16,Default,,0,0,0,,Esto es todo.
+Dialogue: 0,0:01:14.37,0:01:16.49,Default,,0,0,0,,Maestro Oso Oso.
+Dialogue: 0,0:01:16.58,0:01:19.83,Default,,0,0,0,,¿Debo librarme de ti también?
+Dialogue: 0,0:01:20.41,0:01:24.13,Default,,0,0,0,,¡No! ¿Y si algún día necesito un DJ molón?
+Dialogue: 0,0:01:30.34,0:01:32.72,Default,,0,0,0,,- ¡Granate!\N- Buenos días.
+Dialogue: 0,0:01:32.80,0:01:36.47,Default,,0,0,0,,Qué suerte que estuvieras ahí.
+Dialogue: 0,0:01:36.56,0:01:38.89,Default,,0,0,0,,No ha sido por la suerte.
+Dialogue: 0,0:01:38.98,0:01:41.39,Default,,0,0,0,,Espera. ¿Qué quieres decir?
+Dialogue: 0,0:01:42.02,0:01:44.23,Default,,0,0,0,,- Déjalo.\N- No, en serio.
+Dialogue: 0,0:01:44.31,0:01:46.32,Default,,0,0,0,,¿Cómo sabes dónde estar?
+Dialogue: 0,0:01:47.78,0:01:50.32,Default,,0,0,0,,No estás listo para saberlo.
+Dialogue: 0,0:01:50.40,0:01:54.41,Default,,0,0,0,,¿Me contarás algo molón sobre ti?
+Dialogue: 0,0:01:55.07,0:01:56.16,Default,,0,0,0,,No.
+Dialogue: 0,0:01:56.24,0:01:57.70,Default,,0,0,0,,¡Venga!
+Dialogue: 0,0:01:57.79,0:02:01.54,Default,,0,0,0,,Yo ya soy grande.
+Dialogue: 0,0:02:01.62,0:02:08.50,Default,,0,0,0,,Podría decirse que tengo\Nuna especie de visión futura.
+Dialogue: 0,0:02:09.76,0:02:12.76,Default,,0,0,0,,Veo cómo pueden acabar muchas cosas,
+Dialogue: 0,0:02:12.84,0:02:16.89,Default,,0,0,0,,lo cual es útil,\Ndada tu tendencia al peligro.
+Dialogue: 0,0:02:16.97,0:02:19.89,Default,,0,0,0,,“Peligro” es mi segundo nombre.
+Dialogue: 0,0:02:19.97,0:02:21.52,Default,,0,0,0,,Eso es mentira.
+Dialogue: 0,0:02:21.60,0:02:24.23,Default,,0,0,0,,Es “monada de niño”.
+Dialogue: 0,0:03:00.10,0:03:01.35,Default,,0,0,0,,Vale, se acabó.
+Dialogue: 0,0:03:01.43,0:03:03.77,Default,,0,0,0,,Pero queda mucho día aún.
+Dialogue: 0,0:03:04.31,0:03:06.35,Default,,0,0,0,,¿Qué voy a desayunar?
+Dialogue: 0,0:03:06.44,0:03:10.19,Default,,0,0,0,,Estás fuera,\Nasí que quizá vayas al Big Donut.
+Dialogue: 0,0:03:11.48,0:03:12.78,Default,,0,0,0,,¡Vaya!
+Dialogue: 0,0:03:12.86,0:03:14.28,Default,,0,0,0,,Asombroso.
+Dialogue: 0,0:03:15.53,0:03:19.08,Default,,0,0,0,,¿Ves futuros posibles en los que vienes…
+Dialogue: 0,0:03:20.70,0:03:22.29,Default,,0,0,0,,…conmigo?
+Dialogue: 0,0:03:34.26,0:03:35.42,Default,,0,0,0,,Sí.
+Dialogue: 0,0:03:35.88,0:03:37.97,Default,,0,0,0,,¿De verdad? ¡Vamos!
+Dialogue: 0,0:03:38.59,0:03:41.18,Default,,0,0,0,,¿Perla y Amatista ven el futuro?
+Dialogue: 0,0:03:41.26,0:03:43.56,Default,,0,0,0,,Nadie ve el futuro.
+Dialogue: 0,0:03:44.18,0:03:47.31,Default,,0,0,0,,Veo opciones y trayectorias.
+Dialogue: 0,0:03:47.85,0:03:49.77,Default,,0,0,0,,El tiempo es un río
+Dialogue: 0,0:03:49.86,0:03:53.99,Default,,0,0,0,,que se divide en riachuelos,\No se estanca en lagos,
+Dialogue: 0,0:03:54.40,0:03:56.61,Default,,0,0,0,,o cae en cascadas.
+Dialogue: 0,0:03:57.15,0:04:00.66,Default,,0,0,0,,Tengo el mapa y guío el barco.
+Dialogue: 0,0:04:01.99,0:04:04.45,Default,,0,0,0,,Ya veo.
+Dialogue: 0,0:04:07.21,0:04:09.96,Default,,0,0,0,,¿Qué pasará si saludo a Sadie?
+Dialogue: 0,0:04:10.04,0:04:13.55,Default,,0,0,0,,Seguramente ella te devolverá el saludo.
+Dialogue: 0,0:04:15.76,0:04:16.67,Default,,0,0,0,,Hola, Sadie.
+Dialogue: 0,0:04:16.76,0:04:18.13,Default,,0,0,0,,Hola, Steven.
+Dialogue: 0,0:04:19.22,0:04:21.05,Default,,0,0,0,,Esa ha sido fácil.
+Dialogue: 0,0:04:21.14,0:04:25.98,Default,,0,0,0,,¿Qué pasará si saludo\Na mi mejor amigo Lars?
+Dialogue: 0,0:04:26.06,0:04:29.10,Default,,0,0,0,,Nuestra amistad es complicada.
+Dialogue: 0,0:04:29.19,0:04:33.57,Default,,0,0,0,,El resultado de este experimento\Nserá impredecible.
+Dialogue: 0,0:04:33.65,0:04:37.86,Default,,0,0,0,,En una posibilidad,\NLars te choca los cinco.
+Dialogue: 0,0:04:39.53,0:04:43.49,Default,,0,0,0,,Y en otras dos\Nsufres quemaduras de tercer grado.
+Dialogue: 0,0:04:44.54,0:04:48.41,Default,,0,0,0,,¡Lars me choca los cinco!
+Dialogue: 0,0:04:49.12,0:04:50.42,Default,,0,0,0,,¡Hola, Lars!
+Dialogue: 0,0:04:54.21,0:04:55.67,Default,,0,0,0,,¡Caray! ¿Estás bien?
+Dialogue: 0,0:04:55.76,0:04:57.67,Default,,0,0,0,,Ese café quema mucho.
+Dialogue: 0,0:04:58.22,0:05:00.05,Default,,0,0,0,,Yo el café me lo bebo.
+Dialogue: 0,0:05:05.01,0:05:06.06,Default,,0,0,0,,Qué gracia.
+Dialogue: 0,0:05:08.39,0:05:10.65,Default,,0,0,0,,Ya sabes lo que quiero.
+Dialogue: 0,0:05:11.77,0:05:14.82,Default,,0,0,0,,¿Qué puede acabar mal con esto?
+Dialogue: 0,0:05:17.40,0:05:20.99,Default,,0,0,0,,- Muchas cosas.\N- ¿Como cuál?
+Dialogue: 0,0:05:21.61,0:05:23.57,Default,,0,0,0,,Bien, para empezar,
+Dialogue: 0,0:05:24.37,0:05:27.83,Default,,0,0,0,,puede que estés comiéndote tus fritos
+Dialogue: 0,0:05:27.91,0:05:30.50,Default,,0,0,0,,y te ahogues con uno de ellos.
+Dialogue: 0,0:05:33.04,0:05:36.75,Default,,0,0,0,,O que te distraigas\Ny caigas en un agujero.
+Dialogue: 0,0:05:38.01,0:05:42.22,Default,,0,0,0,,Puedes intoxicarte\No ser atacado por unas avispas.
+Dialogue: 0,0:05:45.26,0:05:48.52,Default,,0,0,0,,Y todo eso así, a bote pronto.
+Dialogue: 0,0:05:50.18,0:05:51.56,Default,,0,0,0,,PATATAS
+Dialogue: 0,0:05:52.73,0:05:55.52,Default,,0,0,0,,¿Y si me quedo quieto?
+Dialogue: 0,0:05:56.15,0:05:59.19,Default,,0,0,0,,Puede que te quemes por el sol.
+Dialogue: 0,0:05:59.65,0:06:01.32,Default,,0,0,0,,¡Granate, espera!
+Dialogue: 0,0:06:25.18,0:06:27.81,Default,,0,0,0,,Gatolleta, ¿eres real?
+Dialogue: 0,0:06:27.89,0:06:29.06,Default,,0,0,0,,¡No!
+Dialogue: 0,0:06:29.14,0:06:31.60,Default,,0,0,0,,¡Nunca pensé que fueras malo!
+Dialogue: 0,0:06:38.32,0:06:39.48,Default,,0,0,0,,Steven.
+Dialogue: 0,0:06:39.57,0:06:40.78,Default,,0,0,0,,Bonito casco.
+Dialogue: 0,0:06:41.65,0:06:43.11,Default,,0,0,0,,Sí.
+Dialogue: 0,0:06:43.20,0:06:48.24,Default,,0,0,0,,Nunca sabes cuándo te subirás a una bici.
+Dialogue: 0,0:06:49.04,0:06:51.20,Default,,0,0,0,,Y te haces un bocadillo.
+Dialogue: 0,0:06:51.29,0:06:56.79,Default,,0,0,0,,Sí. Iba a coger el cuchillo\Npara untar la mayonesa.
+Dialogue: 0,0:06:58.04,0:06:59.50,Default,,0,0,0,,Coger el…
+Dialogue: 0,0:07:01.96,0:07:03.55,Default,,0,0,0,,…cuchillo.
+Dialogue: 0,0:07:05.64,0:07:09.35,Default,,0,0,0,,Coger el… ¡cuchillo!
+Dialogue: 0,0:07:11.81,0:07:12.77,Default,,0,0,0,,Steven.
+Dialogue: 0,0:07:12.85,0:07:14.89,Default,,0,0,0,,Espera.
+Dialogue: 0,0:07:14.98,0:07:16.44,Default,,0,0,0,,Puedo hacerlo.
+Dialogue: 0,0:07:19.69,0:07:21.19,Default,,0,0,0,,Eso te matará antes.
+Dialogue: 0,0:07:21.28,0:07:22.69,Default,,0,0,0,,¡No tiene gracia!
+Dialogue: 0,0:07:24.40,0:07:26.82,Default,,0,0,0,,Bonita cocorota, Steven.
+Dialogue: 0,0:07:29.08,0:07:30.20,Default,,0,0,0,,Estamos listas.
+Dialogue: 0,0:07:30.28,0:07:32.37,Default,,0,0,0,,¿Vais a una misión?
+Dialogue: 0,0:07:32.45,0:07:34.46,Default,,0,0,0,,Esperad. No me dejéis.
+Dialogue: 0,0:07:34.54,0:07:39.46,Default,,0,0,0,,¡Dime qué pasará con mi almuerzo!\N¿Me ahogo con un pepinillo?
+Dialogue: 0,0:07:40.59,0:07:42.63,Default,,0,0,0,,No, no te ahogas.
+Dialogue: 0,0:07:42.71,0:07:45.38,Default,,0,0,0,,¿Y qué me pasa con el pepinillo?
+Dialogue: 0,0:07:45.47,0:07:47.72,Default,,0,0,0,,Granate, vámonos.
+Dialogue: 0,0:07:48.30,0:07:50.76,Default,,0,0,0,,No puedo quedarme, Steven.
+Dialogue: 0,0:07:50.85,0:07:54.02,Default,,0,0,0,,Hazme caso, tú tienes el control.
+Dialogue: 0,0:07:54.52,0:07:57.40,Default,,0,0,0,,Y ni se te ocurra subir al tejado.
+Dialogue: 0,0:08:13.29,0:08:16.83,Default,,0,0,0,,¿Qué podría pasarme en el tejado?
+Dialogue: 0,0:08:25.21,0:08:26.63,Default,,0,0,0,,Vale.
+Dialogue: 0,0:08:26.72,0:08:27.84,Default,,0,0,0,,Calma.
+Dialogue: 0,0:08:27.93,0:08:31.72,Default,,0,0,0,,Debería comer algo. Pero ¿y si…?
+Dialogue: 0,0:08:36.60,0:08:38.94,Default,,0,0,0,,¿Cómo es que habéis vuelto?
+Dialogue: 0,0:08:39.02,0:08:41.06,Default,,0,0,0,,Somos mágicas.
+Dialogue: 0,0:08:41.15,0:08:43.27,Default,,0,0,0,,Sí. ¡Mágicas!
+Dialogue: 0,0:08:45.48,0:08:47.49,Default,,0,0,0,,¡Socorro!
+Dialogue: 0,0:08:52.91,0:08:54.91,Default,,0,0,0,,Maestro Oso Oso.
+Dialogue: 0,0:08:55.54,0:08:57.37,Default,,0,0,0,,{\i1}Ya soy mayor.{\i0}
+Dialogue: 0,0:08:57.46,0:08:58.50,Default,,0,0,0,,{\i1}Mayor.{\i0}
+Dialogue: 0,0:08:58.58,0:08:59.92,Default,,0,0,0,,{\i1}Mayor.{\i0}
+Dialogue: 0,0:09:00.75,0:09:02.79,Default,,0,0,0,,¿Qué me está pasando?
+Dialogue: 0,0:09:02.88,0:09:06.09,Default,,0,0,0,,Se supone que soy una Gema de Cristal.
+Dialogue: 0,0:09:06.17,0:09:08.88,Default,,0,0,0,,¡Soy una Gema de Cristal!
+Dialogue: 0,0:09:25.57,0:09:28.15,Default,,0,0,0,,Vale. Aquí estoy.
+Dialogue: 0,0:09:28.24,0:09:30.45,Default,,0,0,0,,¿Qué me harás, futuro?
+Dialogue: 0,0:09:35.12,0:09:37.29,Default,,0,0,0,,Steven, baja del tejado.
+Dialogue: 0,0:09:37.37,0:09:38.33,Default,,0,0,0,,No.
+Dialogue: 0,0:09:39.16,0:09:43.38,Default,,0,0,0,,Si algo va a pasarme, que pase ya.
+Dialogue: 0,0:09:43.83,0:09:45.96,Default,,0,0,0,,Steven, no lo entiendes.
+Dialogue: 0,0:09:46.05,0:09:48.13,Default,,0,0,0,,No, tú no lo entiendes.
+Dialogue: 0,0:09:48.21,0:09:51.51,Default,,0,0,0,,Todo lo que hago me empuja a mi final.
+Dialogue: 0,0:09:51.59,0:09:54.55,Default,,0,0,0,,Cuanto más sé, más sé que sé menos.
+Dialogue: 0,0:09:54.64,0:09:56.72,Default,,0,0,0,,¡No puedo vivir así!
+Dialogue: 0,0:09:57.26,0:09:59.77,Default,,0,0,0,,¿Qué me dijiste que pasaría?
+Dialogue: 0,0:09:59.85,0:10:02.48,Default,,0,0,0,,¿Qué me pasará en el tejado?
+Dialogue: 0,0:10:03.73,0:10:04.73,Default,,0,0,0,,Esto.
+Dialogue: 0,0:10:05.40,0:10:07.15,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:10:07.23,0:10:10.07,Default,,0,0,0,,Podía pasar si sabías lo de mi poder.
+Dialogue: 0,0:10:10.99,0:10:13.49,Default,,0,0,0,,Lo vi y te lo dije igualmente.
+Dialogue: 0,0:10:13.57,0:10:15.99,Default,,0,0,0,,Pero ¿por qué?
+Dialogue: 0,0:10:16.08,0:10:18.41,Default,,0,0,0,,Me arriesgué a tus expensas.
+Dialogue: 0,0:10:18.49,0:10:21.41,Default,,0,0,0,,Si lo entendías, eso nos uniría.
+Dialogue: 0,0:10:22.54,0:10:25.54,Default,,0,0,0,,Steven, veo cosas que pueden dañarte.
+Dialogue: 0,0:10:26.84,0:10:29.51,Default,,0,0,0,,Y yo no debería ser una de ellas.
+Dialogue: 0,0:10:33.18,0:10:38.72,Default,,0,0,0,,Hay millones de futuros posibles,\Npero tú decides cuál se hará realidad.
+Dialogue: 0,0:10:38.81,0:10:42.81,Default,,0,0,0,,Entiéndelo, tú escoges tu futuro.
+Dialogue: 0,0:10:43.85,0:10:45.86,Default,,0,0,0,,Lo entiendo. Yo…
+Dialogue: 0,0:10:48.27,0:10:49.90,Default,,0,0,0,,¿Qué estoy haciendo?
+Dialogue: 0,0:10:52.15,0:10:56.95,Default,,0,0,0,,Supongo que aquí arriba\Nno tengo mucho futuro.
+Dialogue: 0,0:11:02.71,0:11:05.04,Default,,0,0,0,,Ahora ya cuidaré de mí mismo.
+Dialogue: 0,0:11:09.88,0:11:11.21,Default,,0,0,0,,¿Qué ha sido eso?
+Dialogue: 0,0:11:11.30,0:11:12.80,Default,,0,0,0,,Nada importante.
+Dialogue: 0,0:11:31.11,0:11:33.19,Default,,0,0,0,,Subtítulos: Xavier Cardona

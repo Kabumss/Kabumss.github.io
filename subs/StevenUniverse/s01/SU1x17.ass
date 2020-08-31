@@ -1,0 +1,163 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E17 - Lion 2 The Movie (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:31.12,0:00:32.79,Default,,0,0,0,,{\i1}Hay quien dice…{\i0}
+Dialogue: 0,0:00:34.71,0:00:36.21,Default,,0,0,0,,{\i1}…que perro viejo…{\i0}
+Dialogue: 0,0:00:38.92,0:00:40.22,Default,,0,0,0,,{\i1}…no aprende…{\i0}
+Dialogue: 0,0:00:41.84,0:00:43.18,Default,,0,0,0,,{\i1}…trucos nuevos.{\i0}
+Dialogue: 0,0:00:47.14,0:00:48.39,Default,,0,0,0,,{\i1}Eso si no eres…{\i0}
+Dialogue: 0,0:00:54.31,0:00:58.40,Default,,0,0,0,,Perrocóptero 3 en 3D.
+Dialogue: 0,0:01:06.03,0:01:08.91,Default,,0,0,0,,{\i1}Este febrero se lía perra.{\i0}
+Dialogue: 0,0:01:10.66,0:01:13.33,Default,,0,0,0,,Entiendo que te guste esta saga.
+Dialogue: 0,0:01:13.42,0:01:14.71,Default,,0,0,0,,Así es.
+Dialogue: 0,0:01:14.79,0:01:17.42,Default,,0,0,0,,En una humanidad al límite,
+Dialogue: 0,0:01:17.50,0:01:21.67,Default,,0,0,0,,el más humano resulta ser\Nun perro… cóptero.
+Dialogue: 0,0:01:21.76,0:01:23.76,Default,,0,0,0,,¿Has visto por dónde dispara?
+Dialogue: 0,0:01:24.47,0:01:25.51,Default,,0,0,0,,Sí.
+Dialogue: 0,0:01:25.60,0:01:28.18,Default,,0,0,0,,Espero que sea fiel al libro.
+Dialogue: 0,0:01:31.48,0:01:32.52,Default,,0,0,0,,Las Gemas.
+Dialogue: 0,0:01:34.31,0:01:35.48,Default,,0,0,0,,Saludos.
+Dialogue: 0,0:01:37.44,0:01:41.82,Default,,0,0,0,,Hola, Connie. Qué sorpresa.
+Dialogue: 0,0:01:41.90,0:01:45.74,Default,,0,0,0,,Vamos a ver una peli\Nque va de un perro volador.
+Dialogue: 0,0:01:45.82,0:01:48.12,Default,,0,0,0,,Va de muchas más cosas.
+Dialogue: 0,0:01:48.79,0:01:50.29,Default,,0,0,0,,PRÓXIMAMENTE
+Dialogue: 0,0:01:51.33,0:01:52.37,Default,,0,0,0,,Eso es fácil.
+Dialogue: 0,0:01:53.71,0:01:54.96,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:01:55.04,0:01:58.50,Default,,0,0,0,,Con magia, ¿quién necesita ir al cine?
+Dialogue: 0,0:02:02.88,0:02:04.80,Default,,0,0,0,,No fardes, Amatista.
+Dialogue: 0,0:02:04.88,0:02:07.80,Default,,0,0,0,,Según Connie, la peli es mágica.
+Dialogue: 0,0:02:07.89,0:02:09.47,Default,,0,0,0,,Yo no he dicho eso.
+Dialogue: 0,0:02:09.56,0:02:12.73,Default,,0,0,0,,Y mirad: llevamos aperitivos propios.
+Dialogue: 0,0:02:12.81,0:02:15.94,Default,,0,0,0,,Mis padres no me dejan\Ncomprarlos en el cine.
+Dialogue: 0,0:02:16.02,0:02:18.56,Default,,0,0,0,,Y no los compraremos allí.
+Dialogue: 0,0:02:18.65,0:02:21.65,Default,,0,0,0,,¡Ñam, ñam! ¡Aliméntame!
+Dialogue: 0,0:02:21.73,0:02:25.57,Default,,0,0,0,,No, Amatista. Son nuestros, para el cine.
+Dialogue: 0,0:02:25.66,0:02:28.41,Default,,0,0,0,,¿Cómo iremos al cine?
+Dialogue: 0,0:02:28.49,0:02:29.91,Default,,0,0,0,,Está lejos.
+Dialogue: 0,0:02:30.83,0:02:35.92,Default,,0,0,0,,Tranquila, está todo pensado.\NHoy viajaremos con estilo.
+Dialogue: 0,0:02:36.96,0:02:42.34,Default,,0,0,0,,Te presento a la flor y nata\Nde los transportes de lujo: León.
+Dialogue: 0,0:02:46.88,0:02:48.43,Default,,0,0,0,,Ay, bobalicón.
+Dialogue: 0,0:02:48.51,0:02:50.68,Default,,0,0,0,,¿Tu mascota es un león?
+Dialogue: 0,0:02:51.31,0:02:52.85,Default,,0,0,0,,Sí, es una mascota.
+Dialogue: 0,0:02:52.93,0:02:55.77,Default,,0,0,0,,Pero casi siempre va a la suya.
+Dialogue: 0,0:02:59.90,0:03:02.02,Default,,0,0,0,,¿De dónde lo habrá sacado?
+Dialogue: 0,0:03:02.11,0:03:06.45,Default,,0,0,0,,Jo, Steven, en tu vida\Ntodo es alucinante y mágico.
+Dialogue: 0,0:03:07.16,0:03:10.53,Default,,0,0,0,,Lo más emocionante de mi vida es el tenis.
+Dialogue: 0,0:03:12.12,0:03:17.37,Default,,0,0,0,,¡Drive! ¡Revés! ¡Remate letal!
+Dialogue: 0,0:03:18.25,0:03:19.54,Default,,0,0,0,,¡El tenis mola!
+Dialogue: 0,0:03:20.17,0:03:22.30,Default,,0,0,0,,Lo último es inventado.
+Dialogue: 0,0:03:25.34,0:03:27.84,Default,,0,0,0,,León dice que nos demos prisa.
+Dialogue: 0,0:03:27.93,0:03:29.64,Default,,0,0,0,,O estaba bostezando.
+Dialogue: 0,0:03:31.97,0:03:33.89,Default,,0,0,0,,En fin, ¡vamos al cine!
+Dialogue: 0,0:03:34.97,0:03:36.18,Default,,0,0,0,,¡En marcha!
+Dialogue: 0,0:03:40.10,0:03:42.77,Default,,0,0,0,,León, llévanos al cine.
+Dialogue: 0,0:03:43.44,0:03:45.69,Default,,0,0,0,,Vale, no me haces caso.
+Dialogue: 0,0:03:47.24,0:03:51.16,Default,,0,0,0,,León no está muy bien entrenado. Como yo.
+Dialogue: 0,0:03:51.24,0:03:52.41,Default,,0,0,0,,Entonces…
+Dialogue: 0,0:03:58.66,0:04:01.75,Default,,0,0,0,,¡Espera, León! ¡No te metas en el mar!
+Dialogue: 0,0:04:05.00,0:04:09.93,Default,,0,0,0,,¿Caminas sobre el agua?\N¡Debes contarme estas cosas!
+Dialogue: 0,0:04:18.43,0:04:19.48,Default,,0,0,0,,¿Qué hay?
+Dialogue: 0,0:04:24.82,0:04:28.65,Default,,0,0,0,,- ¿Seguro que sabe adónde va?\N- Será un atajo.
+Dialogue: 0,0:04:42.33,0:04:45.59,Default,,0,0,0,,- ¿Ha hecho esto alguna vez?\N- Nunca.
+Dialogue: 0,0:04:55.85,0:04:58.10,Default,,0,0,0,,- ¿Estás bien?\N- Ha molado.
+Dialogue: 0,0:05:00.31,0:05:02.56,Default,,0,0,0,,¡León! Espera. ¿Adónde vas?
+Dialogue: 0,0:05:04.77,0:05:09.57,Default,,0,0,0,,¿Es uno de esos lugares mágicos de Gemas\Nque mencionaste?
+Dialogue: 0,0:05:13.57,0:05:15.24,Default,,0,0,0,,Sí, exacto.
+Dialogue: 0,0:05:17.29,0:05:21.00,Default,,0,0,0,,León, esto me gusta, pero no es el cine.
+Dialogue: 0,0:05:22.00,0:05:25.08,Default,,0,0,0,,¿Qué significa eso, León? ¿Qué dices?
+Dialogue: 0,0:05:25.63,0:05:28.50,Default,,0,0,0,,¿Y si te ha traído por algo?
+Dialogue: 0,0:05:28.59,0:05:32.63,Default,,0,0,0,,Quizá, pero nos vamos a perder\Nlos anuncios,
+Dialogue: 0,0:05:32.72,0:05:35.93,Default,,0,0,0,,los tráileres y no podremos elegir sitio.
+Dialogue: 0,0:05:36.01,0:05:37.97,Default,,0,0,0,,Delante, pero no mucho.
+Dialogue: 0,0:05:39.68,0:05:41.89,Default,,0,0,0,,Creo que le caes bien.
+Dialogue: 0,0:05:43.56,0:05:48.52,Default,,0,0,0,,- ¡La mano se ha quedado pegada! ¡No sale!\N- ¡Espera!
+Dialogue: 0,0:05:50.86,0:05:53.45,Default,,0,0,0,,Jo, sí que está bien pegada.
+Dialogue: 0,0:05:53.95,0:05:56.49,Default,,0,0,0,,- Habrá que cortarla.\N- ¿Qué?
+Dialogue: 0,0:06:00.41,0:06:02.91,Default,,0,0,0,,- ¡Anda! ¡Espadas!\N- ¡No!
+Dialogue: 0,0:06:05.29,0:06:07.79,Default,,0,0,0,,- ¿Cómo lo has hecho?\N- No sé.
+Dialogue: 0,0:06:07.88,0:06:09.55,Default,,0,0,0,,¡Repítelo, repítelo!
+Dialogue: 0,0:06:10.21,0:06:11.26,Default,,0,0,0,,Vale.
+Dialogue: 0,0:06:15.09,0:06:17.68,Default,,0,0,0,,- ¿Nada?\N- No. Toma.
+Dialogue: 0,0:06:18.30,0:06:20.89,Default,,0,0,0,,¿Qué estás…? ¡Eh! ¿Qué haces?
+Dialogue: 0,0:06:20.97,0:06:22.93,Default,,0,0,0,,Quizá si hago esto.
+Dialogue: 0,0:06:24.98,0:06:26.60,Default,,0,0,0,,Tengo cosquillas.
+Dialogue: 0,0:06:28.69,0:06:31.28,Default,,0,0,0,,¡Espera! ¡Para! ¡Que me meo!
+Dialogue: 0,0:06:35.07,0:06:38.83,Default,,0,0,0,,- ¡Mira qué armaduras!\N- ¡Apriétame la nariz!
+Dialogue: 0,0:06:41.91,0:06:44.25,Default,,0,0,0,,- ¿Cañones de luz?\N- Otro.
+Dialogue: 0,0:06:44.33,0:06:47.17,Default,,0,0,0,,¡Hachas! ¡Bolas de pinchos!
+Dialogue: 0,0:06:47.25,0:06:48.42,Default,,0,0,0,,Un gigantesco…
+Dialogue: 0,0:06:48.50,0:06:49.75,Default,,0,0,0,,¿Centavo?
+Dialogue: 0,0:06:49.84,0:06:53.21,Default,,0,0,0,,¿Valdrá más que un centavo normal?
+Dialogue: 0,0:06:53.30,0:06:55.97,Default,,0,0,0,,Eso lo damos por “centavo”.
+Dialogue: 0,0:06:58.68,0:07:00.22,Default,,0,0,0,,Esto es fantástico,
+Dialogue: 0,0:07:00.30,0:07:04.77,Default,,0,0,0,,pero me da la sensación\Nde que yo no debería estar aquí.
+Dialogue: 0,0:07:04.85,0:07:08.19,Default,,0,0,0,,Yo quiero que estés. O sea, no quiero yo.
+Dialogue: 0,0:07:08.27,0:07:11.90,Default,,0,0,0,,Quiere León. Yo quiero ir al cine contigo.
+Dialogue: 0,0:07:11.98,0:07:13.86,Default,,0,0,0,,Y ver explosiones.
+Dialogue: 0,0:07:25.00,0:07:26.83,Default,,0,0,0,,¿Debería preocuparnos?
+Dialogue: 0,0:07:28.88,0:07:30.54,Default,,0,0,0,,A León no le preocupa.
+Dialogue: 0,0:07:34.96,0:07:36.09,Default,,0,0,0,,¡Corre!
+Dialogue: 0,0:07:41.89,0:07:44.22,Default,,0,0,0,,- ¡Connie!\N- ¡Steven, ojo!
+Dialogue: 0,0:07:47.73,0:07:50.73,Default,,0,0,0,,¡Steven! ¿Qué hacemos?
+Dialogue: 0,0:07:53.40,0:07:54.23,Default,,0,0,0,,¡Connie!
+Dialogue: 0,0:08:07.50,0:08:08.79,Default,,0,0,0,,Mi burbuja.
+Dialogue: 0,0:08:10.58,0:08:13.67,Default,,0,0,0,,¡León! ¡Sácanos de aquí, por favor!
+Dialogue: 0,0:08:28.10,0:08:29.69,Default,,0,0,0,,PERROCÓPTERO EN 3D
+Dialogue: 0,0:08:31.94,0:08:34.69,Default,,0,0,0,,¿Qué? ¿Ahora nos llevas al cine?
+Dialogue: 0,0:08:38.86,0:08:41.03,Default,,0,0,0,,Connie, toma, ponte esto.
+Dialogue: 0,0:08:41.11,0:08:45.12,Default,,0,0,0,,- Perdona. No están muy frías.\N- Gracias.
+Dialogue: 0,0:08:45.20,0:08:47.87,Default,,0,0,0,,Ya estamos aquí. ¿Entramos?
+Dialogue: 0,0:08:47.95,0:08:51.12,Default,,0,0,0,,Da igual. Olvidémoslo.
+Dialogue: 0,0:08:52.25,0:08:53.96,Default,,0,0,0,,Perdón.
+Dialogue: 0,0:08:54.04,0:08:58.05,Default,,0,0,0,,Lo he estropeado.\NNo sé por qué te juntas conmigo.
+Dialogue: 0,0:08:58.13,0:09:00.01,Default,,0,0,0,,Siempre la lío.
+Dialogue: 0,0:09:00.09,0:09:02.30,Default,,0,0,0,,Yo creo que es al revés.
+Dialogue: 0,0:09:02.39,0:09:05.51,Default,,0,0,0,,Soy mucho menos interesante que tú.
+Dialogue: 0,0:09:05.60,0:09:09.35,Default,,0,0,0,,Está claro que estás\Ndestinado a algo mágico.
+Dialogue: 0,0:09:09.43,0:09:12.40,Default,,0,0,0,,¿Qué más te da a ti {\i1}Perrocóptero{\i0}?
+Dialogue: 0,0:09:12.48,0:09:15.52,Default,,0,0,0,,¿Cómo? ¡Si es {\i1}Perrocóptero{\i0}!
+Dialogue: 0,0:09:15.61,0:09:19.07,Default,,0,0,0,,¡Es un perro policía! ¡Y un helicóptero!
+Dialogue: 0,0:09:19.15,0:09:22.91,Default,,0,0,0,,Dispara con el trasero y salva el mundo.
+Dialogue: 0,0:09:22.99,0:09:26.66,Default,,0,0,0,,{\i1}Perrocóptero{\i0} mola\Ny es importante… para mí.
+Dialogue: 0,0:09:27.74,0:09:29.95,Default,,0,0,0,,Yo no soy {\i1}Perrocóptero{\i0}.
+Dialogue: 0,0:09:31.75,0:09:32.67,Default,,0,0,0,,Pero ¿qué…?
+Dialogue: 0,0:09:33.71,0:09:34.75,Default,,0,0,0,,¡No!
+Dialogue: 0,0:09:35.92,0:09:39.88,Default,,0,0,0,,¡El trasto robótico que dispara!\N¿Cómo derrotarlo?
+Dialogue: 0,0:09:39.96,0:09:41.38,Default,,0,0,0,,León, ¿qué hacemos?
+Dialogue: 0,0:09:53.85,0:09:55.27,Default,,0,0,0,,Qué raro, ¿no?
+Dialogue: 0,0:09:56.77,0:09:58.61,Default,,0,0,0,,¿Una espada en la cabeza?
+Dialogue: 0,0:09:58.69,0:10:01.19,Default,,0,0,0,,¡Debes contarme estas cosas!
+Dialogue: 0,0:10:03.20,0:10:04.45,Default,,0,0,0,,¡Ha pasado!
+Dialogue: 0,0:10:14.21,0:10:16.63,Default,,0,0,0,,- ¿Qué hago con esto?\N- ¡Ojo!
+Dialogue: 0,0:10:21.30,0:10:22.38,Default,,0,0,0,,¡Drive!
+Dialogue: 0,0:10:23.13,0:10:24.13,Default,,0,0,0,,¡Revés!
+Dialogue: 0,0:10:24.72,0:10:28.81,Default,,0,0,0,,¡Remate letal!
+Dialogue: 0,0:10:36.85,0:10:38.52,Default,,0,0,0,,Como en el tenis.
+Dialogue: 0,0:10:39.02,0:10:40.98,Default,,0,0,0,,O en un destino mágico.
+Dialogue: 0,0:10:44.61,0:10:45.66,Default,,0,0,0,,Hola.
+Dialogue: 0,0:10:48.12,0:10:52.12,Default,,0,0,0,,- Hola.\N- Dos niños y un león para {\i1}Perrocóptero{\i0}.
+Dialogue: 0,0:10:55.12,0:10:56.83,Default,,0,0,0,,¿Tenéis el descuento?
+Dialogue: 0,0:11:03.76,0:11:05.17,Default,,0,0,0,,¿Eso sale en el libro?
+Dialogue: 0,0:11:06.09,0:11:08.01,Default,,0,0,0,,Se toman libertades.
+Dialogue: 0,0:11:08.43,0:11:11.93,Default,,0,0,0,,FIN
+Dialogue: 0,0:11:29.62,0:11:31.70,Default,,0,0,0,,Subtítulos: J. M. Galiana

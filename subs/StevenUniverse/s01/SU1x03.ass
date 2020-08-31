@@ -1,0 +1,197 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E03 - Cheeseburger Backpack (2)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:27.28,0:00:29.83,Default,,0,0,0,,{\i1}Sr. Cartero, tráigame una carta{\i0}
+Dialogue: 0,0:00:29.91,0:00:33.16,Default,,0,0,0,,{\i1}Tráigame la carta que más quiero{\i0}
+Dialogue: 0,0:00:35.00,0:00:36.25,Default,,0,0,0,,Se ha cumplido.
+Dialogue: 0,0:00:36.33,0:00:38.21,Default,,0,0,0,,¿Tengo algún paquete?
+Dialogue: 0,0:00:38.29,0:00:41.01,Default,,0,0,0,,Espera. A ver qué tengo por aquí.
+Dialogue: 0,0:00:41.67,0:00:43.63,Default,,0,0,0,,¿Un pan con un sello?
+Dialogue: 0,0:00:43.72,0:00:44.34,Default,,0,0,0,,No.
+Dialogue: 0,0:00:44.97,0:00:47.97,Default,,0,0,0,,¿Una citación para R. J. Finkle?
+Dialogue: 0,0:00:48.05,0:00:50.18,Default,,0,0,0,,No soy yo. Yo soy Steven.
+Dialogue: 0,0:00:50.26,0:00:52.52,Default,,0,0,0,,Vale, vale. Steven.
+Dialogue: 0,0:00:52.60,0:00:54.52,Default,,0,0,0,,Toma. Steven Universe.
+Dialogue: 0,0:00:55.69,0:00:57.61,Default,,0,0,0,,Con eso salvaré el mundo.
+Dialogue: 0,0:00:57.69,0:00:58.90,Default,,0,0,0,,¿Ah, sí?
+Dialogue: 0,0:00:58.98,0:01:01.57,Default,,0,0,0,,Es de la compañía Wacky Sacks.
+Dialogue: 0,0:01:01.65,0:01:04.95,Default,,0,0,0,,Dicen que no debo tener aventuras mágicas.
+Dialogue: 0,0:01:05.03,0:01:07.16,Default,,0,0,0,,Aún no controlo mi poder.
+Dialogue: 0,0:01:08.03,0:01:11.16,Default,,0,0,0,,- Suena razonable.\N- Pero puedo ayudar.
+Dialogue: 0,0:01:11.24,0:01:12.91,Default,,0,0,0,,¿Con un Wacky Sack?
+Dialogue: 0,0:01:13.00,0:01:14.04,Default,,0,0,0,,Exacto.
+Dialogue: 0,0:01:14.12,0:01:17.29,Default,,0,0,0,,¿Sabes cómo puedes salvar mi mundo?
+Dialogue: 0,0:01:17.75,0:01:19.21,Default,,0,0,0,,Firma aquí.
+Dialogue: 0,0:01:21.50,0:01:24.26,Default,,0,0,0,,Barb me chilla si no me firman.
+Dialogue: 0,0:01:24.34,0:01:25.68,Default,,0,0,0,,Qué mal.
+Dialogue: 0,0:01:28.55,0:01:30.60,Default,,0,0,0,,Las chicas han vuelto.
+Dialogue: 0,0:01:32.06,0:01:33.64,Default,,0,0,0,,¡Espera! ¡Steven!
+Dialogue: 0,0:01:33.72,0:01:35.27,Default,,0,0,0,,¿Qué es un Wacky Sack?
+Dialogue: 0,0:01:37.02,0:01:38.02,Default,,0,0,0,,Hola.
+Dialogue: 0,0:01:38.10,0:01:40.36,Default,,0,0,0,,Amatista, eso no hace falta.
+Dialogue: 0,0:01:40.44,0:01:42.48,Default,,0,0,0,,No cabe en la nevera.
+Dialogue: 0,0:01:42.57,0:01:44.69,Default,,0,0,0,,¿Qué? No hay problema.
+Dialogue: 0,0:01:48.74,0:01:50.16,Default,,0,0,0,,¡Sí que cabe!
+Dialogue: 0,0:01:51.20,0:01:52.37,Default,,0,0,0,,Oh, vaya.
+Dialogue: 0,0:01:52.45,0:01:56.00,Default,,0,0,0,,Podemos hacer una tortilla o una quiche.
+Dialogue: 0,0:01:56.08,0:01:57.62,Default,,0,0,0,,Luchamos con un ave.
+Dialogue: 0,0:01:57.71,0:02:00.04,Default,,0,0,0,,Estaremos poco. Debemos irnos.
+Dialogue: 0,0:02:00.13,0:02:01.71,Default,,0,0,0,,¿Qué? ¿Por qué?
+Dialogue: 0,0:02:01.79,0:02:05.80,Default,,0,0,0,,Pondremos esta estatua\Nen la Torre del Mar Lunar
+Dialogue: 0,0:02:05.88,0:02:07.43,Default,,0,0,0,,antes de medianoche.
+Dialogue: 0,0:02:07.51,0:02:10.55,Default,,0,0,0,,De lo contrario, se derrumbará.
+Dialogue: 0,0:02:10.64,0:02:14.43,Default,,0,0,0,,Deberías haber visto la torre\Nen su apogeo.
+Dialogue: 0,0:02:14.52,0:02:16.85,Default,,0,0,0,,Un oasis para las Gemas.
+Dialogue: 0,0:02:17.39,0:02:21.48,Default,,0,0,0,,Está abandonada,\Npero la salvaremos con la estatua.
+Dialogue: 0,0:02:22.69,0:02:23.57,Default,,0,0,0,,Perfecto.
+Dialogue: 0,0:02:23.65,0:02:25.23,Default,,0,0,0,,¿Qué? ¿Por qué?
+Dialogue: 0,0:02:25.32,0:02:28.61,Default,,0,0,0,,Os puedo ayudar a llevarla con esto.
+Dialogue: 0,0:02:34.91,0:02:36.45,Default,,0,0,0,,¿Una hamburguesa?
+Dialogue: 0,0:02:36.54,0:02:40.54,Default,,0,0,0,,Es una mochila\Ncon forma de hamburguesa con queso.
+Dialogue: 0,0:02:40.62,0:02:41.96,Default,,0,0,0,,Lo he chafado.
+Dialogue: 0,0:02:42.04,0:02:44.67,Default,,0,0,0,,Me la iba a poner un día, y:
+Dialogue: 0,0:02:44.75,0:02:47.34,Default,,0,0,0,,“Eh, Steven. Cómo mola”.
+Dialogue: 0,0:02:47.42,0:02:50.18,Default,,0,0,0,,Pero este asunto es importante.
+Dialogue: 0,0:02:50.26,0:02:52.85,Default,,0,0,0,,Sí, nosotras nos encargaremos.
+Dialogue: 0,0:02:52.93,0:02:54.39,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:02:54.47,0:02:55.85,Default,,0,0,0,,Soy una Gema.
+Dialogue: 0,0:02:58.23,0:03:00.85,Default,,0,0,0,,Aún tienes mucho que aprender.
+Dialogue: 0,0:03:00.94,0:03:02.44,Default,,0,0,0,,Déjale que venga.
+Dialogue: 0,0:03:02.52,0:03:05.07,Default,,0,0,0,,Será educativo.
+Dialogue: 0,0:03:06.19,0:03:09.07,Default,,0,0,0,,Vale, llévala en tu hamburguesa.
+Dialogue: 0,0:03:11.53,0:03:14.33,Default,,0,0,0,,Fijaos. Todo son bolsillos.
+Dialogue: 0,0:03:14.41,0:03:16.16,Default,,0,0,0,,Incluso el queso.
+Dialogue: 0,0:03:16.79,0:03:18.79,Default,,0,0,0,,Aquí cabe mucho más.
+Dialogue: 0,0:03:18.87,0:03:21.00,Default,,0,0,0,,Voy a por provisiones.
+Dialogue: 0,0:03:29.30,0:03:31.13,Default,,0,0,0,,Chaval, no me sacudas.
+Dialogue: 0,0:03:31.22,0:03:32.51,Default,,0,0,0,,Sr. Mareos.
+Dialogue: 0,0:03:33.01,0:03:34.76,Default,,0,0,0,,Tengo una enfermedad.
+Dialogue: 0,0:03:35.39,0:03:37.43,Default,,0,0,0,,Me vendrás muy bien.
+Dialogue: 0,0:03:38.52,0:03:41.44,Default,,0,0,0,,Steven, vámonos.
+Dialogue: 0,0:03:41.52,0:03:43.02,Default,,0,0,0,,¡Ya voy!
+Dialogue: 0,0:03:44.15,0:03:46.36,Default,,0,0,0,,¿Has traído todo tu cuarto?
+Dialogue: 0,0:03:46.44,0:03:48.03,Default,,0,0,0,,Deja algunas cosas.
+Dialogue: 0,0:03:48.11,0:03:49.11,Default,,0,0,0,,Teletransportación.
+Dialogue: 0,0:03:51.45,0:03:53.49,Default,,0,0,0,,¡Mete barriga, Steven!
+Dialogue: 0,0:03:56.37,0:03:58.45,Default,,0,0,0,,¿Recuerdas cómo se hace?
+Dialogue: 0,0:04:04.33,0:04:06.59,Default,,0,0,0,,No saques la cabeza. Vamos.
+Dialogue: 0,0:04:13.43,0:04:15.47,Default,,0,0,0,,La Torre del Mar.
+Dialogue: 0,0:04:21.56,0:04:23.94,Default,,0,0,0,,Hace cien años no estaba así.
+Dialogue: 0,0:04:24.02,0:04:26.06,Default,,0,0,0,,Inestabilidad estructural.
+Dialogue: 0,0:04:26.15,0:04:28.23,Default,,0,0,0,,Sí. Eso nunca es bueno.
+Dialogue: 0,0:04:28.98,0:04:30.19,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:04:31.40,0:04:32.45,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:04:35.95,0:04:37.12,Default,,0,0,0,,Vale, esperad.
+Dialogue: 0,0:04:37.20,0:04:39.20,Default,,0,0,0,,Steven se vuelve.
+Dialogue: 0,0:04:39.95,0:04:41.70,Default,,0,0,0,,Me duele el estómago.
+Dialogue: 0,0:04:41.79,0:04:44.54,Default,,0,0,0,,- Sr. Mareos.\N- ¡Chaval, me matas!
+Dialogue: 0,0:04:44.62,0:04:47.42,Default,,0,0,0,,¡Steven! Esta es tu herencia.
+Dialogue: 0,0:04:47.50,0:04:51.55,Default,,0,0,0,,Quiero que nos ayudes,\Npero tómatelo en serio.
+Dialogue: 0,0:04:51.63,0:04:53.42,Default,,0,0,0,,¿Podrás hacerlo?
+Dialogue: 0,0:04:54.05,0:04:55.68,Default,,0,0,0,,Desde luego, colega.
+Dialogue: 0,0:04:57.01,0:04:59.06,Default,,0,0,0,,Sí.
+Dialogue: 0,0:04:59.14,0:05:01.10,Default,,0,0,0,,Basta. Debemos seguir.
+Dialogue: 0,0:05:05.81,0:05:09.23,Default,,0,0,0,,¿Por qué nos paramos? Esto está chupado.
+Dialogue: 0,0:05:09.32,0:05:10.32,Default,,0,0,0,,No.
+Dialogue: 0,0:05:10.40,0:05:13.86,Default,,0,0,0,,La magia del remolino crea un vórtice.
+Dialogue: 0,0:05:18.03,0:05:19.20,Default,,0,0,0,,¿No saltamos?
+Dialogue: 0,0:05:19.28,0:05:20.62,Default,,0,0,0,,Esperad.
+Dialogue: 0,0:05:21.37,0:05:22.54,Default,,0,0,0,,¿Para qué son?
+Dialogue: 0,0:05:22.62,0:05:25.87,Default,,0,0,0,,Eran para no tener frío, pero fijaos.
+Dialogue: 0,0:05:29.21,0:05:30.17,Default,,0,0,0,,- ¡Steven!\N- ¡Espera!
+Dialogue: 0,0:05:32.76,0:05:34.34,Default,,0,0,0,,¡Lo absorbe!
+Dialogue: 0,0:05:34.42,0:05:35.93,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:05:37.93,0:05:41.85,Default,,0,0,0,,¡Hamburguesa!
+Dialogue: 0,0:05:46.39,0:05:49.31,Default,,0,0,0,,¡Steven, muy bien!
+Dialogue: 0,0:05:49.40,0:05:51.11,Default,,0,0,0,,Vamos, chicas.
+Dialogue: 0,0:05:55.78,0:05:58.11,Default,,0,0,0,,¡Al estilo de Steven!
+Dialogue: 0,0:06:01.45,0:06:02.83,Default,,0,0,0,,No lo hagas más.
+Dialogue: 0,0:06:02.91,0:06:04.29,Default,,0,0,0,,Perdón.
+Dialogue: 0,0:06:06.29,0:06:09.04,Default,,0,0,0,,Pero ha sido bastante genial.
+Dialogue: 0,0:06:10.17,0:06:14.09,Default,,0,0,0,,¡No, no! Está incluso peor que por fuera.
+Dialogue: 0,0:06:15.42,0:06:16.55,Default,,0,0,0,,Qué…
+Dialogue: 0,0:06:17.34,0:06:19.09,Default,,0,0,0,,Esto no estaba tan…
+Dialogue: 0,0:06:20.14,0:06:21.43,Default,,0,0,0,,Y tanta agua.
+Dialogue: 0,0:06:23.06,0:06:24.10,Default,,0,0,0,,Esta columna.
+Dialogue: 0,0:06:25.22,0:06:27.31,Default,,0,0,0,,Y esto tenía cabeza.
+Dialogue: 0,0:06:27.39,0:06:31.81,Default,,0,0,0,,Con la estatua en su sitio,\Nrecuperará toda su gloria.
+Dialogue: 0,0:06:34.94,0:06:36.03,Default,,0,0,0,,¿Y ese bicho?
+Dialogue: 0,0:06:36.11,0:06:37.45,Default,,0,0,0,,Gambas de cristal.
+Dialogue: 0,0:06:37.53,0:06:40.61,Default,,0,0,0,,Chicos, tenemos un problema.
+Dialogue: 0,0:06:42.62,0:06:44.66,Default,,0,0,0,,Es una plaga.
+Dialogue: 0,0:06:44.74,0:06:47.87,Default,,0,0,0,,Debemos atravesarlas para llegar arriba.
+Dialogue: 0,0:06:49.04,0:06:50.88,Default,,0,0,0,,- Chafémoslas.\N- No.
+Dialogue: 0,0:06:50.96,0:06:52.59,Default,,0,0,0,,Sus trozos son mortales.
+Dialogue: 0,0:06:52.67,0:06:53.88,Default,,0,0,0,,Abramos paso.
+Dialogue: 0,0:06:54.80,0:06:59.51,Default,,0,0,0,,Amatista, si atacas desde un lado\Ncon un ataque de giro,
+Dialogue: 0,0:07:00.05,0:07:03.89,Default,,0,0,0,,y si Granate sube al techo\Ny golpea este punto,
+Dialogue: 0,0:07:04.60,0:07:06.06,Default,,0,0,0,,puedo avanzar con…
+Dialogue: 0,0:07:06.14,0:07:08.06,Default,,0,0,0,,¡Bocadillo {\i1}bagel{\i0}!
+Dialogue: 0,0:07:13.73,0:07:14.86,Default,,0,0,0,,Genial.
+Dialogue: 0,0:07:14.94,0:07:16.53,Default,,0,0,0,,¡Eh! Ha funcionado.
+Dialogue: 0,0:07:18.82,0:07:21.82,Default,,0,0,0,,¿Cómo sabías que eso funcionaría?
+Dialogue: 0,0:07:21.91,0:07:24.49,Default,,0,0,0,,Si fuera gamba, es lo que haría.
+Dialogue: 0,0:07:24.58,0:07:26.66,Default,,0,0,0,,Muy bien, canijo.
+Dialogue: 0,0:07:27.45,0:07:31.00,Default,,0,0,0,,Pero mi plan también hubiera funcionado.
+Dialogue: 0,0:07:32.42,0:07:33.58,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,0:07:37.21,0:07:38.80,Default,,0,0,0,,¿Qué hacemos?
+Dialogue: 0,0:07:40.51,0:07:42.43,Default,,0,0,0,,¿Qué? ¿Yo?
+Dialogue: 0,0:07:42.51,0:07:43.68,Default,,0,0,0,,¿Qué tienes?
+Dialogue: 0,0:07:44.43,0:07:46.18,Default,,0,0,0,,Mochila hamburguesa.
+Dialogue: 0,0:07:46.26,0:07:48.35,Default,,0,0,0,,Mochila hamburguesa.
+Dialogue: 0,0:07:48.43,0:07:49.93,Default,,0,0,0,,Perla, venga.
+Dialogue: 0,0:07:50.02,0:07:52.14,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:07:52.23,0:07:57.11,Default,,0,0,0,,¡Mochila hamburguesa!\N¡Mochila hamburguesa!
+Dialogue: 0,0:07:57.19,0:07:59.36,Default,,0,0,0,,¡Una balsa!
+Dialogue: 0,0:08:02.74,0:08:04.20,Default,,0,0,0,,¡Vaya!
+Dialogue: 0,0:08:04.28,0:08:06.24,Default,,0,0,0,,Steven, qué listo.
+Dialogue: 0,0:08:22.22,0:08:24.05,Default,,0,0,0,,Era una buena idea.
+Dialogue: 0,0:08:24.59,0:08:25.89,Default,,0,0,0,,Sí.
+Dialogue: 0,0:08:25.97,0:08:27.43,Default,,0,0,0,,A veces se falla.
+Dialogue: 0,0:08:38.69,0:08:39.94,Default,,0,0,0,,Es aquí.
+Dialogue: 0,0:08:40.03,0:08:42.28,Default,,0,0,0,,El pedestal de la diosa.
+Dialogue: 0,0:08:42.90,0:08:44.95,Default,,0,0,0,,La luna está en lo alto.
+Dialogue: 0,0:08:45.70,0:08:49.37,Default,,0,0,0,,A tiempo para salvar\Nesta pieza de la historia.
+Dialogue: 0,0:08:49.45,0:08:51.62,Default,,0,0,0,,Steven, la estatua.
+Dialogue: 0,0:08:58.13,0:08:59.67,Default,,0,0,0,,Yo…
+Dialogue: 0,0:09:02.63,0:09:04.34,Default,,0,0,0,,¿A qué esperas?
+Dialogue: 0,0:09:05.22,0:09:06.26,Default,,0,0,0,,No la tengo.
+Dialogue: 0,0:09:07.09,0:09:09.76,Default,,0,0,0,,- ¿Qué?\N- Me la habré dejado.
+Dialogue: 0,0:09:13.43,0:09:16.10,Default,,0,0,0,,No… No nos queda tiempo.
+Dialogue: 0,0:09:16.19,0:09:18.52,Default,,0,0,0,,Esperad. Tengo una idea.
+Dialogue: 0,0:09:22.32,0:09:24.11,Default,,0,0,0,,¿Podría funcionar?
+Dialogue: 0,0:09:34.46,0:09:36.00,Default,,0,0,0,,Chaval, no me sacudas.
+Dialogue: 0,0:10:03.28,0:10:06.03,Default,,0,0,0,,¡Nos os mováis!
+Dialogue: 0,0:10:07.20,0:10:08.99,Default,,0,0,0,,¡No, no!
+Dialogue: 0,0:10:30.39,0:10:33.01,Default,,0,0,0,,La culpa es mía. Lo he roto.
+Dialogue: 0,0:10:33.64,0:10:34.89,Default,,0,0,0,,No, Steven.
+Dialogue: 0,0:10:34.97,0:10:37.56,Default,,0,0,0,,Ya se caía cuando llegamos.
+Dialogue: 0,0:10:37.64,0:10:40.10,Default,,0,0,0,,Has actuado bien bajo presión.
+Dialogue: 0,0:10:40.19,0:10:41.73,Default,,0,0,0,,Has estado genial.
+Dialogue: 0,0:10:41.81,0:10:45.78,Default,,0,0,0,,Dos de tus cuatro ideas han funcionado.\NEl 50 %.
+Dialogue: 0,0:10:47.36,0:10:49.78,Default,,0,0,0,,Sí. Supongo que tenéis razón.
+Dialogue: 0,0:10:49.86,0:10:51.91,Default,,0,0,0,,A veces se falla.
+Dialogue: 0,0:10:59.83,0:11:04.67,Default,,0,0,0,,¡Mochila hamburguesa!\N¡Mochila hamburguesa!
+Dialogue: 0,0:11:04.75,0:11:06.59,Default,,0,0,0,,Estamos a tres horas de casa.
+Dialogue: 0,0:11:08.47,0:11:10.89,Default,,0,0,0,,¿Queréis un {\i1}bagel{\i0} mojado?
+Dialogue: 0,0:11:29.86,0:11:31.95,Default,,0,0,0,,Subtítulos: Antonio Núñez

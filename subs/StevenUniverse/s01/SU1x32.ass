@@ -1,0 +1,224 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E32 - Fusion Cuisine (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:26.04,0:00:28.71,Default,,0,0,0,,{\i1}Doctor, es mi hijo.{\i0}
+Dialogue: 0,0:00:28.79,0:00:30.71,Default,,0,0,0,,{\i1}Tuvimos un accidente.{\i0}
+Dialogue: 0,0:00:30.80,0:00:32.76,Default,,0,0,0,,{\i1}Yo me ocupo. Enfermera.{\i0}
+Dialogue: 0,0:00:32.84,0:00:33.80,Default,,0,0,0,,{\i1}¿Sí?{\i0}
+Dialogue: 0,0:00:33.88,0:00:38.93,Default,,0,0,0,,{\i1}Prepárelo para cirugía.{\i0}\N{\i1}Tiene que pasar… bajo mi bisturí.{\i0}
+Dialogue: 0,0:00:39.85,0:00:41.89,Default,,0,0,0,,¡Qué buena serie!
+Dialogue: 0,0:00:43.27,0:00:46.94,Default,,0,0,0,,Gracias por dejarme ver {\i1}Bajo mi bisturí{\i0}.
+Dialogue: 0,0:00:47.02,0:00:48.98,Default,,0,0,0,,¿No la ves a en casa?
+Dialogue: 0,0:00:49.06,0:00:52.48,Default,,0,0,0,,No. Según mi madre, no es nada realista.
+Dialogue: 0,0:00:52.57,0:00:56.32,Default,,0,0,0,,{\i1}¿Cómo tiene las piernas en el cerebro?{\i0}
+Dialogue: 0,0:00:56.40,0:00:58.78,Default,,0,0,0,,No ve que es una sátira.
+Dialogue: 0,0:00:59.78,0:01:01.16,Default,,0,0,0,,¿Ese es tu móvil?
+Dialogue: 0,0:01:01.24,0:01:02.54,Default,,0,0,0,,Será mi madre.
+Dialogue: 0,0:01:03.16,0:01:04.16,Default,,0,0,0,,Es ella.
+Dialogue: 0,0:01:07.04,0:01:09.04,Default,,0,0,0,,Hola, mamá. Soy Connie.
+Dialogue: 0,0:01:09.13,0:01:12.38,Default,,0,0,0,,Sí. Estoy en casa de Steven Universe.
+Dialogue: 0,0:01:14.09,0:01:16.42,Default,,0,0,0,,Sí. Aquí, pasando el rato.
+Dialogue: 0,0:01:17.84,0:01:19.84,Default,,0,0,0,,¿Sus padres?
+Dialogue: 0,0:01:19.93,0:01:22.26,Default,,0,0,0,,Están en otra habitación.
+Dialogue: 0,0:01:22.35,0:01:25.02,Default,,0,0,0,,¿Quieres hablar con su madre?
+Dialogue: 0,0:01:25.10,0:01:27.60,Default,,0,0,0,,Bien. Espera un momento.
+Dialogue: 0,0:01:27.69,0:01:31.19,Default,,0,0,0,,Imposible.\NPerdió su forma física al tenerme.
+Dialogue: 0,0:01:31.27,0:01:32.61,Default,,0,0,0,,No puedo decirle eso.
+Dialogue: 0,0:01:33.82,0:01:37.07,Default,,0,0,0,,Granate. Hazte pasar por mi madre.
+Dialogue: 0,0:01:38.61,0:01:42.45,Default,,0,0,0,,Hola. Soy la mamá de Steven.
+Dialogue: 0,0:01:42.53,0:01:45.75,Default,,0,0,0,,Sí. Están jugando a las espadas.
+Dialogue: 0,0:01:45.83,0:01:47.71,Default,,0,0,0,,Perdón. Con espadas.
+Dialogue: 0,0:01:47.79,0:01:50.71,Default,,0,0,0,,Están sangrando. No. Están muertos.
+Dialogue: 0,0:01:50.79,0:01:52.00,Default,,0,0,0,,No llame más.
+Dialogue: 0,0:01:52.92,0:01:54.46,Default,,0,0,0,,Me entró pánico.
+Dialogue: 0,0:01:56.84,0:01:59.18,Default,,0,0,0,,¿Tu madre no te deja venir?
+Dialogue: 0,0:01:59.26,0:02:02.09,Default,,0,0,0,,Es casi el final de {\i1}Bajo mi bisturí{\i0}.
+Dialogue: 0,0:02:02.18,0:02:04.89,Default,,0,0,0,,Mis padres están muy enfadados.
+Dialogue: 0,0:02:04.97,0:02:06.93,Default,,0,0,0,,No me dejan verte
+Dialogue: 0,0:02:07.02,0:02:09.44,Default,,0,0,0,,{\i1}hasta conocer a los tuyos.{\i0}
+Dialogue: 0,0:02:09.52,0:02:11.19,Default,,0,0,0,,Eso es imposible.
+Dialogue: 0,0:02:11.27,0:02:16.03,Default,,0,0,0,,Lo sé. Pero quieren que todos\Nvayamos a cenar juntos.
+Dialogue: 0,0:02:16.11,0:02:18.90,Default,,0,0,0,,Los adultos son todos iguales.
+Dialogue: 0,0:02:18.99,0:02:22.32,Default,,0,0,0,,Reservaré en el Pesca-Pizza para…
+Dialogue: 0,0:02:22.41,0:02:24.78,Default,,0,0,0,,Perla, Granate… Somos ocho.
+Dialogue: 0,0:02:24.87,0:02:26.58,Default,,0,0,0,,No podéis ir todos.
+Dialogue: 0,0:02:26.66,0:02:27.66,Default,,0,0,0,,¿Por qué no?
+Dialogue: 0,0:02:27.75,0:02:29.04,Default,,0,0,0,,Porque…
+Dialogue: 0,0:02:29.12,0:02:32.00,Default,,0,0,0,,Dije que sois una familia nuclear.
+Dialogue: 0,0:02:32.63,0:02:34.00,Default,,0,0,0,,¿Nuclear?
+Dialogue: 0,0:02:34.09,0:02:36.25,Default,,0,0,0,,Sí, a veces son la bomba.
+Dialogue: 0,0:02:36.34,0:02:39.09,Default,,0,0,0,,Pero son mágicas, no radiactivas.
+Dialogue: 0,0:02:39.17,0:02:40.72,Default,,0,0,0,,Steven.
+Dialogue: 0,0:02:40.80,0:02:45.05,Default,,0,0,0,,“Nuclear” significa\Ndos adultos y su hijo o hijos.
+Dialogue: 0,0:02:45.14,0:02:48.18,Default,,0,0,0,,Creen que vives con tus padres.
+Dialogue: 0,0:02:48.27,0:02:50.48,Default,,0,0,0,,Pero eso no es verdad.
+Dialogue: 0,0:02:50.56,0:02:53.60,Default,,0,0,0,,¿No saben lo de las Gemas de Cristal?
+Dialogue: 0,0:02:53.69,0:02:55.86,Default,,0,0,0,,No, y que no se enteren.
+Dialogue: 0,0:02:55.94,0:02:59.82,Default,,0,0,0,,{\i1}Si supieran que les mentí,{\i0}\N{\i1}no volveré a verte.{\i0}
+Dialogue: 0,0:03:03.61,0:03:06.74,Default,,0,0,0,,¿Cómo elijo solo a una para ir a cenar?
+Dialogue: 0,0:03:06.83,0:03:09.12,Default,,0,0,0,,Sois todas geniales.
+Dialogue: 0,0:03:09.20,0:03:11.08,Default,,0,0,0,,¿Por qué una cena?
+Dialogue: 0,0:03:11.16,0:03:13.17,Default,,0,0,0,,Las gemas nos alimentan.
+Dialogue: 0,0:03:13.25,0:03:16.29,Default,,0,0,0,,Y aunque los humanos comen,
+Dialogue: 0,0:03:16.38,0:03:18.84,Default,,0,0,0,,yo lo encuentro muy incómodo.
+Dialogue: 0,0:03:18.92,0:03:20.55,Default,,0,0,0,,A mí me gusta comer.
+Dialogue: 0,0:03:20.63,0:03:22.01,Default,,0,0,0,,Es muy raro.
+Dialogue: 0,0:03:24.47,0:03:26.97,Default,,0,0,0,,Bien. Volvamos al tema.
+Dialogue: 0,0:03:27.05,0:03:30.64,Default,,0,0,0,,¿Quién sería la mejor madre nuclear?
+Dialogue: 0,0:03:30.73,0:03:35.61,Default,,0,0,0,,Granate, tú nos proteges de los malos\Ncomo una madre.
+Dialogue: 0,0:03:37.06,0:03:40.74,Default,,0,0,0,,Pero no eres muy buena conversando.
+Dialogue: 0,0:03:40.82,0:03:43.15,Default,,0,0,0,,Amatista, tú eres divertida.
+Dialogue: 0,0:03:45.45,0:03:47.28,Default,,0,0,0,,¿Las madres dan asco?
+Dialogue: 0,0:03:47.37,0:03:48.33,Default,,0,0,0,,¿Por qué no?
+Dialogue: 0,0:03:48.87,0:03:50.24,Default,,0,0,0,,Perla.
+Dialogue: 0,0:03:50.33,0:03:52.87,Default,,0,0,0,,Tú me cuidas y me enseñas cosas.
+Dialogue: 0,0:03:52.96,0:03:56.96,Default,,0,0,0,,Eres amable y no das nada de asco.
+Dialogue: 0,0:03:59.13,0:04:01.59,Default,,0,0,0,,Pero no comes.
+Dialogue: 0,0:04:02.80,0:04:07.76,Default,,0,0,0,,¿Por qué no les diría\Nque tengo una madre y no ninguna o tres?
+Dialogue: 0,0:04:07.85,0:04:11.43,Default,,0,0,0,,Ya lo solucionaremos si pensamos juntos.
+Dialogue: 0,0:04:12.18,0:04:13.89,Default,,0,0,0,,Creo que ya lo tengo.
+Dialogue: 0,0:04:13.98,0:04:15.31,Default,,0,0,0,,Es obvio.
+Dialogue: 0,0:04:15.39,0:04:17.23,Default,,0,0,0,,Vendréis todas.
+Dialogue: 0,0:04:17.31,0:04:20.57,Default,,0,0,0,,Las tres fusionadas en una.
+Dialogue: 0,0:04:20.65,0:04:22.90,Default,,0,0,0,,- ¿Qué?\N- ¿Qué?
+Dialogue: 0,0:04:22.99,0:04:26.99,Default,,0,0,0,,Solo nos fusionamos\Nen situaciones extremas.
+Dialogue: 0,0:04:27.07,0:04:30.91,Default,,0,0,0,,Sería como si llevara a toda mi familia.
+Dialogue: 0,0:04:30.99,0:04:32.45,Default,,0,0,0,,Sería una locura.
+Dialogue: 0,0:04:32.54,0:04:35.83,Default,,0,0,0,,La fusión es algo serio, no es una broma.
+Dialogue: 0,0:04:36.54,0:04:39.34,Default,,0,0,0,,Sí, ya. Supongo que se acabó.
+Dialogue: 0,0:04:39.42,0:04:41.71,Default,,0,0,0,,No volveré a ver a Connie.
+Dialogue: 0,0:04:41.80,0:04:43.17,Default,,0,0,0,,Oh, Connie,
+Dialogue: 0,0:04:43.26,0:04:45.88,Default,,0,0,0,,nunca veré una estrella como tú.
+Dialogue: 0,0:04:49.05,0:04:50.81,Default,,0,0,0,,No tenemos elección.
+Dialogue: 0,0:04:54.64,0:04:57.69,Default,,0,0,0,,Ya llevamos 20 minutos esperando.
+Dialogue: 0,0:05:09.32,0:05:10.53,Default,,0,0,0,,¡Hola, Connie!
+Dialogue: 0,0:05:10.62,0:05:12.91,Default,,0,0,0,,¡Hola, Sr. y Sra. Maheswaran!
+Dialogue: 0,0:05:14.45,0:05:16.41,Default,,0,0,0,,Gracias, cariño.
+Dialogue: 0,0:05:17.04,0:05:19.17,Default,,0,0,0,,De nada, Greg.
+Dialogue: 0,0:05:19.83,0:05:21.25,Default,,0,0,0,,Soy Greg Universe.
+Dialogue: 0,0:05:21.34,0:05:25.30,Default,,0,0,0,,Esta es mi enorme y preciosa mujer,\NAlejandrita.
+Dialogue: 0,0:05:26.17,0:05:27.43,Default,,0,0,0,,Hola.
+Dialogue: 0,0:05:34.89,0:05:37.19,Default,,0,0,0,,Espero que haya más colines.
+Dialogue: 0,0:05:37.27,0:05:38.14,Default,,0,0,0,,Calla.
+Dialogue: 0,0:05:44.48,0:05:46.19,Default,,0,0,0,,¿No es divertida?
+Dialogue: 0,0:05:47.11,0:05:49.36,Default,,0,0,0,,¿Cómo os conocisteis?
+Dialogue: 0,0:05:50.16,0:05:53.70,Default,,0,0,0,,¿Cómo nos conocimos? Esto…
+Dialogue: 0,0:05:53.79,0:05:55.70,Default,,0,0,0,,En una montaña rusa.
+Dialogue: 0,0:05:58.21,0:06:00.08,Default,,0,0,0,,No pudo subir por alta.
+Dialogue: 0,0:06:02.88,0:06:04.71,Default,,0,0,0,,Lo recuerdo muy bien.
+Dialogue: 0,0:06:04.80,0:06:06.05,Default,,0,0,0,,¿Verdad, cielo?
+Dialogue: 0,0:06:12.14,0:06:15.31,Default,,0,0,0,,- Perdón.\N- Toma más colines, cariño.
+Dialogue: 0,0:06:17.68,0:06:21.73,Default,,0,0,0,,¿Y a qué os dedicáis?
+Dialogue: 0,0:06:21.81,0:06:24.36,Default,,0,0,0,,Yo tengo un lavadero de coches.
+Dialogue: 0,0:06:24.44,0:06:27.28,Default,,0,0,0,,Y mi dulce esposa…
+Dialogue: 0,0:06:27.36,0:06:29.65,Default,,0,0,0,,Trabaja en un manzanal.
+Dialogue: 0,0:06:32.78,0:06:34.78,Default,,0,0,0,,¿La cabeza se pone ahí?
+Dialogue: 0,0:06:35.58,0:06:38.79,Default,,0,0,0,,Coge manzanas con todos los brazos.
+Dialogue: 0,0:06:39.79,0:06:41.54,Default,,0,0,0,,Ya sabéis el dicho.
+Dialogue: 0,0:06:41.62,0:06:43.88,Default,,0,0,0,,“Una al día, al médico alejaría”.
+Dialogue: 0,0:06:43.96,0:06:46.21,Default,,0,0,0,,Sí. Odio a los médicos.
+Dialogue: 0,0:06:46.30,0:06:49.63,Default,,0,0,0,,- Yo soy médico.\N- Steven, vamos al baño.
+Dialogue: 0,0:06:50.68,0:06:52.55,Default,,0,0,0,,Va todo bien, ¿eh?
+Dialogue: 0,0:06:53.18,0:06:55.39,Default,,0,0,0,,¿Hablas en serio?
+Dialogue: 0,0:06:55.47,0:06:57.89,Default,,0,0,0,,¿Qué es eso que has traído?
+Dialogue: 0,0:06:57.97,0:07:00.35,Default,,0,0,0,,Es mi familia.
+Dialogue: 0,0:07:00.44,0:07:05.82,Default,,0,0,0,,Son las Gemas fusionadas\Nen un mujer gigante de seis brazos.
+Dialogue: 0,0:07:05.90,0:07:08.57,Default,,0,0,0,,¿No pudiste traer solo a una?
+Dialogue: 0,0:07:08.65,0:07:10.49,Default,,0,0,0,,Eso sería mentir.
+Dialogue: 0,0:07:11.28,0:07:13.36,Default,,0,0,0,,Tus gafas.
+Dialogue: 0,0:07:13.45,0:07:14.57,Default,,0,0,0,,¿Qué les pasa?
+Dialogue: 0,0:07:14.66,0:07:18.29,Default,,0,0,0,,Te curé la vista. Ya no las necesitas.
+Dialogue: 0,0:07:19.04,0:07:20.37,Default,,0,0,0,,¿Qué dices?
+Dialogue: 0,0:07:20.46,0:07:23.50,Default,,0,0,0,,Todo lo que has dicho de mi familia.
+Dialogue: 0,0:07:23.58,0:07:25.04,Default,,0,0,0,,Te avergüenzas de mí.
+Dialogue: 0,0:07:25.13,0:07:28.92,Default,,0,0,0,,Ya vale. Espero que no pase nada más hoy.
+Dialogue: 0,0:07:31.55,0:07:34.84,Default,,0,0,0,,Steven dice que en el manzanal
+Dialogue: 0,0:07:34.93,0:07:37.51,Default,,0,0,0,,trabajan en una manzana híbrida.
+Dialogue: 0,0:07:37.60,0:07:39.27,Default,,0,0,0,,Sí, así es.
+Dialogue: 0,0:07:39.35,0:07:41.35,Default,,0,0,0,,¿Es cierto, Sra. Universe?
+Dialogue: 0,0:07:44.23,0:07:47.61,Default,,0,0,0,,- ¿Qué haces?\N- Tengo hambre.
+Dialogue: 0,0:07:47.69,0:07:50.32,Default,,0,0,0,,- De eso nada.\N- Ya está bien.
+Dialogue: 0,0:07:56.70,0:07:58.74,Default,,0,0,0,,¡Para! No te lo comas.
+Dialogue: 0,0:08:05.63,0:08:06.50,Default,,0,0,0,,Steven.
+Dialogue: 0,0:08:08.21,0:08:09.67,Default,,0,0,0,,Muchas gracias.
+Dialogue: 0,0:08:09.75,0:08:11.88,Default,,0,0,0,,No sabes el horror de ver
+Dialogue: 0,0:08:11.96,0:08:14.80,Default,,0,0,0,,esa porquería junto a nuestra boca.
+Dialogue: 0,0:08:14.88,0:08:17.26,Default,,0,0,0,,La comida es asquerosa.
+Dialogue: 0,0:08:17.35,0:08:19.18,Default,,0,0,0,,Morderla y masticarla,
+Dialogue: 0,0:08:19.26,0:08:21.52,Default,,0,0,0,,tragártela, y luego echarla.
+Dialogue: 0,0:08:21.60,0:08:24.19,Default,,0,0,0,,Es una experiencia horripilante.
+Dialogue: 0,0:08:24.81,0:08:26.19,Default,,0,0,0,,Habla por ti.
+Dialogue: 0,0:08:26.27,0:08:28.61,Default,,0,0,0,,A mí me gusta tenerla dentro.
+Dialogue: 0,0:08:28.69,0:08:31.28,Default,,0,0,0,,Vuestra opinión no importa.
+Dialogue: 0,0:08:31.36,0:08:33.15,Default,,0,0,0,,Esto es por Steven.
+Dialogue: 0,0:08:34.32,0:08:37.07,Default,,0,0,0,,¿Qué pasa aquí? ¿Quiénes son esas?
+Dialogue: 0,0:08:37.16,0:08:41.66,Default,,0,0,0,,Debí hacer caso de mis sospechas\Nsobre tu nuevo amigo.
+Dialogue: 0,0:08:41.74,0:08:45.67,Default,,0,0,0,,Jamás pensé que desconfiaría\Nde mi propia hija.
+Dialogue: 0,0:08:46.33,0:08:47.29,Default,,0,0,0,,¡Connie!
+Dialogue: 0,0:08:48.63,0:08:49.50,Default,,0,0,0,,LA CANGREJERA
+Dialogue: 0,0:08:49.59,0:08:51.38,Default,,0,0,0,,- Connie.\N- Steven.
+Dialogue: 0,0:08:51.46,0:08:53.09,Default,,0,0,0,,Lo siento mucho.
+Dialogue: 0,0:08:53.17,0:08:55.05,Default,,0,0,0,,No me avergüenzo de ti.
+Dialogue: 0,0:08:55.13,0:08:58.93,Default,,0,0,0,,Creí que mis padres\Nno verían bien lo de la magia.
+Dialogue: 0,0:08:59.01,0:09:01.89,Default,,0,0,0,,¿Y si no me dejan volver a verte?
+Dialogue: 0,0:09:01.97,0:09:04.93,Default,,0,0,0,,Siento haber metido la pata.
+Dialogue: 0,0:09:05.02,0:09:07.48,Default,,0,0,0,,Ojalá pudiéramos vernos
+Dialogue: 0,0:09:07.56,0:09:09.56,Default,,0,0,0,,sin tanto lío.
+Dialogue: 0,0:09:09.65,0:09:11.69,Default,,0,0,0,,Cojamos un autobús
+Dialogue: 0,0:09:11.77,0:09:13.78,Default,,0,0,0,,y escapémonos de aquí.
+Dialogue: 0,0:09:13.86,0:09:15.82,Default,,0,0,0,,¡Qué buena idea!
+Dialogue: 0,0:09:22.54,0:09:24.29,Default,,0,0,0,,¿Adónde vamos?
+Dialogue: 0,0:09:24.37,0:09:26.87,Default,,0,0,0,,Sea donde sea, sobreviviremos.
+Dialogue: 0,0:09:26.96,0:09:28.75,Default,,0,0,0,,Sé cómo sobrevivir.
+Dialogue: 0,0:09:28.83,0:09:31.54,Default,,0,0,0,,Quizás vaya a un manzanal.
+Dialogue: 0,0:09:31.63,0:09:34.05,Default,,0,0,0,,¿Qué te pasa con las manzanas?
+Dialogue: 0,0:09:38.93,0:09:40.80,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:09:44.10,0:09:47.19,Default,,0,0,0,,Salid del autobús ahora mismo.
+Dialogue: 0,0:09:48.19,0:09:49.44,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:09:49.52,0:09:51.77,Default,,0,0,0,,Pero bájalo antes.
+Dialogue: 0,0:09:51.86,0:09:54.40,Default,,0,0,0,,No sé por dónde empezar, jov…
+Dialogue: 0,0:09:54.48,0:09:57.65,Default,,0,0,0,,¿Cómo has podido hacer algo así?
+Dialogue: 0,0:09:57.74,0:09:59.61,Default,,0,0,0,,Os podríais hacer daño.
+Dialogue: 0,0:09:59.70,0:10:01.53,Default,,0,0,0,,O quedaros en un atasco.
+Dialogue: 0,0:10:01.62,0:10:03.12,Default,,0,0,0,,O acabar en prisión.
+Dialogue: 0,0:10:03.20,0:10:07.29,Default,,0,0,0,,Te la has buscado\Ny tenemos que castigarte.
+Dialogue: 0,0:10:07.37,0:10:10.79,Default,,0,0,0,,- Pero…\N- Mil años sin cenar.
+Dialogue: 0,0:10:10.88,0:10:12.54,Default,,0,0,0,,¿Mil?
+Dialogue: 0,0:10:13.17,0:10:15.21,Default,,0,0,0,,No dejaremos que pases hambre.
+Dialogue: 0,0:10:15.30,0:10:19.22,Default,,0,0,0,,Pero te quedas mil años sin tele.
+Dialogue: 0,0:10:19.30,0:10:21.18,Default,,0,0,0,,¡No!
+Dialogue: 0,0:10:21.26,0:10:23.81,Default,,0,0,0,,¡El final de {\i1}Bajo mi bisturí{\i0}!
+Dialogue: 0,0:10:23.89,0:10:26.89,Default,,0,0,0,,¿Cómo podéis hacerme esto?
+Dialogue: 0,0:10:26.97,0:10:29.02,Default,,0,0,0,,Porque te queremos.
+Dialogue: 0,0:10:30.65,0:10:31.60,Default,,0,0,0,,Vaya.
+Dialogue: 0,0:10:31.69,0:10:35.15,Default,,0,0,0,,Lo de “porque te queremos” ha sido genial.
+Dialogue: 0,0:10:35.23,0:10:38.49,Default,,0,0,0,,Yo prefiero lo de “es por tu bien”.
+Dialogue: 0,0:10:38.57,0:10:42.45,Default,,0,0,0,,“Mil días sin cena” ha sido muy gracioso.
+Dialogue: 0,0:10:43.24,0:10:45.83,Default,,0,0,0,,La comedia surge del miedo.
+Dialogue: 0,0:10:47.29,0:10:48.66,Default,,0,0,0,,Eres la monda.
+Dialogue: 0,0:10:48.75,0:10:53.08,Default,,0,0,0,,No sabía qué pensar de los dos.\NPerdón, de los cuatro.
+Dialogue: 0,0:10:53.17,0:10:56.05,Default,,0,0,0,,Veo que sois padres responsables.
+Dialogue: 0,0:10:57.09,0:10:59.17,Default,,0,0,0,,¿Cuidadores? Tutores.
+Dialogue: 0,0:10:59.26,0:11:01.43,Default,,0,0,0,,¿Puedo ver a Steven?
+Dialogue: 0,0:11:02.05,0:11:04.22,Default,,0,0,0,,- Por supuesto.\N- ¡Bien!
+Dialogue: 0,0:11:30.54,0:11:32.62,Default,,0,0,0,,Subtítulos: Ivars A. Barzdevics

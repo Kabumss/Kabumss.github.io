@@ -1,0 +1,183 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: steven 1x19
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:26.77,0:00:27.73,Default,,0,0,0,,Sí, amigos.
+Dialogue: 0,0:00:27.81,0:00:31.86,Default,,0,0,0,,Steven Universe\Nafronta su última cucharada
+Dialogue: 0,0:00:31.94,0:00:33.65,Default,,0,0,0,,de crema de maíz.
+Dialogue: 0,0:00:34.28,0:00:36.53,Default,,0,0,0,,Contengan la respiración.
+Dialogue: 0,0:00:37.03,0:00:40.62,Default,,0,0,0,,Solo un bocado lo separa de su destino.
+Dialogue: 0,0:00:43.83,0:00:45.17,Default,,0,0,0,,¡Lo consiguió!
+Dialogue: 0,0:00:45.25,0:00:48.29,Default,,0,0,0,,¡Se ha comido cuatro latas de maíz!
+Dialogue: 0,0:00:48.38,0:00:51.55,Default,,0,0,0,,- Buenas tardes, Steven.\N- ¡Mirad!
+Dialogue: 0,0:00:51.63,0:00:54.09,Default,,0,0,0,,{\i1}El tío Stu{\i0}\N{\i1}¿Qué tendrá?{\i0}
+Dialogue: 0,0:00:54.17,0:00:58.05,Default,,0,0,0,,Cuatro latas vacías\Nde crema de maíz cremoso.
+Dialogue: 0,0:00:58.85,0:00:59.89,Default,,0,0,0,,Guay.
+Dialogue: 0,0:00:59.97,0:01:03.52,Default,,0,0,0,,Llevan cupones de 5 dólares\Npara el minigolf.
+Dialogue: 0,0:01:03.60,0:01:06.06,Default,,0,0,0,,Me comí las 4 para ir juntos.
+Dialogue: 0,0:01:06.14,0:01:08.52,Default,,0,0,0,,Qué considerado, Steven.
+Dialogue: 0,0:01:08.61,0:01:12.15,Default,,0,0,0,,- Pero, por desgracia…\N- Tenemos una misión.
+Dialogue: 0,0:01:12.23,0:01:16.20,Default,,0,0,0,,¿Qué? Otra vez no.\NMe prometisteis que saldríamos.
+Dialogue: 0,0:01:16.28,0:01:19.07,Default,,0,0,0,,Hay algo peligroso en el norte.
+Dialogue: 0,0:01:19.16,0:01:22.41,Default,,0,0,0,,- Vamos a por ello.\N- ¡El minigolf mola!
+Dialogue: 0,0:01:22.49,0:01:25.96,Default,,0,0,0,,Hay castillos y molinos y a mí me gusta y…
+Dialogue: 0,0:01:26.04,0:01:27.46,Default,,0,0,0,,Mirad esto.
+Dialogue: 0,0:01:28.08,0:01:30.00,Default,,0,0,0,,Los palos de mi padre.
+Dialogue: 0,0:01:30.09,0:01:33.42,Default,,0,0,0,,Y también sus viejos pantalones de golf.
+Dialogue: 0,0:01:33.51,0:01:36.47,Default,,0,0,0,,Me quedan grandes. Para ti, Granate.
+Dialogue: 0,0:01:39.68,0:01:42.81,Default,,0,0,0,,- Nos vemos.\N- Te traeremos algo.
+Dialogue: 0,0:01:45.39,0:01:48.90,Default,,0,0,0,,No sois las únicas\Ncon peligrosos desafíos.
+Dialogue: 0,0:01:48.98,0:01:50.23,Default,,0,0,0,,RETO MINIGOLF
+Dialogue: 0,0:01:50.31,0:01:51.65,Default,,0,0,0,,¡Sí, señor!
+Dialogue: 0,0:01:51.73,0:01:52.98,Default,,0,0,0,,{\an8}“ES PELIGROSO. TEN”.
+Dialogue: 0,0:01:53.48,0:01:55.61,Default,,0,0,0,,“¡Ten el palo de {\i1}mithril{\i0}!”
+Dialogue: 0,0:01:56.99,0:02:00.49,Default,,0,0,0,,“Tranquilo, profesor.\NLas meteremos todas”.
+Dialogue: 0,0:02:06.66,0:02:08.29,Default,,0,0,0,,EL MOLINO TE RETA
+Dialogue: 0,0:02:08.37,0:02:11.59,Default,,0,0,0,,Molino, siempre peleamos.
+Dialogue: 0,0:02:14.80,0:02:15.67,Default,,0,0,0,,{\i1}¡Par!{\i0}
+Dialogue: 0,0:02:15.76,0:02:18.68,Default,,0,0,0,,Jo, habría sido igualito que esto.
+Dialogue: 0,0:02:24.56,0:02:31.77,Default,,0,0,0,,{\an8}“¡No puedo perder!\N¡Soy el mejor golfista del universo!”.
+Dialogue: 0,0:02:33.44,0:02:34.36,Default,,0,0,0,,FIN DE LA PARTIDA
+Dialogue: 0,0:02:34.44,0:02:35.86,Default,,0,0,0,,FINAL SECRETO
+Dialogue: 0,0:02:35.94,0:02:37.28,Default,,0,0,0,,¡Final secreto!
+Dialogue: 0,0:02:38.74,0:02:41.87,Default,,0,0,0,,- ¡Hola, Steven! ¡Hemos vuelto!\N- Hola.
+Dialogue: 0,0:02:42.53,0:02:45.79,Default,,0,0,0,,{\i1}¿Proyecto FLOG? Es golf al revés.{\i0}
+Dialogue: 0,0:02:48.37,0:02:49.67,Default,,0,0,0,,{\i1}¿Qué es esto?{\i0}
+Dialogue: 0,0:02:49.75,0:02:52.00,Default,,0,0,0,,¿Te contamos adónde fuimos?
+Dialogue: 0,0:02:53.34,0:02:54.55,Default,,0,0,0,,¡Espera!
+Dialogue: 0,0:02:54.63,0:02:59.51,Default,,0,0,0,,{\i1}¿9 de junio de 2014?{\i0}\N{\i1}Es el día que desapareció.{\i0}
+Dialogue: 0,0:02:59.59,0:03:03.05,Default,,0,0,0,,- ¡Eh!\N- Steven, mira esto.
+Dialogue: 0,0:03:03.14,0:03:06.72,Default,,0,0,0,,- Encontramos la piedra gritona.\N- Fui yo.
+Dialogue: 0,0:03:06.81,0:03:07.93,Default,,0,0,0,,¿A que mola?
+Dialogue: 0,0:03:08.02,0:03:10.10,Default,,0,0,0,,- Usa ondas ultrasónicas…\N- ¡Chicas!
+Dialogue: 0,0:03:10.19,0:03:12.65,Default,,0,0,0,,…y transmite entre dos puntos…
+Dialogue: 0,0:03:12.73,0:03:14.31,Default,,0,0,0,,Apretando esto.
+Dialogue: 0,0:03:21.66,0:03:24.37,Default,,0,0,0,,¡Amatista, dentro de casa no!
+Dialogue: 0,0:03:24.45,0:03:28.79,Default,,0,0,0,,Calma, P. No hay heridos\Ny a Steven le ha encantado.
+Dialogue: 0,0:03:29.96,0:03:32.71,Default,,0,0,0,,- ¿Steven?\N- ¡El final secreto!
+Dialogue: 0,0:03:32.79,0:03:36.04,Default,,0,0,0,,Tendré que repetir la mazmorra final.
+Dialogue: 0,0:03:36.13,0:03:37.75,Default,,0,0,0,,¡No es justo!
+Dialogue: 0,0:03:37.84,0:03:40.30,Default,,0,0,0,,Ni minigolf real ni virtual.
+Dialogue: 0,0:03:40.38,0:03:43.72,Default,,0,0,0,,Y no dejo de ir al váter, con tanto maíz.
+Dialogue: 0,0:03:43.80,0:03:45.35,Default,,0,0,0,,¡Tanto maíz!
+Dialogue: 0,0:03:46.93,0:03:49.73,Default,,0,0,0,,Desearía un sitio solo para mí.
+Dialogue: 0,0:03:52.39,0:03:53.31,Default,,0,0,0,,Mi gema.
+Dialogue: 0,0:03:55.40,0:03:56.90,Default,,0,0,0,,La puerta de Rosa.
+Dialogue: 0,0:03:57.65,0:04:00.99,Default,,0,0,0,,Tu gema ha abierto el cuarto de tu madre.
+Dialogue: 0,0:04:05.20,0:04:06.58,Default,,0,0,0,,- ¡Espera!\N- No entres.
+Dialogue: 0,0:04:06.66,0:04:09.66,Default,,0,0,0,,Nunca puedo hacer lo que quiero, ¿no?
+Dialogue: 0,0:04:10.29,0:04:14.63,Default,,0,0,0,,Pues ahora tengo un sitio\Nal que yo iré y vosotras no.
+Dialogue: 0,0:04:14.71,0:04:16.04,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:04:17.46,0:04:18.55,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:04:23.97,0:04:25.72,Default,,0,0,0,,¿El cuarto de mamá?
+Dialogue: 0,0:04:26.35,0:04:28.01,Default,,0,0,0,,Adoraba las nubes.
+Dialogue: 0,0:04:28.10,0:04:30.47,Default,,0,0,0,,Pero ¿un cuarto sin cama?
+Dialogue: 0,0:04:31.68,0:04:32.73,Default,,0,0,0,,¡Mola!
+Dialogue: 0,0:04:34.10,0:04:38.36,Default,,0,0,0,,Esta cama está bien,\Npero ¿sabes qué estaría mejor?
+Dialogue: 0,0:04:38.44,0:04:40.48,Default,,0,0,0,,¡Una litera cuádruple!
+Dialogue: 0,0:04:42.65,0:04:43.99,Default,,0,0,0,,Con tobogán.
+Dialogue: 0,0:04:48.49,0:04:49.58,Default,,0,0,0,,¡Paracaídas!
+Dialogue: 0,0:04:53.75,0:04:54.79,Default,,0,0,0,,¿Y ahora?
+Dialogue: 0,0:04:56.71,0:04:58.50,Default,,0,0,0,,¿Una ballena flotante?
+Dialogue: 0,0:05:03.72,0:05:07.59,Default,,0,0,0,,Me dan todo lo que pido.\N¿Y qué quiero de verdad?
+Dialogue: 0,0:05:07.68,0:05:11.56,Default,,0,0,0,,Ver el final de mi juego\Nsin que me interrumpan.
+Dialogue: 0,0:05:17.98,0:05:21.78,Default,,0,0,0,,Soy tu padre.\NLibre tras décadas criopreservado.
+Dialogue: 0,0:05:22.82,0:05:25.28,Default,,0,0,0,,Salvamos el mundo bajo par.
+Dialogue: 0,0:05:25.36,0:05:26.53,Default,,0,0,0,,¡ENHORABUENA!
+Dialogue: 0,0:05:26.61,0:05:28.32,Default,,0,0,0,,Fenomenal.
+Dialogue: 0,0:05:30.74,0:05:32.16,Default,,0,0,0,,Tengo hambre.
+Dialogue: 0,0:05:34.45,0:05:35.66,Default,,0,0,0,,Muy bien.
+Dialogue: 0,0:05:35.75,0:05:39.13,Default,,0,0,0,,¿Cómo? ¡Eh! Quiero un dónut de verdad.
+Dialogue: 0,0:05:40.84,0:05:42.84,Default,,0,0,0,,¿Qué? ¿Será posible?
+Dialogue: 0,0:05:44.34,0:05:46.22,Default,,0,0,0,,Saldré a por dónuts.
+Dialogue: 0,0:05:48.72,0:05:52.31,Default,,0,0,0,,Tranquilas, chicas, estaré poco tiempo.
+Dialogue: 0,0:05:54.14,0:05:57.64,Default,,0,0,0,,Vale, bien. Tampoco quería veros.
+Dialogue: 0,0:05:59.73,0:06:03.23,Default,,0,0,0,,¿Cómo va mi franquicia\Nde manjares favorita?
+Dialogue: 0,0:06:03.32,0:06:07.40,Default,,0,0,0,,Uno de doble chocolate con canela\Ny virutas aparte.
+Dialogue: 0,0:06:07.49,0:06:08.91,Default,,0,0,0,,Me gusta mojar.
+Dialogue: 0,0:06:13.58,0:06:15.79,Default,,0,0,0,,¡Steven a Sadie y Lars!
+Dialogue: 0,0:06:17.21,0:06:19.17,Default,,0,0,0,,¿Es una broma o algo?
+Dialogue: 0,0:06:19.25,0:06:21.79,Default,,0,0,0,,Hola, Steven. ¿Un dónut?
+Dialogue: 0,0:06:22.54,0:06:25.38,Default,,0,0,0,,- Acabo de…\N- Es un placer verte.
+Dialogue: 0,0:06:25.46,0:06:28.34,Default,,0,0,0,,- Igualmente.\N- Toma, tus dónuts.
+Dialogue: 0,0:06:28.80,0:06:33.01,Default,,0,0,0,,- Yo solo he pedido…\N- Te queremos, Steven. Adiós.
+Dialogue: 0,0:06:33.10,0:06:36.77,Default,,0,0,0,,¡Esperad! ¿Adónde vais? ¡Aún no he pagado!
+Dialogue: 0,0:06:36.85,0:06:39.85,Default,,0,0,0,,Chicos, esperad un… momento.
+Dialogue: 0,0:06:43.02,0:06:47.49,Default,,0,0,0,,¡Cebollo! ¿Has visto a Lars y Sadie?\NAcaban de salir.
+Dialogue: 0,0:06:50.28,0:06:54.62,Default,,0,0,0,,Si los ves, dímelo, ¿vale? Toma, un dónut.
+Dialogue: 0,0:06:58.91,0:07:01.21,Default,,0,0,0,,Te lo dejo aquí. ¡Adiós!
+Dialogue: 0,0:07:01.96,0:07:02.88,Default,,0,0,0,,CAMINATA FRITA
+Dialogue: 0,0:07:03.71,0:07:06.30,Default,,0,0,0,,Hay luz, pero no hay nadie.
+Dialogue: 0,0:07:07.71,0:07:08.88,Default,,0,0,0,,¿Peedee?
+Dialogue: 0,0:07:09.59,0:07:12.09,Default,,0,0,0,,FRIKI FRIKI BEACH CITY
+Dialogue: 0,0:07:13.22,0:07:18.27,Default,,0,0,0,,Me encantan los fritos,\Npero estoy un poco aterrorizado.
+Dialogue: 0,0:07:23.90,0:07:26.36,Default,,0,0,0,,Voy a seguir dando una vuelta.
+Dialogue: 0,0:07:26.44,0:07:28.36,Default,,0,0,0,,¡Hasta luego, Fritón!
+Dialogue: 0,0:07:28.44,0:07:30.20,Default,,0,0,0,,PRUEBA LAS PATATAS
+Dialogue: 0,0:07:37.04,0:07:38.95,Default,,0,0,0,,HIPERESPACIO
+Dialogue: 0,0:07:39.87,0:07:41.92,Default,,0,0,0,,RECREATIVOS
+Dialogue: 0,0:07:44.54,0:07:45.59,Default,,0,0,0,,¡Connie!
+Dialogue: 0,0:07:46.92,0:07:50.67,Default,,0,0,0,,¡No me lo puedo creer! ¿Cuándo has vuelto?
+Dialogue: 0,0:07:53.05,0:07:56.51,Default,,0,0,0,,¡El agua! Connie, ¿qué pasa? ¿Y la gente?
+Dialogue: 0,0:07:56.60,0:07:58.68,Default,,0,0,0,,¡Él era increíble!
+Dialogue: 0,0:07:59.35,0:08:01.19,Default,,0,0,0,,¡Él era increíble!
+Dialogue: 0,0:08:01.73,0:08:03.27,Default,,0,0,0,,¡Él era increíble!
+Dialogue: 0,0:08:03.35,0:08:04.81,Default,,0,0,0,,- ¿Qué?\N- ¡Increíble!
+Dialogue: 0,0:08:04.90,0:08:07.98,Default,,0,0,0,,¡Quiero irme! ¿Qué os pasa en la cara?
+Dialogue: 0,0:08:08.61,0:08:10.11,Default,,0,0,0,,León, ¿tú también?
+Dialogue: 0,0:08:15.95,0:08:18.58,Default,,0,0,0,,¿Alguien puede explicarme esto?
+Dialogue: 0,0:08:21.91,0:08:23.25,Default,,0,0,0,,AUTOLAVADO
+Dialogue: 0,0:08:23.33,0:08:24.50,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:08:25.50,0:08:27.42,Default,,0,0,0,,Papá, ¿eres tú?
+Dialogue: 0,0:08:27.50,0:08:31.97,Default,,0,0,0,,Claro. ¿Estás bien?\NParece que hayas visto un fantasma.
+Dialogue: 0,0:08:32.05,0:08:34.43,Default,,0,0,0,,Eso o demasiados videojuegos.
+Dialogue: 0,0:08:34.51,0:08:38.93,Default,,0,0,0,,Tengo miedo.\NMe siento dentro de un sueño disparatado.
+Dialogue: 0,0:08:41.06,0:08:45.02,Default,,0,0,0,,Comámonos los dónuts\Ny me cuentas tu loca noche.
+Dialogue: 0,0:08:48.98,0:08:52.36,Default,,0,0,0,,Las Gemas querían hablarme\Ndel cuarto de mamá.
+Dialogue: 0,0:08:52.44,0:08:54.57,Default,,0,0,0,,Estaba enfadado y entré.
+Dialogue: 0,0:08:54.66,0:08:58.95,Default,,0,0,0,,Siempre me dejan solo,\Ny quería hacerles lo mismo.
+Dialogue: 0,0:08:59.74,0:09:03.58,Default,,0,0,0,,No pasa nada.\NA veces necesitamos estar solos.
+Dialogue: 0,0:09:07.04,0:09:09.25,Default,,0,0,0,,Al principio me divertí.
+Dialogue: 0,0:09:09.34,0:09:14.80,Default,,0,0,0,,Luego, toda la ciudad, la gente\Ny las cosas, se pusieron raros.
+Dialogue: 0,0:09:14.88,0:09:17.64,Default,,0,0,0,,Es importante haber sido sincero.
+Dialogue: 0,0:09:18.51,0:09:21.43,Default,,0,0,0,,Sí, supongo que lo fui.
+Dialogue: 0,0:09:24.73,0:09:28.48,Default,,0,0,0,,Papá, tu consejo\Nes más absurdo de lo normal.
+Dialogue: 0,0:09:28.56,0:09:33.49,Default,,0,0,0,,Lo importante son la familia, la amistad\Ny que no haya detenidos.
+Dialogue: 0,0:09:43.33,0:09:47.83,Default,,0,0,0,,¡Sigo en el cuarto!\N¡Todo esto es una engañifa!
+Dialogue: 0,0:09:51.17,0:09:53.01,Default,,0,0,0,,¡Todo esto está mal!
+Dialogue: 0,0:10:17.99,0:10:19.32,Default,,0,0,0,,No quiero esto.
+Dialogue: 0,0:10:20.03,0:10:21.83,Default,,0,0,0,,¿Qué quieres, Steven?
+Dialogue: 0,0:10:22.49,0:10:24.49,Default,,0,0,0,,¡Volver con las Gemas!
+Dialogue: 0,0:10:30.96,0:10:32.00,Default,,0,0,0,,¡Granate!
+Dialogue: 0,0:10:33.67,0:10:34.76,Default,,0,0,0,,¡No sois nubes!
+Dialogue: 0,0:10:34.84,0:10:36.67,Default,,0,0,0,,¡Muy bien, Steven!
+Dialogue: 0,0:10:38.18,0:10:39.84,Default,,0,0,0,,Chicas, qué horror.
+Dialogue: 0,0:10:39.93,0:10:42.51,Default,,0,0,0,,Estuve en una Beach City chunga.
+Dialogue: 0,0:10:42.60,0:10:44.56,Default,,0,0,0,,Todos actuaban raro y…
+Dialogue: 0,0:10:44.64,0:10:49.44,Default,,0,0,0,,- ¿Obligaste al cuarto a hacer una ciudad?\N- ¡Es demasiado!
+Dialogue: 0,0:10:49.52,0:10:51.02,Default,,0,0,0,,¡Suerte que estás bien!
+Dialogue: 0,0:10:53.19,0:10:55.11,Default,,0,0,0,,Perdón por enfadarme.
+Dialogue: 0,0:10:55.19,0:10:58.78,Default,,0,0,0,,Entiendo que no todo\Npuede salir como quiero.
+Dialogue: 0,0:10:58.86,0:11:01.49,Default,,0,0,0,,Steven, perdónanos tú también.
+Dialogue: 0,0:11:02.37,0:11:04.91,Default,,0,0,0,,Ahora ya tenemos tiempo.
+Dialogue: 0,0:11:07.45,0:11:09.75,Default,,0,0,0,,¡Todo sale como quiero!
+Dialogue: 0,0:11:28.60,0:11:30.69,Default,,0,0,0,,Subtítulos: J. M. Galiana

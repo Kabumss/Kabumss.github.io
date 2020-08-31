@@ -1,0 +1,187 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E07 - Bubble Buddies (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:33.09,0:00:35.97,Default,,0,0,0,,Terremotos no. Demasiado frecuentes.
+Dialogue: 0,0:00:36.59,0:00:38.72,Default,,0,0,0,,Eh, Steven tiene una bici.
+Dialogue: 0,0:00:39.35,0:00:41.97,Default,,0,0,0,,- ¿Adónde vas?\N- A dar una vuelta.
+Dialogue: 0,0:00:42.06,0:00:44.35,Default,,0,0,0,,- ¿Por la arena?\N- Sí.
+Dialogue: 0,0:00:59.03,0:01:00.58,Default,,0,0,0,,Un paseo agradable.
+Dialogue: 0,0:01:02.37,0:01:03.70,Default,,0,0,0,,5 velocidades.
+Dialogue: 0,0:01:04.95,0:01:06.50,Default,,0,0,0,,Frenos de mano.
+Dialogue: 0,0:01:07.33,0:01:10.21,Default,,0,0,0,,Azul eléctrico, con timbre de tigre.
+Dialogue: 0,0:01:13.55,0:01:16.59,Default,,0,0,0,,Seguro que a muchos les gustaría…
+Dialogue: 0,0:01:28.27,0:01:29.19,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:01:29.27,0:01:31.36,Default,,0,0,0,,¿Con quién hablabas?
+Dialogue: 0,0:01:32.36,0:01:33.52,Default,,0,0,0,,Esa chica.
+Dialogue: 0,0:01:34.15,0:01:38.28,Default,,0,0,0,,¿Sí? Es una chica que conozco,\Naunque ella a mí no.
+Dialogue: 0,0:01:39.20,0:01:41.03,Default,,0,0,0,,Nunca hemos hablado.
+Dialogue: 0,0:01:41.12,0:01:42.91,Default,,0,0,0,,¡Te gusta!
+Dialogue: 0,0:01:43.74,0:01:46.45,Default,,0,0,0,,- Y todos.\N- Organicemos una cita.
+Dialogue: 0,0:01:46.54,0:01:49.29,Default,,0,0,0,,Haré una invitación y un horario.
+Dialogue: 0,0:01:49.37,0:01:52.04,Default,,0,0,0,,Averigüemos su té favorito.
+Dialogue: 0,0:01:52.13,0:01:54.05,Default,,0,0,0,,No. Tú háblale.
+Dialogue: 0,0:01:54.13,0:01:57.09,Default,,0,0,0,,Vale. Pero esta vez no podéis mirar.
+Dialogue: 0,0:01:57.17,0:01:58.72,Default,,0,0,0,,Me cortáis el rollo.
+Dialogue: 0,0:01:59.34,0:02:00.89,Default,,0,0,0,,¿“El rollo”?
+Dialogue: 0,0:02:00.97,0:02:03.22,Default,,0,0,0,,- No miraremos.\N- Vale.
+Dialogue: 0,0:02:05.22,0:02:07.10,Default,,0,0,0,,- ¿Qué es eso?\N- ¡Nada!
+Dialogue: 0,0:02:09.48,0:02:11.56,Default,,0,0,0,,¡Hola! Soy Steven.
+Dialogue: 0,0:02:12.40,0:02:14.57,Default,,0,0,0,,Hola. Soy Steven.
+Dialogue: 0,0:02:15.27,0:02:17.99,Default,,0,0,0,,Hola. Soy Steven.
+Dialogue: 0,0:02:24.24,0:02:25.49,Default,,0,0,0,,¡Soy Steven!
+Dialogue: 0,0:02:32.13,0:02:34.04,Default,,0,0,0,,¿Cómo he hecho eso?
+Dialogue: 0,0:02:34.13,0:02:37.09,Default,,0,0,0,,Hola. Soy Steven.
+Dialogue: 0,0:02:38.38,0:02:39.51,Default,,0,0,0,,Connie.
+Dialogue: 0,0:02:39.88,0:02:41.93,Default,,0,0,0,,¿Qué… ha pasado?
+Dialogue: 0,0:02:42.55,0:02:45.89,Default,,0,0,0,,Soy mágico. Medio mágico. Por mi madre.
+Dialogue: 0,0:02:45.97,0:02:47.10,Default,,0,0,0,,¿Has sido tú?
+Dialogue: 0,0:02:47.18,0:02:49.93,Default,,0,0,0,,Eso parece. Estoy con las Gemas.
+Dialogue: 0,0:02:50.02,0:02:52.19,Default,,0,0,0,,Protegemos a la humanidad.
+Dialogue: 0,0:02:52.27,0:02:55.15,Default,,0,0,0,,Algo así hace mi padre. Es policía.
+Dialogue: 0,0:02:55.77,0:02:58.82,Default,,0,0,0,,Más bien guarda de seguridad privado.
+Dialogue: 0,0:03:02.61,0:03:06.08,Default,,0,0,0,,¿Cuánto suele durar esto?
+Dialogue: 0,0:03:06.16,0:03:07.54,Default,,0,0,0,,Ah, sí.
+Dialogue: 0,0:03:13.83,0:03:15.08,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:03:15.17,0:03:18.71,Default,,0,0,0,,Parece… que no quiere desvanecerse.
+Dialogue: 0,0:03:24.59,0:03:26.80,Default,,0,0,0,,No te he visto por aquí.
+Dialogue: 0,0:03:26.89,0:03:29.14,Default,,0,0,0,,Mi padre cambia de lugar,
+Dialogue: 0,0:03:29.22,0:03:31.48,Default,,0,0,0,,y no solemos quedarnos.
+Dialogue: 0,0:03:31.56,0:03:34.19,Default,,0,0,0,,Voy de aventuras con las Gemas.
+Dialogue: 0,0:03:34.27,0:03:36.56,Default,,0,0,0,,Me dicen que es peligroso.
+Dialogue: 0,0:03:39.23,0:03:41.61,Default,,0,0,0,,¿Siempre vas en una burbuja?
+Dialogue: 0,0:03:41.69,0:03:43.49,Default,,0,0,0,,No. Esto es nuevo.
+Dialogue: 0,0:03:43.57,0:03:47.24,Default,,0,0,0,,No sé qué es,\Npero las Gemas sabrán qué hacer.
+Dialogue: 0,0:03:51.87,0:03:52.91,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:03:55.88,0:03:57.54,Default,,0,0,0,,¡Eh, chicas!
+Dialogue: 0,0:03:58.21,0:04:00.21,Default,,0,0,0,,¡Granate, socorro!
+Dialogue: 0,0:04:01.80,0:04:03.67,Default,,0,0,0,,No creo que te oigan.
+Dialogue: 0,0:04:03.76,0:04:05.55,Default,,0,0,0,,¡Es verdad!
+Dialogue: 0,0:04:05.64,0:04:07.51,Default,,0,0,0,,Les dije que no miraran.
+Dialogue: 0,0:04:07.60,0:04:09.76,Default,,0,0,0,,Esperaremos a que salgan.
+Dialogue: 0,0:04:09.85,0:04:12.77,Default,,0,0,0,,No. Nos ayudarán otros amigos míos.
+Dialogue: 0,0:04:15.44,0:04:17.15,Default,,0,0,0,,¡Muy bien, Steven!
+Dialogue: 0,0:04:17.23,0:04:19.48,Default,,0,0,0,,¿Es tu burbuja del amor?
+Dialogue: 0,0:04:19.57,0:04:23.28,Default,,0,0,0,,¿La has hecho porque estás enamorado?
+Dialogue: 0,0:04:23.86,0:04:26.41,Default,,0,0,0,,Ese es Lars. Mi amigo del alma.
+Dialogue: 0,0:04:26.49,0:04:27.95,Default,,0,0,0,,Pone caras raras.
+Dialogue: 0,0:04:32.50,0:04:34.12,Default,,0,0,0,,No seas bobo. Ayuda.
+Dialogue: 0,0:04:34.21,0:04:36.50,Default,,0,0,0,,Ayudo a Steven con su cita.
+Dialogue: 0,0:04:36.58,0:04:38.42,Default,,0,0,0,,- Lo avergüenzas.\N- No.
+Dialogue: 0,0:04:38.50,0:04:41.21,Default,,0,0,0,,- Llevan el {\i1}Big Donut{\i0}.\N- ¿Congenian?
+Dialogue: 0,0:04:44.13,0:04:45.88,Default,,0,0,0,,Se adoran.
+Dialogue: 0,0:04:45.97,0:04:47.89,Default,,0,0,0,,Probaré otra cosa.
+Dialogue: 0,0:04:48.85,0:04:50.81,Default,,0,0,0,,Sus dónuts son lo más.
+Dialogue: 0,0:04:50.89,0:04:52.39,Default,,0,0,0,,Vengo cada día.
+Dialogue: 0,0:04:52.47,0:04:56.48,Default,,0,0,0,,Mis padres no me dejan comer dónuts.\NPor la grasa.
+Dialogue: 0,0:04:56.56,0:04:58.73,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:05:00.06,0:05:02.65,Default,,0,0,0,,Aun así, es un sitio chulo.
+Dialogue: 0,0:05:08.28,0:05:10.03,Default,,0,0,0,,Tengo una idea mejor.
+Dialogue: 0,0:05:11.49,0:05:13.20,Default,,0,0,0,,Un pesquero.
+Dialogue: 0,0:05:13.29,0:05:14.87,Default,,0,0,0,,Y un velerito.
+Dialogue: 0,0:05:14.95,0:05:16.50,Default,,0,0,0,,Sabes de barcos.
+Dialogue: 0,0:05:16.58,0:05:21.13,Default,,0,0,0,,Pasa si vas al mar y no nadas\Ny no tienes amigos.
+Dialogue: 0,0:05:21.21,0:05:23.00,Default,,0,0,0,,Miras los barcos.
+Dialogue: 0,0:05:25.63,0:05:27.38,Default,,0,0,0,,¡Eh! ¡Cebollo!
+Dialogue: 0,0:05:27.47,0:05:28.68,Default,,0,0,0,,¡Cebollo!
+Dialogue: 0,0:05:30.72,0:05:32.72,Default,,0,0,0,,Necesitamos un arpón.
+Dialogue: 0,0:05:32.81,0:05:34.89,Default,,0,0,0,,- ¿Qué?\N- Para explotarla.
+Dialogue: 0,0:05:34.97,0:05:36.98,Default,,0,0,0,,¿Y si volvemos a casa?
+Dialogue: 0,0:05:37.06,0:05:39.15,Default,,0,0,0,,Tranquila. Soy una Gema.
+Dialogue: 0,0:05:39.77,0:05:42.65,Default,,0,0,0,,Cebollo, necesitamos un arpón.
+Dialogue: 0,0:05:42.73,0:05:47.15,Default,,0,0,0,,¡Un… ar… pón!
+Dialogue: 0,0:05:54.87,0:05:56.08,Default,,0,0,0,,Un…
+Dialogue: 0,0:05:57.46,0:05:58.87,Default,,0,0,0,,…ar…
+Dialogue: 0,0:05:58.96,0:06:00.92,Default,,0,0,0,,pón.
+Dialogue: 0,0:06:07.47,0:06:08.84,Default,,0,0,0,,Déjame probar.
+Dialogue: 0,0:06:14.76,0:06:17.02,Default,,0,0,0,,ARPÓN
+Dialogue: 0,0:06:19.60,0:06:21.85,Default,,0,0,0,,Tenía más sentido.
+Dialogue: 0,0:06:32.57,0:06:34.03,Default,,0,0,0,,El pesquero.
+Dialogue: 0,0:06:36.29,0:06:37.70,Default,,0,0,0,,DIVERTILANDIA
+Dialogue: 0,0:06:37.79,0:06:38.79,Default,,0,0,0,,¿Divertilandia?
+Dialogue: 0,0:06:38.87,0:06:42.46,Default,,0,0,0,,Sí. Aquí suceden muchos accidentes\Ncada día.
+Dialogue: 0,0:06:42.54,0:06:45.04,Default,,0,0,0,,Habrá algo que la rompa.
+Dialogue: 0,0:06:45.59,0:06:47.46,Default,,0,0,0,,Elijamos una atracción.
+Dialogue: 0,0:06:47.55,0:06:48.55,Default,,0,0,0,,Sí.
+Dialogue: 0,0:06:48.63,0:06:50.72,Default,,0,0,0,,¡La montaña rusa infantil!
+Dialogue: 0,0:06:53.89,0:06:57.43,Default,,0,0,0,,Vale. Iremos por la rampa,\Ncontra los coches,
+Dialogue: 0,0:06:57.52,0:06:59.06,Default,,0,0,0,,para liberarnos.
+Dialogue: 0,0:06:59.14,0:07:02.56,Default,,0,0,0,,- ¿Y cuando reviente?\N- Seremos libres.
+Dialogue: 0,0:07:04.40,0:07:06.77,Default,,0,0,0,,Steven, es una mala idea.
+Dialogue: 0,0:07:08.19,0:07:09.44,Default,,0,0,0,,¡Funcionará!
+Dialogue: 0,0:07:25.88,0:07:28.42,Default,,0,0,0,,- ¿Dónde estamos?\N- En el océano.
+Dialogue: 0,0:07:29.26,0:07:30.34,Default,,0,0,0,,Tranquila.
+Dialogue: 0,0:07:30.42,0:07:32.59,Default,,0,0,0,,¿Cerca de la orilla?
+Dialogue: 0,0:07:32.68,0:07:34.43,Default,,0,0,0,,Sí. Claro.
+Dialogue: 0,0:07:35.22,0:07:36.80,Default,,0,0,0,,Vamos a rodar.
+Dialogue: 0,0:07:36.89,0:07:39.10,Default,,0,0,0,,Menos mal que es hermética.
+Dialogue: 0,0:07:39.18,0:07:41.27,Default,,0,0,0,,O nos ahogaríamos.
+Dialogue: 0,0:07:46.98,0:07:50.11,Default,,0,0,0,,Tranquila, Connie. Tengo una idea.
+Dialogue: 0,0:07:50.94,0:07:52.61,Default,,0,0,0,,Cuando volvamos…
+Dialogue: 0,0:07:54.57,0:07:56.66,Default,,0,0,0,,Un gusano enorme.
+Dialogue: 0,0:07:57.45,0:07:58.79,Default,,0,0,0,,Tranquila. Mira.
+Dialogue: 0,0:07:59.49,0:08:01.58,Default,,0,0,0,,Solo quiere comerse eso.
+Dialogue: 0,0:08:03.12,0:08:05.37,Default,,0,0,0,,¿Ves? No da nada de miedo.
+Dialogue: 0,0:08:18.68,0:08:20.72,Default,,0,0,0,,¡Perdona! ¿Estás bien?
+Dialogue: 0,0:08:21.72,0:08:22.93,Default,,0,0,0,,No está tan mal.
+Dialogue: 0,0:08:24.77,0:08:26.94,Default,,0,0,0,,Está bien. Yo…
+Dialogue: 0,0:08:27.02,0:08:28.36,Default,,0,0,0,,¡No está bien!
+Dialogue: 0,0:08:29.19,0:08:32.11,Default,,0,0,0,,Lo repites, pero no sabes qué hacer.
+Dialogue: 0,0:08:32.19,0:08:35.78,Default,,0,0,0,,Nos ahogaremos o moriremos de hambre,
+Dialogue: 0,0:08:35.86,0:08:39.28,Default,,0,0,0,,y mis padres serán\Nlos únicos que lo sepan.
+Dialogue: 0,0:08:40.37,0:08:44.29,Default,,0,0,0,,Voy a desaparecer sin tener amigos.
+Dialogue: 0,0:08:51.34,0:08:52.55,Default,,0,0,0,,Seamos amigos.
+Dialogue: 0,0:08:54.13,0:08:56.63,Default,,0,0,0,,Te vi en el desfile hace un año.
+Dialogue: 0,0:08:57.55,0:08:59.22,Default,,0,0,0,,{\i1}Perdiste tu pulsera.{\i0}
+Dialogue: 0,0:08:59.30,0:09:01.89,Default,,0,0,0,,La recogí, pero no te encontré.
+Dialogue: 0,0:09:02.72,0:09:07.02,Default,,0,0,0,,La guardé en el congelador,\Npor si te veía.
+Dialogue: 0,0:09:07.56,0:09:08.56,Default,,0,0,0,,AUTOLAVADO
+Dialogue: 0,0:09:08.65,0:09:10.86,Default,,0,0,0,,{\i1}El niño del autolavado.{\i0}
+Dialogue: 0,0:09:11.48,0:09:14.07,Default,,0,0,0,,Con pompas de jabón en el pelo.
+Dialogue: 0,0:09:14.15,0:09:16.40,Default,,0,0,0,,Iba de cepillo de fregar.
+Dialogue: 0,0:09:18.41,0:09:19.78,Default,,0,0,0,,Perdona, Connie.
+Dialogue: 0,0:09:19.87,0:09:22.24,Default,,0,0,0,,De habértela devuelto entonces,
+Dialogue: 0,0:09:22.33,0:09:24.66,Default,,0,0,0,,no estarías aquí encerrada.
+Dialogue: 0,0:09:24.75,0:09:26.50,Default,,0,0,0,,No pasa nada.
+Dialogue: 0,0:09:26.58,0:09:28.00,Default,,0,0,0,,Me lo paso bien.
+Dialogue: 0,0:09:52.02,0:09:53.73,Default,,0,0,0,,¡Vamos, vamos!
+Dialogue: 0,0:09:55.15,0:09:56.78,Default,,0,0,0,,¡A las rocas!
+Dialogue: 0,0:09:58.82,0:10:00.49,Default,,0,0,0,,¿Por qué nos sigue?
+Dialogue: 0,0:10:02.28,0:10:03.45,Default,,0,0,0,,La pulsera.
+Dialogue: 0,0:10:03.53,0:10:05.37,Default,,0,0,0,,Come cosas brillantes.
+Dialogue: 0,0:10:05.45,0:10:06.87,Default,,0,0,0,,¡Connie!
+Dialogue: 0,0:10:07.75,0:10:09.62,Default,,0,0,0,,- ¡Steven!\N- ¡La pulsera!
+Dialogue: 0,0:10:09.71,0:10:11.71,Default,,0,0,0,,- ¿Qué?\N- Tranquila.
+Dialogue: 0,0:10:11.79,0:10:13.80,Default,,0,0,0,,¡Vamos, corre!
+Dialogue: 0,0:10:13.88,0:10:15.46,Default,,0,0,0,,¡Corre hacia allí!
+Dialogue: 0,0:10:16.01,0:10:17.26,Default,,0,0,0,,¡Lo siento!
+Dialogue: 0,0:10:38.32,0:10:39.20,Default,,0,0,0,,¡Steven!
+Dialogue: 0,0:10:41.24,0:10:44.33,Default,,0,0,0,,Steven, ¿qué pasa? ¿Qué has hecho?
+Dialogue: 0,0:10:44.41,0:10:46.37,Default,,0,0,0,,¡Ha estado genial!
+Dialogue: 0,0:10:46.45,0:10:48.29,Default,,0,0,0,,¿Sí? ¿En serio?
+Dialogue: 0,0:10:49.16,0:10:51.50,Default,,0,0,0,,Toma tu pulsera… otra vez.
+Dialogue: 0,0:10:51.58,0:10:52.96,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:10:53.63,0:10:56.34,Default,,0,0,0,,Oye, ¿nos la vas a presentar?
+Dialogue: 0,0:10:56.42,0:11:00.26,Default,,0,0,0,,Steven se moría por conocerte. ¿A que sí?
+Dialogue: 0,0:11:01.80,0:11:04.43,Default,,0,0,0,,Eh. No le cortéis el rollo.
+Dialogue: 0,0:11:05.68,0:11:07.47,Default,,0,0,0,,¿“El rollo”?
+Dialogue: 0,0:11:28.54,0:11:30.62,Default,,0,0,0,,Subtítulos: Antonio Núñez

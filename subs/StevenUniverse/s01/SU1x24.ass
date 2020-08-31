@@ -1,0 +1,170 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E24 - An Indirect Kiss (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:27.29,0:00:29.04,Default,,0,0,0,,Date prisa, Steven.
+Dialogue: 0,0:00:31.21,0:00:32.55,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:00:32.63,0:00:33.97,Default,,0,0,0,,Sí, bien.
+Dialogue: 0,0:00:34.88,0:00:37.64,Default,,0,0,0,,- ¿Estás seguro?\N- Sí.
+Dialogue: 0,0:00:40.43,0:00:44.52,Default,,0,0,0,,Vale, entonces, ¿esta valla es nueva?
+Dialogue: 0,0:00:47.19,0:00:50.11,Default,,0,0,0,,- Es una larga historia.\N- ¿De magia?
+Dialogue: 0,0:00:51.40,0:00:54.40,Default,,0,0,0,,- Puede.\N- ¿Y qué pasó?
+Dialogue: 0,0:00:54.49,0:00:55.86,Default,,0,0,0,,Dímelo. Por favor.
+Dialogue: 0,0:00:56.61,0:00:59.70,Default,,0,0,0,,Bien, pero no es una historia feliz.
+Dialogue: 0,0:00:59.78,0:01:02.29,Default,,0,0,0,,Amatista jugaba junto al acantilado.
+Dialogue: 0,0:01:02.37,0:01:03.70,Default,,0,0,0,,¡Ten cuidado!
+Dialogue: 0,0:01:05.08,0:01:08.04,Default,,0,0,0,,Steven, ¿por qué te pones así?
+Dialogue: 0,0:01:08.12,0:01:10.75,Default,,0,0,0,,¿Por qué? ¿Acaso te importo?
+Dialogue: 0,0:01:10.84,0:01:12.13,Default,,0,0,0,,Sí.
+Dialogue: 0,0:01:12.21,0:01:14.76,Default,,0,0,0,,Steven, yo no pretendía…
+Dialogue: 0,0:01:16.05,0:01:18.05,Default,,0,0,0,,¡Amatista! ¡Te caerás!
+Dialogue: 0,0:01:18.97,0:01:21.89,Default,,0,0,0,,¡Steven, voy a caerme!
+Dialogue: 0,0:01:21.97,0:01:23.72,Default,,0,0,0,,¡Te harás daño!
+Dialogue: 0,0:01:23.81,0:01:28.06,Default,,0,0,0,,Por favor, Steven.\NUna Gema guerrera no se cae…
+Dialogue: 0,0:01:30.02,0:01:31.65,Default,,0,0,0,,Qué vergüenza.
+Dialogue: 0,0:01:34.73,0:01:36.07,Default,,0,0,0,,¡Estoy bien!
+Dialogue: 0,0:01:36.15,0:01:38.32,Default,,0,0,0,,Bajé a toda velocidad.
+Dialogue: 0,0:01:44.95,0:01:46.33,Default,,0,0,0,,¿Seguro que estás bien?
+Dialogue: 0,0:01:46.41,0:01:49.79,Default,,0,0,0,,Sí, Steven. Si no fuera por esto.
+Dialogue: 0,0:01:50.33,0:01:52.50,Default,,0,0,0,,- ¡Amatista!\N- Genial.
+Dialogue: 0,0:01:52.59,0:01:54.25,Default,,0,0,0,,- ¿Y tu gema?\N- Fresca.
+Dialogue: 0,0:01:57.92,0:01:59.88,Default,,0,0,0,,¡Se ha roto, Amatista!
+Dialogue: 0,0:01:59.97,0:02:02.68,Default,,0,0,0,,¡Grosera! No pasa nada.
+Dialogue: 0,0:02:02.76,0:02:04.81,Default,,0,0,0,,Además, este ojo mola.
+Dialogue: 0,0:02:06.47,0:02:09.69,Default,,0,0,0,,- ¿Cómo ha sido?\N- Se cayó por el acantilado.
+Dialogue: 0,0:02:09.77,0:02:11.98,Default,,0,0,0,,- Qué va.\N- Claro.
+Dialogue: 0,0:02:12.06,0:02:13.94,Default,,0,0,0,,¿Cómo no lo vi?
+Dialogue: 0,0:02:14.02,0:02:17.69,Default,,0,0,0,,Hay que poner una valla para evitar esto.
+Dialogue: 0,0:02:17.78,0:02:20.45,Default,,0,0,0,,Y por eso hay una valla. Fin.
+Dialogue: 0,0:02:22.12,0:02:24.24,Default,,0,0,0,,Espera. ¿Y Amatista?
+Dialogue: 0,0:02:25.20,0:02:27.04,Default,,0,0,0,,¡Cuéntame el resto!
+Dialogue: 0,0:02:27.12,0:02:29.62,Default,,0,0,0,,- No quiero.\N- Steven.
+Dialogue: 0,0:02:30.87,0:02:32.54,Default,,0,0,0,,Steven.
+Dialogue: 0,0:02:33.88,0:02:34.71,Default,,0,0,0,,Steven.
+Dialogue: 0,0:02:37.63,0:02:40.97,Default,,0,0,0,,Vale, pero antes déjame probar tus gafas.
+Dialogue: 0,0:02:41.05,0:02:42.97,Default,,0,0,0,,Si me das tu zumo.
+Dialogue: 0,0:02:43.05,0:02:46.26,Default,,0,0,0,,- Si solo quedan babas.\N- Me vale.
+Dialogue: 0,0:02:46.89,0:02:48.27,Default,,0,0,0,,¿Qué pinta tengo?
+Dialogue: 0,0:02:49.06,0:02:50.52,Default,,0,0,0,,Ni idea.
+Dialogue: 0,0:02:50.60,0:02:53.90,Default,,0,0,0,,Bueno… Pues…
+Dialogue: 0,0:02:53.98,0:02:55.98,Default,,0,0,0,,Amatista nos preocupaba.
+Dialogue: 0,0:02:56.07,0:02:59.86,Default,,0,0,0,,¿Qué problema hay?\NAmatista siempre se cae.
+Dialogue: 0,0:02:59.94,0:03:04.03,Default,,0,0,0,,Su cuerpo da igual,\Npero su gema está dañada.
+Dialogue: 0,0:03:04.12,0:03:05.78,Default,,0,0,0,,¿Y cómo se arregla?
+Dialogue: 0,0:03:05.87,0:03:09.08,Default,,0,0,0,,Antes teníamos a Rosa.
+Dialogue: 0,0:03:09.16,0:03:12.71,Default,,0,0,0,,Unas lágrimas sanadoras fluían de su gema.
+Dialogue: 0,0:03:12.79,0:03:17.96,Default,,0,0,0,,Quería de verdad a los que la rodeaban,\Ny compartía su dolor.
+Dialogue: 0,0:03:18.05,0:03:22.30,Default,,0,0,0,,Tú tienes su gema,\Ny sé que también tienes ese poder.
+Dialogue: 0,0:03:22.93,0:03:25.80,Default,,0,0,0,,¡Amatista! ¡Enséñame tu gema!
+Dialogue: 0,0:03:25.89,0:03:27.14,Default,,0,0,0,,Sí, vale.
+Dialogue: 0,0:03:27.22,0:03:29.64,Default,,0,0,0,,El poder de la sanación.
+Dialogue: 0,0:03:35.81,0:03:38.69,Default,,0,0,0,,Soy demasiado duro para llorar.
+Dialogue: 0,0:03:38.78,0:03:41.19,Default,,0,0,0,,Antes lloraste por las serpientes.
+Dialogue: 0,0:03:41.28,0:03:43.03,Default,,0,0,0,,¡No tienen brazos!
+Dialogue: 0,0:03:43.11,0:03:47.99,Default,,0,0,0,,Hay que llevar a Amatista\Nal arroyo sanador de Rose.
+Dialogue: 0,0:03:48.08,0:03:49.54,Default,,0,0,0,,Estoy bien.
+Dialogue: 0,0:03:49.62,0:03:56.29,Default,,0,0,0,,No voy a empeorar…
+Dialogue: 0,0:04:01.55,0:04:03.17,Default,,0,0,0,,Y en el centro,
+Dialogue: 0,0:04:03.26,0:04:09.68,Default,,0,0,0,,la fuente de Rosa, rebosante\Nde las lágrimas sanadoras de tu madre.
+Dialogue: 0,0:04:09.76,0:04:11.47,Default,,0,0,0,,- No la veo.\N- ¿Qué?
+Dialogue: 0,0:04:15.60,0:04:17.65,Default,,0,0,0,,No perdamos la calma.
+Dialogue: 0,0:04:18.27,0:04:22.03,Default,,0,0,0,,Unas zarzas no mancharán\Nel recuerdo de Rose.
+Dialogue: 0,0:04:22.65,0:04:24.95,Default,,0,0,0,,Sin ella son un desastre.
+Dialogue: 0,0:04:25.57,0:04:28.12,Default,,0,0,0,,Son patéticas, ahí agarradas.
+Dialogue: 0,0:04:28.20,0:04:30.08,Default,,0,0,0,,Todo irá bien, Granate.
+Dialogue: 0,0:04:31.04,0:04:33.08,Default,,0,0,0,,- Claro.\N- ¿Lo crees?
+Dialogue: 0,0:04:33.70,0:04:35.29,Default,,0,0,0,,Lágrimas sanadoras.
+Dialogue: 0,0:04:41.21,0:04:43.13,Default,,0,0,0,,Quizá haya un sendero.
+Dialogue: 0,0:04:58.10,0:05:00.15,Default,,0,0,0,,El dolor causa lágrimas.
+Dialogue: 0,0:05:01.73,0:05:03.44,Default,,0,0,0,,¿Dónde hay dolor?
+Dialogue: 0,0:05:11.28,0:05:14.83,Default,,0,0,0,,¡Basta de jaleo, Amatista!\N¡Ampliarás la grieta!
+Dialogue: 0,0:05:23.75,0:05:25.13,Default,,0,0,0,,En toda la gema.
+Dialogue: 0,0:05:33.18,0:05:37.23,Default,,0,0,0,,Calma, hay que meterte en la fuente ya.
+Dialogue: 0,0:05:37.31,0:05:39.73,Default,,0,0,0,,¡Si encontramos la manera!
+Dialogue: 0,0:05:46.82,0:05:47.95,Default,,0,0,0,,Qué gusto.
+Dialogue: 0,0:05:48.57,0:05:49.61,Default,,0,0,0,,Por aquí.
+Dialogue: 0,0:05:49.70,0:05:52.74,Default,,0,0,0,,No era necesario lanzar una roca
+Dialogue: 0,0:05:52.83,0:05:55.24,Default,,0,0,0,,contra el santuario de Rosa.
+Dialogue: 0,0:05:55.33,0:05:58.00,Default,,0,0,0,,Pero si no os importa, a mí tampoco.
+Dialogue: 0,0:06:01.17,0:06:02.25,Default,,0,0,0,,Algo pasa.
+Dialogue: 0,0:06:08.47,0:06:11.64,Default,,0,0,0,,- La fuente no mana.\N- ¿Qué le pasa?
+Dialogue: 0,0:06:12.26,0:06:13.47,Default,,0,0,0,,No estoy segura.
+Dialogue: 0,0:06:13.55,0:06:15.39,Default,,0,0,0,,¿Esa es mamá?
+Dialogue: 0,0:06:17.23,0:06:18.39,Default,,0,0,0,,¡Me emociono!
+Dialogue: 0,0:06:19.02,0:06:22.73,Default,,0,0,0,,Está pasando, lo siento de verdad.
+Dialogue: 0,0:06:27.28,0:06:28.40,Default,,0,0,0,,¡Jaqueca!
+Dialogue: 0,0:06:28.49,0:06:31.28,Default,,0,0,0,,Devuélveme las gafas y termina.
+Dialogue: 0,0:06:34.28,0:06:36.49,Default,,0,0,0,,¡Vamos! ¡Lo tenía!
+Dialogue: 0,0:06:37.12,0:06:41.92,Default,,0,0,0,,No pasa nada, Steven.\NQuédate aquí y vigila a Amatista.
+Dialogue: 0,0:06:42.00,0:06:43.84,Default,,0,0,0,,Arreglaremos la fuente.
+Dialogue: 0,0:06:43.92,0:06:46.17,Default,,0,0,0,,¡Esperad! ¡Puedo hacerlo!
+Dialogue: 0,0:06:50.63,0:06:53.93,Default,,0,0,0,,¡Esperad! Lo conseguiré. ¿Chicas?
+Dialogue: 0,0:07:03.15,0:07:06.94,Default,,0,0,0,,¡No te entiendo! ¡No entiendo nada!
+Dialogue: 0,0:07:07.02,0:07:09.24,Default,,0,0,0,,¿Por qué todos están tan raros?
+Dialogue: 0,0:07:10.03,0:07:11.36,Default,,0,0,0,,¿Por qué no puedo…?
+Dialogue: 0,0:07:14.03,0:07:15.49,Default,,0,0,0,,¿Por qué no lloro?
+Dialogue: 0,0:07:20.46,0:07:25.08,Default,,0,0,0,,Es que… no sé qué debo sentir por ti.
+Dialogue: 0,0:07:25.17,0:07:27.09,Default,,0,0,0,,Y todos lo saben.
+Dialogue: 0,0:07:27.88,0:07:29.76,Default,,0,0,0,,Ojalá te hubiese conocido.
+Dialogue: 0,0:07:29.84,0:07:34.84,Default,,0,0,0,,Así me sentiría triste\Ny lloraría lágrimas como las tuyas.
+Dialogue: 0,0:07:38.85,0:07:40.35,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:07:42.35,0:07:43.69,Default,,0,0,0,,Tú sigue.
+Dialogue: 0,0:08:05.92,0:08:07.79,Default,,0,0,0,,Amatista, ¿y tu gema?
+Dialogue: 0,0:08:21.10,0:08:23.56,Default,,0,0,0,,Lo siento, Amatista.
+Dialogue: 0,0:08:24.56,0:08:26.56,Default,,0,0,0,,Nada me sale bien.
+Dialogue: 0,0:08:26.65,0:08:29.57,Default,,0,0,0,,Te perderé y será culpa mía.
+Dialogue: 0,0:08:31.11,0:08:34.36,Default,,0,0,0,,Te importo.
+Dialogue: 0,0:08:36.66,0:08:38.91,Default,,0,0,0,,Haz que pueda curar.
+Dialogue: 0,0:08:46.71,0:08:48.46,Default,,0,0,0,,¡Venga ya!
+Dialogue: 0,0:09:15.70,0:09:18.66,Default,,0,0,0,,Mírate, mi salvador.
+Dialogue: 0,0:09:20.53,0:09:21.87,Default,,0,0,0,,¡Menos mal!
+Dialogue: 0,0:09:21.95,0:09:24.45,Default,,0,0,0,,¿Habéis visto? ¡He hecho magia!
+Dialogue: 0,0:09:24.54,0:09:27.46,Default,,0,0,0,,Mis lágrimas han activado la fuente\Ny he salvado a Amatista.
+Dialogue: 0,0:09:28.67,0:09:31.21,Default,,0,0,0,,Hemos desatascado una cámara
+Dialogue: 0,0:09:31.29,0:09:32.92,Default,,0,0,0,,y, de paso, la fuente.
+Dialogue: 0,0:09:33.00,0:09:34.38,Default,,0,0,0,,Hemos sido nosotras.
+Dialogue: 0,0:09:35.38,0:09:39.01,Default,,0,0,0,,¿Seguro que no han sido mis lágrimas?
+Dialogue: 0,0:09:39.09,0:09:44.72,Default,,0,0,0,,Oh, Steven, no tienes lágrimas sanadoras.\NJamás tendrás poderes.
+Dialogue: 0,0:09:44.81,0:09:47.19,Default,,0,0,0,,Y ya no queremos nada de ti.
+Dialogue: 0,0:09:47.27,0:09:49.06,Default,,0,0,0,,No dijo eso.
+Dialogue: 0,0:09:49.15,0:09:52.32,Default,,0,0,0,,No, pero a mí me lo pareció.
+Dialogue: 0,0:09:52.40,0:09:54.65,Default,,0,0,0,,¿Por eso estás deprimido?
+Dialogue: 0,0:09:57.28,0:09:59.99,Default,,0,0,0,,- Toma tu zumo.\N- No, da igual.
+Dialogue: 0,0:10:02.28,0:10:06.66,Default,,0,0,0,,Esperan que sea como mi madre.\N¿Y si no lo consigo?
+Dialogue: 0,0:10:06.75,0:10:09.67,Default,,0,0,0,,Pues serás como yo. No está tan mal.
+Dialogue: 0,0:10:09.75,0:10:13.09,Default,,0,0,0,,Pero sin poderes no podré ir con Amatista
+Dialogue: 0,0:10:13.17,0:10:15.17,Default,,0,0,0,,o Granate, o Perla.
+Dialogue: 0,0:10:15.25,0:10:17.92,Default,,0,0,0,,Ni participar en misiones.
+Dialogue: 0,0:10:18.01,0:10:21.09,Default,,0,0,0,,Puedes estar aquí conmigo sin poderes.
+Dialogue: 0,0:10:28.39,0:10:29.44,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:10:29.52,0:10:33.69,Default,,0,0,0,,Creo que algo les pasa a mis gafas.
+Dialogue: 0,0:10:34.52,0:10:36.61,Default,,0,0,0,,Mis… Mis ojos.
+Dialogue: 0,0:10:36.69,0:10:38.53,Default,,0,0,0,,¡Puedo ver!
+Dialogue: 0,0:10:38.61,0:10:41.20,Default,,0,0,0,,- ¿Qué?\N- ¡Veo sin las gafas!
+Dialogue: 0,0:10:41.28,0:10:43.70,Default,,0,0,0,,¿Te he curado?
+Dialogue: 0,0:10:44.16,0:10:45.79,Default,,0,0,0,,Pero ¿cómo?
+Dialogue: 0,0:10:48.62,0:10:50.50,Default,,0,0,0,,El zumo.
+Dialogue: 0,0:10:50.58,0:10:54.92,Default,,0,0,0,,No curo con mis lágrimas.\N¡Curo con mi saliva!
+Dialogue: 0,0:10:55.00,0:10:59.42,Default,,0,0,0,,¿Qué les diré a mis padres?\N¿Y a mi oculista?
+Dialogue: 0,0:10:59.51,0:11:02.76,Default,,0,0,0,,¡No lo sé! ¡Gracias, Connie!
+Dialogue: 0,0:11:02.84,0:11:06.51,Default,,0,0,0,,Vamos a decírselo a las Gemas. ¡Fliparán!
+Dialogue: 0,0:11:28.45,0:11:30.54,Default,,0,0,0,,Subtítulos: Xavier Cardona

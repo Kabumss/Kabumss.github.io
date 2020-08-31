@@ -1,0 +1,213 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E47 - Shirt Club (AliQ+SpaceDash cropfix) (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:47.68,0:00:49.31,Default,,0,0,0,,¡Perla!
+Dialogue: 0,0:00:49.39,0:00:52.22,Default,,0,0,0,,¡Amatista! ¡Granate!
+Dialogue: 0,0:00:53.14,0:00:55.14,Default,,0,0,0,,No grites. Estamos aquí.
+Dialogue: 0,0:00:55.23,0:00:58.73,Default,,0,0,0,,He hecho este dibujo y quería enseñároslo.
+Dialogue: 0,0:00:59.86,0:01:02.40,Default,,0,0,0,,- Claro.\N- Bien.
+Dialogue: 0,0:01:04.45,0:01:07.24,Default,,0,0,0,,“Papá Guitarrista enseña a tocar”.
+Dialogue: 0,0:01:07.87,0:01:09.74,Default,,0,0,0,,- ¿Quién es?\N- Mi padre.
+Dialogue: 0,0:01:09.83,0:01:13.33,Default,,0,0,0,,Va a enseñar. Soy su relaciones públicas.
+Dialogue: 0,0:01:13.95,0:01:16.75,Default,,0,0,0,,- ¿Qué es esto?\N- Sus dientes.
+Dialogue: 0,0:01:16.83,0:01:18.58,Default,,0,0,0,,¿Y esos rayos?
+Dialogue: 0,0:01:19.84,0:01:23.97,Default,,0,0,0,,Intentaba mostrar que papá toca de miedo…
+Dialogue: 0,0:01:24.05,0:01:26.59,Default,,0,0,0,,Entonces escribe {\i1}de miedo{\i0}.
+Dialogue: 0,0:01:26.68,0:01:29.51,Default,,0,0,0,,Ya, pero no se puede cambar.
+Dialogue: 0,0:01:29.60,0:01:31.35,Default,,0,0,0,,Está hecho a rotulador.
+Dialogue: 0,0:01:33.93,0:01:35.89,Default,,0,0,0,,¿De qué es ese cartel?
+Dialogue: 0,0:01:35.98,0:01:38.31,Default,,0,0,0,,De mi padre. Va a dar clases.
+Dialogue: 0,0:01:38.40,0:01:41.11,Default,,0,0,0,,¿Queréis apuntaros? Es muy bueno.
+Dialogue: 0,0:01:41.19,0:01:45.36,Default,,0,0,0,,- Quizá me pase a verlo.\N- Toma, un cartel.
+Dialogue: 0,0:01:48.28,0:01:50.03,Default,,0,0,0,,¡Bienvenido!
+Dialogue: 0,0:01:50.12,0:01:54.62,Default,,0,0,0,,- Hola, Buck.\N- ¿Cómo? Bu… Bu… ¡Buck!
+Dialogue: 0,0:01:54.70,0:01:57.87,Default,,0,0,0,,¿Qué pasa, tío? ¿Qué podemos ofrecerte?
+Dialogue: 0,0:01:58.96,0:02:00.00,Default,,0,0,0,,¡SOLO DÓNUTS!
+Dialogue: 0,0:02:02.75,0:02:04.34,Default,,0,0,0,,¿Tenéis ensaladas?
+Dialogue: 0,0:02:04.42,0:02:06.51,Default,,0,0,0,,Lo siento, solo dónuts.
+Dialogue: 0,0:02:06.59,0:02:09.43,Default,,0,0,0,,No te preocupes. Te prepararé una.
+Dialogue: 0,0:02:09.51,0:02:13.76,Default,,0,0,0,,- Ahora mismo vuelvo.\N- Lars, no tenemos verduras.
+Dialogue: 0,0:02:13.85,0:02:15.22,Default,,0,0,0,,PAPÁ GUITARRISTA
+Dialogue: 0,0:02:16.10,0:02:18.23,Default,,0,0,0,,- ¿Y eso?\N- ¿El cartel?
+Dialogue: 0,0:02:18.31,0:02:23.27,Default,,0,0,0,,Es mi padre.\NPuede enseñarte a tocar. Toma, coge uno.
+Dialogue: 0,0:02:23.82,0:02:25.19,Default,,0,0,0,,Mejor póntelo.
+Dialogue: 0,0:02:28.24,0:02:29.57,Default,,0,0,0,,¿Tienes cosquillas?
+Dialogue: 0,0:02:30.24,0:02:32.58,Default,,0,0,0,,- Quedaría bien.\N- ¿Sí?
+Dialogue: 0,0:02:32.66,0:02:35.58,Default,,0,0,0,,Convirtamos tu cartel en camisetas.
+Dialogue: 0,0:02:35.66,0:02:37.75,Default,,0,0,0,,A mi padre le encantaría.
+Dialogue: 0,0:02:37.83,0:02:39.04,Default,,0,0,0,,Chócala.
+Dialogue: 0,0:02:40.79,0:02:41.83,Default,,0,0,0,,Has fallado.
+Dialogue: 0,0:02:41.92,0:02:42.75,Default,,0,0,0,,REELÍJANME
+Dialogue: 0,0:02:42.84,0:02:45.09,Default,,0,0,0,,Me alegra que vuelvas al negocio.
+Dialogue: 0,0:02:45.17,0:02:49.22,Default,,0,0,0,,Quieres ayudar al viejo a ser reelegido,\N¿no, hijo?
+Dialogue: 0,0:02:51.14,0:02:55.35,Default,,0,0,0,,No es por tu campaña.\NSteven y yo vamos a hacer arte.
+Dialogue: 0,0:02:55.43,0:02:56.85,Default,,0,0,0,,¡Arte!
+Dialogue: 0,0:02:56.93,0:02:58.27,Default,,0,0,0,,Arte, ¿no?
+Dialogue: 0,0:02:58.35,0:03:02.98,Default,,0,0,0,,No lo entiendo,\Npero los jóvenes deben tener intereses.
+Dialogue: 0,0:03:04.82,0:03:07.65,Default,,0,0,0,,- ¿Se pueden hacer camisetas?\N- Sí.
+Dialogue: 0,0:03:07.74,0:03:10.91,Default,,0,0,0,,Tengo la última tecnología de impresión
+Dialogue: 0,0:03:10.99,0:03:15.16,Default,,0,0,0,,tras tantos años de campañas\Ny cosas de alcalde.
+Dialogue: 0,0:03:15.24,0:03:18.54,Default,,0,0,0,,Como esta semana,\Nque conmemoramos un banco.
+Dialogue: 0,0:03:18.62,0:03:21.62,Default,,0,0,0,,¿“Bienvenidos a Banco City”?
+Dialogue: 0,0:03:21.71,0:03:22.88,Default,,0,0,0,,Es ahorrador.
+Dialogue: 0,0:03:23.63,0:03:26.46,Default,,0,0,0,,- No puedes usar eso.\N- ¿Por qué no?
+Dialogue: 0,0:03:26.55,0:03:30.47,Default,,0,0,0,,¡Tengo que buscar\Nel voto de los jóvenes, tío!
+Dialogue: 0,0:03:30.55,0:03:31.80,Default,,0,0,0,,Papá, para.
+Dialogue: 0,0:03:31.88,0:03:33.22,Default,,0,0,0,,VOTA A MI PADRE
+Dialogue: 0,0:03:33.30,0:03:34.55,Default,,0,0,0,,¿Qué es esto?
+Dialogue: 0,0:03:34.64,0:03:36.10,Default,,0,0,0,,¿Qué tienes ahí?
+Dialogue: 0,0:03:38.35,0:03:40.81,Default,,0,0,0,,Hacía años que no lo veía.
+Dialogue: 0,0:03:40.89,0:03:42.85,Default,,0,0,0,,¿Te acuerdas, Buck?
+Dialogue: 0,0:03:43.69,0:03:47.40,Default,,0,0,0,,Querías presumir\Nfrente a los otros Montessori.
+Dialogue: 0,0:03:47.48,0:03:49.69,Default,,0,0,0,,Vale, papá. Te veo luego.
+Dialogue: 0,0:03:49.78,0:03:53.70,Default,,0,0,0,,Muy bien, chicos. Quiero decir… ¡tíos!
+Dialogue: 0,0:03:54.41,0:03:55.53,Default,,0,0,0,,¡Qué guay!
+Dialogue: 0,0:03:56.66,0:03:58.66,Default,,0,0,0,,Empecemos de una vez.
+Dialogue: 0,0:04:12.51,0:04:14.43,Default,,0,0,0,,NO MÁS OPUESTOS
+Dialogue: 0,0:04:14.51,0:04:15.72,Default,,0,0,0,,TE ENSEÑA A TOCAR
+Dialogue: 0,0:04:16.35,0:04:17.26,Default,,0,0,0,,Guay.
+Dialogue: 0,0:04:17.35,0:04:19.77,Default,,0,0,0,,Todos querrán que les enseñe.
+Dialogue: 0,0:04:19.85,0:04:22.69,Default,,0,0,0,,Es más que eso, Steven. Es arte.
+Dialogue: 0,0:04:22.77,0:04:25.48,Default,,0,0,0,,Llegará a todo el público.
+Dialogue: 0,0:04:25.56,0:04:28.40,Default,,0,0,0,,- Empecemos a repartirlas.\N- No.
+Dialogue: 0,0:04:28.48,0:04:32.90,Default,,0,0,0,,Debemos crear debate,\Nalgo impactante, un numerito.
+Dialogue: 0,0:04:32.99,0:04:33.86,Default,,0,0,0,,RECRE-MANÍA
+Dialogue: 0,0:04:33.95,0:04:35.49,Default,,0,0,0,,Buscando objetivos.
+Dialogue: 0,0:04:35.57,0:04:38.24,Default,,0,0,0,,Cañón de camisetas cargado.
+Dialogue: 0,0:04:38.33,0:04:41.25,Default,,0,0,0,,¡Bip, bip!
+Dialogue: 0,0:04:41.33,0:04:42.91,Default,,0,0,0,,¡Nata Agria a la vista!
+Dialogue: 0,0:04:46.08,0:04:50.42,Default,,0,0,0,,- Preparado, apunta…\N- Y…
+Dialogue: 0,0:04:53.38,0:04:54.97,Default,,0,0,0,,¿Pero qué…?
+Dialogue: 0,0:04:56.59,0:05:00.77,Default,,0,0,0,,Es lo más chulo\Nque me ha dado jamás en la cabeza.
+Dialogue: 0,0:05:00.85,0:05:03.18,Default,,0,0,0,,Ronaldo a la vista. Apunta.
+Dialogue: 0,0:05:05.73,0:05:06.81,Default,,0,0,0,,¿Qué me ha…?
+Dialogue: 0,0:05:09.44,0:05:14.61,Default,,0,0,0,,¡Qué raro! ¿Una camiseta\Nde un papá guitarrista extraterrestre?
+Dialogue: 0,0:05:14.70,0:05:19.24,Default,,0,0,0,,Por fin\Nhabéis decidido establecer contacto, ¿no?
+Dialogue: 0,0:05:19.33,0:05:21.54,Default,,0,0,0,,¿Dónde estáis?
+Dialogue: 0,0:05:21.62,0:05:23.95,Default,,0,0,0,,Lars a la vista. Apunta.
+Dialogue: 0,0:05:26.08,0:05:29.04,Default,,0,0,0,,¡Ay! ¿Pero…? ¿Qué es esta porquería?
+Dialogue: 0,0:05:30.67,0:05:32.30,Default,,0,0,0,,¿La ha hecho Buck?
+Dialogue: 0,0:05:35.13,0:05:38.39,Default,,0,0,0,,¡Es divertidísima! ¡Gracias, Buck!
+Dialogue: 0,0:05:38.47,0:05:39.55,Default,,0,0,0,,¡Salud!
+Dialogue: 0,0:05:41.56,0:05:43.68,Default,,0,0,0,,Ha sido una idea genial.
+Dialogue: 0,0:05:44.06,0:05:46.64,Default,,0,0,0,,¿Cómo no hemos colaborado antes?
+Dialogue: 0,0:05:46.73,0:05:48.60,Default,,0,0,0,,Mi padre se alegrará.
+Dialogue: 0,0:05:48.69,0:05:51.48,Default,,0,0,0,,Estoy deseando ver qué cara pone.
+Dialogue: 0,0:05:51.57,0:05:54.32,Default,,0,0,0,,Sí. Se reirá bastante.
+Dialogue: 0,0:05:55.15,0:06:00.12,Default,,0,0,0,,- ¿Por qué iba a…?\N- ¡Oye! ¡Mira mi nueva camiseta!
+Dialogue: 0,0:06:00.20,0:06:02.41,Default,,0,0,0,,Es muy chula. ¿De dónde es?
+Dialogue: 0,0:06:02.49,0:06:05.75,Default,,0,0,0,,No lo sé. Cayó frente a mí en la calle.
+Dialogue: 0,0:06:05.83,0:06:10.17,Default,,0,0,0,,Yo no me pondría\Nuna camiseta que cayese del cielo.
+Dialogue: 0,0:06:10.25,0:06:11.46,Default,,0,0,0,,¿Y si tiene bichos?
+Dialogue: 0,0:06:11.54,0:06:14.34,Default,,0,0,0,,No importa de dónde venga.
+Dialogue: 0,0:06:14.42,0:06:17.88,Default,,0,0,0,,Es la más divertida que he visto jamás.
+Dialogue: 0,0:06:17.97,0:06:20.55,Default,,0,0,0,,Parece estar haciéndose popular.
+Dialogue: 0,0:06:20.64,0:06:23.31,Default,,0,0,0,,Sí, pero creen que es de broma.
+Dialogue: 0,0:06:24.39,0:06:27.35,Default,,0,0,0,,Lo importante es que hablan de ella.
+Dialogue: 0,0:06:27.44,0:06:29.06,Default,,0,0,0,,Así funciona el arte.
+Dialogue: 0,0:06:30.06,0:06:32.57,Default,,0,0,0,,Supongo que tienes razón.
+Dialogue: 0,0:06:32.65,0:06:34.11,Default,,0,0,0,,AUTOLAVADO
+Dialogue: 0,0:06:34.19,0:06:36.82,Default,,0,0,0,,- ¿Y?\N- Muy mal.
+Dialogue: 0,0:06:36.90,0:06:39.32,Default,,0,0,0,,Empecemos la primera clase.
+Dialogue: 0,0:06:39.41,0:06:41.57,Default,,0,0,0,,Siéntate y… ¿Adónde vas?
+Dialogue: 0,0:06:43.16,0:06:45.58,Default,,0,0,0,,Habrá recibido un mensaje importante.
+Dialogue: 0,0:06:45.66,0:06:47.83,Default,,0,0,0,,- ¿Cómo va el día?\N- Bien.
+Dialogue: 0,0:06:47.91,0:06:51.17,Default,,0,0,0,,Han venido muchos a por tus camisetas.
+Dialogue: 0,0:06:51.25,0:06:53.75,Default,,0,0,0,,Genial. Me alegra haber ayudado.
+Dialogue: 0,0:06:54.67,0:06:56.21,Default,,0,0,0,,¡Papá Guitarrista!
+Dialogue: 0,0:06:56.30,0:07:00.01,Default,,0,0,0,,¡Quería decirte\Nque eres genial y muy gracioso!
+Dialogue: 0,0:07:01.09,0:07:02.35,Default,,0,0,0,,¿Gracias?
+Dialogue: 0,0:07:03.22,0:07:05.60,Default,,0,0,0,,- ¡Qué raro!\N- ¿El qué?
+Dialogue: 0,0:07:05.68,0:07:10.10,Default,,0,0,0,,Se ha pasado mucha gente,\Npero nadie se ha apuntado.
+Dialogue: 0,0:07:10.19,0:07:11.52,Default,,0,0,0,,¿Qué? ¿De veras?
+Dialogue: 0,0:07:11.60,0:07:13.61,Default,,0,0,0,,Quizá solo estén mirando
+Dialogue: 0,0:07:13.69,0:07:16.19,Default,,0,0,0,,antes de volver para una clase.
+Dialogue: 0,0:07:20.07,0:07:22.53,Default,,0,0,0,,- ¡Buck!\N- Hola, mejor amigo.
+Dialogue: 0,0:07:22.62,0:07:24.33,Default,,0,0,0,,Esto no funciona.
+Dialogue: 0,0:07:24.41,0:07:26.20,Default,,0,0,0,,La gente las adora.
+Dialogue: 0,0:07:26.29,0:07:29.04,Default,,0,0,0,,Pero nadie quiere dar clases.
+Dialogue: 0,0:07:29.12,0:07:31.21,Default,,0,0,0,,- Ese no es el fin.\N- ¿Qué?
+Dialogue: 0,0:07:31.29,0:07:35.29,Default,,0,0,0,,- ¿Entonces cuál es?\N- Que es una camiseta genial.
+Dialogue: 0,0:07:35.38,0:07:38.34,Default,,0,0,0,,Mi dibujo no es tan bueno.
+Dialogue: 0,0:07:38.42,0:07:40.47,Default,,0,0,0,,Así es. Es horrible.
+Dialogue: 0,0:07:40.55,0:07:43.43,Default,,0,0,0,,- ¿Cómo?\N- Por eso es genial.
+Dialogue: 0,0:07:43.51,0:07:47.81,Default,,0,0,0,,Tu obra es inocente.\NQuieres a tu padre. Es divertido.
+Dialogue: 0,0:07:47.89,0:07:51.19,Default,,0,0,0,,No… No quiero seguir haciéndolas.
+Dialogue: 0,0:07:51.27,0:07:54.65,Default,,0,0,0,,Lo siento. Son la moda. No tienes opción.
+Dialogue: 0,0:07:54.73,0:07:57.73,Default,,0,0,0,,Marco tendencia y seguiré haciéndolo…
+Dialogue: 0,0:07:58.78,0:07:59.65,Default,,0,0,0,,…siempre.
+Dialogue: 0,0:07:59.74,0:08:00.74,Default,,0,0,0,,¿Siempre?
+Dialogue: 0,0:08:00.82,0:08:04.57,Default,,0,0,0,,Bueno, seguiré\Ndespués de la conmemoración.
+Dialogue: 0,0:08:05.12,0:08:06.16,Default,,0,0,0,,Paz.
+Dialogue: 0,0:08:10.12,0:08:12.16,Default,,0,0,0,,¡Granate, Perla, Amatista!
+Dialogue: 0,0:08:12.25,0:08:13.46,Default,,0,0,0,,- Steven.\N- ¿Qué?
+Dialogue: 0,0:08:13.54,0:08:16.09,Default,,0,0,0,,- ¿Hay fuego?\N- ¡Es una emergencia!
+Dialogue: 0,0:08:16.17,0:08:19.17,Default,,0,0,0,,Debéis deshaceros de las camisetas.
+Dialogue: 0,0:08:19.26,0:08:22.26,Default,,0,0,0,,¿Han cobrado vida y poseen a la gente?
+Dialogue: 0,0:08:22.34,0:08:23.51,Default,,0,0,0,,No, es que…
+Dialogue: 0,0:08:23.59,0:08:26.35,Default,,0,0,0,,¿Sale ardiendo la gente con ellas?
+Dialogue: 0,0:08:26.43,0:08:28.18,Default,,0,0,0,,No, no, solo…
+Dialogue: 0,0:08:28.26,0:08:33.31,Default,,0,0,0,,¿Destruyen la voluntad del portador\Ny Beach City?
+Dialogue: 0,0:08:33.39,0:08:34.52,Default,,0,0,0,,¡No!
+Dialogue: 0,0:08:34.60,0:08:38.73,Default,,0,0,0,,Solo usan mi arte\Nde una forma que no me gusta.
+Dialogue: 0,0:08:40.78,0:08:41.90,Default,,0,0,0,,Pasamos.
+Dialogue: 0,0:08:41.99,0:08:45.16,Default,,0,0,0,,¿Qué? Pero… ¡Necesito vuestra ayuda!
+Dialogue: 0,0:08:45.24,0:08:48.24,Default,,0,0,0,,Steven, es un problema muy abstracto.
+Dialogue: 0,0:08:48.33,0:08:50.33,Default,,0,0,0,,No podemos golpearlo.
+Dialogue: 0,0:08:50.41,0:08:54.12,Default,,0,0,0,,Debes aprender a defenderte\Ny te harás fuerte.
+Dialogue: 0,0:08:54.75,0:08:56.42,Default,,0,0,0,,- Bien dicho.\N- Sí.
+Dialogue: 0,0:08:56.50,0:08:59.59,Default,,0,0,0,,- Pero…\N- Darás con una solución.
+Dialogue: 0,0:08:59.67,0:09:03.26,Default,,0,0,0,,¡Sí! Saca tu talento para solucionarlo.
+Dialogue: 0,0:09:03.34,0:09:07.09,Default,,0,0,0,,Haz público tu problema\Ny podrás solucionarlo.
+Dialogue: 0,0:09:08.60,0:09:10.97,Default,,0,0,0,,Haré que se entere.
+Dialogue: 0,0:09:11.06,0:09:13.81,Default,,0,0,0,,Haré que todos se enteren.
+Dialogue: 0,0:09:15.56,0:09:16.60,Default,,0,0,0,,Le irá bien.
+Dialogue: 0,0:09:16.69,0:09:19.11,Default,,0,0,0,,Vale. ¿Están todos aquí?
+Dialogue: 0,0:09:20.11,0:09:21.69,Default,,0,0,0,,¡Hola!
+Dialogue: 0,0:09:21.78,0:09:24.15,Default,,0,0,0,,Debía escribir un discurso…
+Dialogue: 0,0:09:25.45,0:09:28.24,Default,,0,0,0,,…para conmemorar este nuevo banco,
+Dialogue: 0,0:09:28.32,0:09:31.12,Default,,0,0,0,,pero me he quedado sin tinta
+Dialogue: 0,0:09:31.20,0:09:34.21,Default,,0,0,0,,en la impresora que tengo en casa.
+Dialogue: 0,0:09:34.29,0:09:36.83,Default,,0,0,0,,Y cuando fui a la tienda,
+Dialogue: 0,0:09:36.92,0:09:40.13,Default,,0,0,0,,no tenían la marca que estaba buscando…
+Dialogue: 0,0:09:40.21,0:09:42.96,Default,,0,0,0,,- Adiós.\N- …llamé a un amigo que tiene…
+Dialogue: 0,0:09:56.73,0:09:58.81,Default,,0,0,0,,Me han disparado.
+Dialogue: 0,0:10:05.99,0:10:08.16,Default,,0,0,0,,VOTA A MI PADRE
+Dialogue: 0,0:10:12.16,0:10:13.16,Default,,0,0,0,,Buck.
+Dialogue: 0,0:10:15.62,0:10:16.91,Default,,0,0,0,,¿Lo has hecho tú?
+Dialogue: 0,0:10:19.00,0:10:20.75,Default,,0,0,0,,¡Es una chulada!
+Dialogue: 0,0:10:22.04,0:10:25.01,Default,,0,0,0,,Es más chula que la del guitarrista.
+Dialogue: 0,0:10:28.22,0:10:30.59,Default,,0,0,0,,Este banco es muy cómodo.
+Dialogue: 0,0:10:33.56,0:10:35.98,Default,,0,0,0,,¿Se ha pasado alguien hoy?
+Dialogue: 0,0:10:36.06,0:10:39.56,Default,,0,0,0,,No por ahora. Seguro que mañana irá mejor.
+Dialogue: 0,0:10:39.65,0:10:42.65,Default,,0,0,0,,Sí, seguro. Esto es para ti.
+Dialogue: 0,0:10:42.73,0:10:46.40,Default,,0,0,0,,Es la última,\Nasí que es de edición limitada.
+Dialogue: 0,0:10:46.49,0:10:48.82,Default,,0,0,0,,¡Qué bien! Gracias, Steven.
+Dialogue: 0,0:10:48.90,0:10:55.66,Default,,0,0,0,,Oye, Steven, solo quería decirte\Nque siento lo que he hecho y que…
+Dialogue: 0,0:10:55.75,0:10:59.25,Default,,0,0,0,,No pasa nada, Buck.\NNo hace falta que sigas.
+Dialogue: 0,0:10:59.33,0:11:01.88,Default,,0,0,0,,Eres genial, Steven Universe.
+Dialogue: 0,0:11:02.50,0:11:03.67,Default,,0,0,0,,Hola, señor U.
+Dialogue: 0,0:11:03.75,0:11:05.76,Default,,0,0,0,,¿Quieres una foto?
+Dialogue: 0,0:11:05.84,0:11:06.88,Default,,0,0,0,,Nada de eso.
+Dialogue: 0,0:11:06.96,0:11:10.30,Default,,0,0,0,,¡Quiero dar clases con Papá Guitarrista!
+Dialogue: 0,0:11:30.74,0:11:32.82,Default,,0,0,0,,Subtítulos: M Carmen del Río

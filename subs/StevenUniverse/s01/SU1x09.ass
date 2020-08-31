@@ -1,0 +1,218 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Steven Universe S01E09 - Tiger Millionaire (1)_track4_[spa]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:02.11,Default,,0,0,0,,{\i1}Las{\i0}
+Dialogue: 0,0:00:02.20,0:00:04.24,Default,,0,0,0,,{\i1}Gemas de Cristal{\i0}
+Dialogue: 0,0:00:04.32,0:00:06.99,Default,,0,0,0,,{\i1}Te ayudan si estás mal{\i0}
+Dialogue: 0,0:00:07.08,0:00:09.08,Default,,0,0,0,,{\i1}Y no hay complicación{\i0}
+Dialogue: 0,0:00:09.16,0:00:11.83,Default,,0,0,0,,{\i1}Que no tenga solución{\i0}
+Dialogue: 0,0:00:11.92,0:00:17.20,Default,,0,0,0,,- {\i1}Por eso el mundo entero hoy{\i0}\N- {\i1}Confía en{\i0}
+Dialogue: 0,0:00:17.39,0:00:18.09,Default,,0,0,0,,{\i1}Granate{\i0}
+Dialogue: 0,0:00:18.37,0:00:19.62,Default,,0,0,0,,{\i1}Amatista{\i0}
+Dialogue: 0,0:00:19.71,0:00:21.14,Default,,0,0,0,,{\i1}Y Perla{\i0}
+Dialogue: 0,0:00:21.22,0:00:22.68,Default,,0,0,0,,¡Y Steven!
+Dialogue: 0,0:00:28.44,0:00:32.36,Default,,0,0,0,,¿Te parece normal\Ngolpear un pólipo de sangre?
+Dialogue: 0,0:00:32.45,0:00:34.66,Default,,0,0,0,,Mira toda esta mugre.
+Dialogue: 0,0:00:34.74,0:00:37.70,Default,,0,0,0,,- Y mira a Steven.\N- No está tan mal.
+Dialogue: 0,0:00:38.33,0:00:39.79,Default,,0,0,0,,¿Ves? Le gusta.
+Dialogue: 0,0:00:39.87,0:00:42.04,Default,,0,0,0,,¿Y cuando se endurezca?
+Dialogue: 0,0:00:43.00,0:00:45.25,Default,,0,0,0,,¿Qué? Voy a lavarme.
+Dialogue: 0,0:00:45.33,0:00:47.54,Default,,0,0,0,,Estaba demasiado cerca.
+Dialogue: 0,0:00:47.63,0:00:49.63,Default,,0,0,0,,No sabía que reventaría.
+Dialogue: 0,0:00:49.71,0:00:50.67,Default,,0,0,0,,Chicas.
+Dialogue: 0,0:00:50.76,0:00:53.68,Default,,0,0,0,,Tus arrebatos nos ponen en peligro.
+Dialogue: 0,0:00:54.72,0:00:58.18,Default,,0,0,0,,¡Eres demasiado infantil!
+Dialogue: 0,0:00:58.26,0:00:59.51,Default,,0,0,0,,Sí, sí.
+Dialogue: 0,0:00:59.60,0:01:02.68,Default,,0,0,0,,E “insensata, vulgar y bocazas”.
+Dialogue: 0,0:01:02.77,0:01:05.23,Default,,0,0,0,,¡Y por eso soy tan genial!
+Dialogue: 0,0:01:05.31,0:01:07.23,Default,,0,0,0,,¿Verdad, Granate?
+Dialogue: 0,0:01:07.31,0:01:10.03,Default,,0,0,0,,Eres una Gema de Cristal.
+Dialogue: 0,0:01:10.11,0:01:12.11,Default,,0,0,0,,Debes actuar como tal.
+Dialogue: 0,0:01:13.90,0:01:14.95,Default,,0,0,0,,Vale.
+Dialogue: 0,0:01:17.45,0:01:19.53,Default,,0,0,0,,Creo que lo ha entendido.
+Dialogue: 0,0:01:20.91,0:01:22.16,Default,,0,0,0,,¿Verdad, Granate?
+Dialogue: 0,0:01:23.71,0:01:24.79,Default,,0,0,0,,¿Chicas?
+Dialogue: 0,0:01:36.13,0:01:37.18,Default,,0,0,0,,¿Amatista?
+Dialogue: 0,0:01:40.93,0:01:45.35,Default,,0,0,0,,Para quienes no conozcan\Nestos eventos atléticos,
+Dialogue: 0,0:01:45.44,0:01:47.60,Default,,0,0,0,,Puma Púrpura…
+Dialogue: 0,0:01:48.69,0:01:54.99,Default,,0,0,0,,…es el luchador individual más odiado\Nde la historia de Beach City.
+Dialogue: 0,0:01:55.07,0:01:56.11,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:01:57.74,0:02:00.62,Default,,0,0,0,,Vale. Presentemos a su oponente.
+Dialogue: 0,0:02:00.70,0:02:02.79,Default,,0,0,0,,¿O debería decir víctima?
+Dialogue: 0,0:02:03.54,0:02:06.29,Default,,0,0,0,,¡El Bloguero del Lago Ness!
+Dialogue: 0,0:02:06.37,0:02:07.54,Default,,0,0,0,,¡Voy a acabar…
+Dialogue: 0,0:02:08.58,0:02:10.71,Default,,0,0,0,,…con tu reino de terror!
+Dialogue: 0,0:02:12.88,0:02:15.47,Default,,0,0,0,,Vaya, qué rapidez.
+Dialogue: 0,0:02:15.55,0:02:18.26,Default,,0,0,0,,Tampoco me gusta. Eh, ¿qué haces?
+Dialogue: 0,0:02:24.35,0:02:25.39,Default,,0,0,0,,¡Amatista!
+Dialogue: 0,0:02:27.19,0:02:28.77,Default,,0,0,0,,¿Qué haces aquí?
+Dialogue: 0,0:02:28.85,0:02:30.86,Default,,0,0,0,,¿Peleas en secreto?
+Dialogue: 0,0:02:31.90,0:02:33.03,Default,,0,0,0,,Sí.
+Dialogue: 0,0:02:33.61,0:02:35.53,Default,,0,0,0,,¿Cómo? ¿Cuándo?
+Dialogue: 0,0:02:35.61,0:02:36.95,Default,,0,0,0,,¿Por qué?
+Dialogue: 0,0:02:37.03,0:02:39.87,Default,,0,0,0,,Ven. Voy a explicarte una cosa.
+Dialogue: 0,0:02:40.41,0:02:43.41,Default,,0,0,0,,En el cuadrilátero, nadie me manda.
+Dialogue: 0,0:02:43.49,0:02:46.25,Default,,0,0,0,,Si lo hacen, les doy con una silla.
+Dialogue: 0,0:02:46.33,0:02:48.71,Default,,0,0,0,,¿A la gente le gusta eso?
+Dialogue: 0,0:02:48.79,0:02:49.79,Default,,0,0,0,,¿Gustarles?
+Dialogue: 0,0:02:49.88,0:02:51.92,Default,,0,0,0,,¡Les encanta!
+Dialogue: 0,0:02:52.00,0:02:55.63,Default,,0,0,0,,Lo odian, pero es parte de la diversión.
+Dialogue: 0,0:02:55.71,0:02:57.67,Default,,0,0,0,,Todos lo entienden.
+Dialogue: 0,0:02:59.05,0:03:02.72,Default,,0,0,0,,Es duro tener a Perla y Granate detrás.
+Dialogue: 0,0:03:02.80,0:03:04.72,Default,,0,0,0,,¿Me lo dices en serio?
+Dialogue: 0,0:03:04.81,0:03:08.69,Default,,0,0,0,,“Te dije que no comieras\Nmantequilla de cacahuete”.
+Dialogue: 0,0:03:08.77,0:03:10.77,Default,,0,0,0,,“No voy a decirte nada,
+Dialogue: 0,0:03:10.85,0:03:13.73,Default,,0,0,0,,pero que sepas que eso está mal”.
+Dialogue: 0,0:03:14.94,0:03:18.11,Default,,0,0,0,,Déjame pelear contigo. ¡Estoy reprimido!
+Dialogue: 0,0:03:18.20,0:03:21.03,Default,,0,0,0,,Aún no he ganado por equipos.
+Dialogue: 0,0:03:21.11,0:03:23.58,Default,,0,0,0,,- A las chicas, ni mu.\N- Vale.
+Dialogue: 0,0:03:30.08,0:03:30.79,Default,,0,0,0,,MARGARINA
+Dialogue: 0,0:03:34.38,0:03:35.88,Default,,0,0,0,,¿Están listos?
+Dialogue: 0,0:03:36.51,0:03:39.47,Default,,0,0,0,,¡Con ustedes, Tigre Millonetis!
+Dialogue: 0,0:03:39.55,0:03:42.39,Default,,0,0,0,,Un empresario felino de Isla Selva.
+Dialogue: 0,0:03:42.47,0:03:45.26,Default,,0,0,0,,Hijo único de la familia Tigre,
+Dialogue: 0,0:03:45.35,0:03:49.73,Default,,0,0,0,,se forjó su propio destino\Nen las minas de coco.
+Dialogue: 0,0:03:49.81,0:03:52.15,Default,,0,0,0,,Vaya. ¿Se te acaba de ocurrir?
+Dialogue: 0,0:03:52.23,0:03:53.23,Default,,0,0,0,,Bueno, sí.
+Dialogue: 0,0:03:53.31,0:03:54.90,Default,,0,0,0,,¿Y tu historia?
+Dialogue: 0,0:03:54.98,0:03:56.44,Default,,0,0,0,,Los pumas molan.
+Dialogue: 0,0:03:57.90,0:03:59.15,Default,,0,0,0,,Lo trabajaremos.
+Dialogue: 0,0:03:59.24,0:04:01.32,Default,,0,0,0,,Dos héroes locales.
+Dialogue: 0,0:04:01.41,0:04:05.28,Default,,0,0,0,,Construyen hospitales,\Ny unos brazos musculosos.
+Dialogue: 0,0:04:05.37,0:04:09.37,Default,,0,0,0,,¡Un aplauso para Cacharas y El Camionero!
+Dialogue: 0,0:04:10.00,0:04:14.67,Default,,0,0,0,,Contra Puma Púrpura\Ny nuestro nuevo contrincante,
+Dialogue: 0,0:04:14.75,0:04:18.67,Default,,0,0,0,,¡Tigre Millonetis!
+Dialogue: 0,0:04:19.55,0:04:21.68,Default,,0,0,0,,Le van a dar para el pelo.
+Dialogue: 0,0:04:21.76,0:04:24.30,Default,,0,0,0,,Desde aquí se parece a Steven.
+Dialogue: 0,0:04:24.80,0:04:25.85,Default,,0,0,0,,Sí, claro.
+Dialogue: 0,0:04:26.93,0:04:28.02,Default,,0,0,0,,Steven, espera.
+Dialogue: 0,0:04:28.10,0:04:31.10,Default,,0,0,0,,Solo te uso para ganar por equipos.
+Dialogue: 0,0:04:31.18,0:04:32.77,Default,,0,0,0,,Ya lucharé yo.
+Dialogue: 0,0:04:32.85,0:04:35.11,Default,,0,0,0,,¿Me dejo el disfraz?
+Dialogue: 0,0:04:35.19,0:04:36.36,Default,,0,0,0,,¡Me da igual!
+Dialogue: 0,0:04:37.40,0:04:38.44,Default,,0,0,0,,¡Vale!
+Dialogue: 0,0:04:43.07,0:04:44.16,Default,,0,0,0,,¡Puma arrasa!
+Dialogue: 0,0:04:44.78,0:04:47.20,Default,,0,0,0,,¡Puma! ¡Puma! ¡Cuidado!
+Dialogue: 0,0:04:48.08,0:04:51.96,Default,,0,0,0,,Qué desperdicio de señales de aviso\Ne impuestos.
+Dialogue: 0,0:04:52.04,0:04:53.37,Default,,0,0,0,,No es justo.
+Dialogue: 0,0:04:53.46,0:04:57.42,Default,,0,0,0,,Puede no parecerlo,\Npero en la lucha todo vale.
+Dialogue: 0,0:04:57.50,0:04:58.92,Default,,0,0,0,,¿Ah, sí?
+Dialogue: 0,0:04:59.00,0:05:01.01,Default,,0,0,0,,¡Claro que sí!
+Dialogue: 0,0:05:01.09,0:05:04.43,Default,,0,0,0,,Este tigre va a hacer trampas.
+Dialogue: 0,0:05:05.05,0:05:06.60,Default,,0,0,0,,¡Eh, Camionero!
+Dialogue: 0,0:05:06.68,0:05:09.51,Default,,0,0,0,,Mil dólares si te dejas ganar.
+Dialogue: 0,0:05:09.60,0:05:10.93,Default,,0,0,0,,¿Qué pasa aquí?
+Dialogue: 0,0:05:11.02,0:05:14.02,Default,,0,0,0,,Tigre Millonetis le está sobornando.
+Dialogue: 0,0:05:14.10,0:05:16.86,Default,,0,0,0,,Eh, puedo llenar mil pozos de…
+Dialogue: 0,0:05:17.77,0:05:19.36,Default,,0,0,0,,¡Eh! ¿Lo has visto?
+Dialogue: 0,0:05:23.53,0:05:25.45,Default,,0,0,0,,O sea… ¡vaya!
+Dialogue: 0,0:05:25.53,0:05:26.87,Default,,0,0,0,,¡Bien, Tigre!
+Dialogue: 0,0:05:54.10,0:05:55.60,Default,,0,0,0,,SELVA DE WALL STREET
+Dialogue: 0,0:05:58.56,0:05:59.69,Default,,0,0,0,,¡COLAPSO FINANCIERO!
+Dialogue: 0,0:06:09.70,0:06:11.08,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:06:13.25,0:06:15.66,Default,,0,0,0,,Un calor sin precedentes, ¿no?
+Dialogue: 0,0:06:15.75,0:06:18.29,Default,,0,0,0,,Tigre ha comprado los refrescos.
+Dialogue: 0,0:06:18.38,0:06:20.13,Default,,0,0,0,,Quizá los comparta.
+Dialogue: 0,0:06:21.42,0:06:23.42,Default,,0,0,0,,Nos quedamos sin ellos.
+Dialogue: 0,0:06:23.51,0:06:25.17,Default,,0,0,0,,¿Botas de agua?
+Dialogue: 0,0:06:25.97,0:06:28.76,Default,,0,0,0,,Cuesta ver esto, amigos.
+Dialogue: 0,0:06:30.10,0:06:30.97,Default,,0,0,0,,Típico.
+Dialogue: 0,0:06:31.05,0:06:33.31,Default,,0,0,0,,Tigre. Eh, Tigre. Fírmalo.
+Dialogue: 0,0:06:33.39,0:06:34.60,Default,,0,0,0,,Sería lo más.
+Dialogue: 0,0:06:34.68,0:06:36.81,Default,,0,0,0,,¡No te lo puedes permitir!
+Dialogue: 0,0:06:41.40,0:06:46.19,Default,,0,0,0,,Nunca había visto a un luchador\Natacando a sus propios fans.
+Dialogue: 0,0:06:46.28,0:06:48.28,Default,,0,0,0,,¡Lo pasábamos bien!
+Dialogue: 0,0:06:48.36,0:06:51.16,Default,,0,0,0,,Tigre, eres la criatura más cruel.
+Dialogue: 0,0:06:59.08,0:07:00.04,Default,,0,0,0,,¡Eh, Tigre!
+Dialogue: 0,0:07:00.13,0:07:02.79,Default,,0,0,0,,¿Listo para el combate final?
+Dialogue: 0,0:07:02.88,0:07:07.05,Default,,0,0,0,,Amatista, ¿soy la criatura más cruel?
+Dialogue: 0,0:07:09.13,0:07:10.76,Default,,0,0,0,,¡Oh, Steven!
+Dialogue: 0,0:07:10.84,0:07:14.22,Default,,0,0,0,,Así describen cómo les haces sentir.
+Dialogue: 0,0:07:16.14,0:07:17.48,Default,,0,0,0,,Oye, Steven.
+Dialogue: 0,0:07:17.56,0:07:21.15,Default,,0,0,0,,No dejes que te hagan sentir como basura.
+Dialogue: 0,0:07:22.27,0:07:23.98,Default,,0,0,0,,¿Tú te sientes así?
+Dialogue: 0,0:07:24.07,0:07:26.36,Default,,0,0,0,,Solo siento lo que quiero.
+Dialogue: 0,0:07:27.90,0:07:30.41,Default,,0,0,0,,Aficionados a la lucha libre,
+Dialogue: 0,0:07:30.49,0:07:34.83,Default,,0,0,0,,¡bienvenidos al campeonato por equipos!
+Dialogue: 0,0:07:34.91,0:07:36.66,Default,,0,0,0,,En el cuadrilátero…
+Dialogue: 0,0:07:36.75,0:07:39.83,Default,,0,0,0,,Tienen un hueco en nuestros corazones.
+Dialogue: 0,0:07:39.92,0:07:43.34,Default,,0,0,0,,¡Un aplauso para el Guapetón Dave Doober
+Dialogue: 0,0:07:43.42,0:07:47.59,Default,,0,0,0,,y el Atractivo Hank Hackleschmidt!
+Dialogue: 0,0:07:47.67,0:07:50.51,Default,,0,0,0,,Solo estarían más guapos con esto.
+Dialogue: 0,0:07:50.59,0:07:53.26,Default,,0,0,0,,El cinturón de campeones.
+Dialogue: 0,0:07:53.93,0:07:57.35,Default,,0,0,0,,En su camino, los reyes de la selva.
+Dialogue: 0,0:07:57.43,0:08:00.19,Default,,0,0,0,,¡Devorarán a vuestros hijos!
+Dialogue: 0,0:08:01.27,0:08:05.02,Default,,0,0,0,,¡Sí, solo pueden ser Puma Púrpura
+Dialogue: 0,0:08:05.11,0:08:08.82,Default,,0,0,0,,y Tigre Millonetis!
+Dialogue: 0,0:08:08.90,0:08:11.28,Default,,0,0,0,,¡No les dañéis, monstruos!
+Dialogue: 0,0:08:11.36,0:08:14.28,Default,,0,0,0,,La gente odia mucho a Tigre.
+Dialogue: 0,0:08:14.37,0:08:15.99,Default,,0,0,0,,Me hizo daño a mí.
+Dialogue: 0,0:08:16.08,0:08:17.12,Default,,0,0,0,,TIGRE ES BOBO
+Dialogue: 0,0:08:21.79,0:08:23.71,Default,,0,0,0,,¿Perla? ¿Granate?
+Dialogue: 0,0:08:23.79,0:08:25.21,Default,,0,0,0,,¿Qué hacéis?
+Dialogue: 0,0:08:25.29,0:08:28.51,Default,,0,0,0,,¿Que qué hacemos? ¿Qué es esto?
+Dialogue: 0,0:08:29.88,0:08:32.26,Default,,0,0,0,,Era un poco de promoción.
+Dialogue: 0,0:08:32.34,0:08:34.64,Default,,0,0,0,,Tenemos nuevas oponentes.
+Dialogue: 0,0:08:34.72,0:08:37.01,Default,,0,0,0,,No. Se cancela el combate.
+Dialogue: 0,0:08:37.10,0:08:37.85,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:08:37.93,0:08:39.39,Default,,0,0,0,,¿Qué? ¿Por qué?
+Dialogue: 0,0:08:39.47,0:08:40.60,Default,,0,0,0,,¿Por qué?
+Dialogue: 0,0:08:40.68,0:08:45.65,Default,,0,0,0,,Es increíble que te hayas escapado\Na este circo de violencia.
+Dialogue: 0,0:08:45.73,0:08:46.90,Default,,0,0,0,,¡Y tú!
+Dialogue: 0,0:08:46.98,0:08:49.44,Default,,0,0,0,,Usando la gema con humanos.
+Dialogue: 0,0:08:49.53,0:08:51.65,Default,,0,0,0,,Tú siempre me criticas.
+Dialogue: 0,0:08:51.74,0:08:53.49,Default,,0,0,0,,Te vas a cargar esto.
+Dialogue: 0,0:08:53.57,0:08:56.91,Default,,0,0,0,,- No venimos a luchar.\N- ¡Lucha! ¡Lucha!
+Dialogue: 0,0:08:56.99,0:08:58.74,Default,,0,0,0,,Steven. Amatista.
+Dialogue: 0,0:08:58.83,0:08:59.66,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:08:59.75,0:09:01.33,Default,,0,0,0,,Regresad al templo.
+Dialogue: 0,0:09:01.41,0:09:03.75,Default,,0,0,0,,¡No quiero!
+Dialogue: 0,0:09:06.71,0:09:08.00,Default,,0,0,0,,No lo hagas.
+Dialogue: 0,0:09:18.85,0:09:20.18,Default,,0,0,0,,¡Chicas, alto!
+Dialogue: 0,0:09:27.40,0:09:28.27,Default,,0,0,0,,¡Esperad!
+Dialogue: 0,0:09:29.36,0:09:32.94,Default,,0,0,0,,Quiero contar la historia de Puma Púrpura.
+Dialogue: 0,0:09:33.03,0:09:35.61,Default,,0,0,0,,El gato más salvaje de la selva.
+Dialogue: 0,0:09:35.70,0:09:38.70,Default,,0,0,0,,Los demás gatos no le tragaban.
+Dialogue: 0,0:09:38.78,0:09:43.91,Default,,0,0,0,,Ella… O sea, él fue en busca de un sitio\Ndonde encajara.
+Dialogue: 0,0:09:44.00,0:09:47.50,Default,,0,0,0,,Con otra gente que fuera incomprendida.
+Dialogue: 0,0:09:47.58,0:09:49.63,Default,,0,0,0,,Habla igual que Steven.
+Dialogue: 0,0:09:49.71,0:09:52.88,Default,,0,0,0,,Por eso estamos aquí, para ser salvajes,
+Dialogue: 0,0:09:52.96,0:09:56.09,Default,,0,0,0,,para golpearnos, y llevar disfraces,
+Dialogue: 0,0:09:56.18,0:09:59.35,Default,,0,0,0,,e inventarnos apodos, y… y…
+Dialogue: 0,0:09:59.43,0:10:02.60,Default,,0,0,0,,¿Podemos tener solo eso?
+Dialogue: 0,0:10:02.68,0:10:04.94,Default,,0,0,0,,¿Podemos luchar y ya está?
+Dialogue: 0,0:10:06.65,0:10:07.52,Default,,0,0,0,,No.
+Dialogue: 0,0:10:08.90,0:10:15.07,Default,,0,0,0,,Porque somos\Nla Infame Orden de Resentidos de la Lucha.
+Dialogue: 0,0:10:15.15,0:10:16.32,Default,,0,0,0,,Exacto.
+Dialogue: 0,0:10:17.57,0:10:20.16,Default,,0,0,0,,No queremos que haya lucha.
+Dialogue: 0,0:10:20.87,0:10:24.00,Default,,0,0,0,,¿Nos vais a dejar acabar con la lucha?
+Dialogue: 0,0:10:24.08,0:10:26.08,Default,,0,0,0,,¡Salvad la lucha!
+Dialogue: 0,0:10:26.16,0:10:27.50,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:10:27.58,0:10:28.63,Default,,0,0,0,,TIGRE NO ES BOBO
+Dialogue: 0,0:10:28.71,0:10:31.71,Default,,0,0,0,,¡Tigre! ¡Puma! ¡Tigre! ¡Puma!
+Dialogue: 0,0:10:32.34,0:10:33.46,Default,,0,0,0,,¡Os pararemos!
+Dialogue: 0,0:10:33.55,0:10:35.55,Default,,0,0,0,,¡Vaya giro sorprendente!
+Dialogue: 0,0:10:35.63,0:10:37.84,Default,,0,0,0,,¡El dúo de la selva pelea!
+Dialogue: 0,0:10:40.85,0:10:43.18,Default,,0,0,0,,¡La Capitana Cuadrada ha caído!
+Dialogue: 0,0:10:43.27,0:10:44.52,Default,,0,0,0,,Esperen.
+Dialogue: 0,0:10:44.60,0:10:46.69,Default,,0,0,0,,¡Los guaperas con una escalera!
+Dialogue: 0,0:10:46.77,0:10:49.44,Default,,0,0,0,,¿Van a robar el cinturón? ¡No!
+Dialogue: 0,0:10:49.52,0:10:51.69,Default,,0,0,0,,¡Están ayudando a Tigre!
+Dialogue: 0,0:10:51.77,0:10:53.36,Default,,0,0,0,,Está subiendo y…
+Dialogue: 0,0:10:53.44,0:10:54.90,Default,,0,0,0,,Perdona por…
+Dialogue: 0,0:10:54.99,0:10:57.03,Default,,0,0,0,,- Perdona.\N- Y tú a mí.
+Dialogue: 0,0:10:57.11,0:11:00.20,Default,,0,0,0,,¡Tigre Millonetis tiene el cinturón!
+Dialogue: 0,0:11:00.28,0:11:04.79,Default,,0,0,0,,¡Tigre y Puma han ganado,\Ny han salvado la lucha!
+Dialogue: 0,0:11:04.87,0:11:07.04,Default,,0,0,0,,Lars, estoy muy confusa.
+Dialogue: 0,0:11:07.12,0:11:09.21,Default,,0,0,0,,Te quiero, Tigre Millonetis.
+Dialogue: 0,0:11:30.31,0:11:32.40,Default,,0,0,0,,Subtítulos: Antonio Núñez
