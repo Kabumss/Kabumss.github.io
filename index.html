@@ -33,6 +33,13 @@ and open the template in the editor.
         <link rel="stylesheet" href="css/home.css" />
         <link rel="stylesheet" href="css/collapse.css" />
         <link rel="stylesheet" href="css/index.css" />
+        <script type="text/javascript" language="javascript">
+            const vUpdate = (new Date()).getTime();
+            const link = document.createElement("link");
+            link.rel  = 'stylesheet';
+            link.href = 'css/additional.css?v=' + vUpdate;
+            document.head.appendChild(link);
+        </script> 
         <script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-TVDT8FN44H"></script>
         <script>
@@ -73,8 +80,8 @@ and open the template in the editor.
         <!-- Your Content -->
         <div id="container">
             <!-- Menu Button -->
-            <nav class="fixed-top" style="width: 1; height: 0;"> <!--navbar-->
-                <button class="menu-btn btn btn-blue" title="Lista de cartoons">&#9776; Cartoons</button>
+            <nav class="fixed-top" style="width: 1; height: 0;" id="series"> <!--navbar-->
+                <button class="menu-btn btn btn-blue" title="Lista de cartoons"><i class="fas fa-bars"></i> Cartoons</button>
                 <button class="home-btn btn btn-blue" title="Página de inicio"><i class="fas fa-home"></i></button>
             </nav>
             <!-- <main class="timeline">-->
@@ -97,7 +104,7 @@ and open the template in the editor.
                                     </a>
                                 </span>
                             </header>
-                            <article class="markdown-body">
+                            <article class="markdown-body" id="textHome">
                                 <h1>¡Bienvenido a Kabums!</h1>
                                 <h3>¿Qué es este sitio?</h3>
                                 <p>Este sitio web será un lugar dedicado para ver dibujos animados de forma online; con una buena relación de <b><i>Calidad de Video-Velocidad de Reproducción</i></b> y un diseño minimalista de fácil y rápida navegación. </p>
@@ -115,7 +122,7 @@ and open the template in the editor.
                                 <h1></h1>
                                 <details>
                                     <summary>Lista de dibujos animados</summary>
-                                    <ul>
+                                    <ul id="listSeries">
                                         <li>Over The Garden Wall/Más Allá del Jardín (Audio: Español Latino e Inglés - Subtítulos: Español e Inglés - Calidad: 1080p) + Tome of the Unknown/El Tomo de los Desconocido (Audio: Español Latino e Inglés - Subtítulos: No disponible - Calidad: 1080p)</li>
                                         <li>Steven Universe + Steven Universe: The Movie + Steven Universe Future + Extras (Audio: Español Latino e Inglés - Subtítulos: Español (Solo: Temporada 1, Temporada 4, Episodio final de la 5ta Temporada, La Película y Steven Universe Future) - Calidad: 1080p</li>
                                     </ul>
@@ -142,10 +149,10 @@ and open the template in the editor.
                                     </a>
                                 </span>
                             </header>
-                            <article class="markdown-body">
+                            <article class="markdown-body" id="textComment">
                                 <h1>Si Quieres Comentar...</h1>
                                 <p>Si quieres comentar, crea una cuenta en <a href="https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">GitHub</a>, es bastante rápido, solo necesitas ingresar un nombre de usuario, correo y contraseña y verificar el correo. Luego dirígete a la caja de comentarios de esta página y da clic en el botón azul que dice <i>“Sign in to comment”</i> y autoriza el acceso a <b>utterances</b>.</p>
-                                <details>
+                                <details id="txtComm1">
                                     <summary>Algunos consejos útiles para comentar</summary>
                                     <ul>
                                         <li>Si quieres responder a un comentario, no puedes hacerlo directamente, en su lugar puedes mencionar al usuario utilizando un @ + Nombre de Usuario, quedaría algo así: <code>@username</code></li>
@@ -209,7 +216,7 @@ and open the template in the editor.
                                         </li>
                                     </ul>
                                 </details>
-                                <details>
+                                <details id="txtComm2">
                                     <summary>¿Qué es GitHub? ¿Por qué usarlo como caja de comentarios?</summary>
                                     <p>Si no eres desarrollador o no sigues ningún programa de código abierto es probable que no sepas que es GitHub.</p>
                                     <p>No voy a entrar mucho en detalle de lo que es GitHub, pero básicamente es una plataforma donde los desarrolladores pueden gestionar sus proyectos y pueden tener un control sobre las versiones de sus programas; el punto es que estos proyectos tienen un apartado que es como una especie de foro, en donde los usuarios o los mismos desarrolladores informan de los problemas que posee el proyecto.</p>
@@ -246,9 +253,19 @@ and open the template in the editor.
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/playlist/playlist.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/playlist/playlist-i18n.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"></script>
+        <script type="text/javascript" language="javascript">
+            const versionUpdate = (new Date()).getTime();
+            const script1 = document.createElement("script");
+            const script2 = document.createElement("script");
+            const script3 = document.createElement("script");
+            script1.src = "js/ZGF0YQ==.js?v=" + versionUpdate;
+            script2.src = "js/Y29uZmln.js?v=" + versionUpdate;
+            script3.src = "js/aG9tZVRleHQ=.js?v=" + versionUpdate;
+            document.body.appendChild(script1);
+            document.body.appendChild(script2);
+            document.body.appendChild(script3);
+        </script> 
         <script src="js/plugins/pushy/pushy.min.js"></script>
-        <script src="js/ZGF0YQ==.js"></script>
-        <script src="js/Y29uZmln.js"></script>
         <script src="js/plugins/blockadblock/BlockAdBlock.js"></script>
     </body>
 </html>
