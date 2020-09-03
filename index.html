@@ -6,267 +6,33 @@ and open the template in the editor.
 -->
 <html>
     <head>
-        <meta name="robots" content="noindex"> 
+        <meta name="robots" content="noindex">
         <title>Kabums</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-        <meta http-equiv="Pragma" content="no-cache">
-        <meta http-equiv="Last-Modified" content="0">
-        <meta http-equiv="Expires" content="0">
         <link rel="shortcut icon" href="/icon/boom.png" type="image/x-icon">
         <link rel="icon" href="/icon/boom.png" type="image/x-icon">
-        <!--<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>-->
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-        <script src="js/plugins/subtitles-octopus/subtitles-octopus.js"></script>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelementplayer.min.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/quality/quality.min.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/speed/speed.min.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/playlist/playlist.min.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/pushy.css" /> 
-        <link rel="stylesheet" href="css/search.css" />
-        <link rel="stylesheet" href="css/home.css" />
-        <link rel="stylesheet" href="css/collapse.css" />
-        <link rel="stylesheet" href="css/index.css" />
-        <script type="text/javascript" language="javascript">
-            const vUpdate = (new Date()).getTime();
-            const link = document.createElement("link");
-            link.rel  = 'stylesheet';
-            link.href = 'css/additional.css?v=' + vUpdate;
-            document.head.appendChild(link);
-        </script> 
-        <script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TVDT8FN44H"></script>
-        <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() {
-                dataLayer.push(arguments);
+        <style type="text/css">
+            body {
+                margin: 0;
             }
-            gtag('js', new Date());
-
-            gtag('config', 'G-TVDT8FN44H');
-        </script>
-        <!--<script src="https://raw.githubusercontent.com/Dador/JavascriptSubtitlesOctopus/master/dist/js/subtitles-octopus.js"></script>-->
-    </head>
-    <body style="visibility: hidden !important;">
-        <style>
-            @-webkit-keyframes kiija {0% {opacity: 0;}80% {opacity: 0;}100% {opacity: 1;}}
-            @keyframes kiija {0% {opacity: 0;}80% {opacity: 0;}100% {opacity: 1;}}
+            #iframe1 {
+                display: block;
+                background: #000;
+                border: none;
+                height: 100vh;
+                width: 100vw;
+            }
         </style>
-        <div id="babasbmsgx" style="visibility: visible; -webkit-animation-name: kiija;-webkit-animation-duration: 5s; animation-name: kiija;animation-duration: 5s;">
-            Please disable your adblock and script blockers to view this page.
-        </div>
-        <nav class="pushy pushy-left">
-            <div class="pushy-content">
-                <div class="form-group has-search">
-                    <span class="fa fa-search form-control-feedback"></span>
-                    <input type="text" class="form-control" id="myInput" placeholder="Buscar cartoon..." title="Busca por los nombres en ingles">
-                </div>
-                <ul id="myUL">
-                    <li class="pushy-link"><a href="#OverTheGardenWall/Temporada_1/E1/l1">Over The Garden Wall/Más Allá del Jardín</a></li>
-                    <li class="pushy-link"><a href="#StevenUniverse/Temporada_1/E1/l1">Steven Universe</a></li>
-                </ul>
-            </div>
-        </nav>
-
-        <!-- Site Overlay -->
-        <div class="site-overlay"></div>
-
-        <!-- Your Content -->
-        <div id="container">
-            <!-- Menu Button -->
-            <nav class="fixed-top" style="width: 1; height: 0;" id="series"> <!--navbar-->
-                <button class="menu-btn btn btn-blue" title="Lista de cartoons"><i class="fas fa-bars"></i> Cartoons</button>
-                <button class="home-btn btn btn-blue" title="Página de inicio"><i class="fas fa-home"></i></button>
-            </nav>
-            <!-- <main class="timeline">-->
-            <div id="content"></div>
-            <div id="module" style="display: none;">
-                <a id="collapse" role="button" class="collapsed" data-toggle="collapse" href="#collapseDescription" aria-expanded="false" aria-controls="collapseDescription"></a>
-            </div>
-            <!--</main>-->
-            <div id="homePage">
-                <main class="timeline">
-                    <article class="timeline-comment">
-                        <a class="avatar" tabindex="-1"> 
-                            <img alt="@Dieblos" src="https://avatars3.githubusercontent.com/u/69419211?v=4?v=3&amp;s=88" width="44" height="44">
-                        </a>
-                        <div class="comment">
-                            <header class="comment-header">
-                                <span class="comment-meta"> 
-                                    <a class="text-link">
-                                        <strong>Dieblos</strong> 
-                                    </a>
-                                </span>
-                            </header>
-                            <article class="markdown-body" id="textHome">
-                                <h1>¡Bienvenido a Kabums!</h1>
-                                <h3>¿Qué es este sitio?</h3>
-                                <p>Este sitio web será un lugar dedicado para ver dibujos animados de forma online; con una buena relación de <b><i>Calidad de Video-Velocidad de Reproducción</i></b> y un diseño minimalista de fácil y rápida navegación. </p>
-                                <h3>¿En qué idioma estará el audio?</h3>
-                                <p>Principalmente estarán en Español Latino, pero también habrá disponibilidad en audio original.</p>
-                                <h3>¿Tendrán subtítulos en español?</h3>
-                                <p>Los tendrán siempre y cuando encuentre softsub (subtítulos flotantes que no están incrustados al video), no manejare hardsub (subtítulos incrustados al video) ya que suelen tener marcas de agua y no estar disponible en la mejor calidad de video, además prefiero que los usuarios tenga la posibilidad de activar y desactivar los subtítulos si así lo desea. Yo mismo subtitulare algunas cosas, pero no será lo usual, por lo general usare subtítulos que encuentre en la red.</p>
-                                <h3>¿Qué calidad van a tener los videos?</h3>
-                                <p>En lo posible, la gran mayoría van a estar en 1080p sin logos ni marcas de aguas, además de tener un tamaño ligero para mejorar la velocidad de reproducción. </p>
-                                <h3>¿Qué series hay disponible?</h3>
-                                <p>La página es nueva, así que la lista por ahora es bastante corta, puedes ver y seleccionar las series disponibles presionando este boton <button class="menu-btn btn-blue btn-sm" title="Lista de caricaturas">&#9776; Cartoons</button> o presionado el botón que está en la esquina superior izquierda de esta página, también puedes ver una lista de las series con más detalles al final de esta publicación.</p>
-                                <p>Poco a poco iré añadiendo nuevas series.</p>
-                                <h1></h1>
-                                <p>Si quieres hacer un comentario acerca del sitio, ya sea para informar un error, dar tu opinión, dar una sugerencia, hacer una pregunta, hablar con otros usuarios o cualquier otra cosa relacionada con la página, puedes hacerlo en la caja de comentarios de abajo (Necesitaras una cuenta en <a href="https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">GitHub</a> para comentar).</p>                                
-                                <h1></h1>
-                                <details>
-                                    <summary>Lista de dibujos animados</summary>
-                                    <ul id="listSeries">
-                                        <li>Over The Garden Wall/Más Allá del Jardín (Audio: Español Latino e Inglés - Subtítulos: Español e Inglés - Calidad: 1080p) + Tome of the Unknown/El Tomo de los Desconocido (Audio: Español Latino e Inglés - Subtítulos: No disponible - Calidad: 1080p)</li>
-                                        <li>Steven Universe + Steven Universe: The Movie + Steven Universe Future + Extras (Audio: Español Latino e Inglés - Subtítulos: Español (Solo: Temporada 1, Temporada 4, Episodio final de la 5ta Temporada, La Película y Steven Universe Future) - Calidad: 1080p</li>
-                                    </ul>
-                                </details>
-                            </article>
-                        </div>
-                    </article>
-                </main>
-            </div>
-            <div id="msgComments">
-                <main class="timeline">
-                    <center><h1 id="commentsTitle">Titulo</h1></center>
-                </main>
-                <main class="timeline">
-                    <article class="timeline-comment">
-                        <a class="avatar" tabindex="-1"> 
-                            <img alt="@Dieblos" src="https://avatars3.githubusercontent.com/u/69419211?v=4?v=3&amp;s=88" width="44" height="44">
-                        </a>
-                        <div class="comment">
-                            <header class="comment-header">
-                                <span class="comment-meta"> 
-                                    <a class="text-link">
-                                        <strong>Dieblos</strong> 
-                                    </a>
-                                </span>
-                            </header>
-                            <article class="markdown-body" id="textComment">
-                                <h1>Si Quieres Comentar...</h1>
-                                <p>Si quieres comentar, crea una cuenta en <a href="https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">GitHub</a>, es bastante rápido, solo necesitas ingresar un nombre de usuario, correo y contraseña y verificar el correo. Luego dirígete a la caja de comentarios de esta página y da clic en el botón azul que dice <i>“Sign in to comment”</i> y autoriza el acceso a <b>utterances</b>.</p>
-                                <details id="txtComm1">
-                                    <summary>Algunos consejos útiles para comentar</summary>
-                                    <ul>
-                                        <li>Si quieres responder a un comentario, no puedes hacerlo directamente, en su lugar puedes mencionar al usuario utilizando un @ + Nombre de Usuario, quedaría algo así: <code>@username</code></li>
-                                        <li>
-                                            La caja de comentarios es compatible con <u>ciertas</u> etiquetas html, puedes probar diferentes etiquetas html y previsualizarlo en la pestaña <i>"Preview"</i> para ver si funciona, aquí les dejo unos cuantos ejemplos:
-                                            <ul>
-                                                <li>
-                                                    Si vas hacer un spoiler, hágalo con la etiqueta details, aquí un ejemplo de cómo puedes hacerlo:
-                                                    <div class="config-field" id="script">
-                                                        <pre class="">
-<span class="default-text-color">&lt;</span><span class="pl-ent">details</span><span class="default-text-color">&gt;</span>
-    <span class="default-text-color">&lt;</span><span class="pl-ent">summary</span><span class="default-text-color">&gt;</span><span class="default-text-color">El título de mi SPOILER</span><span class="default-text-color">&lt;/</span><span class="pl-ent">summary</span><span class="default-text-color">&gt;</span>
-    <span class="default-text-color">Este es mi SPOILER bien SPOILEADO dentro de la etiqueta de SPOILER.</span>
-<span class="default-text-color">&lt;/</span><span class="pl-ent">details</span><span class="default-text-color">&gt;</span></pre>
-                                                    </div> 
-                                                    Este es el resultado:
-                                                    <details>
-                                                        <summary>El título de mi SPOILER</summary>
-                                                        Este es mi SPOILER bien SPOILEADO dentro de la etiqueta de SPOILER.
-                                                    </details>
-                                                </li>
-                                                <li>
-                                                    Insertar una imagen (en src insertamos la url de nuestra imagen):
-                                                    <div class="config-field" id="script">
-                                                        <pre class="">
-<span class="default-text-color">&lt;</span><span class="pl-ent">img</span><span class="pl-e"> src</span><span class="default-text-color">=</span><span class="pl-s"><span class="pl-pds">"</span>https://k30.kn3.net/9/3/6/A/9/C/6D7.gif<span class="pl-pds">"</span></span><span class="default-text-color">&gt;</span></pre>
-                                                    </div>
-                                                    <details>
-                                                        <summary>Ver Resultado</summary>
-                                                        <img src="https://k30.kn3.net/9/3/6/A/9/C/6D7.gif">
-                                                    </details>
-                                                </li>
-                                                <li>
-                                                    Insertar un enlace:
-                                                    <div class="config-field" id="script">
-                                                        <pre class="">
-<span class="default-text-color">&lt;</span><span class="pl-ent">a</span><span class="pl-e"> href</span><span class="default-text-color">=</span><span class="pl-s"><span class="pl-pds">"</span>https://www.kabums.org/<span class="pl-pds">"</span></span><span class="default-text-color">&gt;</span><span class="default-text-color">Un título para mi enlace</span><span class="default-text-color">&lt;/</span><span class="pl-ent">a</span><span class="default-text-color">&gt;</span></pre>
-                                                    </div>
-                                                    Resultado: <a href="https://www.kabums.org/">Un título para mi enlace</a>
-                                                </li>
-                                                <li>
-                                                    Poner cursiva, negrita y subrayado:
-                                                    <div class="config-field" id="script">
-                                                        <pre class="">
-<span class="default-text-color">&lt;</span><span class="pl-ent">i</span><span class="default-text-color">&gt;</span><span class="default-text-color">cursiva</span><span class="default-text-color">&lt;/</span><span class="pl-ent">i</span><span class="default-text-color">&gt;</span>
-<span class="default-text-color">&lt;</span><span class="pl-ent">b</span><span class="default-text-color">&gt;</span><span class="default-text-color">negrita</span><span class="default-text-color">&lt;/</span><span class="pl-ent">b</span><span class="default-text-color">&gt;</span>
-<span class="default-text-color">&lt;</span><span class="pl-ent">u</span><span class="default-text-color">&gt;</span><span class="default-text-color">subrayado</span><span class="default-text-color">&lt;/</span><span class="pl-ent">u</span><span class="default-text-color">&gt;</span></pre>
-                                                    </div>
-                                                    Resultado:
-                                                    <i>cursiva</i>
-                                                    <b>negrita</b>
-                                                    <u>subrayado</u>
-                                                </li>
-                                                <li>
-                                                    Estos son solo algunos ejemplos, puedes probar cualquier etiqueta html relacionada con texto como puede ser las etiquetas h1, h2, h3 etc. Que sirve para cambiar el tamaño de la letra o las etiquetas ul li que sirve para crear listas y así con cualquier etiqueta que se te ocurra, si necesitas una etiqueta en específico y nos sabes html siempre puedes preguntarle a nuestro buen amigo San Google.
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li>
-                                            Si quieres algo mucho más simple que las etiquetas html también puedes usar el estilo de Markdown, aquí hay una guía de como usarlo: <a href="https://guides.github.com/features/mastering-markdown/">https://guides.github.com/features/mastering-markdown/</a>
-                                        </li>
-                                    </ul>
-                                </details>
-                                <details id="txtComm2">
-                                    <summary>¿Qué es GitHub? ¿Por qué usarlo como caja de comentarios?</summary>
-                                    <p>Si no eres desarrollador o no sigues ningún programa de código abierto es probable que no sepas que es GitHub.</p>
-                                    <p>No voy a entrar mucho en detalle de lo que es GitHub, pero básicamente es una plataforma donde los desarrolladores pueden gestionar sus proyectos y pueden tener un control sobre las versiones de sus programas; el punto es que estos proyectos tienen un apartado que es como una especie de foro, en donde los usuarios o los mismos desarrolladores informan de los problemas que posee el proyecto.</p>
-                                    <p>kabums.org usa un widget llamado <a href="https://utteranc.es/">utterances</a>, que permite usar ese foro de problemas de GitHub como una caja de comentarios en una página web.</p>
-                                    <p>Está bien, ¿Pero por qué usar web de programadores como caja de comentarios habiendo opciones más populares? Bueno, hay varias razones, pero las dos principales son:</p>
-                                    <ol>
-                                        <li>kabums.org es una web estática, esto quiere decir que no tiene la capacidad de guardar datos que proporcionan los usuarios como pueden ser los comentarios, así que tener una caja de comentarios que se hospede en la misma página no es posible, debe de depender de un tercero que ofrezca alojamiento a los comentarios.</li>
-                                        <li>El servicio de alojamiento debe estar en mi presupuesto (Gratis 😅, casi ningún servicio de comentarios ofrece alojamiento gratis).</li>
-                                    </ol>
-                                    <p>Ok, pero hay otras 2 opciones más populares que ofrecen comentarios y alojamiento gratuito y que la mayoría de personas conocen y poseen una cuenta, estos son Disqus (que probablemente ya lo hayas visto en numerosas páginas webs) y Facebook.</p>
-                                    <p>Si, pero acá van mis otras razones por haber elegido GitHub en vez de Disqus o Facebook:</p>
-                                    <ol>
-                                        <li>Empecemos con la razón más importante la <b>privacidad</b>. Disqus realiza un seguimiento de tus datos, como tu dirección IP, ubicación y cookies y luego los vende a anunciantes externos, en el caso de Facebook igualmente recopila los datos de lo que estés haciendo para que los anunciantes sepan que productos ofrecerte, además Facebook no permite el anonimato, deberás usar una identidad real o Facebook podría rechazar el comentario, además de que todos tus comentarios lo podrán ver tus amigos de Facebook.</li>
-                                        <li>Disqus y Facebook son algo pesados y pueden tardar un poco en cargar.</li>
-                                        <li>Disqus tiene publicidad y no se pueden desactivar en su versión básica.</li>
-                                    </ol>
-                                    <p>Si bien GitHub con utterances no es lo más popular como caja de comentarios, tiene una mejor privacidad, no hace ningún tipo de seguimiento a los usuarios, puedes crear una cuenta totalmente anónima si así lo deseas y además es ligero y libre de publicidad.</p>
-                                </details>
-                            </article>
-                        </div>
-                    </article>
-                </main>
-            </div>
-            <div id="comments">
-                <div id="utterances"></div>
-            </div>
-        </div>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelement-and-player.min.js" ></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/lang/es.min.js" ></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/quality/quality.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/quality/quality-i18n.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/speed/speed.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/speed/speed-i18n.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/playlist/playlist.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/playlist/playlist-i18n.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"></script>
-        <script type="text/javascript" language="javascript">
-            const versionUpdate = (new Date()).getTime();
-            const script1 = document.createElement("script");
-            const script2 = document.createElement("script");
-            const script3 = document.createElement("script");
-            script1.src = "js/ZGF0YQ==.js?v=" + versionUpdate;
-            script2.src = "js/Y29uZmln.js?v=" + versionUpdate;
-            script3.src = "js/aG9tZVRleHQ=.js?v=" + versionUpdate;
-            document.body.appendChild(script1);
-            document.body.appendChild(script2);
-            document.body.appendChild(script3);
+    </head>
+    <body>
+        <script>
+            const version = (new Date()).getTime();
+            const ifr = document.createElement('iframe');
+            ifr.id = "iframe1";
+            ifr.src = "cartoons.html?v=" + version;
+            document.body.appendChild(ifr);
         </script> 
-        <script src="js/plugins/pushy/pushy.min.js"></script>
-        <script src="js/plugins/blockadblock/BlockAdBlock.js"></script>
     </body>
 </html>
 
