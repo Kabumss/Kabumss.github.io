@@ -245,12 +245,9 @@
         <script src="js/plugins/pushy/pushy.min.js"></script>
         <script>
             const versionUpdate = (new Date()).getTime();
-            const script1 = document.createElement("script");
-            const script2 = document.createElement("script");
-            script1.src = "js/ZGF0YQ==.js?v=" + versionUpdate;
-            script2.src = "js/Y29uZmln.js?v=" + versionUpdate;
-            document.body.appendChild(script1);
-            document.body.appendChild(script2);
+            const script = document.createElement("script");
+            script.src = "js/Y29uZmln.js?v=" + versionUpdate;
+            document.body.appendChild(script);
         </script> 
         <script src="js/plugins/blockadblock/BlockAdBlock.js"></script>
     </body>
