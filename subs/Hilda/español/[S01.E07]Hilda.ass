@@ -1,0 +1,330 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: [S01.E07]Hilda
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.50,0:00:10.34,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:38.32,0:00:42.50,Default,,0,0,0,,CAPÍTULO 7: EL CLAN PERDIDO
+Dialogue: 0,0:00:49.88,0:00:54.76,Default,,0,0,0,,Para ganar la insignia,\Ndebemos recolectar diez plantas locales.
+Dialogue: 0,0:00:55.13,0:00:56.30,Default,,0,0,0,,Los itinerarios.
+Dialogue: 0,0:00:56.63,0:00:59.89,Default,,0,0,0,,Primer punto:\Npronóstico del clima. ¿Hilda?
+Dialogue: 0,0:01:00.64,0:01:01.47,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:01:02.81,0:01:07.06,Default,,0,0,0,,Soy Victoria Van Gale\Ndel Servicio Meteorológico.
+Dialogue: 0,0:01:07.23,0:01:12.03,Default,,0,0,0,,En el oeste, se espera\Nque las lluvias continúen cinco segundos.
+Dialogue: 0,0:01:12.11,0:01:14.28,Default,,0,0,0,,Luego, cielo despejado.
+Dialogue: 0,0:01:14.36,0:01:17.24,Default,,0,0,0,,Tres, dos y uno.
+Dialogue: 0,0:01:18.70,0:01:20.49,Default,,0,0,0,,¡Increíblemente precisa!
+Dialogue: 0,0:01:20.91,0:01:23.33,Default,,0,0,0,,Pronóstico aceptable. ¿Nos vamos?
+Dialogue: 0,0:01:26.12,0:01:29.13,Default,,0,0,0,,- Adiós. Vamos al parque.\N- Espera.
+Dialogue: 0,0:01:29.21,0:01:32.05,Default,,0,0,0,,Hice sándwiches de pepino y té helado.
+Dialogue: 0,0:01:33.25,0:01:34.21,Default,,0,0,0,,Muchas...
+Dialogue: 0,0:01:35.97,0:01:36.80,Default,,0,0,0,,...gracias.
+Dialogue: 0,0:01:36.88,0:01:39.51,Default,,0,0,0,,Vamos. Estamos retrasados.
+Dialogue: 0,0:01:42.22,0:01:47.39,Default,,0,0,0,,Elegí este sector por eficacia.\NAquí están las plantas que buscamos.
+Dialogue: 0,0:01:47.64,0:01:50.40,Default,,0,0,0,,Encontré digitaria. Y digitaria.
+Dialogue: 0,0:01:51.11,0:01:52.61,Default,,0,0,0,,¡Y digitaria!
+Dialogue: 0,0:01:53.07,0:01:54.40,Default,,0,0,0,,Precisamos una.
+Dialogue: 0,0:01:54.48,0:01:55.32,Default,,0,0,0,,PLANTAS
+Dialogue: 0,0:01:55.53,0:01:57.82,Default,,0,0,0,,Dientes de león, cardo morado.
+Dialogue: 0,0:01:58.53,0:01:59.82,Default,,0,0,0,,Son hierbas.
+Dialogue: 0,0:02:00.07,0:02:02.70,Default,,0,0,0,,Cumplen los requisitos.
+Dialogue: 0,0:02:02.95,0:02:06.41,Default,,0,0,0,,Ganar las insignias no es solo papeleo.
+Dialogue: 0,0:02:06.75,0:02:09.54,Default,,0,0,0,,Se trata de vivir nuevas aventuras.
+Dialogue: 0,0:02:09.96,0:02:12.13,Default,,0,0,0,,¿Buscamos gamopétalas?
+Dialogue: 0,0:02:12.21,0:02:16.17,Default,,0,0,0,,¿O una enredadera? ¿O una de estas?
+Dialogue: 0,0:02:16.97,0:02:20.59,Default,,0,0,0,,No hay en la ciudad.\NSobre todo, la ortiga azul.
+Dialogue: 0,0:02:20.76,0:02:22.64,Default,,0,0,0,,- Es poco común.\N- No.
+Dialogue: 0,0:02:22.89,0:02:23.72,Default,,0,0,0,,Yo vi una.
+Dialogue: 0,0:02:24.10,0:02:27.02,Default,,0,0,0,,¿Qué? Es imposible.
+Dialogue: 0,0:02:27.31,0:02:29.94,Default,,0,0,0,,De verdad. Pero Frida tiene razón.
+Dialogue: 0,0:02:30.23,0:02:32.27,Default,,0,0,0,,Deberíamos dejarla.
+Dialogue: 0,0:02:33.61,0:02:35.07,Default,,0,0,0,,Está embrujada.
+Dialogue: 0,0:02:36.07,0:02:37.57,Default,,0,0,0,,Viste un fantasma.
+Dialogue: 0,0:02:37.94,0:02:42.53,Default,,0,0,0,,Sí. Bueno, no.\NEn realidad, escuché a varios de ellos.
+Dialogue: 0,0:02:43.03,0:02:44.83,Default,,0,0,0,,Hablaban del clima.
+Dialogue: 0,0:02:45.16,0:02:49.12,Default,,0,0,0,,Flor rara, conversación de fantasmas.\N¡Investiguemos!
+Dialogue: 0,0:02:49.75,0:02:52.00,Default,,0,0,0,,Concentrémonos en la insignia.
+Dialogue: 0,0:02:52.25,0:02:57.38,Default,,0,0,0,,Si hallamos la ortiga,\Nganaremos una insignia con alas doradas.
+Dialogue: 0,0:02:59.13,0:03:00.38,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:03:02.09,0:03:06.39,Default,,0,0,0,,Jamás vendría solo aquí,\Npero estaba persiguiendo un conejo.
+Dialogue: 0,0:03:07.27,0:03:08.10,Default,,0,0,0,,Miren.
+Dialogue: 0,0:03:09.68,0:03:10.77,Default,,0,0,0,,Y escuchen.
+Dialogue: 0,0:03:16.36,0:03:18.74,Default,,0,0,0,,- ¿Ven? Les dije.\N- Vamos.
+Dialogue: 0,0:03:19.11,0:03:20.49,Default,,0,0,0,,Esperaré aquí.
+Dialogue: 0,0:03:20.57,0:03:21.53,Default,,0,0,0,,No es nada.
+Dialogue: 0,0:03:21.61,0:03:23.87,Default,,0,0,0,,Debe ser una especie de eco...
+Dialogue: 0,0:03:23.95,0:03:24.78,Default,,0,0,0,,Espera.
+Dialogue: 0,0:03:25.03,0:03:26.28,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:03:26.53,0:03:28.91,Default,,0,0,0,,No es eco ni fantasmas.
+Dialogue: 0,0:03:29.33,0:03:30.41,Default,,0,0,0,,Son elfos.
+Dialogue: 0,0:03:37.25,0:03:38.63,Default,,0,0,0,,No veo nada.
+Dialogue: 0,0:03:39.17,0:03:41.67,Default,,0,0,0,,Porque no firmaste los papeles.
+Dialogue: 0,0:03:42.01,0:03:45.93,Default,,0,0,0,,Ya estamos aquí.\NEstos pequeñitos no me detendrán.
+Dialogue: 0,0:03:46.01,0:03:47.76,Default,,0,0,0,,Cuidado. Lucen salvajes.
+Dialogue: 0,0:03:55.48,0:03:56.61,Default,,0,0,0,,¿Qué fue eso?
+Dialogue: 0,0:03:57.15,0:03:58.73,Default,,0,0,0,,¡Ataquen!
+Dialogue: 0,0:04:03.53,0:04:04.36,Default,,0,0,0,,Me dieron.
+Dialogue: 0,0:04:05.32,0:04:06.28,Default,,0,0,0,,Nos atacan.
+Dialogue: 0,0:04:06.37,0:04:07.37,Default,,0,0,0,,Ya lo creo.
+Dialogue: 0,0:04:08.53,0:04:11.25,Default,,0,0,0,,¡Defiendan el clan hasta la muerte!
+Dialogue: 0,0:04:17.04,0:04:17.88,Default,,0,0,0,,¡Corran!
+Dialogue: 0,0:04:29.81,0:04:32.31,Default,,0,0,0,,Oigan, es el conejo que vi.
+Dialogue: 0,0:04:33.69,0:04:35.60,Default,,0,0,0,,¡A la carga!
+Dialogue: 0,0:04:39.32,0:04:40.90,Default,,0,0,0,,No son solo conejos.
+Dialogue: 0,0:04:47.20,0:04:48.99,Default,,0,0,0,,¡Rayos!
+Dialogue: 0,0:04:52.20,0:04:53.25,Default,,0,0,0,,¿Chicas?
+Dialogue: 0,0:04:57.88,0:05:01.50,Default,,0,0,0,,Debimos quedarnos con la digitaria.
+Dialogue: 0,0:05:02.01,0:05:02.84,Default,,0,0,0,,Espera.
+Dialogue: 0,0:05:03.42,0:05:06.13,Default,,0,0,0,,- ¿Y David?\N- Volvamos por él.
+Dialogue: 0,0:05:09.10,0:05:11.72,Default,,0,0,0,,No puedes verlos. Pidamos ayuda.
+Dialogue: 0,0:05:12.52,0:05:14.14,Default,,0,0,0,,Tendrás que firmar.
+Dialogue: 0,0:05:15.81,0:05:16.77,Default,,0,0,0,,CONTRATO - FIRMA
+Dialogue: 0,0:05:16.85,0:05:19.69,Default,,0,0,0,,Firma ahí, ahí y ahí.
+Dialogue: 0,0:05:19.77,0:05:20.77,Default,,0,0,0,,Está borroso.
+Dialogue: 0,0:05:21.11,0:05:23.36,Default,,0,0,0,,¿Segura de que eran elfos?
+Dialogue: 0,0:05:23.74,0:05:24.57,Default,,0,0,0,,Segura.
+Dialogue: 0,0:05:24.82,0:05:26.36,Default,,0,0,0,,Parece imposible.
+Dialogue: 0,0:05:26.65,0:05:28.74,Default,,0,0,0,,Soy el único en Trolberg.
+Dialogue: 0,0:05:29.16,0:05:30.03,Default,,0,0,0,,Salvo que...
+Dialogue: 0,0:05:30.49,0:05:33.16,Default,,0,0,0,,¿Qué? Ay, hola.
+Dialogue: 0,0:05:33.37,0:05:34.20,Default,,0,0,0,,Ahí estás.
+Dialogue: 0,0:05:34.58,0:05:36.50,Default,,0,0,0,,¿Eso secuestró a David?
+Dialogue: 0,0:05:36.71,0:05:39.00,Default,,0,0,0,,Era similar. Tenía más cabello.
+Dialogue: 0,0:05:39.33,0:05:43.55,Default,,0,0,0,,Descubrieron el Clan Perdido\Nde los condados del norte.
+Dialogue: 0,0:05:43.84,0:05:45.80,Default,,0,0,0,,¡Es una noticia excelente!
+Dialogue: 0,0:05:45.88,0:05:49.51,Default,,0,0,0,,- Por fin se firmará el contrato.\N- Por fin.
+Dialogue: 0,0:05:49.59,0:05:53.31,Default,,0,0,0,,- Espera. ¿De qué habla?\N- No estoy segura.
+Dialogue: 0,0:05:53.85,0:05:55.14,Default,,0,0,0,,¿Qué contrato?
+Dialogue: 0,0:05:55.43,0:05:57.73,Default,,0,0,0,,Es una historia emocionante.
+Dialogue: 0,0:05:59.52,0:06:02.69,Default,,0,0,0,,¿También es corta? Tienen a nuestro amigo.
+Dialogue: 0,0:06:03.19,0:06:04.78,Default,,0,0,0,,Sí. Por supuesto.
+Dialogue: 0,0:06:05.03,0:06:09.66,Default,,0,0,0,,No quiero privarlas del dramatismo.\NLes cuento en el camino.
+Dialogue: 0,0:06:11.82,0:06:14.04,Default,,0,0,0,,- ¿Qué hacemos?\N- No lo sé.
+Dialogue: 0,0:06:14.12,0:06:16.50,Default,,0,0,0,,Nunca capturamos un humano.
+Dialogue: 0,0:06:18.04,0:06:21.04,Default,,0,0,0,,¿Sabrá que tiene un bicho en el cabello?
+Dialogue: 0,0:06:21.42,0:06:23.13,Default,,0,0,0,,¿Hilda, Frida?
+Dialogue: 0,0:06:23.71,0:06:25.51,Default,,0,0,0,,¿Alguien?
+Dialogue: 0,0:06:27.42,0:06:30.34,Default,,0,0,0,,Todo empieza con los primeros elfos.
+Dialogue: 0,0:06:33.51,0:06:37.27,Default,,0,0,0,,Dos familias se reunieron\Nen una parcela de tierra.
+Dialogue: 0,0:06:37.35,0:06:42.23,Default,,0,0,0,,El propósito: llevar a cabo\Nun contrato de bienes raíces.
+Dialogue: 0,0:06:42.61,0:06:47.65,Default,,0,0,0,,- ¿Trata sobre papeles?\N- Sí, como casi todas nuestras leyendas.
+Dialogue: 0,0:06:48.53,0:06:51.82,Default,,0,0,0,,La familia Aldric\Nquería comprar una parcela.
+Dialogue: 0,0:06:52.41,0:06:55.54,Default,,0,0,0,,Y la familia Bragga quería venderla.
+Dialogue: 0,0:06:56.62,0:07:00.83,Default,,0,0,0,,Era una de las parcelas\Nmás valiosas y antiguas.
+Dialogue: 0,0:07:01.17,0:07:02.83,Default,,0,0,0,,La revisión fue feroz.
+Dialogue: 0,0:07:03.33,0:07:06.00,Default,,0,0,0,,Más cláusulas, menos condiciones...
+Dialogue: 0,0:07:06.67,0:07:09.34,Default,,0,0,0,,Un día entero de modificaciones.
+Dialogue: 0,0:07:12.18,0:07:15.89,Default,,0,0,0,,Finalmente, luego de muchos borradores,\Nterminaron.
+Dialogue: 0,0:07:16.35,0:07:19.31,Default,,0,0,0,,Una obra maestra de obligación mutua.
+Dialogue: 0,0:07:20.14,0:07:25.11,Default,,0,0,0,,Ambas familias lo firmaron por triplicado\Ny se lo presentaron al rey.
+Dialogue: 0,0:07:27.15,0:07:29.32,Default,,0,0,0,,Ahí ocurrió la catástrofe.
+Dialogue: 0,0:07:30.11,0:07:34.99,Default,,0,0,0,,El rey se dio cuenta de que los Braga\Nsolo firmaron dos veces.
+Dialogue: 0,0:07:37.33,0:07:39.04,Default,,0,0,0,,Falta el grito ahogado.
+Dialogue: 0,0:07:39.83,0:07:41.87,Default,,0,0,0,,¿En serio? ¿Eso es todo?
+Dialogue: 0,0:07:41.96,0:07:43.71,Default,,0,0,0,,¡No entienden!
+Dialogue: 0,0:07:44.08,0:07:48.55,Default,,0,0,0,,Presentar al rey un contrato inconcluso\Nera traición.
+Dialogue: 0,0:07:49.05,0:07:51.42,Default,,0,0,0,,Exiliaron a la familia Braga.
+Dialogue: 0,0:07:51.51,0:07:56.01,Default,,0,0,0,,Con el contrato inconcluso,\Nel rey declaró a la parcela...
+Dialogue: 0,0:07:56.64,0:07:58.81,Default,,0,0,0,,Tierra sin elfos.
+Dialogue: 0,0:07:59.35,0:08:04.02,Default,,0,0,0,,Hasta hoy,\Nno puede ni comprarse ni venderse.
+Dialogue: 0,0:08:04.69,0:08:09.32,Default,,0,0,0,,Ahora, si un Braga firma el contrato,\Nse acaba el exilio.
+Dialogue: 0,0:08:09.69,0:08:13.11,Default,,0,0,0,,Pero llevan generaciones sin localizarlos.
+Dialogue: 0,0:08:13.20,0:08:15.87,Default,,0,0,0,,Y así seguirá.
+Dialogue: 0,0:08:18.99,0:08:22.79,Default,,0,0,0,,- Sí, tienen más cabello.\N- Hablaré con ellos.
+Dialogue: 0,0:08:24.33,0:08:25.17,Default,,0,0,0,,Hola.
+Dialogue: 0,0:08:25.25,0:08:28.04,Default,,0,0,0,,Soy Alfur de los condados del norte.
+Dialogue: 0,0:08:28.75,0:08:31.17,Default,,0,0,0,,¿Son el Clan Perdido?
+Dialogue: 0,0:08:31.46,0:08:32.34,Default,,0,0,0,,¡Hola!
+Dialogue: 0,0:08:34.76,0:08:36.59,Default,,0,0,0,,Algunos nos llaman así.
+Dialogue: 0,0:08:36.89,0:08:40.85,Default,,0,0,0,,Soy Bartel, líder de la familia Braga.
+Dialogue: 0,0:08:42.02,0:08:42.98,Default,,0,0,0,,Calma, Twig.
+Dialogue: 0,0:08:43.14,0:08:46.90,Default,,0,0,0,,¿De veras?\NEntonces les traigo noticias excelentes.
+Dialogue: 0,0:08:47.31,0:08:49.52,Default,,0,0,0,,Terminó el exilio.
+Dialogue: 0,0:08:51.07,0:08:51.94,Default,,0,0,0,,¡Grandioso!
+Dialogue: 0,0:08:52.40,0:08:53.65,Default,,0,0,0,,- ¡Bien!\N- Sí.
+Dialogue: 0,0:08:53.90,0:08:56.36,Default,,0,0,0,,Solo debes firmar este contrato.
+Dialogue: 0,0:08:56.45,0:08:57.32,Default,,0,0,0,,¡No!
+Dialogue: 0,0:08:58.07,0:09:02.29,Default,,0,0,0,,Tras el exilio,\Nnuestra familia renunció a los papeles.
+Dialogue: 0,0:09:02.70,0:09:08.04,Default,,0,0,0,,Un Braga no volverá a firmar nada,\Nni siquiera un recibo.
+Dialogue: 0,0:09:10.13,0:09:11.30,Default,,0,0,0,,¿Ningún papel?
+Dialogue: 0,0:09:11.38,0:09:17.30,Default,,0,0,0,,Pero ¿cómo harán seguimientos de ofertas,\Nde aceptación, de condiciones?
+Dialogue: 0,0:09:17.51,0:09:18.72,Default,,0,0,0,,Es simple.
+Dialogue: 0,0:09:19.18,0:09:24.06,Default,,0,0,0,,Cumplimos nuestra palabra.\NY si no, entramos en combate.
+Dialogue: 0,0:09:25.56,0:09:26.39,Default,,0,0,0,,Sí, vamos.
+Dialogue: 0,0:09:29.23,0:09:31.73,Default,,0,0,0,,¡Qué adorable! Pero aterrador.
+Dialogue: 0,0:09:32.40,0:09:34.69,Default,,0,0,0,,Por favor, solo es una firma.
+Dialogue: 0,0:09:37.11,0:09:39.45,Default,,0,0,0,,¿Por qué te interesa tanto?
+Dialogue: 0,0:09:40.45,0:09:43.66,Default,,0,0,0,,Soy un buen samaritano que quiere ayudar.
+Dialogue: 0,0:09:43.87,0:09:44.70,Default,,0,0,0,,No.
+Dialogue: 0,0:09:45.37,0:09:47.21,Default,,0,0,0,,Es más que eso.
+Dialogue: 0,0:09:49.33,0:09:50.25,Default,,0,0,0,,Tú...
+Dialogue: 0,0:09:51.17,0:09:53.05,Default,,0,0,0,,Eres un Aldric, ¿verdad?
+Dialogue: 0,0:09:54.30,0:09:55.92,Default,,0,0,0,,Sí, es verdad.
+Dialogue: 0,0:09:59.09,0:10:02.22,Default,,0,0,0,,¿Tu familia intentó comprar el terreno?
+Dialogue: 0,0:10:02.39,0:10:07.14,Default,,0,0,0,,Sí, por lo tanto,\Nson responsables de nuestro exilio.
+Dialogue: 0,0:10:07.94,0:10:10.15,Default,,0,0,0,,Esa interpretación no es justa.
+Dialogue: 0,0:10:10.35,0:10:15.36,Default,,0,0,0,,Sufrirás por los delitos de tu familia.\NDebemos enfrentarnos.
+Dialogue: 0,0:10:18.86,0:10:23.41,Default,,0,0,0,,No te irás sin enfrentarte\Na nuestros Conejos Guerreros.
+Dialogue: 0,0:10:23.95,0:10:26.25,Default,,0,0,0,,Incluido Agnes.
+Dialogue: 0,0:10:31.33,0:10:33.84,Default,,0,0,0,,Pero no sé cómo montar un conejo.
+Dialogue: 0,0:10:34.13,0:10:36.01,Default,,0,0,0,,- Hola, Agnes.\N- Tranquilo.
+Dialogue: 0,0:10:36.26,0:10:39.76,Default,,0,0,0,,Nadie toma a mi amigo sin pelear.\NVamos, conejitos.
+Dialogue: 0,0:10:39.84,0:10:42.43,Default,,0,0,0,,Un momento. Cálmense.
+Dialogue: 0,0:10:42.51,0:10:45.85,Default,,0,0,0,,Veamos el contrato.\NTiene que haber otra solución.
+Dialogue: 0,0:10:46.85,0:10:50.90,Default,,0,0,0,,Danos un día.\NBuscaremos una solución para todos.
+Dialogue: 0,0:10:53.06,0:10:54.98,Default,,0,0,0,,Tu oferta es aceptable.
+Dialogue: 0,0:10:55.23,0:10:59.24,Default,,0,0,0,,Si tenemos éxito, queremos la ortiga azul.\NUn trozo.
+Dialogue: 0,0:11:01.61,0:11:02.45,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:11:02.70,0:11:06.95,Default,,0,0,0,,Pero el chico seguirá atado\Nhasta que vuelvan.
+Dialogue: 0,0:11:07.04,0:11:08.20,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:11:08.58,0:11:12.21,Default,,0,0,0,,Estaré más a salvo aquí que con ustedes.
+Dialogue: 0,0:11:12.29,0:11:16.67,Default,,0,0,0,,- Estaré con los hombres hormiga.\N- No somos hormigas.
+Dialogue: 0,0:11:17.09,0:11:19.38,Default,,0,0,0,,Puedo hacerte visible.
+Dialogue: 0,0:11:19.47,0:11:22.09,Default,,0,0,0,,- Solo es un formulario.\N- ¡No!
+Dialogue: 0,0:11:23.72,0:11:24.55,Default,,0,0,0,,No importa.
+Dialogue: 0,0:11:32.94,0:11:34.73,Default,,0,0,0,,Los elfos son rigurosos.
+Dialogue: 0,0:11:36.52,0:11:39.40,Default,,0,0,0,,¿Qué hacen? Creí que buscaban plantas.
+Dialogue: 0,0:11:39.49,0:11:40.32,Default,,0,0,0,,Lo hicimos.
+Dialogue: 0,0:11:40.44,0:11:43.45,Default,,0,0,0,,Ahora revisamos un contrato en miniatura.
+Dialogue: 0,0:11:43.91,0:11:44.74,Default,,0,0,0,,Entiendo.
+Dialogue: 0,0:11:44.91,0:11:46.83,Default,,0,0,0,,Escucha esto.
+Dialogue: 0,0:11:46.91,0:11:51.37,Default,,0,0,0,,"Un contrato elfo es nulo\Nsi lo destruye el fuego de un lindworm".
+Dialogue: 0,0:11:51.58,0:11:54.79,Default,,0,0,0,,Encontremos un lindworm. ¡Qué aventura!
+Dialogue: 0,0:11:55.67,0:12:00.05,Default,,0,0,0,,Esa cláusula está en todos los contratos.\NNo significa nada.
+Dialogue: 0,0:12:00.13,0:12:03.97,Default,,0,0,0,,Los lindworms son escasos\Ny odian los formularios.
+Dialogue: 0,0:12:04.47,0:12:07.81,Default,,0,0,0,,- Sería: "Cuando las vacas vuelen".\N- Cerdos.
+Dialogue: 0,0:12:07.89,0:12:10.27,Default,,0,0,0,,Eso pasa con cierta regularidad.
+Dialogue: 0,0:12:10.56,0:12:11.85,Default,,0,0,0,,¿Una idea mejor?
+Dialogue: 0,0:12:12.89,0:12:15.10,Default,,0,0,0,,Bien. Buscaremos un lindworm.
+Dialogue: 0,0:12:21.07,0:12:24.24,Default,,0,0,0,,Preferiría estar en un bosque oscuro.
+Dialogue: 0,0:12:24.41,0:12:27.74,Default,,0,0,0,,La biblioteca es un bosque\Npara la imaginación.
+Dialogue: 0,0:12:27.83,0:12:30.41,Default,,0,0,0,,Y la mejor aventura es investigar.
+Dialogue: 0,0:12:30.87,0:12:31.70,Default,,0,0,0,,Me agrada.
+Dialogue: 0,0:12:32.62,0:12:33.62,Default,,0,0,0,,¡Lo encontré!
+Dialogue: 0,0:12:34.00,0:12:37.96,Default,,0,0,0,,Lindworms: Hábitat y Guaridas.\NVolumen 27, sección tres.
+Dialogue: 0,0:12:39.80,0:12:43.47,Default,,0,0,0,,Adoro los sistemas\Nde clasificación por temas.
+Dialogue: 0,0:12:45.89,0:12:51.27,Default,,0,0,0,,"Son criaturas antisociales.\NHuyeron al construirse la ciudad.
+Dialogue: 0,0:12:51.77,0:12:55.69,Default,,0,0,0,,Según los informes,\Nquedó una guarida en Trolberg".
+Dialogue: 0,0:12:56.06,0:12:57.40,Default,,0,0,0,,Bien. ¿Dónde está?
+Dialogue: 0,0:12:57.81,0:13:02.74,Default,,0,0,0,,Según la referencia, estaría justo aquí.
+Dialogue: 0,0:13:03.07,0:13:06.86,Default,,0,0,0,,- ¿Viven bajo agua?\N- No exactamente.
+Dialogue: 0,0:13:13.37,0:13:14.33,Default,,0,0,0,,¿Nadamos?
+Dialogue: 0,0:13:15.00,0:13:17.58,Default,,0,0,0,,Esperen. Quizá tengo una solución.
+Dialogue: 0,0:13:19.42,0:13:22.38,Default,,0,0,0,,- ¿Concha y carta de navegación?\N- Ten.
+Dialogue: 0,0:13:22.55,0:13:24.47,Default,,0,0,0,,La Guía de Exploradores.
+Dialogue: 0,0:13:25.80,0:13:29.43,Default,,0,0,0,,Bien. Veamos.\NMarea alta al atardecer. Muy bien.
+Dialogue: 0,0:13:37.35,0:13:38.98,Default,,0,0,0,,¿Podrías? Lo siento.
+Dialogue: 0,0:13:39.52,0:13:42.02,Default,,0,0,0,,Pulmones pequeños. Haz algo como...
+Dialogue: 0,0:13:51.95,0:13:53.70,Default,,0,0,0,,¿Qué buscamos?
+Dialogue: 0,0:14:05.42,0:14:06.84,Default,,0,0,0,,Un Espíritu del Agua.
+Dialogue: 0,0:14:07.34,0:14:10.39,Default,,0,0,0,,¿Podrías llevarnos a aquella isla?
+Dialogue: 0,0:14:27.61,0:14:29.70,Default,,0,0,0,,Tranquilo. Volvemos pronto.
+Dialogue: 0,0:15:00.52,0:15:02.86,Default,,0,0,0,,Cuéntame...
+Dialogue: 0,0:15:03.23,0:15:05.86,Default,,0,0,0,,¿Qué sueles hacer cuando eres rehén?
+Dialogue: 0,0:15:05.94,0:15:10.20,Default,,0,0,0,,- Es mi primera vez.\N- Para nosotros también.
+Dialogue: 0,0:15:10.28,0:15:14.41,Default,,0,0,0,,Estoy aquí.\N¿Sabes que tienes un bicho en el cabello?
+Dialogue: 0,0:15:25.17,0:15:28.51,Default,,0,0,0,,Bien, las señales para hallar la guarida
+Dialogue: 0,0:15:28.59,0:15:31.97,Default,,0,0,0,,incluyen vegetación, tierra removida...
+Dialogue: 0,0:15:32.05,0:15:33.26,Default,,0,0,0,,¿Nubes de humo?
+Dialogue: 0,0:15:33.84,0:15:36.43,Default,,0,0,0,,Sí, exacto. ¿Cómo supiste...?
+Dialogue: 0,0:15:45.11,0:15:46.23,Default,,0,0,0,,Es un jardín.
+Dialogue: 0,0:15:50.32,0:15:51.20,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:16:05.92,0:16:07.21,Default,,0,0,0,,¡Mira la flora!
+Dialogue: 0,0:16:10.55,0:16:12.55,Default,,0,0,0,,¿Esta es una gamopétala?
+Dialogue: 0,0:16:20.85,0:16:21.68,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:16:26.15,0:16:27.52,Default,,0,0,0,,¿Es un lindworm?
+Dialogue: 0,0:16:27.98,0:16:30.23,Default,,0,0,0,,Sí. ¿Qué esperabas?
+Dialogue: 0,0:16:30.78,0:16:33.11,Default,,0,0,0,,- Un gusano.\N- Mira.
+Dialogue: 0,0:16:33.49,0:16:34.36,Default,,0,0,0,,Su nariz.
+Dialogue: 0,0:16:36.45,0:16:39.16,Default,,0,0,0,,Perfecto. No tenemos que despertarlo.
+Dialogue: 0,0:16:39.45,0:16:44.25,Default,,0,0,0,,Sostendremos el contrato cerca de su nariz\Ny problema resuelto.
+Dialogue: 0,0:16:44.75,0:16:48.92,Default,,0,0,0,,¿Creen que sea buena idea?\NParece un poco peligroso.
+Dialogue: 0,0:16:49.38,0:16:52.05,Default,,0,0,0,,Solo será un segundo. Observa.
+Dialogue: 0,0:16:56.80,0:16:58.35,Default,,0,0,0,,Por el terreno.
+Dialogue: 0,0:17:05.10,0:17:06.56,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:17:17.20,0:17:20.53,Default,,0,0,0,,¿Por qué me espían mientras duermo?
+Dialogue: 0,0:17:22.04,0:17:23.50,Default,,0,0,0,,Lo siento, solo...
+Dialogue: 0,0:17:23.87,0:17:28.00,Default,,0,0,0,,Claro. Otro elfo queriendo salirse\Nde un contrato.
+Dialogue: 0,0:17:28.29,0:17:32.21,Default,,0,0,0,,¿Esta vez qué es? ¿Alquiler a corto plazo?
+Dialogue: 0,0:17:32.76,0:17:35.84,Default,,0,0,0,,¿Acuerdo de confidencialidad?
+Dialogue: 0,0:17:49.15,0:17:50.98,Default,,0,0,0,,Solo un soplo de fuego.
+Dialogue: 0,0:17:52.44,0:17:56.99,Default,,0,0,0,,Estoy cansado de brindar mis talentos\Ngratuitamente.
+Dialogue: 0,0:17:57.70,0:18:02.70,Default,,0,0,0,,Quizá si las devoro,\Ntodos entiendan el mensaje de una vez.
+Dialogue: 0,0:18:06.00,0:18:08.08,Default,,0,0,0,,¿Quién dijo gratuitamente?
+Dialogue: 0,0:18:08.75,0:18:09.58,Default,,0,0,0,,¿Disculpa?
+Dialogue: 0,0:18:09.79,0:18:11.84,Default,,0,0,0,,No somos vividores.
+Dialogue: 0,0:18:11.92,0:18:14.92,Default,,0,0,0,,Estamos ansiosos por definir un acuerdo
+Dialogue: 0,0:18:15.01,0:18:17.47,Default,,0,0,0,,que resulte para ambas partes.
+Dialogue: 0,0:18:17.97,0:18:22.10,Default,,0,0,0,,¿Qué podrían tener ustedes\Nque me interese?
+Dialogue: 0,0:18:23.10,0:18:23.93,Default,,0,0,0,,Bueno...
+Dialogue: 0,0:18:25.31,0:18:26.14,Default,,0,0,0,,¿Hilda?
+Dialogue: 0,0:18:29.81,0:18:30.65,Default,,0,0,0,,Plantas.
+Dialogue: 0,0:18:31.02,0:18:32.06,Default,,0,0,0,,¿Disculpa?
+Dialogue: 0,0:18:32.15,0:18:36.07,Default,,0,0,0,,Apuesto que tienes mano para las plantas.\NSin ofender.
+Dialogue: 0,0:18:37.11,0:18:40.28,Default,,0,0,0,,Es verdad. No me interesan las especies
+Dialogue: 0,0:18:40.36,0:18:43.12,Default,,0,0,0,,que persiguen los dragones jóvenes.
+Dialogue: 0,0:18:43.58,0:18:47.20,Default,,0,0,0,,Prefiero los verdaderos tesoros\Nde la tierra.
+Dialogue: 0,0:18:47.50,0:18:48.37,Default,,0,0,0,,¡Exacto!
+Dialogue: 0,0:18:48.62,0:18:54.88,Default,,0,0,0,,Pasamos toda la mañana recolectando\Nmuestras fascinantes de ejemplares únicos.
+Dialogue: 0,0:18:55.46,0:18:56.34,Default,,0,0,0,,¿Verdad?
+Dialogue: 0,0:18:57.34,0:18:59.38,Default,,0,0,0,,¿"Fascinantes" no es mucho?
+Dialogue: 0,0:18:59.84,0:19:01.72,Default,,0,0,0,,Frida, muéstrale.
+Dialogue: 0,0:19:10.89,0:19:14.65,Default,,0,0,0,,¿Digitaria? ¿Dientes de león?\N¿Cardo morado?
+Dialogue: 0,0:19:15.69,0:19:20.32,Default,,0,0,0,,Llevo años tratando de conseguir\Nflora urbana.
+Dialogue: 0,0:19:21.36,0:19:24.70,Default,,0,0,0,,No tengo energía para volver a la ciudad.
+Dialogue: 0,0:19:24.78,0:19:26.91,Default,,0,0,0,,Sufro de ansiedad social.
+Dialogue: 0,0:19:28.04,0:19:31.04,Default,,0,0,0,,¿Entregarían estas muestras exquisitas?
+Dialogue: 0,0:19:31.58,0:19:34.71,Default,,0,0,0,,A cambio, les quemaré el contrato.
+Dialogue: 0,0:19:35.09,0:19:36.96,Default,,0,0,0,,¿No nos devorarás?
+Dialogue: 0,0:19:38.38,0:19:39.46,Default,,0,0,0,,Supongo que no.
+Dialogue: 0,0:19:39.76,0:19:41.43,Default,,0,0,0,,¿Lo dejas por escrito?
+Dialogue: 0,0:19:44.18,0:19:49.06,Default,,0,0,0,,Firma aquí, aquí y aquí.
+Dialogue: 0,0:19:49.68,0:19:50.81,Default,,0,0,0,,Bien. Gracias.
+Dialogue: 0,0:20:02.91,0:20:04.03,Default,,0,0,0,,Estamos listos.
+Dialogue: 0,0:20:04.87,0:20:07.45,Default,,0,0,0,,Las mejores leyendas incluyen papeles.
+Dialogue: 0,0:20:10.41,0:20:11.83,Default,,0,0,0,,David, volvimos.
+Dialogue: 0,0:20:12.21,0:20:13.58,Default,,0,0,0,,Siento la tardanza.
+Dialogue: 0,0:20:14.63,0:20:16.00,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:20:16.54,0:20:19.42,Default,,0,0,0,,Lo hizo Bartel. Aleja a los bichos.
+Dialogue: 0,0:20:19.63,0:20:24.68,Default,,0,0,0,,Es un gran chico. Otros rehenes\Ntendrán que esforzarse para igualarlo.
+Dialogue: 0,0:20:24.76,0:20:26.35,Default,,0,0,0,,¡Adivinaré!
+Dialogue: 0,0:20:26.43,0:20:31.10,Default,,0,0,0,,No lograron romper el contrato\Ny volvieron a pelear.
+Dialogue: 0,0:20:31.68,0:20:33.98,Default,,0,0,0,,¡No! Todo lo contrario.
+Dialogue: 0,0:20:39.48,0:20:40.61,Default,,0,0,0,,Ese brillo.
+Dialogue: 0,0:20:41.28,0:20:42.78,Default,,0,0,0,,¿Fuego de lindworm?
+Dialogue: 0,0:20:43.82,0:20:47.91,Default,,0,0,0,,Se rompió el contrato. Se acabó el exilio.
+Dialogue: 0,0:20:48.37,0:20:50.20,Default,,0,0,0,,- ¡Sí!\N- ¡Bien!
+Dialogue: 0,0:20:51.41,0:20:56.04,Default,,0,0,0,,Pueden irse de aquí\Ny mudarse a la tierra sin elfos.
+Dialogue: 0,0:20:58.96,0:21:01.67,Default,,0,0,0,,¿Qué quieres decir con eso?
+Dialogue: 0,0:21:01.88,0:21:06.34,Default,,0,0,0,,Estábamos tan enfadados por el exilio
+Dialogue: 0,0:21:06.43,0:21:09.64,Default,,0,0,0,,que nunca imaginamos dejar este sitio.
+Dialogue: 0,0:21:09.72,0:21:13.93,Default,,0,0,0,,- La pared es nuestro hogar.\N- ¿Qué hay de las tierras?
+Dialogue: 0,0:21:14.81,0:21:16.02,Default,,0,0,0,,No lo sé.
+Dialogue: 0,0:21:16.85,0:21:18.02,Default,,0,0,0,,¿Aún la quieres?
+Dialogue: 0,0:21:18.52,0:21:22.03,Default,,0,0,0,,¿De veras? ¿Cedes el derecho de propiedad?
+Dialogue: 0,0:21:22.11,0:21:24.32,Default,,0,0,0,,¿Sin contrato, sin alquiler?
+Dialogue: 0,0:21:24.74,0:21:28.95,Default,,0,0,0,,Tenemos nuestra manera de cerrar acuerdos.
+Dialogue: 0,0:21:31.91,0:21:32.74,Default,,0,0,0,,Bien.
+Dialogue: 0,0:21:40.46,0:21:43.59,Default,,0,0,0,,Esto es mucho mejor que los contratos.
+Dialogue: 0,0:21:43.88,0:21:45.59,Default,,0,0,0,,Es un espectáculo.
+Dialogue: 0,0:21:45.80,0:21:47.55,Default,,0,0,0,,¿Puedo repetir?
+Dialogue: 0,0:21:48.68,0:21:50.97,Default,,0,0,0,,Mañana iremos por más muestras.
+Dialogue: 0,0:21:51.22,0:21:52.68,Default,,0,0,0,,Hoy fue un gran día.
+Dialogue: 0,0:21:53.02,0:21:55.23,Default,,0,0,0,,Nos atacaron elfos,
+Dialogue: 0,0:21:55.31,0:21:58.60,Default,,0,0,0,,atravesamos el mar\Ny casi nos come un dragón.
+Dialogue: 0,0:22:00.98,0:22:02.27,Default,,0,0,0,,Sí, un gran día.
+Dialogue: 0,0:22:02.98,0:22:04.11,Default,,0,0,0,,Ahí está Agnes.
+Dialogue: 0,0:22:24.21,0:22:26.34,Default,,0,0,0,,Alfur, un brindis.
+Dialogue: 0,0:22:27.42,0:22:28.84,Default,,0,0,0,,Por los contratos.
+Dialogue: 0,0:22:33.76,0:22:35.27,Default,,0,0,0,,Por los contratos.
+Dialogue: 0,0:22:35.56,0:22:37.31,Default,,0,0,0,,¡Por los contratos!
+Dialogue: 0,0:22:37.68,0:22:38.73,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:23:02.21,0:23:06.17,Default,,0,0,0,,Subtítulos: Juliana Sestelo

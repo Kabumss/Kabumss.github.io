@@ -1,0 +1,437 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: [S01.E07]Hilda
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.00,0:00:09.30,Default,,0,0,0,,-[birds chirping]\N-[theme music playing]
+Dialogue: 0,0:00:18.47,0:00:20.35,Default,,0,0,0,,♪ Hilda ♪
+Dialogue: 0,0:00:23.81,0:00:25.81,Default,,0,0,0,,[woman vocalizing]
+Dialogue: 0,0:00:49.88,0:00:53.30,Default,,0,0,0,,To earn the Botany badge,\Nwe need to identify and collect samples
+Dialogue: 0,0:00:53.38,0:00:55.05,Default,,0,0,0,,of ten local plants.
+Dialogue: 0,0:00:55.13,0:00:56.55,Default,,0,0,0,,Here are your itineraries.
+Dialogue: 0,0:00:56.63,0:00:58.97,Default,,0,0,0,,Item one:\Ncheck the weather forecast.
+Dialogue: 0,0:00:59.05,0:00:59.89,Default,,0,0,0,,Hilda?
+Dialogue: 0,0:01:00.64,0:01:01.81,Default,,0,0,0,,Roger that.
+Dialogue: 0,0:01:01.89,0:01:04.60,Default,,0,0,0,,-[radio turns on]\N-This is Victoria Van Gale
+Dialogue: 0,0:01:04.68,0:01:07.06,Default,,0,0,0,,of the Greater Trolberg\NMeteorological Bureau.
+Dialogue: 0,0:01:07.15,0:01:08.40,Default,,0,0,0,,On the west side of the city,
+Dialogue: 0,0:01:08.48,0:01:12.03,Default,,0,0,0,,expect those showers to continue\Nfor approximately five seconds,
+Dialogue: 0,0:01:12.11,0:01:14.28,Default,,0,0,0,,followed by clear skies\Nthrough the weekend.
+Dialogue: 0,0:01:14.36,0:01:17.24,Default,,0,0,0,,Three, two, and one.
+Dialogue: 0,0:01:18.70,0:01:20.83,Default,,0,0,0,,That woman is amazingly accurate.
+Dialogue: 0,0:01:20.91,0:01:23.62,Default,,0,0,0,,Forecast acceptable.\NShall we?
+Dialogue: 0,0:01:26.12,0:01:29.13,Default,,0,0,0,,-Bye, Mum. We're heading to the park.\N-Oh, I almost forgot.
+Dialogue: 0,0:01:29.21,0:01:32.05,Default,,0,0,0,,I made cucumber sandwiches\Nand peppermint iced tea for your trip.
+Dialogue: 0,0:01:33.25,0:01:34.21,Default,,0,0,0,,Oh, thank...
+Dialogue: 0,0:01:35.97,0:01:36.80,Default,,0,0,0,,you.
+Dialogue: 0,0:01:36.88,0:01:39.51,Default,,0,0,0,,Come on!\NWe're already falling behind schedule.
+Dialogue: 0,0:01:42.22,0:01:44.81,Default,,0,0,0,,I chose this area for maximum efficiency.
+Dialogue: 0,0:01:44.89,0:01:47.39,Default,,0,0,0,,All the plants we need\Nshould be within this half acre.
+Dialogue: 0,0:01:47.48,0:01:51.02,Default,,0,0,0,,I found crab grass... and crab grass.\N[gasps]
+Dialogue: 0,0:01:51.11,0:01:52.73,Default,,0,0,0,,And crab grass!
+Dialogue: 0,0:01:52.82,0:01:54.57,Default,,0,0,0,,We only need one, David.
+Dialogue: 0,0:01:55.40,0:01:57.70,Default,,0,0,0,,Dandelions, purple thistle.
+Dialogue: 0,0:01:57.78,0:01:59.99,Default,,0,0,0,,[sighs] These are all just weeds.
+Dialogue: 0,0:02:00.07,0:02:02.87,Default,,0,0,0,,They fulfill the requirements.\NThat's what's important.
+Dialogue: 0,0:02:02.95,0:02:06.66,Default,,0,0,0,,Come on, earning these badges\Nisn't just about filling out paperwork.
+Dialogue: 0,0:02:06.75,0:02:09.87,Default,,0,0,0,,It's about having\Nnew experiences, adventures.
+Dialogue: 0,0:02:09.96,0:02:12.13,Default,,0,0,0,,Why can't we look for a petaled manivore?
+Dialogue: 0,0:02:12.21,0:02:14.38,Default,,0,0,0,,Or a struggling snake vine?\NOr...
+Dialogue: 0,0:02:15.00,0:02:16.17,Default,,0,0,0,,Oh! One of these?
+Dialogue: 0,0:02:16.97,0:02:20.68,Default,,0,0,0,,Because none of those are in the city,\Nespecially not the blue nettle.
+Dialogue: 0,0:02:20.76,0:02:22.64,Default,,0,0,0,,-It's very rare.\N-That's not true.
+Dialogue: 0,0:02:22.72,0:02:23.93,Default,,0,0,0,,I've seen one.
+Dialogue: 0,0:02:24.01,0:02:27.14,Default,,0,0,0,,What? That's impossible.
+Dialogue: 0,0:02:27.23,0:02:30.15,Default,,0,0,0,,No, seriously.\NBut Frida's right.
+Dialogue: 0,0:02:30.23,0:02:32.27,Default,,0,0,0,,We should probably leave it alone.
+Dialogue: 0,0:02:33.61,0:02:35.07,Default,,0,0,0,,It's haunted.
+Dialogue: 0,0:02:35.94,0:02:37.78,Default,,0,0,0,,You saw a ghost!
+Dialogue: 0,0:02:37.86,0:02:42.53,Default,,0,0,0,,Yes. Well, no. I heard one.\NSeveral, really.
+Dialogue: 0,0:02:43.03,0:02:45.08,Default,,0,0,0,,They were talking about the weather.
+Dialogue: 0,0:02:45.16,0:02:47.91,Default,,0,0,0,,A rare flower, conversational ghosts.
+Dialogue: 0,0:02:48.00,0:02:49.33,Default,,0,0,0,,We have to investigate!
+Dialogue: 0,0:02:49.41,0:02:52.08,Default,,0,0,0,,Uh, we should really focus\Non earning the badge.
+Dialogue: 0,0:02:52.17,0:02:53.54,Default,,0,0,0,,If we find a blue nettle,
+Dialogue: 0,0:02:53.63,0:02:57.51,Default,,0,0,0,,we won't just earn the badge,\Nwe'll earn it with golden wings.
+Dialogue: 0,0:02:58.09,0:02:59.05,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:02:59.13,0:03:00.38,Default,,0,0,0,,All right, I'm in.
+Dialogue: 0,0:03:02.05,0:03:03.97,Default,,0,0,0,,[David] I would have never come here\Non my own,
+Dialogue: 0,0:03:04.05,0:03:06.64,Default,,0,0,0,,but I was following\Na very interesting rabbit.
+Dialogue: 0,0:03:07.27,0:03:08.10,Default,,0,0,0,,Look.
+Dialogue: 0,0:03:09.48,0:03:10.89,Default,,0,0,0,,And listen.
+Dialogue: 0,0:03:10.98,0:03:13.77,Default,,0,0,0,,[voices chattering]
+Dialogue: 0,0:03:16.36,0:03:19.03,Default,,0,0,0,,-See? I told you.\N-Come on.
+Dialogue: 0,0:03:19.11,0:03:20.49,Default,,0,0,0,,I'll wait here.
+Dialogue: 0,0:03:20.57,0:03:21.53,Default,,0,0,0,,That's nothing.
+Dialogue: 0,0:03:21.61,0:03:23.87,Default,,0,0,0,,It's probably just some sort\Nof weird echo--
+Dialogue: 0,0:03:23.95,0:03:24.87,Default,,0,0,0,,-Wait!\N-[gasps]
+Dialogue: 0,0:03:24.95,0:03:29.12,Default,,0,0,0,,-What? What is it?\N-It isn't an echo or ghosts.
+Dialogue: 0,0:03:29.20,0:03:30.71,Default,,0,0,0,,It's elves.
+Dialogue: 0,0:03:30.79,0:03:33.08,Default,,0,0,0,,[chattering continues]
+Dialogue: 0,0:03:37.25,0:03:38.63,Default,,0,0,0,,I don't see anything.
+Dialogue: 0,0:03:39.13,0:03:41.67,Default,,0,0,0,,That's because you haven't filled out\Nthe proper paperwork.
+Dialogue: 0,0:03:41.76,0:03:43.22,Default,,0,0,0,,We came all this way.
+Dialogue: 0,0:03:43.30,0:03:45.93,Default,,0,0,0,,I'm not going to let\Ntiny, invisible men stop me.
+Dialogue: 0,0:03:46.01,0:03:47.85,Default,,0,0,0,,Careful! They look wild.
+Dialogue: 0,0:03:47.93,0:03:51.60,Default,,0,0,0,,[horn blaring]
+Dialogue: 0,0:03:51.68,0:03:52.52,Default,,0,0,0,,[growling]
+Dialogue: 0,0:03:55.19,0:03:56.81,Default,,0,0,0,,What was that?
+Dialogue: 0,0:03:56.90,0:03:58.73,Default,,0,0,0,,Attack!
+Dialogue: 0,0:03:58.82,0:04:01.57,Default,,0,0,0,,[elves shouting]
+Dialogue: 0,0:04:02.32,0:04:04.36,Default,,0,0,0,,Ow! I've been hit!
+Dialogue: 0,0:04:04.45,0:04:06.28,Default,,0,0,0,,[grunts] They're attacking!
+Dialogue: 0,0:04:06.37,0:04:07.87,Default,,0,0,0,,I gathered. [shrieks]
+Dialogue: 0,0:04:08.53,0:04:11.25,Default,,0,0,0,,Defend the clan till your last breath!
+Dialogue: 0,0:04:15.33,0:04:17.00,Default,,0,0,0,,-[birds chirping]\N-[kids grunting]
+Dialogue: 0,0:04:17.09,0:04:17.92,Default,,0,0,0,,Run!
+Dialogue: 0,0:04:19.63,0:04:21.46,Default,,0,0,0,,[grunting]
+Dialogue: 0,0:04:23.47,0:04:24.76,Default,,0,0,0,,[all grunt]
+Dialogue: 0,0:04:24.84,0:04:25.68,Default,,0,0,0,,Oh.
+Dialogue: 0,0:04:27.43,0:04:28.93,Default,,0,0,0,,[squeaking]
+Dialogue: 0,0:04:29.81,0:04:32.39,Default,,0,0,0,,Oh, hey. It's the rabbit I saw.
+Dialogue: 0,0:04:33.69,0:04:34.89,Default,,0,0,0,,Charge!
+Dialogue: 0,0:04:34.98,0:04:37.02,Default,,0,0,0,,[elves shouting]
+Dialogue: 0,0:04:39.32,0:04:40.90,Default,,0,0,0,,Those aren't just rabbits.
+Dialogue: 0,0:04:43.32,0:04:45.11,Default,,0,0,0,,Ah! [grunting]
+Dialogue: 0,0:04:47.20,0:04:49.28,Default,,0,0,0,,Oh, cruddlesticks.
+Dialogue: 0,0:04:49.37,0:04:50.58,Default,,0,0,0,,[thuds]
+Dialogue: 0,0:04:51.37,0:04:53.50,Default,,0,0,0,,Uh, guys?
+Dialogue: 0,0:04:53.58,0:04:55.54,Default,,0,0,0,,[both panting]
+Dialogue: 0,0:04:57.92,0:05:01.50,Default,,0,0,0,,We should have...\Njust stuck... to crab grass.
+Dialogue: 0,0:05:02.01,0:05:02.84,Default,,0,0,0,,Wait!
+Dialogue: 0,0:05:03.42,0:05:06.26,Default,,0,0,0,,-Where's David?\N-We have to go back for him!
+Dialogue: 0,0:05:07.05,0:05:07.93,Default,,0,0,0,,Ow!
+Dialogue: 0,0:05:08.89,0:05:11.72,Default,,0,0,0,,You can't even see them.\NWe need to ask for help.
+Dialogue: 0,0:05:12.52,0:05:14.14,Default,,0,0,0,,You may have to fill out some forms.
+Dialogue: 0,0:05:16.81,0:05:20.77,Default,,0,0,0,,-Sign there, and there, and there.\N-Oh, smudged it.
+Dialogue: 0,0:05:20.86,0:05:23.36,Default,,0,0,0,,You're sure it was elves?
+Dialogue: 0,0:05:23.44,0:05:24.74,Default,,0,0,0,,Positive.
+Dialogue: 0,0:05:24.82,0:05:26.57,Default,,0,0,0,,That seems impossible.
+Dialogue: 0,0:05:26.65,0:05:29.07,Default,,0,0,0,,I'm the only elf in Trolberg.
+Dialogue: 0,0:05:29.16,0:05:30.20,Default,,0,0,0,,Unless...
+Dialogue: 0,0:05:30.28,0:05:33.16,Default,,0,0,0,,Unless what? Oh, hello.
+Dialogue: 0,0:05:33.24,0:05:34.50,Default,,0,0,0,,There you are.
+Dialogue: 0,0:05:34.58,0:05:36.50,Default,,0,0,0,,That's what kidnapped David?
+Dialogue: 0,0:05:36.58,0:05:39.17,Default,,0,0,0,,S-- Sort of. They were hairier.
+Dialogue: 0,0:05:39.25,0:05:43.76,Default,,0,0,0,,Unless you've discovered\Nthe Lost Clan of the Northern Counties!
+Dialogue: 0,0:05:43.84,0:05:45.80,Default,,0,0,0,,Oh, this is fantastic news!
+Dialogue: 0,0:05:45.88,0:05:49.51,Default,,0,0,0,,-Finally, the contracts can be signed!\N-Finally!
+Dialogue: 0,0:05:49.59,0:05:53.43,Default,,0,0,0,,-Wait. What's he talking about?\N-I'm not actually sure.
+Dialogue: 0,0:05:53.51,0:05:55.14,Default,,0,0,0,,Alfur, what contract?
+Dialogue: 0,0:05:55.22,0:05:57.73,Default,,0,0,0,,Oh, it is a thrilling tale.
+Dialogue: 0,0:05:59.52,0:06:02.69,Default,,0,0,0,,Is it also a short tale?\NThey have our friend.
+Dialogue: 0,0:06:03.27,0:06:04.94,Default,,0,0,0,,Oh, right, yes. Of course. [chuckles]
+Dialogue: 0,0:06:05.03,0:06:07.90,Default,,0,0,0,,Well, I don't want\Nto deprive you of the drama,
+Dialogue: 0,0:06:07.99,0:06:09.66,Default,,0,0,0,,so I'll tell you on the way.
+Dialogue: 0,0:06:11.82,0:06:14.04,Default,,0,0,0,,-What do we do now?\N-I don't know.
+Dialogue: 0,0:06:14.12,0:06:16.50,Default,,0,0,0,,We've never taken a human prisoner before.
+Dialogue: 0,0:06:18.04,0:06:21.33,Default,,0,0,0,,Do you think he knows\Nthere's a bug in his hair?
+Dialogue: 0,0:06:21.42,0:06:23.13,Default,,0,0,0,,Hilda? Frida?
+Dialogue: 0,0:06:23.63,0:06:25.51,Default,,0,0,0,,Anybody?
+Dialogue: 0,0:06:27.22,0:06:30.34,Default,,0,0,0,,Our tale begins\Nin the time of the first elves.
+Dialogue: 0,0:06:33.51,0:06:37.27,Default,,0,0,0,,Two elf families met at dawn\Non an ancient plot of land.
+Dialogue: 0,0:06:37.35,0:06:42.52,Default,,0,0,0,,Their purpose:\Nto execute a real estate contract.
+Dialogue: 0,0:06:42.61,0:06:45.40,Default,,0,0,0,,Wait, is this a story about paperwork?
+Dialogue: 0,0:06:45.48,0:06:48.15,Default,,0,0,0,,Oh, yes. Most elf legends are.\N[chuckles]
+Dialogue: 0,0:06:48.24,0:06:51.82,Default,,0,0,0,,The Aldric family\Nwished to buy a parcel of their land.
+Dialogue: 0,0:06:52.41,0:06:55.54,Default,,0,0,0,,And the Bragga family,\Nwell, they wished to sell it.
+Dialogue: 0,0:06:56.62,0:06:59.50,Default,,0,0,0,,This was one of the oldest\Nand most valuable plots of land
+Dialogue: 0,0:06:59.58,0:07:01.00,Default,,0,0,0,,in all of elf-dom.
+Dialogue: 0,0:07:01.08,0:07:02.83,Default,,0,0,0,,The revisions were fierce.
+Dialogue: 0,0:07:03.33,0:07:06.00,Default,,0,0,0,,Clauses were included,\Nterms were terminated.
+Dialogue: 0,0:07:06.67,0:07:09.34,Default,,0,0,0,,The amendments alone took an entire day.
+Dialogue: 0,0:07:12.18,0:07:16.18,Default,,0,0,0,,Finally, many drafts later,\Nit was finished.
+Dialogue: 0,0:07:16.26,0:07:19.31,Default,,0,0,0,,A masterwork of mutual obligation.
+Dialogue: 0,0:07:19.89,0:07:25.06,Default,,0,0,0,,Both families signed in triplicate\Nand took it to the king for his approval.
+Dialogue: 0,0:07:27.32,0:07:29.32,Default,,0,0,0,,Then disaster struck.
+Dialogue: 0,0:07:29.82,0:07:34.99,Default,,0,0,0,,The king realized the Bragga, the sellers,\Nhad only signed twice!
+Dialogue: 0,0:07:35.58,0:07:36.91,Default,,0,0,0,,[all gasp]
+Dialogue: 0,0:07:36.99,0:07:39.75,Default,,0,0,0,,-You're supposed to gasp now.\N-[gasps]
+Dialogue: 0,0:07:39.83,0:07:41.87,Default,,0,0,0,,Really? That's all?
+Dialogue: 0,0:07:41.96,0:07:43.71,Default,,0,0,0,,You don't understand!
+Dialogue: 0,0:07:43.79,0:07:45.17,Default,,0,0,0,,In those ancient days,
+Dialogue: 0,0:07:45.25,0:07:48.55,Default,,0,0,0,,it was treason to bring\Nan unfinished contract before the king.
+Dialogue: 0,0:07:49.13,0:07:51.42,Default,,0,0,0,,He exiled the Bragga family on the spot.
+Dialogue: 0,0:07:51.51,0:07:56.01,Default,,0,0,0,,With the contract technically unfinished,\Nthe king declared the plot...
+Dialogue: 0,0:07:56.60,0:07:58.60,Default,,0,0,0,,[Elf King] No Elf's Land!
+Dialogue: 0,0:07:59.22,0:08:04.19,Default,,0,0,0,,[Alfur] It remains untouched,\Nneither bought nor sold, to this very day.
+Dialogue: 0,0:08:04.77,0:08:06.69,Default,,0,0,0,,The laws are much fairer now,\Nof course. [chuckles]
+Dialogue: 0,0:08:06.77,0:08:09.61,Default,,0,0,0,,If a Bragga signs this contract,\Ntheir exile will be over.
+Dialogue: 0,0:08:09.69,0:08:13.11,Default,,0,0,0,,But, unfortunately, nobody's been able\Nto find them for generations.
+Dialogue: 0,0:08:13.20,0:08:15.87,Default,,0,0,0,,And it's going to stay that way.
+Dialogue: 0,0:08:17.49,0:08:18.66,Default,,0,0,0,,[growling]
+Dialogue: 0,0:08:18.74,0:08:22.79,Default,,0,0,0,,-You were right. They are hairier.\N-Let me talk to them.
+Dialogue: 0,0:08:24.42,0:08:28.04,Default,,0,0,0,,Hello!\NI am Alfur of the Northern Counties.
+Dialogue: 0,0:08:28.75,0:08:31.38,Default,,0,0,0,,Are you the Lost Clan?
+Dialogue: 0,0:08:31.46,0:08:33.47,Default,,0,0,0,,-[elves shouting]\N-Hmm.
+Dialogue: 0,0:08:33.55,0:08:34.38,Default,,0,0,0,,[shouting stops]
+Dialogue: 0,0:08:34.47,0:08:36.80,Default,,0,0,0,,Some call us that, yes.
+Dialogue: 0,0:08:36.89,0:08:41.06,Default,,0,0,0,,I am Bartell, leader of the Bragga family.
+Dialogue: 0,0:08:41.14,0:08:43.06,Default,,0,0,0,,-[growling]\N-It's all right, Twig.
+Dialogue: 0,0:08:43.14,0:08:46.81,Default,,0,0,0,,Really? Oh, then I have fantastic news.
+Dialogue: 0,0:08:47.31,0:08:49.52,Default,,0,0,0,,Your exile is over!
+Dialogue: 0,0:08:49.61,0:08:50.98,Default,,0,0,0,,[elves gasping, murmuring]
+Dialogue: 0,0:08:51.07,0:08:52.32,Default,,0,0,0,,Oh, that's great.
+Dialogue: 0,0:08:52.40,0:08:53.65,Default,,0,0,0,,-That's great!\N-Yes!
+Dialogue: 0,0:08:53.74,0:08:57.32,Default,,0,0,0,,-All you need to do is sign this contract.\N-[Bartell] No!
+Dialogue: 0,0:08:57.99,0:09:02.62,Default,,0,0,0,,After being exiled,\Nour family swore off paperwork forever.
+Dialogue: 0,0:09:02.70,0:09:08.04,Default,,0,0,0,,A Bragga will never sign another document,\Nnot even a receipt.
+Dialogue: 0,0:09:08.13,0:09:09.50,Default,,0,0,0,,[all shouting]
+Dialogue: 0,0:09:09.59,0:09:11.34,Default,,0,0,0,,[gasps] No paperwork?
+Dialogue: 0,0:09:11.42,0:09:13.55,Default,,0,0,0,,But... but how do you\Nkeep track of everything?
+Dialogue: 0,0:09:13.63,0:09:17.43,Default,,0,0,0,,Of offers, of acceptance, of, of terms?
+Dialogue: 0,0:09:17.51,0:09:19.10,Default,,0,0,0,,Well, it's simple.
+Dialogue: 0,0:09:19.18,0:09:24.06,Default,,0,0,0,,We keep our word.\NAnd when we don't, we enter combat!
+Dialogue: 0,0:09:24.14,0:09:26.06,Default,,0,0,0,,[roars] Yeah, come on!
+Dialogue: 0,0:09:26.14,0:09:28.52,Default,,0,0,0,,-Combat! Yeah!\N-[elves shouting]
+Dialogue: 0,0:09:28.60,0:09:31.73,Default,,0,0,0,,Aw! Adorable, yet fearsome.
+Dialogue: 0,0:09:32.40,0:09:34.69,Default,,0,0,0,,Please, it, it's just one signature.
+Dialogue: 0,0:09:35.86,0:09:37.07,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:09:37.15,0:09:39.78,Default,,0,0,0,,What's your interest here?
+Dialogue: 0,0:09:39.87,0:09:43.74,Default,,0,0,0,,Oh, I'm just a good Samaritan,\Ntrying to help where I can. [chuckles]
+Dialogue: 0,0:09:43.83,0:09:44.70,Default,,0,0,0,,No.
+Dialogue: 0,0:09:45.37,0:09:47.42,Default,,0,0,0,,It's more than that.
+Dialogue: 0,0:09:47.50,0:09:48.79,Default,,0,0,0,,[sniffing]
+Dialogue: 0,0:09:49.33,0:09:51.09,Default,,0,0,0,,You... [gasps]
+Dialogue: 0,0:09:51.17,0:09:53.05,Default,,0,0,0,,You're an Aldric, aren't you?
+Dialogue: 0,0:09:53.59,0:09:55.92,Default,,0,0,0,,Uh... yes. Yes, I am.
+Dialogue: 0,0:09:56.55,0:09:57.68,Default,,0,0,0,,[all shouting]
+Dialogue: 0,0:09:59.09,0:10:02.22,Default,,0,0,0,,Alfur, your family\Ntried to buy No Elf's Land?
+Dialogue: 0,0:10:02.31,0:10:07.14,Default,,0,0,0,,They did, and thereby\Nare responsible for our exile.
+Dialogue: 0,0:10:07.94,0:10:10.15,Default,,0,0,0,,Well, that's hardly a fair interpretation.
+Dialogue: 0,0:10:10.23,0:10:13.44,Default,,0,0,0,,You must suffer for your family's crimes.
+Dialogue: 0,0:10:13.52,0:10:15.36,Default,,0,0,0,,There must be combat!
+Dialogue: 0,0:10:15.44,0:10:16.53,Default,,0,0,0,,[elves shouting]
+Dialogue: 0,0:10:18.53,0:10:23.41,Default,,0,0,0,,You will not leave this land until you\Ntake on all ten of our rabbit warriors,
+Dialogue: 0,0:10:23.95,0:10:26.25,Default,,0,0,0,,including Agnes.
+Dialogue: 0,0:10:27.08,0:10:28.16,Default,,0,0,0,,[hawks]
+Dialogue: 0,0:10:28.25,0:10:29.87,Default,,0,0,0,,[roars]
+Dialogue: 0,0:10:30.42,0:10:34.00,Default,,0,0,0,,[whimpers] But I don't even know\Nhow to ride a rabbit.
+Dialogue: 0,0:10:34.09,0:10:36.01,Default,,0,0,0,,-Hi, Agnes.\N-[Hilda] Don't worry, Alfur.
+Dialogue: 0,0:10:36.09,0:10:38.34,Default,,0,0,0,,Nobody takes our friend without a fight.
+Dialogue: 0,0:10:38.42,0:10:39.76,Default,,0,0,0,,Bring it on, you bunnies.
+Dialogue: 0,0:10:39.84,0:10:42.43,Default,,0,0,0,,Hold on!\NEverybody calm down.
+Dialogue: 0,0:10:42.51,0:10:45.85,Default,,0,0,0,,Contracts always have loopholes.\NThere must be another solution.
+Dialogue: 0,0:10:46.81,0:10:47.64,Default,,0,0,0,,Give us a day.
+Dialogue: 0,0:10:47.73,0:10:50.90,Default,,0,0,0,,Let us see if we can find a solution\Nthat makes everybody happy.
+Dialogue: 0,0:10:51.48,0:10:52.52,Default,,0,0,0,,Hmm...
+Dialogue: 0,0:10:53.06,0:10:55.15,Default,,0,0,0,,Your offer is acceptable.
+Dialogue: 0,0:10:55.23,0:10:57.99,Default,,0,0,0,,Also, if we succeed,\Nwe want the blue nettle.
+Dialogue: 0,0:10:58.07,0:10:59.53,Default,,0,0,0,,Just, just a clipping.
+Dialogue: 0,0:11:01.61,0:11:02.45,Default,,0,0,0,,Fine.
+Dialogue: 0,0:11:02.53,0:11:06.95,Default,,0,0,0,,But we're holding on to the boy\Nto make sure you all come back.
+Dialogue: 0,0:11:07.04,0:11:08.50,Default,,0,0,0,,That's all right with me.
+Dialogue: 0,0:11:08.58,0:11:12.21,Default,,0,0,0,,I imagine it will be safer\Nthan whatever you end up getting into.
+Dialogue: 0,0:11:12.29,0:11:14.54,Default,,0,0,0,,I'll just stay here\Nwith the invisible ant men.
+Dialogue: 0,0:11:14.63,0:11:16.71,Default,,0,0,0,,We are not ant men!
+Dialogue: 0,0:11:16.80,0:11:19.42,Default,,0,0,0,,Um, if you want,\NI could make you visible to him.
+Dialogue: 0,0:11:19.51,0:11:22.34,Default,,0,0,0,,-It just takes a bit of paperwork.\N-[all] No!
+Dialogue: 0,0:11:22.43,0:11:24.55,Default,,0,0,0,,[laughs nervously] Never mind.
+Dialogue: 0,0:11:30.31,0:11:32.85,Default,,0,0,0,,[mouthing words]
+Dialogue: 0,0:11:32.94,0:11:34.94,Default,,0,0,0,,You elves are thorough, aren't you?
+Dialogue: 0,0:11:35.02,0:11:36.11,Default,,0,0,0,,Mm.
+Dialogue: 0,0:11:36.19,0:11:39.40,Default,,0,0,0,,What are you all doing?\NI thought you were out looking for plants.
+Dialogue: 0,0:11:39.49,0:11:40.32,Default,,0,0,0,,We were.
+Dialogue: 0,0:11:40.40,0:11:43.57,Default,,0,0,0,,But now it seems we're reviewing\Na miniature contract for loopholes.
+Dialogue: 0,0:11:43.66,0:11:44.74,Default,,0,0,0,,Ah, I see.
+Dialogue: 0,0:11:44.82,0:11:46.83,Default,,0,0,0,,Oh! How about this?
+Dialogue: 0,0:11:46.91,0:11:51.50,Default,,0,0,0,,"An elf contract is null and void\Nif destroyed by the fire of a lindworm."
+Dialogue: 0,0:11:51.58,0:11:53.42,Default,,0,0,0,,So we need to find a lindworm.
+Dialogue: 0,0:11:53.50,0:11:55.58,Default,,0,0,0,,-Now that's an adventure!\N-Mm-mm.
+Dialogue: 0,0:11:55.67,0:11:57.71,Default,,0,0,0,,They put that clause in every contract.
+Dialogue: 0,0:11:57.80,0:12:00.05,Default,,0,0,0,,It doesn't actually mean anything.
+Dialogue: 0,0:12:00.13,0:12:03.97,Default,,0,0,0,,Lindworms are very rare\Nand very paperwork averse.
+Dialogue: 0,0:12:04.05,0:12:07.81,Default,,0,0,0,,-Heh, it's like saying, "When cows fly."\N-You mean pigs.
+Dialogue: 0,0:12:07.89,0:12:10.27,Default,,0,0,0,,Oh, no. That happens\Nwith some regularity.
+Dialogue: 0,0:12:10.35,0:12:12.18,Default,,0,0,0,,Do we have any better ideas?
+Dialogue: 0,0:12:12.89,0:12:15.44,Default,,0,0,0,,So, where do we start looking\Nfor a lindworm?
+Dialogue: 0,0:12:20.74,0:12:24.24,Default,,0,0,0,,I kind of hoped we'd be setting out\Ninto a deep, dark forest.
+Dialogue: 0,0:12:24.32,0:12:27.74,Default,,0,0,0,,The library\Nis a forest for the imagination.
+Dialogue: 0,0:12:27.83,0:12:30.33,Default,,0,0,0,,And research,\Nthe greatest adventure of them all.
+Dialogue: 0,0:12:30.41,0:12:31.91,Default,,0,0,0,,[gasps] I like him.
+Dialogue: 0,0:12:32.62,0:12:33.91,Default,,0,0,0,,Found it!
+Dialogue: 0,0:12:34.00,0:12:37.96,Default,,0,0,0,,Lindworms: Habitats and Hideouts,\Nvolume 27, section 3.
+Dialogue: 0,0:12:39.80,0:12:43.80,Default,,0,0,0,,I love a good subject-based\Nclassification system. [chuckles]
+Dialogue: 0,0:12:45.89,0:12:48.89,Default,,0,0,0,,"Lindworms are notoriously\Nantisocial creatures
+Dialogue: 0,0:12:48.97,0:12:51.68,Default,,0,0,0,,and most fled\Nduring the construction of the city.
+Dialogue: 0,0:12:51.77,0:12:55.81,Default,,0,0,0,,At last report, only one lair remained\Nin all of Trolberg."
+Dialogue: 0,0:12:55.90,0:12:57.56,Default,,0,0,0,,Well, where is it?
+Dialogue: 0,0:12:57.65,0:13:02.74,Default,,0,0,0,,[Frida] According to the key,\Nthe lair should be right here.
+Dialogue: 0,0:13:02.82,0:13:06.86,Default,,0,0,0,,-The lindworm lives under water?\N-Uh, well, not exactly.
+Dialogue: 0,0:13:13.33,0:13:14.46,Default,,0,0,0,,[Hilda] We could swim it.
+Dialogue: 0,0:13:15.04,0:13:17.79,Default,,0,0,0,,[Alfur] Wait. I may have a solution.
+Dialogue: 0,0:13:17.88,0:13:18.79,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:13:19.42,0:13:22.46,Default,,0,0,0,,-I need a conch shell and a tide chart.\N-[Frida] Here.
+Dialogue: 0,0:13:22.55,0:13:24.76,Default,,0,0,0,,There's one in the Sparrow Scout's Guide.
+Dialogue: 0,0:13:25.80,0:13:27.84,Default,,0,0,0,,All right, let's see.
+Dialogue: 0,0:13:27.93,0:13:29.93,Default,,0,0,0,,High tide at dusk. Very good!
+Dialogue: 0,0:13:30.01,0:13:31.51,Default,,0,0,0,,[clears throat, inhales]
+Dialogue: 0,0:13:31.60,0:13:33.85,Default,,0,0,0,,[sputtering]
+Dialogue: 0,0:13:33.93,0:13:36.69,Default,,0,0,0,,[inhales, sputtering]
+Dialogue: 0,0:13:37.35,0:13:40.73,Default,,0,0,0,,Would, would you mind?\NSorry. Tiny lungs. [chuckles]
+Dialogue: 0,0:13:40.82,0:13:44.36,Default,,0,0,0,,Give it kind of a "ooo-eee-whah."\N[chuckles]
+Dialogue: 0,0:13:45.07,0:13:45.90,Default,,0,0,0,,[inhales]
+Dialogue: 0,0:13:45.99,0:13:50.87,Default,,0,0,0,,[horn blaring]
+Dialogue: 0,0:13:51.95,0:13:53.70,Default,,0,0,0,,What exactly am I looking for?
+Dialogue: 0,0:13:55.04,0:13:56.41,Default,,0,0,0,,-Ah!\N-[whimpers]
+Dialogue: 0,0:13:57.46,0:13:58.37,Default,,0,0,0,,[groans]
+Dialogue: 0,0:14:00.29,0:14:01.96,Default,,0,0,0,,[croons]
+Dialogue: 0,0:14:03.50,0:14:05.17,Default,,0,0,0,,[both] Whoa!
+Dialogue: 0,0:14:05.26,0:14:07.26,Default,,0,0,0,,[Hilda] It's a water spirit!
+Dialogue: 0,0:14:07.34,0:14:10.55,Default,,0,0,0,,We were hoping you could give us a ride\Nto that island out there.
+Dialogue: 0,0:14:11.93,0:14:14.52,Default,,0,0,0,,[bellows]
+Dialogue: 0,0:14:25.28,0:14:26.49,Default,,0,0,0,,[whines]
+Dialogue: 0,0:14:27.61,0:14:28.61,Default,,0,0,0,,It's okay, Twig.
+Dialogue: 0,0:14:28.70,0:14:30.53,Default,,0,0,0,,-We'll be back soon.\N-[grunts]
+Dialogue: 0,0:14:33.83,0:14:35.83,Default,,0,0,0,,[upbeat music playing]
+Dialogue: 0,0:14:40.08,0:14:41.58,Default,,0,0,0,,♪ Fish are jumping ♪
+Dialogue: 0,0:14:42.25,0:14:44.17,Default,,0,0,0,,♪ Guess they're hunting ♪
+Dialogue: 0,0:14:44.67,0:14:46.13,Default,,0,0,0,,♪ 'Cause every now and then ♪
+Dialogue: 0,0:14:46.84,0:14:48.72,Default,,0,0,0,,♪ They catch a fly or something ♪
+Dialogue: 0,0:14:49.34,0:14:51.14,Default,,0,0,0,,♪ Down by the singing sea ♪
+Dialogue: 0,0:14:56.77,0:15:00.39,Default,,0,0,0,,[sighing]
+Dialogue: 0,0:15:00.48,0:15:03.15,Default,,0,0,0,,So, tell me, what do you...
+Dialogue: 0,0:15:03.23,0:15:05.86,Default,,0,0,0,,What do-- What do you usually do\Nwhen you're a hostage, eh?
+Dialogue: 0,0:15:05.94,0:15:10.20,Default,,0,0,0,,-This is actually my first time.\N-Oh, ours, too. Ours, too.
+Dialogue: 0,0:15:10.28,0:15:12.16,Default,,0,0,0,,Also, I'm over here.
+Dialogue: 0,0:15:12.24,0:15:14.91,Default,,0,0,0,,Eh, did you know there's a bug\Nin your hair?
+Dialogue: 0,0:15:17.54,0:15:22.46,Default,,0,0,0,,♪ While you're sleeping ♪
+Dialogue: 0,0:15:22.54,0:15:25.09,Default,,0,0,0,,♪ I float between the waves ♪
+Dialogue: 0,0:15:25.17,0:15:28.55,Default,,0,0,0,,All right, according to the book,\Nsigns of a lindworm lair
+Dialogue: 0,0:15:28.63,0:15:31.93,Default,,0,0,0,,include disturbed foliage,\Noverturned earth...
+Dialogue: 0,0:15:32.01,0:15:33.26,Default,,0,0,0,,And high plumes of smoke?
+Dialogue: 0,0:15:33.84,0:15:36.43,Default,,0,0,0,,Yes, exactly.\NHow did you...?
+Dialogue: 0,0:15:39.56,0:15:40.85,Default,,0,0,0,,[Frida] Oh.
+Dialogue: 0,0:15:45.11,0:15:46.23,Default,,0,0,0,,[Hilda] It's a garden.
+Dialogue: 0,0:15:48.53,0:15:50.24,Default,,0,0,0,,[wind blows]
+Dialogue: 0,0:15:50.32,0:15:51.20,Default,,0,0,0,,Come on.
+Dialogue: 0,0:16:04.67,0:16:07.21,Default,,0,0,0,,Whoa! Look at the flora!
+Dialogue: 0,0:16:10.01,0:16:12.63,Default,,0,0,0,,Whoa, I think this might be\Na petaled manivore.
+Dialogue: 0,0:16:12.72,0:16:14.26,Default,,0,0,0,,[sniffing]
+Dialogue: 0,0:16:19.89,0:16:21.64,Default,,0,0,0,,-[gasps]\N-What?
+Dialogue: 0,0:16:24.02,0:16:25.23,Default,,0,0,0,,[Frida] Whoa!
+Dialogue: 0,0:16:26.02,0:16:27.52,Default,,0,0,0,,That's a lindworm?
+Dialogue: 0,0:16:28.11,0:16:30.15,Default,,0,0,0,,[Hilda] Yes. What were you expecting?
+Dialogue: 0,0:16:30.65,0:16:33.24,Default,,0,0,0,,-A worm.\N-Look.
+Dialogue: 0,0:16:33.32,0:16:34.36,Default,,0,0,0,,Its nostrils.
+Dialogue: 0,0:16:36.45,0:16:39.37,Default,,0,0,0,,This is perfect.\NWe don't even have to wake it up.
+Dialogue: 0,0:16:39.45,0:16:42.79,Default,,0,0,0,,We can just hold the contract\Nin front of its nose and, poof,
+Dialogue: 0,0:16:43.29,0:16:44.67,Default,,0,0,0,,problem solved.
+Dialogue: 0,0:16:44.75,0:16:46.88,Default,,0,0,0,,Do you really think this is a good idea?
+Dialogue: 0,0:16:46.96,0:16:49.13,Default,,0,0,0,,It feels a tad dangerous.
+Dialogue: 0,0:16:49.21,0:16:52.05,Default,,0,0,0,,It won't take a second. Just watch.
+Dialogue: 0,0:16:56.76,0:16:58.30,Default,,0,0,0,,For No Elf's Land.
+Dialogue: 0,0:17:01.01,0:17:02.39,Default,,0,0,0,,[lindworm growls softly]
+Dialogue: 0,0:17:05.10,0:17:06.56,Default,,0,0,0,,Come on.
+Dialogue: 0,0:17:09.27,0:17:10.32,Default,,0,0,0,,[growls]
+Dialogue: 0,0:17:10.40,0:17:12.69,Default,,0,0,0,,[all screaming, whimpering]
+Dialogue: 0,0:17:15.53,0:17:17.11,Default,,0,0,0,,[snarling]
+Dialogue: 0,0:17:17.20,0:17:20.53,Default,,0,0,0,,Why are you sneaking up on me\Nin my sleep?
+Dialogue: 0,0:17:21.54,0:17:23.50,Default,,0,0,0,,Uh, sorry.\NWe were just--
+Dialogue: 0,0:17:23.58,0:17:28.21,Default,,0,0,0,,[lindworm] Oh, of course, another elf\Nlooking to get out of a contract.
+Dialogue: 0,0:17:28.29,0:17:30.25,Default,,0,0,0,,What is it this time?
+Dialogue: 0,0:17:30.34,0:17:32.46,Default,,0,0,0,,Short-term lease?
+Dialogue: 0,0:17:32.55,0:17:35.84,Default,,0,0,0,,Non-disclosure agreement?
+Dialogue: 0,0:17:36.34,0:17:37.30,Default,,0,0,0,,[girls shout]
+Dialogue: 0,0:17:37.93,0:17:39.51,Default,,0,0,0,,[panting]
+Dialogue: 0,0:17:46.77,0:17:47.60,Default,,0,0,0,,[yelps]
+Dialogue: 0,0:17:48.98,0:17:50.98,Default,,0,0,0,,We just wanted a puff of fire.
+Dialogue: 0,0:17:52.44,0:17:56.99,Default,,0,0,0,,Well, I'm tired of giving away\Nmy drake-given talents for free.
+Dialogue: 0,0:17:57.70,0:18:02.53,Default,,0,0,0,,Maybe if I devour you lot,\Neveryone will finally get the message.
+Dialogue: 0,0:18:02.62,0:18:04.33,Default,,0,0,0,,[roars]
+Dialogue: 0,0:18:04.41,0:18:05.95,Default,,0,0,0,,Um... [stammering]
+Dialogue: 0,0:18:06.04,0:18:08.08,Default,,0,0,0,,Who said anything about free?
+Dialogue: 0,0:18:08.75,0:18:09.71,Default,,0,0,0,,Excuse me?
+Dialogue: 0,0:18:09.79,0:18:11.84,Default,,0,0,0,,We're not here to mooch.
+Dialogue: 0,0:18:11.92,0:18:14.92,Default,,0,0,0,,In fact, we're very eager\Nto draw up an arrangement
+Dialogue: 0,0:18:15.01,0:18:17.59,Default,,0,0,0,,that would be acceptable to both parties.
+Dialogue: 0,0:18:17.67,0:18:22.30,Default,,0,0,0,,What could you possibly have\Nthat would be of interest to me?
+Dialogue: 0,0:18:22.39,0:18:25.22,Default,,0,0,0,,Uh, well, um...
+Dialogue: 0,0:18:25.31,0:18:26.14,Default,,0,0,0,,Hilda?
+Dialogue: 0,0:18:26.73,0:18:28.31,Default,,0,0,0,,Oh. Um...
+Dialogue: 0,0:18:29.56,0:18:30.73,Default,,0,0,0,,Plants!
+Dialogue: 0,0:18:30.81,0:18:32.06,Default,,0,0,0,,I'm sorry?
+Dialogue: 0,0:18:32.15,0:18:36.07,Default,,0,0,0,,I gather you have a bit\Nof a, excuse the joke, green thumb.
+Dialogue: 0,0:18:37.11,0:18:40.28,Default,,0,0,0,,It's true.\NI'm not interested in the googaws
+Dialogue: 0,0:18:40.36,0:18:43.33,Default,,0,0,0,,the younger, flashier dragon crowd\Ngoes in for.
+Dialogue: 0,0:18:43.41,0:18:47.41,Default,,0,0,0,,I prefer the real treasures of the earth.
+Dialogue: 0,0:18:47.50,0:18:48.54,Default,,0,0,0,,So do we.
+Dialogue: 0,0:18:48.62,0:18:51.13,Default,,0,0,0,,In fact, we spent the entire morning
+Dialogue: 0,0:18:51.21,0:18:54.96,Default,,0,0,0,,collecting\Nsome unique, very exciting samples.
+Dialogue: 0,0:18:55.55,0:18:56.71,Default,,0,0,0,,Isn't that right?
+Dialogue: 0,0:18:57.34,0:18:59.38,Default,,0,0,0,,"Exciting" is a strong word.
+Dialogue: 0,0:18:59.97,0:19:02.01,Default,,0,0,0,,[whispering] Frida, show her.
+Dialogue: 0,0:19:10.89,0:19:14.65,Default,,0,0,0,,Crab grass? Dandelions?\NPurple thistle?
+Dialogue: 0,0:19:15.69,0:19:20.32,Default,,0,0,0,,I've been trying to get my hands\Non some good urban flora for years now.
+Dialogue: 0,0:19:21.36,0:19:24.74,Default,,0,0,0,,I haven't been able to muster up\Nthe energy to go back into the city.
+Dialogue: 0,0:19:24.83,0:19:26.91,Default,,0,0,0,,My social anxiety is just awful.
+Dialogue: 0,0:19:28.04,0:19:31.17,Default,,0,0,0,,Would you part\Nwith these exquisite specimens?
+Dialogue: 0,0:19:31.75,0:19:34.71,Default,,0,0,0,,I'd be more than willing\Nto burn your contract in return.
+Dialogue: 0,0:19:35.29,0:19:37.09,Default,,0,0,0,,And not devour us?
+Dialogue: 0,0:19:37.17,0:19:39.59,Default,,0,0,0,,Oh... I suppose.
+Dialogue: 0,0:19:39.67,0:19:41.43,Default,,0,0,0,,Can we get that in writing?
+Dialogue: 0,0:19:44.18,0:19:49.06,Default,,0,0,0,,Sign here, and here, and here.
+Dialogue: 0,0:19:49.68,0:19:51.44,Default,,0,0,0,,Very nice. Thank you. [chuckles]
+Dialogue: 0,0:20:02.91,0:20:04.03,Default,,0,0,0,,Right! We're all set.
+Dialogue: 0,0:20:05.03,0:20:07.45,Default,,0,0,0,,See? All the best legends\Ninvolve paperwork.
+Dialogue: 0,0:20:10.41,0:20:11.83,Default,,0,0,0,,David, we're back!
+Dialogue: 0,0:20:11.91,0:20:13.83,Default,,0,0,0,,I'm so sorry it took so long.
+Dialogue: 0,0:20:14.63,0:20:16.29,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:20:16.38,0:20:17.71,Default,,0,0,0,,Bartell did it.
+Dialogue: 0,0:20:17.79,0:20:19.55,Default,,0,0,0,,It's to keep the bugs out.
+Dialogue: 0,0:20:19.63,0:20:21.63,Default,,0,0,0,,You know, David is quite the young man.
+Dialogue: 0,0:20:21.72,0:20:24.68,Default,,0,0,0,,He has set the bar very high\Nfor future hostages.
+Dialogue: 0,0:20:24.76,0:20:26.35,Default,,0,0,0,,Now, let me guess.
+Dialogue: 0,0:20:26.43,0:20:31.35,Default,,0,0,0,,You have failed to break the contract\Nand have returned for combat!
+Dialogue: 0,0:20:31.43,0:20:33.98,Default,,0,0,0,,No! Very much the opposite.
+Dialogue: 0,0:20:39.15,0:20:40.61,Default,,0,0,0,,That glow.
+Dialogue: 0,0:20:41.28,0:20:42.90,Default,,0,0,0,,Lindworm flame?
+Dialogue: 0,0:20:42.99,0:20:45.57,Default,,0,0,0,,Mm-hmm. The contract is broken.
+Dialogue: 0,0:20:45.66,0:20:48.24,Default,,0,0,0,,Your exile is over!
+Dialogue: 0,0:20:48.33,0:20:51.25,Default,,0,0,0,,[elves cheering]
+Dialogue: 0,0:20:51.33,0:20:56.21,Default,,0,0,0,,You can finally leave this place\Nand move into No Elf's Land.
+Dialogue: 0,0:20:57.13,0:20:58.38,Default,,0,0,0,,Oh.
+Dialogue: 0,0:20:58.96,0:21:01.67,Default,,0,0,0,,"Oh"? [stammering]\NWhat do you mean, "Oh"?
+Dialogue: 0,0:21:01.76,0:21:06.34,Default,,0,0,0,,Well, uh, we were so angry\Nabout being exiled,
+Dialogue: 0,0:21:06.43,0:21:09.72,Default,,0,0,0,,we never thought about\Nactually leaving this place.
+Dialogue: 0,0:21:09.81,0:21:14.06,Default,,0,0,0,,-The wall is our home.\N-But what about No Elf's Land?
+Dialogue: 0,0:21:14.81,0:21:16.02,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:21:16.85,0:21:18.11,Default,,0,0,0,,Do you still want it?
+Dialogue: 0,0:21:18.69,0:21:22.03,Default,,0,0,0,,Really? You'd cede\Nyour ownership rights just like that?
+Dialogue: 0,0:21:22.11,0:21:24.24,Default,,0,0,0,,No contract, no lease, no anything?
+Dialogue: 0,0:21:24.74,0:21:28.95,Default,,0,0,0,,Well, we have our own way\Nof sealing deals.
+Dialogue: 0,0:21:29.66,0:21:31.08,Default,,0,0,0,,Oh.
+Dialogue: 0,0:21:31.16,0:21:32.74,Default,,0,0,0,,[gulps] Good.
+Dialogue: 0,0:21:32.83,0:21:36.08,Default,,0,0,0,,-[folk music playing]\N-[chatter]
+Dialogue: 0,0:21:40.42,0:21:43.71,Default,,0,0,0,,You're right, Bartell.\NThis is way better than paperwork.
+Dialogue: 0,0:21:43.80,0:21:45.67,Default,,0,0,0,,It is quite the spectacle.
+Dialogue: 0,0:21:45.76,0:21:47.55,Default,,0,0,0,,Is it okay if I have seconds?
+Dialogue: 0,0:21:48.68,0:21:51.14,Default,,0,0,0,,We'll have to recollect\Nall new samples tomorrow.
+Dialogue: 0,0:21:51.22,0:21:52.93,Default,,0,0,0,,But wasn't that worth it today?
+Dialogue: 0,0:21:53.02,0:21:55.27,Default,,0,0,0,,A day in which we were attacked by elves,
+Dialogue: 0,0:21:55.35,0:21:58.73,Default,,0,0,0,,carried by a water spirit,\Nand almost eaten by a dragon?
+Dialogue: 0,0:22:00.98,0:22:02.27,Default,,0,0,0,,Yeah, I guess it was.
+Dialogue: 0,0:22:02.36,0:22:04.11,Default,,0,0,0,,Oh, oh, Agnes is up.
+Dialogue: 0,0:22:04.19,0:22:05.82,Default,,0,0,0,,-[music stops]\N-[elves cheering]
+Dialogue: 0,0:22:05.90,0:22:07.15,Default,,0,0,0,,[hawks]
+Dialogue: 0,0:22:07.24,0:22:08.24,Default,,0,0,0,,[roars]
+Dialogue: 0,0:22:10.07,0:22:11.07,Default,,0,0,0,,[roaring]
+Dialogue: 0,0:22:14.91,0:22:15.91,Default,,0,0,0,,Whoa! Ow!
+Dialogue: 0,0:22:17.75,0:22:19.71,Default,,0,0,0,,[hawks]
+Dialogue: 0,0:22:20.21,0:22:21.67,Default,,0,0,0,,[elves cheering]
+Dialogue: 0,0:22:21.75,0:22:23.71,Default,,0,0,0,,[music resumes]
+Dialogue: 0,0:22:24.30,0:22:26.51,Default,,0,0,0,,Alfur, a toast.
+Dialogue: 0,0:22:27.42,0:22:28.76,Default,,0,0,0,,To contracts!
+Dialogue: 0,0:22:28.84,0:22:31.26,Default,,0,0,0,,-[music and chatter stop]\N-[cricket chirping]
+Dialogue: 0,0:22:33.76,0:22:35.27,Default,,0,0,0,,To contracts!
+Dialogue: 0,0:22:35.35,0:22:37.56,Default,,0,0,0,,-[music resumes]\N-[elves] To contracts!
+Dialogue: 0,0:22:37.64,0:22:38.73,Default,,0,0,0,,[Bartell] Yeah!
+Dialogue: 0,0:22:41.94,0:22:43.82,Default,,0,0,0,,[theme music playing]

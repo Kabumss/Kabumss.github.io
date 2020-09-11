@@ -1,0 +1,295 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: [S01.E05]Hilda
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:44.56,0:01:46.35,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:02:14.09,0:02:18.55,Default,,0,0,0,,CAPÍTULO 5: LA ROCA TROL
+Dialogue: 0,0:02:20.05,0:02:22.05,Default,,0,0,0,,BIENVENIDOS, PADRES
+Dialogue: 0,0:02:30.98,0:02:32.19,Default,,0,0,0,,¡Hola!
+Dialogue: 0,0:02:34.32,0:02:37.99,Default,,0,0,0,,Bienvenidos. Soy el director Magnusson.
+Dialogue: 0,0:02:40.07,0:02:43.49,Default,,0,0,0,,- Gracias.\N- Gracias a ustedes por venir.
+Dialogue: 0,0:02:43.58,0:02:46.08,Default,,0,0,0,,Quédense hasta el gran final.
+Dialogue: 0,0:02:56.84,0:03:00.47,Default,,0,0,0,,Haremos una ceremonia\Npara la nueva estatua.
+Dialogue: 0,0:03:02.80,0:03:03.93,Default,,0,0,0,,Parece bueno.
+Dialogue: 0,0:03:04.22,0:03:06.93,Default,,0,0,0,,¡Lo es!
+Dialogue: 0,0:03:07.39,0:03:12.90,Default,,0,0,0,,Uno de los fundadores de la ciudad.\NEdmund "Cazatrols" Ahlberg.
+Dialogue: 0,0:03:13.86,0:03:17.03,Default,,0,0,0,,¡Me encanta inaugurar muestras de arte!
+Dialogue: 0,0:03:17.11,0:03:23.16,Default,,0,0,0,,No quiero adelantarles nada,\Npero quizá lea un poema.
+Dialogue: 0,0:03:24.28,0:03:25.20,Default,,0,0,0,,Encantador.
+Dialogue: 0,0:03:30.71,0:03:33.25,Default,,0,0,0,,Esta es mi muestra: piojos.
+Dialogue: 0,0:03:33.33,0:03:35.79,Default,,0,0,0,,Yo misma te los quité del cabello.
+Dialogue: 0,0:03:35.88,0:03:36.71,Default,,0,0,0,,Es cierto.
+Dialogue: 0,0:03:37.46,0:03:39.96,Default,,0,0,0,,Pensé que no volvería a verlos.
+Dialogue: 0,0:03:40.05,0:03:45.72,Default,,0,0,0,,Aquí nadie había visto piojos. Además,\Nno podía usar rocas. Es el tema de David.
+Dialogue: 0,0:03:45.80,0:03:48.89,Default,,0,0,0,,Excelente, hijo.\NLlenaste muy bien la caja.
+Dialogue: 0,0:03:48.97,0:03:53.27,Default,,0,0,0,,Cariño, es el mejor trabajo\Nque hayas hecho.
+Dialogue: 0,0:03:53.98,0:03:54.81,Default,,0,0,0,,¡Hola!
+Dialogue: 0,0:03:55.90,0:03:57.86,Default,,0,0,0,,Estoy orgullosa de ti.
+Dialogue: 0,0:03:57.94,0:04:02.61,Default,,0,0,0,,Estabas nerviosa por la escuela,\Npero te adaptaste muy bien.
+Dialogue: 0,0:04:03.15,0:04:03.99,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:04:04.28,0:04:06.74,Default,,0,0,0,,Frida y David me ayudaron mucho.
+Dialogue: 0,0:04:06.82,0:04:08.49,Default,,0,0,0,,Hilda, ¡aquí estás!
+Dialogue: 0,0:04:08.74,0:04:11.70,Default,,0,0,0,,Tardaste y creí que no vendrías.
+Dialogue: 0,0:04:11.79,0:04:13.08,Default,,0,0,0,,Mira mi proyecto.
+Dialogue: 0,0:04:13.75,0:04:15.58,Default,,0,0,0,,Crecen muy rápido, ¿no?
+Dialogue: 0,0:04:16.17,0:04:17.00,Default,,0,0,0,,¿Alfur?
+Dialogue: 0,0:04:17.34,0:04:18.17,Default,,0,0,0,,Tranquila.
+Dialogue: 0,0:04:18.25,0:04:21.71,Default,,0,0,0,,Te haré compañía cuando Hilda no esté.
+Dialogue: 0,0:04:21.92,0:04:24.72,Default,,0,0,0,,Firmar los papeles valió la pena.
+Dialogue: 0,0:04:25.39,0:04:26.84,Default,,0,0,0,,¿Qué haces aquí?
+Dialogue: 0,0:04:28.05,0:04:29.76,Default,,0,0,0,,Un informe de la escuela.
+Dialogue: 0,0:04:30.10,0:04:32.60,Default,,0,0,0,,Los elfos quieren saber de Hilda.
+Dialogue: 0,0:04:33.39,0:04:34.81,Default,,0,0,0,,- ¿De veras?\N- Sí.
+Dialogue: 0,0:04:35.10,0:04:40.82,Default,,0,0,0,,La vida de los elfos es aburrida\Nahora que ustedes no pisan las casas.
+Dialogue: 0,0:04:41.15,0:04:43.32,Default,,0,0,0,,No es buena idea que estés aquí.
+Dialogue: 0,0:04:43.65,0:04:46.78,Default,,0,0,0,,Nadie puede verme. Todo saldrá bien.
+Dialogue: 0,0:04:47.74,0:04:50.49,Default,,0,0,0,,Bien. Mantén un perfil bajo.
+Dialogue: 0,0:04:50.87,0:04:52.66,Default,,0,0,0,,No tengo otra opción.
+Dialogue: 0,0:04:58.50,0:05:02.38,Default,,0,0,0,,Empezaremos con un video\Nde la historia de la escuela.
+Dialogue: 0,0:05:02.84,0:05:03.67,Default,,0,0,0,,¿Trevor?
+Dialogue: 0,0:05:04.13,0:05:05.22,Default,,0,0,0,,Sí, señora.
+Dialogue: 0,0:05:13.64,0:05:16.19,Default,,0,0,0,,EL CONSEJO DE EDUCACIÓN\NY DOMESTICACIÓN PRESENTA:
+Dialogue: 0,0:05:16.27,0:05:17.94,Default,,0,0,0,,300 AÑOS DE LA ESCUELA AHLBERG
+Dialogue: 0,0:05:20.77,0:05:24.32,Default,,0,0,0,,Hace 300 años,\NEdmund Ahlberg fundó la escuela
+Dialogue: 0,0:05:24.40,0:05:29.70,Default,,0,0,0,,con base en estructura y disciplina,\Ntratando a los alumnos por igual.
+Dialogue: 0,0:05:30.83,0:05:32.74,Default,,0,0,0,,Nos guía su visión...
+Dialogue: 0,0:05:38.04,0:05:39.54,Default,,0,0,0,,¡Mi proyecto!
+Dialogue: 0,0:05:40.71,0:05:41.54,Default,,0,0,0,,¿Qué pasó?
+Dialogue: 0,0:05:42.05,0:05:44.51,Default,,0,0,0,,Alguien arrojó las rocas de David.
+Dialogue: 0,0:05:45.09,0:05:46.26,Default,,0,0,0,,¿"Alguien"?
+Dialogue: 0,0:05:47.18,0:05:48.43,Default,,0,0,0,,¿Qué insinúa?
+Dialogue: 0,0:05:50.64,0:05:52.01,Default,,0,0,0,,¿Piensa que fui yo?
+Dialogue: 0,0:05:52.22,0:05:55.22,Default,,0,0,0,,Eras quien estaba más cerca de las rocas.
+Dialogue: 0,0:05:55.43,0:05:57.44,Default,,0,0,0,,¡No! Amo las rocas.
+Dialogue: 0,0:05:59.06,0:06:00.44,Default,,0,0,0,,Esta es rara.
+Dialogue: 0,0:06:00.69,0:06:02.32,Default,,0,0,0,,Se parece mucho...
+Dialogue: 0,0:06:02.40,0:06:04.82,Default,,0,0,0,,A algo peligroso.
+Dialogue: 0,0:06:05.19,0:06:06.90,Default,,0,0,0,,Podrían sacarse un ojo.
+Dialogue: 0,0:06:07.07,0:06:11.57,Default,,0,0,0,,Mejor me lo llevo para que quien lo hizo\Nno vuelva a tentarse.
+Dialogue: 0,0:06:11.91,0:06:13.16,Default,,0,0,0,,¿Está todo bien?
+Dialogue: 0,0:06:13.37,0:06:18.12,Default,,0,0,0,,Me gustaría hablar con usted\Nluego de limpiar todo esto.
+Dialogue: 0,0:06:18.66,0:06:19.87,Default,,0,0,0,,Por supuesto.
+Dialogue: 0,0:06:25.92,0:06:27.76,Default,,0,0,0,,Lo juro. Yo no hice nada.
+Dialogue: 0,0:06:27.97,0:06:30.59,Default,,0,0,0,,Hablaremos y lo aclararemos.
+Dialogue: 0,0:06:30.68,0:06:34.51,Default,,0,0,0,,- Tu mamá es muy convincente.\N- Gracias, Alfur.
+Dialogue: 0,0:06:34.93,0:06:38.23,Default,,0,0,0,,¿Por qué la Sra. Hallgrim me culpa?\NMe adora.
+Dialogue: 0,0:06:39.52,0:06:42.44,Default,,0,0,0,,- Hilda, ¿podemos hablar?\N- Claro.
+Dialogue: 0,0:06:42.94,0:06:43.94,Default,,0,0,0,,Disculpa.
+Dialogue: 0,0:06:44.90,0:06:45.90,Default,,0,0,0,,Te contaré.
+Dialogue: 0,0:06:46.48,0:06:48.69,Default,,0,0,0,,La Sra. Hallgrim no te adora.
+Dialogue: 0,0:06:49.07,0:06:50.11,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:06:51.07,0:06:53.74,Default,,0,0,0,,No eres la mejor siguiendo reglas.
+Dialogue: 0,0:06:54.41,0:06:59.04,Default,,0,0,0,,¿Cómo pudo el rey Tryggvason\Nperder la Batalla de Svolder?
+Dialogue: 0,0:06:59.33,0:07:01.08,Default,,0,0,0,,Hilda, levanta la mano.
+Dialogue: 0,0:07:01.67,0:07:03.71,Default,,0,0,0,,Y es la clase de ciencias.
+Dialogue: 0,0:07:04.17,0:07:07.21,Default,,0,0,0,,Es un simulacro de trol. Obedece.
+Dialogue: 0,0:07:07.46,0:07:10.93,Default,,0,0,0,,Si aquí hubiese un trol, esto no serviría.
+Dialogue: 0,0:07:11.47,0:07:13.30,Default,,0,0,0,,No importa cuánto pagó.
+Dialogue: 0,0:07:13.39,0:07:16.64,Default,,0,0,0,,Preguntémonos\Npor qué compró tantas manzanas.
+Dialogue: 0,0:07:16.85,0:07:18.93,Default,,0,0,0,,¿Alimenta a algún monstruo?
+Dialogue: 0,0:07:19.27,0:07:21.44,Default,,0,0,0,,Terminó el horario de clases.
+Dialogue: 0,0:07:22.02,0:07:24.77,Default,,0,0,0,,¡Nadie se preocupó por las manzanas!
+Dialogue: 0,0:07:24.86,0:07:26.73,Default,,0,0,0,,La escuela no funciona así.
+Dialogue: 0,0:07:27.11,0:07:30.74,Default,,0,0,0,,Preguntan y respondemos. No preguntamos.
+Dialogue: 0,0:07:30.82,0:07:32.20,Default,,0,0,0,,Eso es lo divertido.
+Dialogue: 0,0:07:32.57,0:07:35.78,Default,,0,0,0,,¿Para qué preguntar\Nsi ya saben las respuestas?
+Dialogue: 0,0:07:35.87,0:07:37.41,Default,,0,0,0,,Porque es así.
+Dialogue: 0,0:07:37.79,0:07:42.46,Default,,0,0,0,,Quizá te cambie con los chicos\Nque tienen problemas de conducta.
+Dialogue: 0,0:07:42.54,0:07:44.67,Default,,0,0,0,,¡Yo no tengo problemas!
+Dialogue: 0,0:07:45.17,0:07:50.05,Default,,0,0,0,,- David, ¿dirías que perturbo en clase?\N- Nunca lo diría en clase.
+Dialogue: 0,0:07:50.13,0:07:53.51,Default,,0,0,0,,Si la maestra está hablando,\Ncrearía disturbio.
+Dialogue: 0,0:07:54.09,0:07:58.01,Default,,0,0,0,,Quiero decir si crees\Nque yo perturbo la clase.
+Dialogue: 0,0:07:58.51,0:07:59.35,Default,,0,0,0,,Sí.
+Dialogue: 0,0:07:59.43,0:08:00.89,Default,,0,0,0,,¿Qué? ¿De veras?
+Dialogue: 0,0:08:01.10,0:08:02.39,Default,,0,0,0,,Pero no importa.
+Dialogue: 0,0:08:02.48,0:08:05.10,Default,,0,0,0,,De ese modo, no me reprende a mí.
+Dialogue: 0,0:08:12.74,0:08:16.32,Default,,0,0,0,,Mira, los padres de Frida. ¿Los saludamos?
+Dialogue: 0,0:08:16.87,0:08:17.87,Default,,0,0,0,,Buena idea.
+Dialogue: 0,0:08:18.45,0:08:20.79,Default,,0,0,0,,Yo saludo. Tú no digas nada.
+Dialogue: 0,0:08:21.12,0:08:22.75,Default,,0,0,0,,¿Hablas sola?
+Dialogue: 0,0:08:23.62,0:08:25.46,Default,,0,0,0,,No, hablaba con Al...
+Dialogue: 0,0:08:26.00,0:08:27.75,Default,,0,0,0,,Sí, conmigo misma.
+Dialogue: 0,0:08:29.50,0:08:32.97,Default,,0,0,0,,Hola. Soy Joanna, la mamá de Hilda.
+Dialogue: 0,0:08:35.26,0:08:36.64,Default,,0,0,0,,Sí. Hilda.
+Dialogue: 0,0:08:36.89,0:08:38.97,Default,,0,0,0,,Ustedes vivían en el bosque.
+Dialogue: 0,0:08:39.06,0:08:39.89,Default,,0,0,0,,Sí.
+Dialogue: 0,0:08:41.27,0:08:43.35,Default,,0,0,0,,¡Claro! Eso explica todo.
+Dialogue: 0,0:08:47.10,0:08:50.27,Default,,0,0,0,,La Sra. Hallgrim me cree problemática.
+Dialogue: 0,0:08:50.57,0:08:52.90,Default,,0,0,0,,Mamá estaba orgullosa de mí.
+Dialogue: 0,0:08:52.99,0:08:55.99,Default,,0,0,0,,Podrías salvarte\Nsi encontramos al culpable.
+Dialogue: 0,0:08:56.36,0:08:58.07,Default,,0,0,0,,¿Quién habrá sido?
+Dialogue: 0,0:09:02.70,0:09:03.70,Default,,0,0,0,,¡La roca!
+Dialogue: 0,0:09:04.87,0:09:07.58,Default,,0,0,0,,David, ¡tienes una roca trol!
+Dialogue: 0,0:09:07.67,0:09:09.21,Default,,0,0,0,,¿Una roca trol?
+Dialogue: 0,0:09:15.97,0:09:19.35,Default,,0,0,0,,- Es la que tiene nariz.\N- Pero es muy pequeña.
+Dialogue: 0,0:09:20.14,0:09:24.10,Default,,0,0,0,,Bueno, era pequeña.\NCreo que creció un poco.
+Dialogue: 0,0:09:30.06,0:09:32.28,Default,,0,0,0,,Un bebé. ¿Dónde la encontraste?
+Dialogue: 0,0:09:32.36,0:09:35.32,Default,,0,0,0,,Donde hicimos el proyecto de exploradores.
+Dialogue: 0,0:09:35.99,0:09:38.36,Default,,0,0,0,,Quizá salió del túnel de los vitra.
+Dialogue: 0,0:09:38.66,0:09:42.41,Default,,0,0,0,,En el día son rocas.\NSe despiertan por la noche.
+Dialogue: 0,0:09:44.91,0:09:47.58,Default,,0,0,0,,- Y en la oscuridad.\N- Sí.
+Dialogue: 0,0:09:47.67,0:09:51.84,Default,,0,0,0,,Cuando anochezca,\Nya no podremos convertirlo en roca.
+Dialogue: 0,0:09:51.92,0:09:53.42,Default,,0,0,0,,Está anocheciendo.
+Dialogue: 0,0:09:59.39,0:10:01.30,Default,,0,0,0,,Saquémoslo ya de aquí.
+Dialogue: 0,0:10:01.39,0:10:07.10,Default,,0,0,0,,Un trol en Trolberg es un problema.\NPor eso un muro rodea la ciudad.
+Dialogue: 0,0:10:07.18,0:10:12.69,Default,,0,0,0,,Atraparon a un chico con un roca trol\Ny estuvo 50 años en prisión.
+Dialogue: 0,0:10:13.11,0:10:16.94,Default,,0,0,0,,- ¿Y si es un accidente?\N- Corresponden 100 años.
+Dialogue: 0,0:10:17.03,0:10:20.41,Default,,0,0,0,,Realmente no aceptan que sea un accidente.
+Dialogue: 0,0:10:20.82,0:10:22.49,Default,,0,0,0,,Entonces lo llevaremos
+Dialogue: 0,0:10:22.58,0:10:23.95,Default,,0,0,0,,fuera de la ciudad.
+Dialogue: 0,0:10:30.04,0:10:31.71,Default,,0,0,0,,¡La Sra. Hallgrim!
+Dialogue: 0,0:10:32.04,0:10:34.75,Default,,0,0,0,,¿Cómo llegaremos a su escritorio?
+Dialogue: 0,0:10:38.09,0:10:39.05,Default,,0,0,0,,Ya sé.
+Dialogue: 0,0:10:40.30,0:10:44.47,Default,,0,0,0,,¿Quieres que libere a un bebé trol\Ndel escritorio?
+Dialogue: 0,0:10:45.31,0:10:47.56,Default,,0,0,0,,Te gusta ayudar a los trols.
+Dialogue: 0,0:10:47.81,0:10:49.60,Default,,0,0,0,,Me suele pasar seguido.
+Dialogue: 0,0:10:57.03,0:10:58.19,Default,,0,0,0,,¡Iré a prisión!
+Dialogue: 0,0:11:09.46,0:11:10.33,Default,,0,0,0,,¡Ay, no!
+Dialogue: 0,0:11:10.41,0:11:13.08,Default,,0,0,0,,Le dirá a mi mamá que soy problemática.
+Dialogue: 0,0:11:13.38,0:11:14.92,Default,,0,0,0,,Diseño gráfico.
+Dialogue: 0,0:11:15.17,0:11:18.34,Default,,0,0,0,,Es un área fascinante.\NDebes ser muy talentosa.
+Dialogue: 0,0:11:18.42,0:11:21.51,Default,,0,0,0,,No fue nada fácil desde que nos mudamos.
+Dialogue: 0,0:11:21.59,0:11:25.97,Default,,0,0,0,,Lamento interrumpir,\Npero ¿podríamos hablar?
+Dialogue: 0,0:11:26.39,0:11:27.31,Default,,0,0,0,,Claro.
+Dialogue: 0,0:11:27.89,0:11:29.64,Default,,0,0,0,,Hilda, acércate.
+Dialogue: 0,0:11:32.14,0:11:35.15,Default,,0,0,0,,- ¿Y si la distraen tus padres?\N- No.
+Dialogue: 0,0:11:35.48,0:11:37.94,Default,,0,0,0,,No quiero que hablen con ella.
+Dialogue: 0,0:11:38.28,0:11:42.57,Default,,0,0,0,,Quieren pedirle tarea extra\Npara subir mi puntaje de matemática.
+Dialogue: 0,0:11:43.53,0:11:44.62,Default,,0,0,0,,BIENVENIDOS
+Dialogue: 0,0:11:45.12,0:11:46.24,Default,,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:11:48.99,0:11:51.96,Default,,0,0,0,,Mamá, mira. La Sra. Hallgrim.
+Dialogue: 0,0:11:52.83,0:11:54.67,Default,,0,0,0,,Me alegra encontrarla.
+Dialogue: 0,0:11:54.96,0:11:58.34,Default,,0,0,0,,Frida bajó un poco\Nel puntaje de matemática.
+Dialogue: 0,0:11:58.55,0:12:02.38,Default,,0,0,0,,Me está mirando.\NTe toca tomar la roca trol.
+Dialogue: 0,0:12:02.55,0:12:05.85,Default,,0,0,0,,Te pasaré a Alfur.\NSolo súbelo al escritorio.
+Dialogue: 0,0:12:10.93,0:12:11.98,Default,,0,0,0,,¡Cosquillas!
+Dialogue: 0,0:12:12.06,0:12:15.48,Default,,0,0,0,,Y lo consideramos sumamente importante.
+Dialogue: 0,0:12:15.73,0:12:17.06,Default,,0,0,0,,Ve. ¡De prisa!
+Dialogue: 0,0:12:23.28,0:12:24.78,Default,,0,0,0,,¿Bajaste de mi mano?
+Dialogue: 0,0:12:24.95,0:12:27.41,Default,,0,0,0,,Sí, ya llevo un tiempo aquí.
+Dialogue: 0,0:12:31.37,0:12:32.62,Default,,0,0,0,,Seguro coincidirá
+Dialogue: 0,0:12:32.79,0:12:36.71,Default,,0,0,0,,que los logros del alumno\Nsolo se limitan por su esfuerzo.
+Dialogue: 0,0:12:38.21,0:12:39.67,Default,,0,0,0,,De prisa, David.
+Dialogue: 0,0:12:40.38,0:12:43.13,Default,,0,0,0,,Alfur, ¿dónde estás? ¿Todo está bien?
+Dialogue: 0,0:12:44.51,0:12:45.38,Default,,0,0,0,,¡Estupendo!
+Dialogue: 0,0:12:46.93,0:12:48.47,Default,,0,0,0,,- Listo.\N- ¡Sí!
+Dialogue: 0,0:12:52.27,0:12:53.98,Default,,0,0,0,,Oye, ¿y yo?
+Dialogue: 0,0:12:56.23,0:12:57.06,Default,,0,0,0,,¡Ay, no!
+Dialogue: 0,0:13:00.15,0:13:01.23,Default,,0,0,0,,Ya es tarde.
+Dialogue: 0,0:13:13.75,0:13:15.54,Default,,0,0,0,,- ¿Estás bien?\N- Sí.
+Dialogue: 0,0:13:15.62,0:13:19.29,Default,,0,0,0,,- Estoy bailando.\N- Sí, eso.
+Dialogue: 0,0:13:19.96,0:13:22.63,Default,,0,0,0,,- Yo también.\N- Y yo...
+Dialogue: 0,0:13:23.05,0:13:25.09,Default,,0,0,0,,...los veo bailar.
+Dialogue: 0,0:13:40.06,0:13:40.90,Default,,0,0,0,,Se fue.
+Dialogue: 0,0:13:42.94,0:13:43.86,Default,,0,0,0,,¿Adónde?
+Dialogue: 0,0:13:44.15,0:13:45.11,Default,,0,0,0,,¿Qué cosa?
+Dialogue: 0,0:13:45.82,0:13:49.41,Default,,0,0,0,,Las ganas de bailar. Ya no quiero.
+Dialogue: 0,0:13:49.70,0:13:50.74,Default,,0,0,0,,Está suelto.
+Dialogue: 0,0:13:54.41,0:13:55.79,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:13:56.50,0:14:00.04,Default,,0,0,0,,Deben ser los terremotos\Nque perciben los muebles.
+Dialogue: 0,0:14:00.58,0:14:03.25,Default,,0,0,0,,Leí sobre eso. De veras existen.
+Dialogue: 0,0:14:44.96,0:14:45.80,Default,,0,0,0,,¡Hola!
+Dialogue: 0,0:14:48.63,0:14:49.47,Default,,0,0,0,,¡Hilda!
+Dialogue: 0,0:14:50.05,0:14:50.93,Default,,0,0,0,,¡Hilda!
+Dialogue: 0,0:14:51.22,0:14:53.72,Default,,0,0,0,,- ¿Quién dijo eso?\N- Un fantasma.
+Dialogue: 0,0:14:53.80,0:14:56.10,Default,,0,0,0,,Ella hace esto. ¡Es una bruja!
+Dialogue: 0,0:14:56.52,0:14:57.35,Default,,0,0,0,,Lo sabía.
+Dialogue: 0,0:14:59.73,0:15:00.60,Default,,0,0,0,,¡Ahí está!
+Dialogue: 0,0:15:06.15,0:15:08.07,Default,,0,0,0,,Y creí que sería aburrido.
+Dialogue: 0,0:15:09.70,0:15:12.36,Default,,0,0,0,,- Hilda, ¿qué haces?\N- Te explicaré.
+Dialogue: 0,0:15:12.45,0:15:14.03,Default,,0,0,0,,Está... ¡allí!
+Dialogue: 0,0:15:33.76,0:15:34.60,Default,,0,0,0,,¿Hilda?
+Dialogue: 0,0:15:36.10,0:15:36.97,Default,,0,0,0,,Hola.
+Dialogue: 0,0:15:41.10,0:15:43.15,Default,,0,0,0,,¡Hilda! ¡Vuelve aquí!
+Dialogue: 0,0:15:43.60,0:15:44.44,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:15:46.86,0:15:49.36,Default,,0,0,0,,- ¡Hilda!\N- Eres la mamá de Hilda.
+Dialogue: 0,0:15:49.65,0:15:51.95,Default,,0,0,0,,¿Qué le hizo a mi hijo?
+Dialogue: 0,0:15:52.03,0:15:55.07,Default,,0,0,0,,Vive aterrado y le dan miedo las aves.
+Dialogue: 0,0:15:57.16,0:15:58.58,Default,,0,0,0,,¿Y esta comezón?
+Dialogue: 0,0:15:59.91,0:16:01.91,Default,,0,0,0,,Los piojos eran mala idea.
+Dialogue: 0,0:16:43.21,0:16:44.04,Default,,0,0,0,,¿Adónde fue?
+Dialogue: 0,0:16:44.75,0:16:46.96,Default,,0,0,0,,TELÉFONO DE EMERGENCIA TROL
+Dialogue: 0,0:16:51.42,0:16:52.88,Default,,0,0,0,,¡No se vayan aún!
+Dialogue: 0,0:16:52.97,0:16:56.05,Default,,0,0,0,,Se perderán la inauguración de la estatua.
+Dialogue: 0,0:16:57.09,0:16:59.01,Default,,0,0,0,,No, claro que no.
+Dialogue: 0,0:16:59.26,0:17:00.22,Default,,0,0,0,,Solo...
+Dialogue: 0,0:17:01.22,0:17:02.64,Default,,0,0,0,,...íbamos al baño.
+Dialogue: 0,0:17:03.48,0:17:04.89,Default,,0,0,0,,Yo, al de varones.
+Dialogue: 0,0:17:06.19,0:17:09.27,Default,,0,0,0,,Bien. Saben lo que dicen de las estatuas.
+Dialogue: 0,0:17:09.90,0:17:14.24,Default,,0,0,0,,"El cincel es el rayo\Nque le da vida a la piedra".
+Dialogue: 0,0:17:15.45,0:17:18.49,Default,,0,0,0,,¿Saben qué? Quedará bien en mi discurso.
+Dialogue: 0,0:17:18.57,0:17:20.03,Default,,0,0,0,,Volveré a ensayarlo.
+Dialogue: 0,0:17:22.33,0:17:23.75,Default,,0,0,0,,¡Mucha suerte!
+Dialogue: 0,0:17:24.41,0:17:26.12,Default,,0,0,0,,Esperen. No corran en...
+Dialogue: 0,0:17:26.21,0:17:27.46,Default,,0,0,0,,¡Hallgrim!
+Dialogue: 0,0:17:27.54,0:17:30.79,Default,,0,0,0,,- No olvides...\N- La ceremonia de la estatua.
+Dialogue: 0,0:17:34.67,0:17:36.34,Default,,0,0,0,,¿Por qué tengo comezón?
+Dialogue: 0,0:17:41.31,0:17:42.14,Default,,0,0,0,,¡Ahí!
+Dialogue: 0,0:17:44.39,0:17:48.06,Default,,0,0,0,,- Está en la ventilación.\N- Tendrás que meterte.
+Dialogue: 0,0:17:52.65,0:17:53.53,Default,,0,0,0,,Permítanme.
+Dialogue: 0,0:17:54.32,0:17:56.45,Default,,0,0,0,,Soy una exploradora.
+Dialogue: 0,0:18:11.29,0:18:13.34,Default,,0,0,0,,Parecía ser más grande.
+Dialogue: 0,0:18:15.38,0:18:16.38,Default,,0,0,0,,Sé qué hacer.
+Dialogue: 0,0:18:21.39,0:18:24.68,Default,,0,0,0,,Hilda, me agradas, pero no puedo aceptar.
+Dialogue: 0,0:18:25.14,0:18:26.10,Default,,0,0,0,,¿Qué haremos?
+Dialogue: 0,0:18:38.82,0:18:39.66,Default,,0,0,0,,¿Hilda?
+Dialogue: 0,0:18:41.24,0:18:42.70,Default,,0,0,0,,Tenemos que hablar.
+Dialogue: 0,0:18:50.67,0:18:53.46,Default,,0,0,0,,Mi mamá es buena con los piojos.
+Dialogue: 0,0:18:53.54,0:18:54.46,Default,,0,0,0,,No, gracias.
+Dialogue: 0,0:18:55.05,0:18:58.22,Default,,0,0,0,,Estaba preocupada por su comportamiento,
+Dialogue: 0,0:18:58.63,0:19:04.14,Default,,0,0,0,,pero esta noche, demostró\Nque no se ajusta al modelo escolar.
+Dialogue: 0,0:19:04.60,0:19:07.47,Default,,0,0,0,,Y arrastra a Frida y a David con ella.
+Dialogue: 0,0:19:07.98,0:19:12.02,Default,,0,0,0,,Recomiendo cambiar a Hilda\Na una clase transitoria
+Dialogue: 0,0:19:12.10,0:19:15.48,Default,,0,0,0,,donde reciba atención personalizada.
+Dialogue: 0,0:19:16.11,0:19:17.03,Default,,0,0,0,,Perdón, mamá.
+Dialogue: 0,0:19:17.32,0:19:19.74,Default,,0,0,0,,No me adapté tan bien como creías.
+Dialogue: 0,0:19:19.82,0:19:20.65,Default,,0,0,0,,Tonterías.
+Dialogue: 0,0:19:21.36,0:19:23.41,Default,,0,0,0,,Te quedarás donde estás.
+Dialogue: 0,0:19:24.58,0:19:27.08,Default,,0,0,0,,Desconozco qué le pasó esta noche,
+Dialogue: 0,0:19:27.16,0:19:30.79,Default,,0,0,0,,pero que arrastre a sus amigos\Ncon ella es excelente.
+Dialogue: 0,0:19:30.87,0:19:31.75,Default,,0,0,0,,¿Oyeron eso?
+Dialogue: 0,0:19:31.83,0:19:36.63,Default,,0,0,0,,Hilda, esta clase de interrupción\Nes a lo que me refiero.
+Dialogue: 0,0:19:37.55,0:19:38.38,Default,,0,0,0,,Continúe.
+Dialogue: 0,0:19:39.05,0:19:41.84,Default,,0,0,0,,Ella necesita a sus amigos para crecer.
+Dialogue: 0,0:19:42.13,0:19:44.51,Default,,0,0,0,,Aprendió muchísimo de ellos.
+Dialogue: 0,0:19:45.01,0:19:48.22,Default,,0,0,0,,Si la saca de la clase,\Nla hará retroceder.
+Dialogue: 0,0:19:49.10,0:19:53.31,Default,,0,0,0,,Quizá podemos darle más tiempo...
+Dialogue: 0,0:19:55.31,0:19:56.57,Default,,0,0,0,,Hilda, ¡bájate!
+Dialogue: 0,0:20:03.74,0:20:04.91,Default,,0,0,0,,¿Qué rayos pasa?
+Dialogue: 0,0:20:10.16,0:20:11.08,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:20:15.17,0:20:16.00,Default,,0,0,0,,Te tengo.
+Dialogue: 0,0:20:16.79,0:20:19.59,Default,,0,0,0,,¿Es un trol?
+Dialogue: 0,0:20:19.67,0:20:22.09,Default,,0,0,0,,Sí, pero ese me preocupa más.
+Dialogue: 0,0:20:34.52,0:20:36.69,Default,,0,0,0,,¡Un trol en la ciudad!
+Dialogue: 0,0:20:36.77,0:20:38.94,Default,,0,0,0,,- ¡La alarma!\N- No.
+Dialogue: 0,0:20:39.02,0:20:40.53,Default,,0,0,0,,Evitemos problemas.
+Dialogue: 0,0:20:45.45,0:20:48.12,Default,,0,0,0,,- ¡Esto es un problema!\N- No.
+Dialogue: 0,0:20:48.20,0:20:50.16,Default,,0,0,0,,Causará pánico y peleas,
+Dialogue: 0,0:20:50.24,0:20:52.45,Default,,0,0,0,,y David irá 100 años a prisión.
+Dialogue: 0,0:20:54.25,0:20:56.08,Default,,0,0,0,,No quiere problemas.
+Dialogue: 0,0:20:57.92,0:20:59.17,Default,,0,0,0,,Hilda, ¡regresa!
+Dialogue: 0,0:21:12.35,0:21:13.18,Default,,0,0,0,,Mamá.
+Dialogue: 0,0:21:32.66,0:21:34.12,Default,,0,0,0,,Vino por su bebé.
+Dialogue: 0,0:21:34.79,0:21:35.62,Default,,0,0,0,,¿Lo ven?
+Dialogue: 0,0:21:38.33,0:21:39.92,Default,,0,0,0,,¿Cómo lo supiste?
+Dialogue: 0,0:21:40.00,0:21:43.09,Default,,0,0,0,,Temo que es excelente para esas cosas.
+Dialogue: 0,0:21:55.35,0:21:57.81,Default,,0,0,0,,¿Te dejó quedarte en la clase?
+Dialogue: 0,0:21:57.89,0:22:00.48,Default,,0,0,0,,¿Y no dirá nada de los trols?
+Dialogue: 0,0:22:00.77,0:22:05.11,Default,,0,0,0,,- ¿Cómo lo hiciste?\N- Llegamos a un acuerdo.
+Dialogue: 0,0:22:05.19,0:22:07.45,Default,,0,0,0,,Su hija es excepcional.
+Dialogue: 0,0:22:11.32,0:22:15.16,Default,,0,0,0,,¡Tengo una noticia terrible!\N¡Una muy mala noticia!
+Dialogue: 0,0:22:15.25,0:22:17.12,Default,,0,0,0,,Es una catástrofe.
+Dialogue: 0,0:22:17.50,0:22:19.54,Default,,0,0,0,,Me duele el corazón.
+Dialogue: 0,0:22:20.21,0:22:22.38,Default,,0,0,0,,¡Por favor, no!
+Dialogue: 0,0:22:22.79,0:22:24.76,Default,,0,0,0,,- ¿Por qué?\N- ¿Qué pasó?
+Dialogue: 0,0:22:25.01,0:22:29.43,Default,,0,0,0,,Se canceló la inauguración de la estatua.
+Dialogue: 0,0:23:01.29,0:23:05.25,Default,,0,0,0,,Subtítulos: Juliana Sestelo

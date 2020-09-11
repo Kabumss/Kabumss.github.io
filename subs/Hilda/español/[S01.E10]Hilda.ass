@@ -1,0 +1,295 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: [S01.E10]Hilda
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.34,0:00:10.34,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:38.16,0:00:42.41,Default,,0,0,0,,CAPÍTULO 10: LA TORMENTA
+Dialogue: 0,0:00:54.38,0:00:55.88,Default,,0,0,0,,¿Harás algo hoy?
+Dialogue: 0,0:00:56.38,0:00:57.30,Default,,0,0,0,,Hoy no.
+Dialogue: 0,0:00:57.64,0:01:01.26,Default,,0,0,0,,No te ves con Frida y David.\N¿Todo está bien?
+Dialogue: 0,0:01:01.89,0:01:05.48,Default,,0,0,0,,Sí, todo está bien.
+Dialogue: 0,0:01:14.07,0:01:17.82,Default,,0,0,0,,...una bestia enorme\Nque se vio en la ciudad...
+Dialogue: 0,0:01:17.91,0:01:19.82,Default,,0,0,0,,¡Compre y compre más!
+Dialogue: 0,0:01:19.91,0:01:23.24,Default,,0,0,0,,Soy Victoria Van Gale de meteorología.
+Dialogue: 0,0:01:23.33,0:01:25.21,Default,,0,0,0,,Aquí todo está oscuro.
+Dialogue: 0,0:01:25.29,0:01:28.17,Default,,0,0,0,,Se esperan tristes vientos todo el día,
+Dialogue: 0,0:01:28.25,0:01:30.88,Default,,0,0,0,,incluso un estruendo siniestro.
+Dialogue: 0,0:01:31.17,0:01:34.63,Default,,0,0,0,,Las peores condiciones\Nserán en las primeras horas.
+Dialogue: 0,0:01:34.71,0:01:39.39,Default,,0,0,0,,Calma, Twig. Pasará pronto.\NVictoria Van Gale nunca se equivoca.
+Dialogue: 0,0:01:44.97,0:01:47.39,Default,,0,0,0,,Iré a la tienda de arte hoy.
+Dialogue: 0,0:01:47.48,0:01:49.44,Default,,0,0,0,,- ¿Vienes conmigo?\N- No.
+Dialogue: 0,0:01:49.52,0:01:54.15,Default,,0,0,0,,Quería ir a la biblioteca\Na ver si encuentro el libro de Frida.
+Dialogue: 0,0:01:54.23,0:01:55.90,Default,,0,0,0,,Pero con este clima,
+Dialogue: 0,0:01:55.99,0:01:58.86,Default,,0,0,0,,creo que hoy no es buen día para salir.
+Dialogue: 0,0:01:59.32,0:02:00.62,Default,,0,0,0,,¿Quién lo diría?
+Dialogue: 0,0:02:00.70,0:02:04.33,Default,,0,0,0,,Mi Hilda,\Nintimidada por un poco de lluvia.
+Dialogue: 0,0:02:19.18,0:02:21.43,Default,,0,0,0,,Debí haberme quedado también.
+Dialogue: 0,0:02:30.06,0:02:31.40,Default,,0,0,0,,Es por la tormenta.
+Dialogue: 0,0:02:34.36,0:02:35.90,Default,,0,0,0,,Soy Victoria Van Gale.
+Dialogue: 0,0:02:35.98,0:02:38.36,Default,,0,0,0,,Hoy el clima no es el mejor.
+Dialogue: 0,0:02:38.44,0:02:41.16,Default,,0,0,0,,Con suerte, el viento cambiará
+Dialogue: 0,0:02:41.24,0:02:44.70,Default,,0,0,0,,y la tormenta se alejará de la ciudad,\Nesperemos.
+Dialogue: 0,0:02:44.78,0:02:48.04,Default,,0,0,0,,Mientras tanto, la lluvia continuará...
+Dialogue: 0,0:02:48.12,0:02:50.25,Default,,0,0,0,,No. Parece que tendremos...
+Dialogue: 0,0:02:50.33,0:02:51.67,Default,,0,0,0,,- ¡Nieve!\N- ...nieve.
+Dialogue: 0,0:02:51.75,0:02:54.96,Default,,0,0,0,,¡Ven, Twig! Hagamos un trol de nieve.
+Dialogue: 0,0:03:09.02,0:03:10.56,Default,,0,0,0,,¿Qué haces aquí?
+Dialogue: 0,0:03:12.35,0:03:14.65,Default,,0,0,0,,¿Viste cómo está allí afuera?
+Dialogue: 0,0:03:14.86,0:03:16.77,Default,,0,0,0,,Sí, pero ¿por qué viniste?
+Dialogue: 0,0:03:16.86,0:03:22.20,Default,,0,0,0,,Sé que cuesta creerlo, pero no conozco\Nmuchas personas con calefacción central.
+Dialogue: 0,0:03:22.28,0:03:24.95,Default,,0,0,0,,Bien. Ponte cómodo, pero yo saldré.
+Dialogue: 0,0:03:25.03,0:03:28.66,Default,,0,0,0,,La nieve se está asentando\Ny quiero ser la primera...
+Dialogue: 0,0:03:31.21,0:03:32.29,Default,,0,0,0,,¿Hola?
+Dialogue: 0,0:03:32.75,0:03:35.79,Default,,0,0,0,,Hilda, soy mamá. Tardaré un poco.
+Dialogue: 0,0:03:35.88,0:03:39.59,Default,,0,0,0,,El camino está bloqueado por la nieve.
+Dialogue: 0,0:03:39.67,0:03:40.63,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:03:40.72,0:03:43.09,Default,,0,0,0,,- Sí, estaba por...\N- Escucha.
+Dialogue: 0,0:03:43.18,0:03:47.35,Default,,0,0,0,,No salgas. Mantente caliente.\NAfuera es una locura.
+Dialogue: 0,0:03:47.43,0:03:49.60,Default,,0,0,0,,- Pero...\N- No llegaré temprano,
+Dialogue: 0,0:03:49.68,0:03:52.89,Default,,0,0,0,,así que come la tarta si tienes hambre.
+Dialogue: 0,0:03:52.98,0:03:55.10,Default,,0,0,0,,Bien. Debo irme. ¡Adiós!
+Dialogue: 0,0:03:58.11,0:03:59.44,Default,,0,0,0,,Lo siento, amigo.
+Dialogue: 0,0:04:03.74,0:04:08.12,Default,,0,0,0,,- ¿Hay truenos cuando nieva?\N- Para mí son Espíritus del Clima.
+Dialogue: 0,0:04:08.20,0:04:11.75,Default,,0,0,0,,No. Victoria Van Gale\Nya hubiese dicho algo.
+Dialogue: 0,0:04:12.00,0:04:15.21,Default,,0,0,0,,Solo digo que tiene las características.
+Dialogue: 0,0:04:16.79,0:04:18.80,Default,,0,0,0,,Aunque parece malo...
+Dialogue: 0,0:04:20.38,0:04:21.71,Default,,0,0,0,,...hasta para ellos.
+Dialogue: 0,0:04:22.17,0:04:24.01,Default,,0,0,0,,Bien. Veamos.
+Dialogue: 0,0:04:27.55,0:04:33.27,Default,,0,0,0,,Mis más sinceras disculpas a las tres\No cuatro personas que nos escuchan.
+Dialogue: 0,0:04:33.35,0:04:38.44,Default,,0,0,0,,Estamos teniendo\Nalgunas dificultades técnicas.
+Dialogue: 0,0:04:38.52,0:04:41.07,Default,,0,0,0,,¡Todo está bien!
+Dialogue: 0,0:04:44.70,0:04:49.24,Default,,0,0,0,,Vaya. Escucho esta señal todos los días.\NNunca oí nada igual.
+Dialogue: 0,0:04:49.33,0:04:51.12,Default,,0,0,0,,Está pasando algo malo.
+Dialogue: 0,0:05:12.47,0:05:14.31,Default,,0,0,0,,Esto no está bien.
+Dialogue: 0,0:05:15.23,0:05:18.77,Default,,0,0,0,,Dijo que todo está bien,\Ny por mi parte, le creo.
+Dialogue: 0,0:05:18.98,0:05:21.48,Default,,0,0,0,,Vamos, tú también la escuchaste.
+Dialogue: 0,0:05:21.57,0:05:25.86,Default,,0,0,0,,Victoria Van Gale está en problemas.\NDebemos hacer algo.
+Dialogue: 0,0:05:26.03,0:05:28.91,Default,,0,0,0,,Pero... ¿y la tormenta?
+Dialogue: 0,0:05:28.99,0:05:31.91,Default,,0,0,0,,Sí, la tormenta. Y está empeorando.
+Dialogue: 0,0:05:31.99,0:05:36.79,Default,,0,0,0,,Si son los Espíritus del Clima,\Nella es la única que sabrá qué hacer.
+Dialogue: 0,0:05:37.04,0:05:39.50,Default,,0,0,0,,Pero mi chocolate caliente.
+Dialogue: 0,0:05:39.58,0:05:40.84,Default,,0,0,0,,Puede esperar.
+Dialogue: 0,0:05:40.92,0:05:43.42,Default,,0,0,0,,Vamos a la Estación Meteorológica.
+Dialogue: 0,0:05:48.38,0:05:51.89,Default,,0,0,0,,¿Solo yo? ¿No le dirás también a Frida?
+Dialogue: 0,0:05:51.97,0:05:53.72,Default,,0,0,0,,Dudo que quiera venir.
+Dialogue: 0,0:05:55.77,0:05:57.85,Default,,0,0,0,,Me encantaría acompañarte.
+Dialogue: 0,0:05:58.64,0:06:01.98,Default,,0,0,0,,¿Dónde está la Estación Meteorológica?
+Dialogue: 0,0:06:06.44,0:06:09.53,Default,,0,0,0,,Empiezo a arrepentirme de esto.
+Dialogue: 0,0:06:12.41,0:06:13.28,Default,,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:06:13.79,0:06:15.24,Default,,0,0,0,,Una discusión.
+Dialogue: 0,0:06:15.33,0:06:18.21,Default,,0,0,0,,- ¿Entre quiénes?\N- Espíritus del Clima.
+Dialogue: 0,0:06:27.88,0:06:30.59,Default,,0,0,0,,Llegamos a la Estación Meteorológica.
+Dialogue: 0,0:06:30.68,0:06:32.64,Default,,0,0,0,,Ya estamos aquí. ¡Vamos!
+Dialogue: 0,0:06:35.56,0:06:36.97,Default,,0,0,0,,¿Hilda?
+Dialogue: 0,0:06:38.89,0:06:42.52,Default,,0,0,0,,¡Es increíble! Miren todo esto.
+Dialogue: 0,0:06:42.61,0:06:45.57,Default,,0,0,0,,Con razón sus predicciones son buenas.
+Dialogue: 0,0:06:48.78,0:06:51.66,Default,,0,0,0,,Tenemos que entrar y descubrir qué pasa.
+Dialogue: 0,0:06:51.82,0:06:53.24,Default,,0,0,0,,Ojalá esté bien.
+Dialogue: 0,0:07:14.60,0:07:18.18,Default,,0,0,0,,¡Vaya! Sin duda, aquí pasó algo.
+Dialogue: 0,0:07:21.44,0:07:23.81,Default,,0,0,0,,Me gustaba más estar afuera.
+Dialogue: 0,0:07:25.06,0:07:26.82,Default,,0,0,0,,Esto no tiene sentido.
+Dialogue: 0,0:07:27.73,0:07:30.15,Default,,0,0,0,,Parece que nadie estuvo en años.
+Dialogue: 0,0:07:30.86,0:07:33.41,Default,,0,0,0,,¿Victoria? ¿Victoria Van Gale?
+Dialogue: 0,0:07:34.20,0:07:35.66,Default,,0,0,0,,¿Victoria?
+Dialogue: 0,0:07:35.83,0:07:38.79,Default,,0,0,0,,Bueno, no está. Deberíamos irnos.
+Dialogue: 0,0:07:38.87,0:07:41.87,Default,,0,0,0,,¡Victoria Van Gale! ¿Dónde estás?
+Dialogue: 0,0:07:46.59,0:07:47.67,Default,,0,0,0,,Estoy bien.
+Dialogue: 0,0:07:57.43,0:07:58.60,Default,,0,0,0,,¿Victoria?
+Dialogue: 0,0:07:59.97,0:08:01.52,Default,,0,0,0,,¿Quién rayos eres?
+Dialogue: 0,0:08:01.73,0:08:03.69,Default,,0,0,0,,Hilda, encantada.
+Dialogue: 0,0:08:03.77,0:08:08.11,Default,,0,0,0,,Soy... todos deben decir lo mismo,\Nsoy tu gran admiradora.
+Dialogue: 0,0:08:08.52,0:08:11.07,Default,,0,0,0,,¿Qué rayos hacían en el garaje?
+Dialogue: 0,0:08:11.32,0:08:14.66,Default,,0,0,0,,¿Qué vieron?\NQuiero decir, ¿qué hacen aquí?
+Dialogue: 0,0:08:14.91,0:08:18.74,Default,,0,0,0,,Te oímos y vinimos a ayudarte.\NYo te escucho siempre.
+Dialogue: 0,0:08:19.04,0:08:21.25,Default,,0,0,0,,¡Son visitantes!
+Dialogue: 0,0:08:21.41,0:08:23.37,Default,,0,0,0,,Sí, supongo que sí.
+Dialogue: 0,0:08:23.50,0:08:30.09,Default,,0,0,0,,No se preocupen por lo que escucharon.\NComo pueden ver, aquí todo está bien.
+Dialogue: 0,0:08:30.17,0:08:33.34,Default,,0,0,0,,¡Cielo Santo! ¡Qué hermosa sorpresa!
+Dialogue: 0,0:08:33.51,0:08:38.55,Default,,0,0,0,,Hace tiempo que no hago visitas guiadas.\NPor cierto, no se vayan.
+Dialogue: 0,0:08:40.47,0:08:45.23,Default,,0,0,0,,Tienen que estar por alguna parte.\NNo pueden desaparecer.
+Dialogue: 0,0:08:45.31,0:08:47.36,Default,,0,0,0,,Creo que pasa algo raro.
+Dialogue: 0,0:08:47.44,0:08:49.65,Default,,0,0,0,,Yo pienso lo mismo.
+Dialogue: 0,0:08:49.86,0:08:52.36,Default,,0,0,0,,¿Qué dicen? Está feliz de vernos.
+Dialogue: 0,0:08:52.44,0:08:55.20,Default,,0,0,0,,¡Sí! Las etiquetas de visitantes
+Dialogue: 0,0:08:55.28,0:09:01.83,Default,,0,0,0,,y el llavero de cortesía de la Oficina\Nde Reportes del Clima de Trolberg.
+Dialogue: 0,0:09:01.91,0:09:04.83,Default,,0,0,0,,Y sírvanse un lápiz gigante.
+Dialogue: 0,0:09:05.25,0:09:09.17,Default,,0,0,0,,En realidad, no son gratis.\NVan por nuestra cuenta.
+Dialogue: 0,0:09:09.54,0:09:14.05,Default,,0,0,0,,¡Vengan! Les daré un gran recorrido.
+Dialogue: 0,0:09:14.42,0:09:18.39,Default,,0,0,0,,Este es el polarímetro\Npara medir los rayos de luz.
+Dialogue: 0,0:09:22.14,0:09:23.02,Default,,0,0,0,,Genial.
+Dialogue: 0,0:09:25.27,0:09:27.85,Default,,0,0,0,,Aquí, la presión barométrica
+Dialogue: 0,0:09:27.94,0:09:30.48,Default,,0,0,0,,de toda el área de Trolberg.
+Dialogue: 0,0:09:30.57,0:09:33.28,Default,,0,0,0,,Y aquí está el estudio donde...
+Dialogue: 0,0:09:33.40,0:09:34.86,Default,,0,0,0,,Donde transmites.
+Dialogue: 0,0:09:35.49,0:09:37.78,Default,,0,0,0,,¡Esto es de lo mejor!
+Dialogue: 0,0:09:39.53,0:09:40.70,Default,,0,0,0,,¿Y eso?
+Dialogue: 0,0:09:42.12,0:09:42.95,Default,,0,0,0,,Nada.
+Dialogue: 0,0:09:43.24,0:09:45.29,Default,,0,0,0,,- ¿Y aquí?\N- Mi dormitorio.
+Dialogue: 0,0:09:46.46,0:09:48.04,Default,,0,0,0,,Está desordenado.
+Dialogue: 0,0:09:52.13,0:09:55.97,Default,,0,0,0,,Mucho más interesante\Nes el observatorio principal
+Dialogue: 0,0:09:56.05,0:10:00.09,Default,,0,0,0,,con el que miro el cielo\Ny realizo mi trabajo.
+Dialogue: 0,0:10:05.47,0:10:07.48,Default,,0,0,0,,Sí. Den un vistazo.
+Dialogue: 0,0:10:15.48,0:10:17.49,Default,,0,0,0,,- ¿Qué fue eso?\N- ¿Qué?
+Dialogue: 0,0:10:17.57,0:10:20.53,Default,,0,0,0,,Jalaste la palanca y empezó a llover.
+Dialogue: 0,0:10:20.62,0:10:23.87,Default,,0,0,0,,- Claro que no.\N- David, no seas ridículo.
+Dialogue: 0,0:10:37.42,0:10:40.05,Default,,0,0,0,,¿Por qué no preparo café?
+Dialogue: 0,0:10:51.15,0:10:53.81,Default,,0,0,0,,¿Así sabe el café?
+Dialogue: 0,0:10:54.15,0:10:55.65,Default,,0,0,0,,Prefiero chocolate.
+Dialogue: 0,0:10:55.90,0:11:00.91,Default,,0,0,0,,Lo confieso, mis instrumentos\Nno son solo para predecir el clima,
+Dialogue: 0,0:11:00.99,0:11:04.20,Default,,0,0,0,,algunos también son para controlarlo.
+Dialogue: 0,0:11:04.28,0:11:06.33,Default,,0,0,0,,¿Para qué controlarlo?
+Dialogue: 0,0:11:06.49,0:11:08.62,Default,,0,0,0,,Imaginen las posibilidades.
+Dialogue: 0,0:11:08.70,0:11:13.42,Default,,0,0,0,,¿Qué sería para el mundo\Nsi aprovecháramos ese poder para nosotros?
+Dialogue: 0,0:11:13.67,0:11:17.21,Default,,0,0,0,,- Diablos.\N- Es una científica loca.
+Dialogue: 0,0:11:18.05,0:11:20.59,Default,,0,0,0,,¿Esta oficina es tu laboratorio?
+Dialogue: 0,0:11:20.76,0:11:23.34,Default,,0,0,0,,Sí. Desde hace años.
+Dialogue: 0,0:11:23.43,0:11:28.77,Default,,0,0,0,,Avancé en la dirección del viento\Ny los eventos climáticos a pequeña escala,
+Dialogue: 0,0:11:28.85,0:11:32.81,Default,,0,0,0,,como tu amigo ave parlanchina\Nacaba de demostrar.
+Dialogue: 0,0:11:32.90,0:11:35.44,Default,,0,0,0,,Pero es inconsistente, trivial.
+Dialogue: 0,0:11:35.73,0:11:38.19,Default,,0,0,0,,Si mis experimentos probaron algo
+Dialogue: 0,0:11:38.28,0:11:41.70,Default,,0,0,0,,es que la atmósfera solo responde a...
+Dialogue: 0,0:11:42.20,0:11:44.12,Default,,0,0,0,,...los Espíritus del Clima.
+Dialogue: 0,0:11:44.41,0:11:46.45,Default,,0,0,0,,No son fáciles de encontrar,
+Dialogue: 0,0:11:46.53,0:11:51.08,Default,,0,0,0,,pero hallé el modo de atraer a uno\Ny quizá, aprender de él.
+Dialogue: 0,0:11:51.16,0:11:52.62,Default,,0,0,0,,Funcionó muy bien.
+Dialogue: 0,0:11:52.71,0:11:54.92,Default,,0,0,0,,Hizo mucho más de lo esperado.
+Dialogue: 0,0:11:55.79,0:11:59.71,Default,,0,0,0,,¿Cómo lograste atraer\Na un Espíritu del Clima?
+Dialogue: 0,0:11:59.92,0:12:01.59,Default,,0,0,0,,Eso no es importante.
+Dialogue: 0,0:12:01.67,0:12:05.85,Default,,0,0,0,,Cuando dos espíritus se juntan,\Nempiezan una discusión.
+Dialogue: 0,0:12:05.93,0:12:10.68,Default,,0,0,0,,Aman debatir.\NCuando eso pasa, se desata una tormenta.
+Dialogue: 0,0:12:10.77,0:12:14.27,Default,,0,0,0,,Cuando cinco, diez,\Ndocenas se encuentran...
+Dialogue: 0,0:12:19.57,0:12:24.57,Default,,0,0,0,,Si controlas el clima, ¿puedes hacer algo\Npara alejar la tormenta?
+Dialogue: 0,0:12:25.45,0:12:26.74,Default,,0,0,0,,No lo sé.
+Dialogue: 0,0:12:26.82,0:12:30.83,Default,,0,0,0,,La tormenta causó estragos en el sistema.\NNo lo soportará.
+Dialogue: 0,0:12:31.00,0:12:32.25,Default,,0,0,0,,¿Lo intentamos?
+Dialogue: 0,0:12:32.33,0:12:35.04,Default,,0,0,0,,La tormenta es terrible y empeorará.
+Dialogue: 0,0:12:35.29,0:12:40.55,Default,,0,0,0,,Aprendiste a hacer cosas increíbles.\NEs hora de ponerlas en práctica.
+Dialogue: 0,0:12:42.59,0:12:45.22,Default,,0,0,0,,¿Sabes qué? Tienes razón.
+Dialogue: 0,0:12:45.72,0:12:48.43,Default,,0,0,0,,Provocaremos una corriente de aire
+Dialogue: 0,0:12:48.51,0:12:51.22,Default,,0,0,0,,para que aleje la tormenta.
+Dialogue: 0,0:12:51.68,0:12:56.77,Default,,0,0,0,,Motores encendidos.\NAjustando moduladores de presión aneroide.
+Dialogue: 0,0:12:57.35,0:13:01.69,Default,,0,0,0,,Cuando dé la señal,\Ngira esa rueda tanto como puedas.
+Dialogue: 0,0:13:01.78,0:13:02.61,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:13:15.79,0:13:16.71,Default,,0,0,0,,¡Ahora!
+Dialogue: 0,0:13:31.56,0:13:32.81,Default,,0,0,0,,¡Funciona!
+Dialogue: 0,0:13:46.53,0:13:47.40,Default,,0,0,0,,Lo sabía.
+Dialogue: 0,0:13:47.49,0:13:50.70,Default,,0,0,0,,Probaremos otra cosa.\NDebe haber otro modo.
+Dialogue: 0,0:13:50.78,0:13:52.99,Default,,0,0,0,,Ya está. Ese era el único modo.
+Dialogue: 0,0:13:53.08,0:13:55.79,Default,,0,0,0,,Destruimos los controles. Es inútil.
+Dialogue: 0,0:13:55.87,0:14:00.13,Default,,0,0,0,,Pero hay personas allá afuera.\NMi mamá esta allí.
+Dialogue: 0,0:14:00.50,0:14:04.05,Default,,0,0,0,,Ya hay 52 centímetros de nieve\Nen Trolberg.
+Dialogue: 0,0:14:04.30,0:14:08.09,Default,,0,0,0,,Según mis cálculos,\Nserán 168 al anochecer.
+Dialogue: 0,0:14:08.18,0:14:11.85,Default,,0,0,0,,A este ritmo,\Nla ciudad estará sepultada en la mañana.
+Dialogue: 0,0:14:14.10,0:14:16.93,Default,,0,0,0,,¿Por qué presiento que van a amarrarme?
+Dialogue: 0,0:14:20.90,0:14:24.69,Default,,0,0,0,,¿Qué vas a hacer?\NLa tormenta está empeorando.
+Dialogue: 0,0:14:24.78,0:14:27.65,Default,,0,0,0,,¿Hablamos con los Espíritus del Clima?
+Dialogue: 0,0:14:27.74,0:14:29.74,Default,,0,0,0,,- Acá vamos.\N- ¿Estás loca?
+Dialogue: 0,0:14:29.82,0:14:33.24,Default,,0,0,0,,- No irás a esa cosa.\N- Debemos hacer algo.
+Dialogue: 0,0:14:33.33,0:14:34.91,Default,,0,0,0,,Hilda, escúchame.
+Dialogue: 0,0:14:35.16,0:14:38.71,Default,,0,0,0,,- A Frida la escucharías.\N- Ella sabría qué hacer.
+Dialogue: 0,0:14:38.79,0:14:41.92,Default,,0,0,0,,Tendría un plan mejor.\N¿Tú tienes uno mejor?
+Dialogue: 0,0:14:42.67,0:14:43.50,Default,,0,0,0,,No.
+Dialogue: 0,0:14:43.59,0:14:45.71,Default,,0,0,0,,Es todo lo que tenemos.
+Dialogue: 0,0:14:50.88,0:14:52.30,Default,,0,0,0,,Sube.
+Dialogue: 0,0:14:57.93,0:15:00.77,Default,,0,0,0,,- Vas a hablar tú, ¿no?\N- ¡Claro!
+Dialogue: 0,0:15:20.96,0:15:26.75,Default,,0,0,0,,Es natural precipitarse en las laderas\Nde barlovento de cualquier colina.
+Dialogue: 0,0:15:26.84,0:15:28.88,Default,,0,0,0,,Sí, pero ¿es decente?
+Dialogue: 0,0:15:28.96,0:15:30.97,Default,,0,0,0,,¿Me dices indecente?
+Dialogue: 0,0:15:31.05,0:15:34.51,Default,,0,0,0,,Creo que nuestro amigo quiere decir...
+Dialogue: 0,0:15:34.60,0:15:37.14,Default,,0,0,0,,- Por favor, ¿puedes...?\N- ¡Oigan!
+Dialogue: 0,0:15:37.22,0:15:40.23,Default,,0,0,0,,...vergüenza de una fuerte lluvia.
+Dialogue: 0,0:15:40.81,0:15:42.52,Default,,0,0,0,,¡Oigan!
+Dialogue: 0,0:15:44.06,0:15:46.82,Default,,0,0,0,,¿Alborotador? ¿Qué es esto?
+Dialogue: 0,0:15:48.03,0:15:50.57,Default,,0,0,0,,Hablarás tú, ¿recuerdas?
+Dialogue: 0,0:15:53.24,0:15:57.16,Default,,0,0,0,,¡Soy su moderadora!
+Dialogue: 0,0:15:57.24,0:16:00.96,Default,,0,0,0,,Sí, claro. ¡Modera esto!
+Dialogue: 0,0:16:04.92,0:16:09.80,Default,,0,0,0,,Hilda tiene razón. Frida sabría qué hacer.\NYo no soy útil.
+Dialogue: 0,0:16:10.09,0:16:12.38,Default,,0,0,0,,¿Por qué pensé que sí?
+Dialogue: 0,0:16:12.47,0:16:15.84,Default,,0,0,0,,¿Me preguntas a mí? No te conozco, niño.
+Dialogue: 0,0:16:16.80,0:16:18.47,Default,,0,0,0,,Tómalo con calma.
+Dialogue: 0,0:16:22.23,0:16:24.27,Default,,0,0,0,,Salvo que...
+Dialogue: 0,0:16:26.56,0:16:29.19,Default,,0,0,0,,Bien. Hablarán uno por vez.
+Dialogue: 0,0:16:29.27,0:16:33.70,Default,,0,0,0,,Cada espíritu tendrá su momento\Npara hablar. ¿De acuerdo?
+Dialogue: 0,0:16:33.95,0:16:35.66,Default,,0,0,0,,- De acuerdo.\N- Bien.
+Dialogue: 0,0:16:35.74,0:16:38.03,Default,,0,0,0,,- Tú primero.\N- Bueno...
+Dialogue: 0,0:16:38.74,0:16:40.95,Default,,0,0,0,,Bien. Vamos, David.
+Dialogue: 0,0:16:41.04,0:16:43.54,Default,,0,0,0,,Victoria, ¿podría...? No.
+Dialogue: 0,0:16:43.62,0:16:48.25,Default,,0,0,0,,Oye, Victoria,\Nme preguntaba si podría beber...
+Dialogue: 0,0:16:56.34,0:17:01.68,Default,,0,0,0,,Victoria, ¿podría beber otra taza de café?
+Dialogue: 0,0:17:02.06,0:17:03.77,Default,,0,0,0,,Excelente idea.
+Dialogue: 0,0:17:04.52,0:17:06.60,Default,,0,0,0,,Yo beberé un té de hierbas.
+Dialogue: 0,0:17:06.73,0:17:09.86,Default,,0,0,0,,Si bebo más de un café,\Nenloquezco un poco.
+Dialogue: 0,0:17:17.45,0:17:18.62,Default,,0,0,0,,¡David!
+Dialogue: 0,0:17:19.24,0:17:21.33,Default,,0,0,0,,- ¿Sí?\N- ¿Leche y azúcar?
+Dialogue: 0,0:17:22.95,0:17:27.88,Default,,0,0,0,,Solo digo por qué no llevar la lluvia\Na los que más la necesitan.
+Dialogue: 0,0:17:27.96,0:17:29.84,Default,,0,0,0,,¡No soplo hacia el Oeste!
+Dialogue: 0,0:17:29.92,0:17:32.76,Default,,0,0,0,,No sabes distinguir el Este del Oeste.
+Dialogue: 0,0:17:34.67,0:17:38.22,Default,,0,0,0,,Bien. Quédate ahí y tú, ahí. Gracias.
+Dialogue: 0,0:17:42.26,0:17:44.02,Default,,0,0,0,,Lo siento. Continúa.
+Dialogue: 0,0:17:44.27,0:17:47.69,Default,,0,0,0,,Gracias. Como estaba diciendo...
+Dialogue: 0,0:17:52.44,0:17:53.73,Default,,0,0,0,,¡Por fin!
+Dialogue: 0,0:17:56.99,0:17:59.03,Default,,0,0,0,,¡Rayos!
+Dialogue: 0,0:17:59.11,0:18:01.66,Default,,0,0,0,,¡David!
+Dialogue: 0,0:18:03.41,0:18:05.41,Default,,0,0,0,,La tormenta se disipó.
+Dialogue: 0,0:18:08.46,0:18:10.79,Default,,0,0,0,,Llevas siglos esperando hablar.
+Dialogue: 0,0:18:10.88,0:18:11.96,Default,,0,0,0,,Adelante.
+Dialogue: 0,0:18:12.84,0:18:15.46,Default,,0,0,0,,Permíteme decir que nunca tuve...
+Dialogue: 0,0:18:15.55,0:18:19.34,Default,,0,0,0,,Vendavales y ventarrones...\N¡Sin precedentes!
+Dialogue: 0,0:18:19.43,0:18:21.47,Default,,0,0,0,,No puedo sacarlo.
+Dialogue: 0,0:18:22.89,0:18:27.43,Default,,0,0,0,,No recuerdo lo que quería decir.
+Dialogue: 0,0:18:27.64,0:18:30.27,Default,,0,0,0,,Encontremos a David y nos vamos.
+Dialogue: 0,0:18:32.36,0:18:35.36,Default,,0,0,0,,Ahora que terminó el evento atmosférico,
+Dialogue: 0,0:18:35.69,0:18:40.07,Default,,0,0,0,,Trolberg espera una suave brisa\Nsoplando desde el fiordo.
+Dialogue: 0,0:18:41.91,0:18:45.20,Default,,0,0,0,,Pareces salida de un huracán. ¿Qué pasó?
+Dialogue: 0,0:18:45.41,0:18:48.12,Default,,0,0,0,,- Adiós.\N- Buen viaje, amigo.
+Dialogue: 0,0:18:48.33,0:18:51.46,Default,,0,0,0,,- ¿Vienes?\N- No, necesito pensar.
+Dialogue: 0,0:18:51.58,0:18:56.30,Default,,0,0,0,,Vine por un motivo, pero con la discusión,\Nno puedo recordarlo.
+Dialogue: 0,0:18:56.38,0:18:58.47,Default,,0,0,0,,¿Qué era? ¿Por qué...?
+Dialogue: 0,0:19:07.22,0:19:08.77,Default,,0,0,0,,¿Hablaste con ellos?
+Dialogue: 0,0:19:09.14,0:19:10.56,Default,,0,0,0,,Fascinante.
+Dialogue: 0,0:19:10.64,0:19:14.52,Default,,0,0,0,,- Será invaluable para la próxima vez.\N- ¿Próxima vez?
+Dialogue: 0,0:19:14.73,0:19:19.24,Default,,0,0,0,,¿Y si observas y aprendes?\NNo tienes que controlar las cosas.
+Dialogue: 0,0:19:19.99,0:19:24.28,Default,,0,0,0,,¿Dónde fue el niño? Se le enfría el café.
+Dialogue: 0,0:19:24.70,0:19:27.49,Default,,0,0,0,,David, ¿qué hacías en el dormitorio?
+Dialogue: 0,0:19:27.79,0:19:29.45,Default,,0,0,0,,- Yo...\N- Chicos.
+Dialogue: 0,0:19:32.46,0:19:33.83,Default,,0,0,0,,Problemas.
+Dialogue: 0,0:19:40.09,0:19:41.18,Default,,0,0,0,,¡David!
+Dialogue: 0,0:19:41.34,0:19:42.68,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:19:43.05,0:19:45.76,Default,,0,0,0,,- ¿Puedes caminar?\N- ¿Está rota?
+Dialogue: 0,0:19:46.01,0:19:51.02,Default,,0,0,0,,¡Creo que es un buen momento para irnos!
+Dialogue: 0,0:19:54.98,0:19:57.11,Default,,0,0,0,,¡Victoria! Vámonos de aquí.
+Dialogue: 0,0:19:57.27,0:19:59.28,Default,,0,0,0,,¡No iré!
+Dialogue: 0,0:19:59.36,0:20:00.69,Default,,0,0,0,,¿Voy por ella?
+Dialogue: 0,0:20:00.78,0:20:04.49,Default,,0,0,0,,No. Pon a salvo a David. Yo me quedo.
+Dialogue: 0,0:20:04.57,0:20:08.29,Default,,0,0,0,,- ¿Qué? ¿Qué vas a hacer?\N- No puedo dejarla.
+Dialogue: 0,0:20:08.37,0:20:10.95,Default,,0,0,0,,Volveré a hablar con ellos.
+Dialogue: 0,0:20:11.33,0:20:13.04,Default,,0,0,0,,¡Hilda, toma!
+Dialogue: 0,0:20:13.25,0:20:17.54,Default,,0,0,0,,Ve al dormitorio de Victoria.\N¡No es un dormitorio!
+Dialogue: 0,0:20:19.42,0:20:22.26,Default,,0,0,0,,Volveré por ti tan pronto como pueda.
+Dialogue: 0,0:20:22.88,0:20:25.59,Default,,0,0,0,,¿Dónde está? ¿Qué hiciste con él?
+Dialogue: 0,0:20:28.06,0:20:31.02,Default,,0,0,0,,Oye, no puedes entrar ahí.
+Dialogue: 0,0:20:43.32,0:20:44.61,Default,,0,0,0,,Pobrecito.
+Dialogue: 0,0:20:48.53,0:20:51.79,Default,,0,0,0,,- No es lo que parece.\N- ¡Mi bebé!
+Dialogue: 0,0:20:52.70,0:20:54.50,Default,,0,0,0,,Así los atraías.
+Dialogue: 0,0:20:54.92,0:20:57.17,Default,,0,0,0,,¡Puedo explicarlo!
+Dialogue: 0,0:20:57.25,0:20:59.96,Default,,0,0,0,,Raptaste un espíritu para usar de cebo.
+Dialogue: 0,0:21:00.05,0:21:02.46,Default,,0,0,0,,David tenía razón. Estás loca.
+Dialogue: 0,0:21:04.05,0:21:05.43,Default,,0,0,0,,¿Cómo...?
+Dialogue: 0,0:21:07.89,0:21:08.89,Default,,0,0,0,,LIBERAR
+Dialogue: 0,0:21:09.10,0:21:14.31,Default,,0,0,0,,¡No lo hagas! Por favor, no sabes\Nlo que tuve que hacer para atraparlo.
+Dialogue: 0,0:21:14.48,0:21:16.23,Default,,0,0,0,,¡No me importa!
+Dialogue: 0,0:21:39.63,0:21:41.50,Default,,0,0,0,,¡No!
+Dialogue: 0,0:21:50.60,0:21:52.93,Default,,0,0,0,,¿Qué pasó? ¿Qué le pasó a Hilda?
+Dialogue: 0,0:21:55.23,0:21:57.60,Default,,0,0,0,,Ay, no.
+Dialogue: 0,0:22:26.17,0:22:28.84,Default,,0,0,0,,¡Oye! Hola, ¿puedes dar la vuelta?
+Dialogue: 0,0:22:28.93,0:22:31.64,Default,,0,0,0,,Mi casa es por allá. ¡Regresemos!
+Dialogue: 0,0:23:02.29,0:23:06.25,Default,,0,0,0,,Subtítulos: Juliana Sestelo

@@ -1,0 +1,442 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: [S01.E12]Hilda
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.00,0:00:09.30,Default,,0,0,0,,-[birds chirping]\N-[theme music playing]
+Dialogue: 0,0:00:18.47,0:00:20.35,Default,,0,0,0,,{\i1}♪ Hilda ♪{\i0}
+Dialogue: 0,0:00:23.81,0:00:25.81,Default,,0,0,0,,[woman vocalizing]
+Dialogue: 0,0:00:46.67,0:00:49.50,Default,,0,0,0,,[muffled chatter]
+Dialogue: 0,0:00:49.59,0:00:50.92,Default,,0,0,0,,[door opens]
+Dialogue: 0,0:00:51.00,0:00:53.01,Default,,0,0,0,,[kids laughing]
+Dialogue: 0,0:00:54.88,0:00:55.93,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:00:56.84,0:00:59.60,Default,,0,0,0,,Looks like no Frida again.\NHave you seen her lately?
+Dialogue: 0,0:00:59.68,0:01:03.22,Default,,0,0,0,,No. With school being out,\NI haven't heard from her in...
+Dialogue: 0,0:01:04.68,0:01:05.60,Default,,0,0,0,,a while.
+Dialogue: 0,0:01:05.69,0:01:07.65,Default,,0,0,0,,This is the third week she's missed.
+Dialogue: 0,0:01:07.73,0:01:09.27,Default,,0,0,0,,Needing some time alone is one thing,
+Dialogue: 0,0:01:09.36,0:01:11.36,Default,,0,0,0,,but this is badge work\Nwe're talking about.
+Dialogue: 0,0:01:11.44,0:01:13.23,Default,,0,0,0,,Do you think she's still mad at us?
+Dialogue: 0,0:01:13.32,0:01:16.15,Default,,0,0,0,,Sparrow Scouts! Sparrow Scouts!
+Dialogue: 0,0:01:16.24,0:01:19.62,Default,,0,0,0,,As I'm sure none of you need reminding,
+Dialogue: 0,0:01:19.70,0:01:22.04,Default,,0,0,0,,in just a few short weeks,
+Dialogue: 0,0:01:22.12,0:01:26.16,Default,,0,0,0,,we will be holding\Nthe Sparrow Scout badge ceremony,
+Dialogue: 0,0:01:26.25,0:01:30.00,Default,,0,0,0,,where, of course,\Nwe'll invite all your parents to join in
+Dialogue: 0,0:01:30.09,0:01:32.30,Default,,0,0,0,,celebrating your achievements
+Dialogue: 0,0:01:32.38,0:01:38.13,Default,,0,0,0,,as you're awarded the badges you've worked\Nso hard towards over the last year.
+Dialogue: 0,0:01:38.22,0:01:39.97,Default,,0,0,0,,I'm glad we're in this together, David.
+Dialogue: 0,0:01:40.05,0:01:43.01,Default,,0,0,0,,It would look pretty bad if I was\Nthe only one who didn't have any badges.
+Dialogue: 0,0:01:43.10,0:01:45.77,Default,,0,0,0,,What?\NI've earned lots of badges!
+Dialogue: 0,0:01:45.85,0:01:48.23,Default,,0,0,0,,When? How did you find time to do that?
+Dialogue: 0,0:01:48.31,0:01:50.73,Default,,0,0,0,,What have you been doing to not have time?
+Dialogue: 0,0:01:50.81,0:01:52.57,Default,,0,0,0,,Hanging around with you.
+Dialogue: 0,0:01:52.65,0:01:57.15,Default,,0,0,0,,But before that,\NI am happy to announce...
+Dialogue: 0,0:01:57.24,0:01:58.61,Default,,0,0,0,,[drumroll]
+Dialogue: 0,0:01:58.70,0:02:02.62,Default,,0,0,0,,...the end-of-year camping trip!
+Dialogue: 0,0:02:02.70,0:02:04.83,Default,,0,0,0,,-[kids cheering]\N-Yes!
+Dialogue: 0,0:02:04.91,0:02:10.67,Default,,0,0,0,,And with it, the opportunity\Nto earn the coveted Camping badge.
+Dialogue: 0,0:02:10.75,0:02:12.67,Default,,0,0,0,,Ooh, I've always wanted that one!
+Dialogue: 0,0:02:12.75,0:02:14.88,Default,,0,0,0,,Me, too... since today.
+Dialogue: 0,0:02:14.96,0:02:18.38,Default,,0,0,0,,Oddly, I don't think Frida\Nhas that one yet either.
+Dialogue: 0,0:02:18.47,0:02:21.72,Default,,0,0,0,,Then we should go and see her.\NShe won't want to miss out on this.
+Dialogue: 0,0:02:25.43,0:02:26.64,Default,,0,0,0,,[doorbell rings]
+Dialogue: 0,0:02:28.64,0:02:30.44,Default,,0,0,0,,Oh, it's you.
+Dialogue: 0,0:02:30.52,0:02:32.23,Default,,0,0,0,,-Of course it is.\N-Hey, Frida.
+Dialogue: 0,0:02:32.31,0:02:35.19,Default,,0,0,0,,Sorry for just turning up like this,\Nbut guess what.
+Dialogue: 0,0:02:35.28,0:02:37.74,Default,,0,0,0,,Raven Leader just announced\Nthe big camping trip!
+Dialogue: 0,0:02:38.24,0:02:39.99,Default,,0,0,0,,Uh, where are you going?
+Dialogue: 0,0:02:40.07,0:02:41.95,Default,,0,0,0,,To your room, obviously.
+Dialogue: 0,0:02:42.45,0:02:43.28,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:02:45.49,0:02:48.04,Default,,0,0,0,,Well, glad to see you've sorted\Nthe whole tidying thing.
+Dialogue: 0,0:02:48.12,0:02:50.33,Default,,0,0,0,,Oh, hey! You still have your clay troll.
+Dialogue: 0,0:02:50.42,0:02:52.54,Default,,0,0,0,,I remember when we made these\Nin year one.
+Dialogue: 0,0:02:52.63,0:02:54.21,Default,,0,0,0,,[Frida] Uh, listen, guys.
+Dialogue: 0,0:02:54.29,0:02:57.76,Default,,0,0,0,,I already knew about\Nthe end-of-year camping trip, obviously.
+Dialogue: 0,0:02:57.84,0:03:00.47,Default,,0,0,0,,Kind of tells you\Nwhen it is... in the title.
+Dialogue: 0,0:03:00.97,0:03:03.76,Default,,0,0,0,,But I think I'm actually going\Nto be busy on that weekend.
+Dialogue: 0,0:03:03.85,0:03:06.39,Default,,0,0,0,,And what's one badge anyway?
+Dialogue: 0,0:03:06.47,0:03:07.43,Default,,0,0,0,,[chuckles]
+Dialogue: 0,0:03:08.31,0:03:09.43,Default,,0,0,0,,Good question.
+Dialogue: 0,0:03:09.52,0:03:13.61,Default,,0,0,0,,Well, if you can't go camping,\Ndo you at least want to hang out today?
+Dialogue: 0,0:03:13.69,0:03:14.73,Default,,0,0,0,,It's been a while.
+Dialogue: 0,0:03:14.81,0:03:17.48,Default,,0,0,0,,Oh, well, the thing is...
+Dialogue: 0,0:03:17.57,0:03:18.86,Default,,0,0,0,,-Um...\N-[knocking at door]
+Dialogue: 0,0:03:18.94,0:03:21.74,Default,,0,0,0,,-Was that the front door?\N-[knocking continues]
+Dialogue: 0,0:03:28.54,0:03:29.37,Default,,0,0,0,,Huh.
+Dialogue: 0,0:03:29.45,0:03:30.62,Default,,0,0,0,,-[Kelly] Boo!\N-Ah!
+Dialogue: 0,0:03:30.71,0:03:32.75,Default,,0,0,0,,Hey, Fri-Fri. You ready?
+Dialogue: 0,0:03:32.83,0:03:34.13,Default,,0,0,0,,Hey, Kelly.
+Dialogue: 0,0:03:34.79,0:03:36.13,Default,,0,0,0,,I didn't like that.
+Dialogue: 0,0:03:43.43,0:03:46.93,Default,,0,0,0,,-Uh, you guys, this is Kelly.\N-Hey.
+Dialogue: 0,0:03:47.01,0:03:49.02,Default,,0,0,0,,We kind of had plans today.
+Dialogue: 0,0:03:49.10,0:03:50.60,Default,,0,0,0,,Okay.
+Dialogue: 0,0:03:51.94,0:03:54.19,Default,,0,0,0,,-Are you coming?\N-Oh, y-yeah.
+Dialogue: 0,0:03:54.31,0:03:55.31,Default,,0,0,0,,We could.
+Dialogue: 0,0:03:55.40,0:03:57.73,Default,,0,0,0,,I mean, we, we were gonna do\Nsome stuff, but we could--
+Dialogue: 0,0:03:57.82,0:04:00.78,Default,,0,0,0,,No. I mean, are you going\Nto come out of my house?
+Dialogue: 0,0:04:00.86,0:04:02.28,Default,,0,0,0,,So I can lock the door?
+Dialogue: 0,0:04:02.78,0:04:03.74,Default,,0,0,0,,Oh.
+Dialogue: 0,0:04:16.42,0:04:19.13,Default,,0,0,0,,So, what do you want to do... now?
+Dialogue: 0,0:04:22.17,0:04:23.51,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:04:24.09,0:04:25.30,Default,,0,0,0,,[Mum] Sleeping bag?
+Dialogue: 0,0:04:25.39,0:04:26.89,Default,,0,0,0,,Check. Okay.
+Dialogue: 0,0:04:26.97,0:04:28.30,Default,,0,0,0,,Flashlight.
+Dialogue: 0,0:04:28.39,0:04:29.47,Default,,0,0,0,,How about this one?
+Dialogue: 0,0:04:30.14,0:04:31.60,Default,,0,0,0,,Ooh, looks pretty good.
+Dialogue: 0,0:04:31.68,0:04:34.23,Default,,0,0,0,,I don't know what's happened\Nto all our old camping stuff.
+Dialogue: 0,0:04:34.31,0:04:36.31,Default,,0,0,0,,I'm misplacing everything lately.
+Dialogue: 0,0:04:36.85,0:04:38.48,Default,,0,0,0,,Maybe I lost a box in the move.
+Dialogue: 0,0:04:38.56,0:04:39.86,Default,,0,0,0,,What's left on the list?
+Dialogue: 0,0:04:40.86,0:04:42.78,Default,,0,0,0,,The most important thing.
+Dialogue: 0,0:04:44.40,0:04:45.70,Default,,0,0,0,,Snacks. [chuckles]
+Dialogue: 0,0:04:45.78,0:04:48.78,Default,,0,0,0,,-It's just overnight, Mum.\N-It's good to have options.
+Dialogue: 0,0:04:55.08,0:04:56.96,Default,,0,0,0,,Ugh, what a lot of rubbish!
+Dialogue: 0,0:05:04.26,0:05:07.55,Default,,0,0,0,,[man] My brother's friend said\Nhis cousin saw the beast last night
+Dialogue: 0,0:05:07.64,0:05:08.64,Default,,0,0,0,,right in the street!
+Dialogue: 0,0:05:08.72,0:05:09.89,Default,,0,0,0,,-What?\N-[chuckles]
+Dialogue: 0,0:05:09.97,0:05:12.68,Default,,0,0,0,,Even my mum thinks she saw it.\NIt creeps me out.
+Dialogue: 0,0:05:12.77,0:05:15.77,Default,,0,0,0,,Uh, remind me\Nwhy we're not taking the bus again.
+Dialogue: 0,0:05:17.69,0:05:18.52,Default,,0,0,0,,[gasps]
+Dialogue: 0,0:05:19.90,0:05:20.73,Default,,0,0,0,,[Twig whines]
+Dialogue: 0,0:05:20.94,0:05:23.36,Default,,0,0,0,,Don't stare, Hilda. It's rude.
+Dialogue: 0,0:05:23.44,0:05:24.99,Default,,0,0,0,,Why is he sitting on the ground?
+Dialogue: 0,0:05:25.07,0:05:26.45,Default,,0,0,0,,He doesn't look comfy.
+Dialogue: 0,0:05:26.53,0:05:28.32,Default,,0,0,0,,[Mum] That's a nisse, a house spirit.
+Dialogue: 0,0:05:28.41,0:05:30.87,Default,,0,0,0,,They live inside people's homes\Nand normally they're invisible.
+Dialogue: 0,0:05:30.95,0:05:33.37,Default,,0,0,0,,But because he's outside,\Nit means he's been banished,
+Dialogue: 0,0:05:33.45,0:05:35.58,Default,,0,0,0,,and it will be for a good reason.
+Dialogue: 0,0:05:35.66,0:05:37.67,Default,,0,0,0,,He must have done something bad.
+Dialogue: 0,0:05:38.17,0:05:40.75,Default,,0,0,0,,Maybe you could buy him a muffin\Nor a hot chocolate or something.
+Dialogue: 0,0:05:40.84,0:05:41.92,Default,,0,0,0,,[Mum] No, Hilda.
+Dialogue: 0,0:05:42.00,0:05:44.63,Default,,0,0,0,,You mustn't talk to them\Nand you mustn't feel bad for them, okay?
+Dialogue: 0,0:05:44.71,0:05:48.22,Default,,0,0,0,,They steal and they'll tell you lies\Nto make you feel sorry for them.
+Dialogue: 0,0:05:48.30,0:05:50.22,Default,,0,0,0,,But the Sparrow Scout oath\Nsays to be a friend
+Dialogue: 0,0:05:50.30,0:05:53.77,Default,,0,0,0,,to all people, animals, and spirits,\Nand to do a good thing every day.
+Dialogue: 0,0:05:53.85,0:05:54.85,Default,,0,0,0,,Wouldn't that be good?
+Dialogue: 0,0:05:54.93,0:05:57.19,Default,,0,0,0,,A good thing would be\Nto do as you're told.
+Dialogue: 0,0:05:58.69,0:05:59.52,Default,,0,0,0,,[sniffing]
+Dialogue: 0,0:05:59.60,0:06:00.61,Default,,0,0,0,,[whining]
+Dialogue: 0,0:06:11.87,0:06:13.66,Default,,0,0,0,,[grunting]
+Dialogue: 0,0:06:15.24,0:06:16.41,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:06:17.16,0:06:18.08,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:06:18.75,0:06:20.50,Default,,0,0,0,,Maybe I'll sort this out later.
+Dialogue: 0,0:06:20.58,0:06:23.67,Default,,0,0,0,,{\i1}Now, some are calling it{\i0}\N{\i1}"the Beast of Trolberg."{\i0}
+Dialogue: 0,0:06:23.75,0:06:25.88,Default,,0,0,0,,{\i1}Some are calling it "the Black Hound."{\i0}
+Dialogue: 0,0:06:25.96,0:06:28.26,Default,,0,0,0,,{\i1}With more alleged sightings{\i0}\N{\i1}filed overnight,{\i0}
+Dialogue: 0,0:06:28.34,0:06:32.22,Default,,0,0,0,,{\i1}the one thing we know for certain{\i0}\N{\i1}is that it's got the city talking.{\i0}
+Dialogue: 0,0:06:32.30,0:06:33.89,Default,,0,0,0,,{\i1}But what is this creature?{\i0}
+Dialogue: 0,0:06:33.97,0:06:37.52,Default,,0,0,0,,You know, Hilda, I'm starting to wonder\Nif maybe this isn't the best exact time
+Dialogue: 0,0:06:37.60,0:06:41.90,Default,,0,0,0,,for you to be going camping, what\Nwith  this-- this-- this thing out there.
+Dialogue: 0,0:06:41.98,0:06:43.98,Default,,0,0,0,,What? This thing?
+Dialogue: 0,0:06:44.98,0:06:50.07,Default,,0,0,0,,"Experts confirm photograph of beast\Nis someone's cat, just quite far away."
+Dialogue: 0,0:06:50.15,0:06:55.33,Default,,0,0,0,,{\i1}Well, it came over the fence right here,{\i0}\N{\i1}all quick as the wind.{\i0}
+Dialogue: 0,0:06:55.41,0:06:56.54,Default,,0,0,0,,{\i1}Terrible, it was.{\i0}
+Dialogue: 0,0:06:56.62,0:06:58.66,Default,,0,0,0,,{\i1}I came dashing out.{\i0}
+Dialogue: 0,0:06:58.75,0:07:01.46,Default,,0,0,0,,{\i1}Turned out it was just this bin bag,{\i0}
+Dialogue: 0,0:07:01.54,0:07:05.50,Default,,0,0,0,,{\i1}but, oh, it shook me up{\i0}\N{\i1}something terrible.{\i0}
+Dialogue: 0,0:07:05.59,0:07:07.55,Default,,0,0,0,,-{\i1}Emotional words there from--{\i0}\N-[TV turns off]
+Dialogue: 0,0:07:08.13,0:07:09.97,Default,,0,0,0,,See, Mum? It's fine.
+Dialogue: 0,0:07:10.05,0:07:11.13,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:07:14.93,0:07:16.26,Default,,0,0,0,,[birds chirping]
+Dialogue: 0,0:07:16.35,0:07:19.39,Default,,0,0,0,,Hilda, what have you done\Nwith all those snacks I bought?
+Dialogue: 0,0:07:19.48,0:07:21.73,Default,,0,0,0,,I thought you were having trouble\Ngetting them in the bag.
+Dialogue: 0,0:07:21.81,0:07:23.52,Default,,0,0,0,,I did. I left them right there.
+Dialogue: 0,0:07:23.60,0:07:25.06,Default,,0,0,0,,They're not here now.
+Dialogue: 0,0:07:25.15,0:07:27.94,Default,,0,0,0,,Well, where did they go?\NDid someone eat them?
+Dialogue: 0,0:07:28.03,0:07:29.19,Default,,0,0,0,,Did you eat them, Mum?
+Dialogue: 0,0:07:29.28,0:07:31.24,Default,,0,0,0,,No! Did you eat them?
+Dialogue: 0,0:07:32.32,0:07:33.82,Default,,0,0,0,,Did you eat them?
+Dialogue: 0,0:07:34.41,0:07:35.45,Default,,0,0,0,,[groans]
+Dialogue: 0,0:07:35.53,0:07:39.08,Default,,0,0,0,,[chuckles] It's probably for the best.\NI never would've got through all of those.
+Dialogue: 0,0:07:39.16,0:07:42.33,Default,,0,0,0,,Oh, no, there's plenty of time.\NI'll go and get some more.
+Dialogue: 0,0:07:43.21,0:07:44.96,Default,,0,0,0,,Actually, if you're going to do that,
+Dialogue: 0,0:07:45.04,0:07:47.42,Default,,0,0,0,,I think I might\Ndrop by Frida's one more time.
+Dialogue: 0,0:07:50.80,0:07:53.63,Default,,0,0,0,,[man on TV] {\i1}And the winner{\i0}\N{\i1}of the one-person tent is...{\i0}
+Dialogue: 0,0:07:53.72,0:07:55.97,Default,,0,0,0,,{\i1}Julia Mark Gunderson!{\i0}
+Dialogue: 0,0:07:56.05,0:07:58.68,Default,,0,0,0,,-[audience cheering, applauding]\N-This show is awful!
+Dialogue: 0,0:07:58.76,0:08:00.68,Default,,0,0,0,,I know, right?\NIt's great.
+Dialogue: 0,0:08:00.77,0:08:02.23,Default,,0,0,0,,[knocking at door]
+Dialogue: 0,0:08:03.14,0:08:04.19,Default,,0,0,0,,I'll be right back.
+Dialogue: 0,0:08:04.27,0:08:05.27,Default,,0,0,0,,Oh! [gasps]
+Dialogue: 0,0:08:05.35,0:08:07.11,Default,,0,0,0,,Ugh! Ignore it.
+Dialogue: 0,0:08:07.19,0:08:09.94,Default,,0,0,0,,Let them knock.\NIt's not gonna be for you anyway.
+Dialogue: 0,0:08:19.04,0:08:19.95,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:08:25.46,0:08:28.42,Default,,0,0,0,,-Uh, who was it?\N-Nobody important.
+Dialogue: 0,0:08:33.88,0:08:36.30,Default,,0,0,0,,[Tontu snoring]
+Dialogue: 0,0:08:37.14,0:08:38.76,Default,,0,0,0,,Um, hello!
+Dialogue: 0,0:08:38.85,0:08:40.60,Default,,0,0,0,,[snoring continues]
+Dialogue: 0,0:08:41.72,0:08:43.77,Default,,0,0,0,,-Hello!\N-[yelling, thuds]
+Dialogue: 0,0:08:43.85,0:08:45.77,Default,,0,0,0,,-[groans]\N-Sorry.
+Dialogue: 0,0:08:45.85,0:08:46.98,Default,,0,0,0,,You're a nisse, aren't you?
+Dialogue: 0,0:08:47.06,0:08:49.40,Default,,0,0,0,,Yeah, I think\Nyou're thinking of someone else.
+Dialogue: 0,0:08:49.48,0:08:50.82,Default,,0,0,0,,I'm Hilda, by the way.
+Dialogue: 0,0:08:51.82,0:08:53.07,Default,,0,0,0,,Wh-- What's your name?
+Dialogue: 0,0:08:54.11,0:08:55.45,Default,,0,0,0,,Tontu.
+Dialogue: 0,0:08:55.95,0:08:58.70,Default,,0,0,0,,-It's nice to meet you, Tontu.\N-[groans]
+Dialogue: 0,0:08:59.58,0:09:01.49,Default,,0,0,0,,So, what's your story?
+Dialogue: 0,0:09:01.58,0:09:04.79,Default,,0,0,0,,My mum says nisse are normally\Ninvisible and live in people's houses.
+Dialogue: 0,0:09:04.87,0:09:07.42,Default,,0,0,0,,[sighs] If I tell you,\Nwill you leave me alone?
+Dialogue: 0,0:09:07.50,0:09:08.38,Default,,0,0,0,,Mm-hmm.
+Dialogue: 0,0:09:08.96,0:09:10.09,Default,,0,0,0,,[Tontu inhales]
+Dialogue: 0,0:09:10.17,0:09:12.42,Default,,0,0,0,,For starters, we're not invisible.
+Dialogue: 0,0:09:12.51,0:09:14.51,Default,,0,0,0,,In every home,\Nthere's a lot of wasted space.
+Dialogue: 0,0:09:14.59,0:09:17.72,Default,,0,0,0,,{\i1}The space behind bookcases,{\i0}\N{\i1}gaps in the floorboards,{\i0}
+Dialogue: 0,0:09:17.80,0:09:19.76,Default,,0,0,0,,{\i1}the tops of cupboards you can't quite see.{\i0}
+Dialogue: 0,0:09:19.85,0:09:21.47,Default,,0,0,0,,-{\i1}That kind of thing.{\i0}\N-[Hilda] {\i1}Okay.{\i0}
+Dialogue: 0,0:09:21.56,0:09:23.22,Default,,0,0,0,,[Tontu] {\i1}So, in everyone's house,{\i0}
+Dialogue: 0,0:09:23.31,0:09:27.90,Default,,0,0,0,,{\i1}the sum total of that space{\i0}\N{\i1}manifests itself as a kind of extra room,{\i0}
+Dialogue: 0,0:09:27.98,0:09:29.98,Default,,0,0,0,,{\i1}one that only a nisse can enter.{\i0}
+Dialogue: 0,0:09:30.06,0:09:31.90,Default,,0,0,0,,{\i1}That's where we build our nests.{\i0}
+Dialogue: 0,0:09:31.98,0:09:33.57,Default,,0,0,0,,So, how come you're not in your nest?
+Dialogue: 0,0:09:33.65,0:09:35.40,Default,,0,0,0,,[Tontu] {\i1}The owner of a house{\i0}\N{\i1}has the ability{\i0}
+Dialogue: 0,0:09:35.49,0:09:37.78,Default,,0,0,0,,{\i1}to banish a nisse{\i0}\N{\i1}from their property forever{\i0}
+Dialogue: 0,0:09:37.86,0:09:39.57,Default,,0,0,0,,{\i1}if they catch them doing no good.{\i0}
+Dialogue: 0,0:09:39.66,0:09:40.83,Default,,0,0,0,,So, what did you do?
+Dialogue: 0,0:09:40.91,0:09:43.66,Default,,0,0,0,,Nothing!\NI was wrongly accused.
+Dialogue: 0,0:09:44.25,0:09:46.21,Default,,0,0,0,,Can you not just find\Nsomewhere else to live?
+Dialogue: 0,0:09:46.29,0:09:48.12,Default,,0,0,0,,Most places have a nisse already,
+Dialogue: 0,0:09:48.21,0:09:51.34,Default,,0,0,0,,and nisses are\Nvery protective of their territory.
+Dialogue: 0,0:09:51.42,0:09:52.96,Default,,0,0,0,,Hey, I've got an idea.
+Dialogue: 0,0:09:53.05,0:09:56.05,Default,,0,0,0,,Why don't you come and stay in my house?\NI'm sure my mum won't mind.
+Dialogue: 0,0:09:56.13,0:09:58.55,Default,,0,0,0,,No, but your nisse definitely will.
+Dialogue: 0,0:09:58.63,0:10:00.60,Default,,0,0,0,,That's the good thing.\NWe don't have one.
+Dialogue: 0,0:10:00.68,0:10:01.60,Default,,0,0,0,,Really?
+Dialogue: 0,0:10:01.68,0:10:02.60,Default,,0,0,0,,Trust me.
+Dialogue: 0,0:10:02.68,0:10:06.98,Default,,0,0,0,,If there was a magical house spirit\Nliving in my house, I'd know about it.
+Dialogue: 0,0:10:10.65,0:10:12.27,Default,,0,0,0,,-Well, this is it.\N-[Twig grunts]
+Dialogue: 0,0:10:13.07,0:10:14.40,Default,,0,0,0,,-[door closes]\N-[growling]
+Dialogue: 0,0:10:14.48,0:10:17.19,Default,,0,0,0,,Where's a good place for you\Nto get inside and do your thing?
+Dialogue: 0,0:10:17.28,0:10:18.65,Default,,0,0,0,,Uh... uh...
+Dialogue: 0,0:10:18.74,0:10:20.32,Default,,0,0,0,,behind this bookcase, perhaps?
+Dialogue: 0,0:10:20.41,0:10:22.03,Default,,0,0,0,,[Hilda] Is it okay if I come, too?
+Dialogue: 0,0:10:22.12,0:10:25.24,Default,,0,0,0,,I couldn't bear to know that there was\Na room in my house that I'd never seen.
+Dialogue: 0,0:10:26.12,0:10:28.66,Default,,0,0,0,,Okay, fine.\NJust take my hand.
+Dialogue: 0,0:10:28.75,0:10:30.21,Default,,0,0,0,,Whoa! Wait!
+Dialogue: 0,0:10:30.79,0:10:32.54,Default,,0,0,0,,[screaming]
+Dialogue: 0,0:10:34.59,0:10:35.92,Default,,0,0,0,,[grunting]
+Dialogue: 0,0:10:39.01,0:10:40.13,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:10:41.05,0:10:43.35,Default,,0,0,0,,Hey, this is Mum's old flashlight!
+Dialogue: 0,0:10:43.89,0:10:46.02,Default,,0,0,0,,Oh, and here's my science homework.
+Dialogue: 0,0:10:46.10,0:10:48.68,Default,,0,0,0,,I told Ms. Hallgrim it disappeared.\N[chuckles]
+Dialogue: 0,0:10:50.35,0:10:51.60,Default,,0,0,0,,What are all these holes?
+Dialogue: 0,0:10:51.69,0:10:54.69,Default,,0,0,0,,They're entrances, or exits,
+Dialogue: 0,0:10:54.77,0:10:57.36,Default,,0,0,0,,to all the nooks and crannies\Nin your home.
+Dialogue: 0,0:10:58.69,0:11:00.66,Default,,0,0,0,,[Twig whining]
+Dialogue: 0,0:11:01.24,0:11:03.16,Default,,0,0,0,,So, everything\Nthat gets lost into the sofa
+Dialogue: 0,0:11:03.24,0:11:05.62,Default,,0,0,0,,or falls on the back of something\Nends up here?
+Dialogue: 0,0:11:05.70,0:11:07.75,Default,,0,0,0,,[Tontu] Yup.\NThat's the long and short of it.
+Dialogue: 0,0:11:07.83,0:11:09.83,Default,,0,0,0,,Well, this is\Nall pretty confusing and weird,
+Dialogue: 0,0:11:09.91,0:11:11.92,Default,,0,0,0,,but it sure is cozy in here.
+Dialogue: 0,0:11:12.00,0:11:14.54,Default,,0,0,0,,How does an armchair fall down\Nthe back of the sofa anyway?
+Dialogue: 0,0:11:14.63,0:11:17.21,Default,,0,0,0,,[Tontu] Things left\Nunused or unloved for long enough
+Dialogue: 0,0:11:17.30,0:11:20.30,Default,,0,0,0,,have been known to be\Nmistaken for offerings.
+Dialogue: 0,0:11:20.38,0:11:23.43,Default,,0,0,0,,Believe it or not, there was a time\Nwhen we nisse were rewarded
+Dialogue: 0,0:11:23.51,0:11:24.85,Default,,0,0,0,,for the things that...
+Dialogue: 0,0:11:24.93,0:11:26.26,Default,,0,0,0,,[creature munching]
+Dialogue: 0,0:11:26.35,0:11:29.14,Default,,0,0,0,,Hey, Tontu, look at this.\NThese guys look just like you.
+Dialogue: 0,0:11:29.23,0:11:30.64,Default,,0,0,0,,Are they nisse?
+Dialogue: 0,0:11:30.73,0:11:32.85,Default,,0,0,0,,I think they-- Tontu?
+Dialogue: 0,0:11:32.94,0:11:35.56,Default,,0,0,0,,[Tontu] I told you there'd be\Nsomeone here already.
+Dialogue: 0,0:11:35.65,0:11:37.32,Default,,0,0,0,,[munching continues]
+Dialogue: 0,0:11:40.32,0:11:41.20,Default,,0,0,0,,[growling]
+Dialogue: 0,0:11:41.78,0:11:43.74,Default,,0,0,0,,Hey! Those are my clothes!
+Dialogue: 0,0:11:43.82,0:11:45.49,Default,,0,0,0,,[roaring]
+Dialogue: 0,0:11:45.57,0:11:48.49,Default,,0,0,0,,[nisses grunting]
+Dialogue: 0,0:11:51.91,0:11:53.83,Default,,0,0,0,,[shouting, growling]
+Dialogue: 0,0:11:53.92,0:11:55.33,Default,,0,0,0,,[Tontu whimpering]
+Dialogue: 0,0:11:55.42,0:11:56.92,Default,,0,0,0,,[growls, whimpers]
+Dialogue: 0,0:11:57.00,0:11:58.17,Default,,0,0,0,,[Tontu shouting]
+Dialogue: 0,0:11:59.30,0:12:01.09,Default,,0,0,0,,[Tontu shouting]
+Dialogue: 0,0:12:01.67,0:12:03.68,Default,,0,0,0,,-[groans]\N-[both grunting]
+Dialogue: 0,0:12:17.73,0:12:18.86,Default,,0,0,0,,[nisse shouts]
+Dialogue: 0,0:12:20.69,0:12:21.78,Default,,0,0,0,,Whoa, whoa!
+Dialogue: 0,0:12:21.86,0:12:23.49,Default,,0,0,0,,-[door opens]\N-[Tontu whimpers]
+Dialogue: 0,0:12:24.16,0:12:25.16,Default,,0,0,0,,What in the--?
+Dialogue: 0,0:12:26.74,0:12:28.83,Default,,0,0,0,,Mum! You're not gonna believe this, but--
+Dialogue: 0,0:12:28.91,0:12:31.50,Default,,0,0,0,,-Get out of my house!\N-[Tontu] I'm gone.
+Dialogue: 0,0:12:33.62,0:12:36.83,Default,,0,0,0,,Mum, wait, I know this looks bad,\Nbut he doesn't have anywhere to live,
+Dialogue: 0,0:12:36.92,0:12:39.21,Default,,0,0,0,,-and I was thinking that he could--\N-Not a chance!
+Dialogue: 0,0:12:46.26,0:12:49.76,Default,,0,0,0,,Mum, I'm really sorry.\NI just wanted to help him. I thought--
+Dialogue: 0,0:12:49.85,0:12:52.27,Default,,0,0,0,,We'll talk about it\Nwhen you're back, okay?
+Dialogue: 0,0:12:52.35,0:12:55.44,Default,,0,0,0,,Maybe I'll have been able\Nto rebuild our kitchen by then.
+Dialogue: 0,0:12:56.60,0:12:58.52,Default,,0,0,0,,I hope he's all right out there.
+Dialogue: 0,0:13:03.78,0:13:04.78,Default,,0,0,0,,[gasps]
+Dialogue: 0,0:13:07.78,0:13:09.58,Default,,0,0,0,,All right, Johanna, get a grip.
+Dialogue: 0,0:13:16.46,0:13:17.96,Default,,0,0,0,,Have fun!
+Dialogue: 0,0:13:18.79,0:13:19.75,Default,,0,0,0,,Oh, hold on.
+Dialogue: 0,0:13:21.46,0:13:22.92,Default,,0,0,0,,-[gasps]\N-[insect hissing]
+Dialogue: 0,0:13:23.51,0:13:25.80,Default,,0,0,0,,There, all good now. Off you go.
+Dialogue: 0,0:13:28.22,0:13:31.72,Default,,0,0,0,,You have a good time, okay?\NI'll see you in a couple of days.
+Dialogue: 0,0:13:31.81,0:13:32.64,Default,,0,0,0,,I will.
+Dialogue: 0,0:13:33.72,0:13:34.93,Default,,0,0,0,,Don't worry.
+Dialogue: 0,0:13:36.52,0:13:39.02,Default,,0,0,0,,And don't do anything too fun\Nuntil I'm back!
+Dialogue: 0,0:13:41.77,0:13:44.32,Default,,0,0,0,,Um, uh, Raven Leader...
+Dialogue: 0,0:13:44.40,0:13:49.82,Default,,0,0,0,,I don't want to be an alarmist,\Nbut is this definitely, well, safe?
+Dialogue: 0,0:13:49.91,0:13:53.70,Default,,0,0,0,,It's just that they haven't caught,\Nwell, you know, um, the beast.
+Dialogue: 0,0:13:53.79,0:13:55.66,Default,,0,0,0,,-[nervous laugh]\N-[chuckles]
+Dialogue: 0,0:13:55.75,0:13:59.96,Default,,0,0,0,,I understand your concerns,\Nbut, really, there's no reason to worry.
+Dialogue: 0,0:14:00.04,0:14:04.46,Default,,0,0,0,,This is private Sparrow Scout property,\Nwell inside the town walls.
+Dialogue: 0,0:14:04.55,0:14:08.84,Default,,0,0,0,,If there were any dangerous creatures\Nin these woods, I'd know all about it.
+Dialogue: 0,0:14:08.93,0:14:10.01,Default,,0,0,0,,[chuckles]
+Dialogue: 0,0:14:10.09,0:14:12.26,Default,,0,0,0,,[sighs] I tried Frida again earlier.
+Dialogue: 0,0:14:12.35,0:14:13.85,Default,,0,0,0,,I don't know why you bothered.
+Dialogue: 0,0:14:13.93,0:14:17.23,Default,,0,0,0,,She made it pretty clear\Nshe had better things to be doing.
+Dialogue: 0,0:14:17.31,0:14:18.19,Default,,0,0,0,,I know.
+Dialogue: 0,0:14:18.27,0:14:21.31,Default,,0,0,0,,I just... I really thought\Nshe might change her mind.
+Dialogue: 0,0:14:34.58,0:14:37.08,Default,,0,0,0,,-What are you doing?\N-[yelps] Nothing.
+Dialogue: 0,0:14:37.58,0:14:39.42,Default,,0,0,0,,How did you even get in here?
+Dialogue: 0,0:14:39.50,0:14:42.25,Default,,0,0,0,,You're still up\Nfor the thing tonight, right?
+Dialogue: 0,0:14:42.84,0:14:45.13,Default,,0,0,0,,Um, uh, well--
+Dialogue: 0,0:14:45.21,0:14:47.17,Default,,0,0,0,,I told everyone you were coming.
+Dialogue: 0,0:14:47.26,0:14:48.59,Default,,0,0,0,,If you've got other plans...
+Dialogue: 0,0:14:48.67,0:14:51.14,Default,,0,0,0,,No! No! Of course I'm coming.
+Dialogue: 0,0:14:51.22,0:14:54.47,Default,,0,0,0,,I-- I'm just, uh...\Nready when you are.
+Dialogue: 0,0:15:01.65,0:15:03.02,Default,,0,0,0,,Now listen up, Sparrows.
+Dialogue: 0,0:15:03.11,0:15:05.57,Default,,0,0,0,,You're to stick with your groups.
+Dialogue: 0,0:15:05.65,0:15:09.11,Default,,0,0,0,,I cannot stress that enough.\NI'm looking at you, Willy.
+Dialogue: 0,0:15:09.19,0:15:10.11,Default,,0,0,0,,Willy?
+Dialogue: 0,0:15:10.20,0:15:11.03,Default,,0,0,0,,Huh?
+Dialogue: 0,0:15:11.95,0:15:13.87,Default,,0,0,0,,Use your maps and compasses.
+Dialogue: 0,0:15:13.95,0:15:16.74,Default,,0,0,0,,Find your markers and be back in one hour.
+Dialogue: 0,0:15:16.83,0:15:18.45,Default,,0,0,0,,Right, off you go.
+Dialogue: 0,0:15:21.08,0:15:23.08,Default,,0,0,0,,-Willy!\N-[grunting]
+Dialogue: 0,0:15:27.09,0:15:28.71,Default,,0,0,0,,Look! There's a marker.
+Dialogue: 0,0:15:30.55,0:15:32.76,Default,,0,0,0,,[boy] Looks like\Nwe're the first ones here.
+Dialogue: 0,0:15:32.84,0:15:35.14,Default,,0,0,0,,They still haven't caught\Nthat Black Hound yet.
+Dialogue: 0,0:15:35.22,0:15:38.22,Default,,0,0,0,,It could still totally be here right now,\Nstalking us!
+Dialogue: 0,0:15:38.31,0:15:41.31,Default,,0,0,0,,What? I thought that thing wasn't real.
+Dialogue: 0,0:15:41.39,0:15:42.98,Default,,0,0,0,,Yeah, that's what I heard, too.
+Dialogue: 0,0:15:43.06,0:15:47.61,Default,,0,0,0,,It's definitely real, but my dad says\Nit's probably just a lost mountain spirit.
+Dialogue: 0,0:15:47.69,0:15:50.82,Default,,0,0,0,,My brother says it's a demon\Nand it only eats girls.
+Dialogue: 0,0:15:50.90,0:15:53.36,Default,,0,0,0,,[girl] What kind of demon only eats girls?
+Dialogue: 0,0:15:53.45,0:15:56.41,Default,,0,0,0,,[boy] How should I know?\NOne with terrible taste, I imagine.
+Dialogue: 0,0:15:57.70,0:15:58.74,Default,,0,0,0,,Hey, Hilda!
+Dialogue: 0,0:15:59.62,0:16:01.79,Default,,0,0,0,,-Where are you going?\N-Shh!
+Dialogue: 0,0:16:10.42,0:16:12.17,Default,,0,0,0,,[Tontu] Who's there? Show yourself!
+Dialogue: 0,0:16:12.26,0:16:15.55,Default,,0,0,0,,But let me tell you,\NI have a branch and I will use it!
+Dialogue: 0,0:16:15.64,0:16:17.64,Default,,0,0,0,,What are you? Wolf? Troll?
+Dialogue: 0,0:16:19.31,0:16:21.64,Default,,0,0,0,,Oh, worse. It's you.
+Dialogue: 0,0:16:23.39,0:16:24.98,Default,,0,0,0,,Oh, and now there's two of you.
+Dialogue: 0,0:16:25.06,0:16:27.69,Default,,0,0,0,,What do you mean worse?\NI only tried to help you.
+Dialogue: 0,0:16:27.77,0:16:31.65,Default,,0,0,0,,[Tontu] You got me into a fight\Nand then got me banished all over again.
+Dialogue: 0,0:16:31.74,0:16:35.99,Default,,0,0,0,,Admittedly, it didn't go incredibly well.\NWhat are you doing out here anyway?
+Dialogue: 0,0:16:36.07,0:16:38.45,Default,,0,0,0,,[Tontu] I thought I wouldn't be bothered
+Dialogue: 0,0:16:38.53,0:16:41.04,Default,,0,0,0,,by people asking\Nwhat I was doing out here!
+Dialogue: 0,0:16:41.12,0:16:42.33,Default,,0,0,0,,[harrumphs]
+Dialogue: 0,0:16:45.21,0:16:46.33,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:16:48.17,0:16:49.42,Default,,0,0,0,,[Tontu shouts, groans]
+Dialogue: 0,0:16:49.50,0:16:50.34,Default,,0,0,0,,Hey!
+Dialogue: 0,0:16:53.88,0:16:55.51,Default,,0,0,0,,That's better, isn't it?
+Dialogue: 0,0:16:56.30,0:16:58.68,Default,,0,0,0,,What's that interesting sculpture, Tontu?
+Dialogue: 0,0:16:59.47,0:17:00.93,Default,,0,0,0,,[Tontu] That's my tent.
+Dialogue: 0,0:17:01.02,0:17:03.31,Default,,0,0,0,,All right,\Nso I'm not very good at camping.
+Dialogue: 0,0:17:03.39,0:17:05.77,Default,,0,0,0,,I'm headed back to town tomorrow anyway.
+Dialogue: 0,0:17:05.85,0:17:07.27,Default,,0,0,0,,I miss houses.
+Dialogue: 0,0:17:07.35,0:17:10.57,Default,,0,0,0,,-What was your house like?\N-[Tontu] It was a big, yellow house.
+Dialogue: 0,0:17:10.65,0:17:14.65,Default,,0,0,0,,It had a big garden and a duck pond\Nwith a duck that I really liked.
+Dialogue: 0,0:17:14.74,0:17:15.95,Default,,0,0,0,,That sounds lovely.
+Dialogue: 0,0:17:16.03,0:17:19.95,Default,,0,0,0,,I wish I knew a duck that I liked.\NThey all want to peck my fingers.
+Dialogue: 0,0:17:20.03,0:17:22.41,Default,,0,0,0,,[Tontu] I wish I could just go back there.
+Dialogue: 0,0:17:22.49,0:17:23.83,Default,,0,0,0,,-[Raven Leader] David!\N-[gasps]
+Dialogue: 0,0:17:24.50,0:17:27.25,Default,,0,0,0,,-[Raven Leader] Hilda!\N-[sighs] We'd better go.
+Dialogue: 0,0:17:27.75,0:17:29.59,Default,,0,0,0,,Listen. You must be hungry, right?
+Dialogue: 0,0:17:29.67,0:17:31.42,Default,,0,0,0,,I have more snacks and food\Nback in my tent
+Dialogue: 0,0:17:31.50,0:17:34.01,Default,,0,0,0,,than a human or nisse\Ncould possibly ever eat.
+Dialogue: 0,0:17:34.09,0:17:36.88,Default,,0,0,0,,-We can sneak out and bring you some.\N-We can?
+Dialogue: 0,0:17:36.97,0:17:37.84,Default,,0,0,0,,Come on, David.
+Dialogue: 0,0:17:40.97,0:17:44.85,Default,,0,0,0,,Hilda! David!
+Dialogue: 0,0:17:45.35,0:17:46.52,Default,,0,0,0,,Oh, there you are!
+Dialogue: 0,0:17:46.60,0:17:48.44,Default,,0,0,0,,We were just looking for you.
+Dialogue: 0,0:18:30.73,0:18:32.31,Default,,0,0,0,,-Ah!\N-Shh!
+Dialogue: 0,0:18:32.40,0:18:33.57,Default,,0,0,0,,You're gonna wake everyone!
+Dialogue: 0,0:18:34.27,0:18:37.28,Default,,0,0,0,,This is a bad idea.\NIf we get caught--
+Dialogue: 0,0:18:37.36,0:18:40.99,Default,,0,0,0,,We'll only get caught if someone hears\Nyou worrying about getting caught.
+Dialogue: 0,0:18:41.07,0:18:41.91,Default,,0,0,0,,Come on!
+Dialogue: 0,0:19:00.38,0:19:04.22,Default,,0,0,0,,Are you sure this is the right way?\NWe've been walking for ages.
+Dialogue: 0,0:19:04.30,0:19:10.64,Default,,0,0,0,,Um, I think I'm sort of,\Nmostly, kind of sure-ish?
+Dialogue: 0,0:19:10.73,0:19:13.77,Default,,0,0,0,,Look, that's Tontu's fire! Obviously.
+Dialogue: 0,0:19:14.27,0:19:15.44,Default,,0,0,0,,I told you I was sure.
+Dialogue: 0,0:19:16.02,0:19:17.15,Default,,0,0,0,,[whimpers]
+Dialogue: 0,0:19:17.23,0:19:19.40,Default,,0,0,0,,[girl] And then I freeze her to the spot.
+Dialogue: 0,0:19:19.99,0:19:22.03,Default,,0,0,0,,She can't move. And then along comes...
+Dialogue: 0,0:19:22.11,0:19:23.24,Default,,0,0,0,,David, flashlight.
+Dialogue: 0,0:19:23.32,0:19:24.24,Default,,0,0,0,,What?
+Dialogue: 0,0:19:24.32,0:19:25.37,Default,,0,0,0,,Just turn it off.
+Dialogue: 0,0:19:26.49,0:19:27.58,Default,,0,0,0,,Okay.
+Dialogue: 0,0:19:27.66,0:19:30.62,Default,,0,0,0,,[girl]\NBut when Mom turns around, surprise!
+Dialogue: 0,0:19:30.71,0:19:31.96,Default,,0,0,0,,It's not her mom at all.
+Dialogue: 0,0:19:32.04,0:19:34.21,Default,,0,0,0,,It's a big pile of boiled eggs!
+Dialogue: 0,0:19:34.29,0:19:35.59,Default,,0,0,0,,And she hates boiled eggs.
+Dialogue: 0,0:19:35.67,0:19:38.13,Default,,0,0,0,,And they all crack,\Nand each one has her face inside.
+Dialogue: 0,0:19:38.21,0:19:40.67,Default,,0,0,0,,And then suddenly...\N[gasps] ...she's an egg.
+Dialogue: 0,0:19:40.76,0:19:41.93,Default,,0,0,0,,Frida?
+Dialogue: 0,0:19:42.01,0:19:43.47,Default,,0,0,0,,[laughing]
+Dialogue: 0,0:19:43.55,0:19:47.18,Default,,0,0,0,,So then, I made his arms\Nturn into a pair of snakes,
+Dialogue: 0,0:19:47.26,0:19:50.35,Default,,0,0,0,,and he was trying to run away\Nfrom himself all night.
+Dialogue: 0,0:19:50.43,0:19:51.94,Default,,0,0,0,,[all laughing]
+Dialogue: 0,0:19:52.02,0:19:56.57,Default,,0,0,0,,Until, that is,\NI turned his legs into snakes as well!
+Dialogue: 0,0:19:56.65,0:19:58.69,Default,,0,0,0,,[cackling]
+Dialogue: 0,0:20:02.82,0:20:04.82,Default,,0,0,0,,[coughing]
+Dialogue: 0,0:20:07.95,0:20:09.62,Default,,0,0,0,,I can't believe this.
+Dialogue: 0,0:20:12.75,0:20:14.83,Default,,0,0,0,,I knew there was something about Kelly.
+Dialogue: 0,0:20:14.92,0:20:16.13,Default,,0,0,0,,She's a marra!
+Dialogue: 0,0:20:16.21,0:20:17.67,Default,,0,0,0,,This isn't what Frida's like.
+Dialogue: 0,0:20:18.17,0:20:21.09,Default,,0,0,0,,They must have done something to her.\NWe've got to save her.
+Dialogue: 0,0:20:21.17,0:20:23.59,Default,,0,0,0,,She doesn't look like\Nshe needs saving to me.
+Dialogue: 0,0:20:25.26,0:20:26.09,Default,,0,0,0,,David?
+Dialogue: 0,0:20:27.39,0:20:28.60,Default,,0,0,0,,David!
+Dialogue: 0,0:20:28.68,0:20:29.93,Default,,0,0,0,,[girl 2] All right, all right.
+Dialogue: 0,0:20:30.47,0:20:31.85,Default,,0,0,0,,Listen to this, ladies.
+Dialogue: 0,0:20:31.93,0:20:33.77,Default,,0,0,0,,I was nightmaring this girl last night.
+Dialogue: 0,0:20:33.85,0:20:36.90,Default,,0,0,0,,I started out with a basic turn-around,\Nyou know, a lost kind of deal.
+Dialogue: 0,0:20:36.98,0:20:40.98,Default,,0,0,0,,So she doesn't know where she is,\Nand then I freeze her to the spot.
+Dialogue: 0,0:20:41.57,0:20:42.53,Default,,0,0,0,,I'm done!
+Dialogue: 0,0:20:42.61,0:20:45.78,Default,,0,0,0,,Why would you be friends with them?\NDoesn't she remember?
+Dialogue: 0,0:20:45.86,0:20:47.49,Default,,0,0,0,,[leaves rustling]
+Dialogue: 0,0:20:47.57,0:20:50.20,Default,,0,0,0,,Oh, no. I left our flipping flashlight.
+Dialogue: 0,0:20:50.29,0:20:52.20,Default,,0,0,0,,[leaves rustling]
+Dialogue: 0,0:20:52.29,0:20:53.12,Default,,0,0,0,,[David gasps]
+Dialogue: 0,0:20:53.21,0:20:54.37,Default,,0,0,0,,Hilda?
+Dialogue: 0,0:20:54.46,0:20:56.08,Default,,0,0,0,,[David] The... The...
+Dialogue: 0,0:20:56.17,0:20:57.83,Default,,0,0,0,,The Black Hound!
+Dialogue: 0,0:20:57.92,0:21:00.17,Default,,0,0,0,,[whimpering, panting]
+Dialogue: 0,0:21:01.00,0:21:02.05,Default,,0,0,0,,[groans]
+Dialogue: 0,0:21:02.13,0:21:03.42,Default,,0,0,0,,[panting]
+Dialogue: 0,0:21:04.26,0:21:05.93,Default,,0,0,0,,[screaming]
+Dialogue: 0,0:21:06.51,0:21:07.39,Default,,0,0,0,,David!
+Dialogue: 0,0:21:12.02,0:21:14.39,Default,,0,0,0,,I should have known\Nyou guys would turn up.
+Dialogue: 0,0:21:14.48,0:21:17.69,Default,,0,0,0,,David! Hilda! What are you doing here?
+Dialogue: 0,0:21:17.77,0:21:20.27,Default,,0,0,0,,[panting] The Black Hound, it's coming!
+Dialogue: 0,0:21:20.36,0:21:23.03,Default,,0,0,0,,We've got to run.\NIt was right behind me. It's...
+Dialogue: 0,0:21:26.07,0:21:26.91,Default,,0,0,0,,[croaks]
+Dialogue: 0,0:21:29.45,0:21:31.91,Default,,0,0,0,,Oh, boy, do I have some stories\Nto tell about this kid.
+Dialogue: 0,0:21:31.99,0:21:33.91,Default,,0,0,0,,[laughing]
+Dialogue: 0,0:21:34.00,0:21:36.04,Default,,0,0,0,,He's the easiest scare I ever had.
+Dialogue: 0,0:21:36.12,0:21:37.87,Default,,0,0,0,,Back off! I don't know what's going on,
+Dialogue: 0,0:21:37.96,0:21:40.42,Default,,0,0,0,,but we're taking our friend\Nand getting out of here.
+Dialogue: 0,0:21:40.50,0:21:41.50,Default,,0,0,0,,Come on, Frida.
+Dialogue: 0,0:21:48.51,0:21:51.85,Default,,0,0,0,,[Kelly] Why don't you back off?\NFrida's hanging out with us right now.
+Dialogue: 0,0:21:51.93,0:21:54.47,Default,,0,0,0,,And you know what? She's having fun.
+Dialogue: 0,0:21:54.56,0:21:58.23,Default,,0,0,0,,In fact, at this rate, she might make\Na pretty good marra one day.
+Dialogue: 0,0:21:58.31,0:22:00.52,Default,,0,0,0,,Frida, I don't get it.
+Dialogue: 0,0:22:00.61,0:22:03.65,Default,,0,0,0,,I understand if you don't want\Nto hang out with me anymore,
+Dialogue: 0,0:22:03.73,0:22:05.90,Default,,0,0,0,,but why would you hang out with them?
+Dialogue: 0,0:22:05.99,0:22:07.45,Default,,0,0,0,,You're my best friend.
+Dialogue: 0,0:22:07.95,0:22:10.91,Default,,0,0,0,,You always looked out for me\Nwhen I was scared.
+Dialogue: 0,0:22:11.70,0:22:16.87,Default,,0,0,0,,But I'm not scared now,\Nespecially not scared of you!
+Dialogue: 0,0:22:17.79,0:22:18.62,Default,,0,0,0,,[growls]
+Dialogue: 0,0:22:18.71,0:22:24.05,Default,,0,0,0,,What's scary about a sad bunch of creeps\Nwith nothing better to do
+Dialogue: 0,0:22:24.13,0:22:29.84,Default,,0,0,0,,than sit around being nasty\Nabout people behind their back?
+Dialogue: 0,0:22:29.93,0:22:31.76,Default,,0,0,0,,[creature growling]
+Dialogue: 0,0:22:34.60,0:22:36.60,Default,,0,0,0,,[growling]
+Dialogue: 0,0:22:38.27,0:22:39.39,Default,,0,0,0,,Uh-oh.
+Dialogue: 0,0:22:39.90,0:22:41.27,Default,,0,0,0,,[beast roars]
+Dialogue: 0,0:22:42.02,0:22:43.90,Default,,0,0,0,,[theme music playing]
