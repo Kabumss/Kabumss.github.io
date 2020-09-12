@@ -1,0 +1,446 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GlitchTechsS01E07
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:18.93,0:00:19.81,Default,,0,0,0,,[engine roaring]
+Dialogue: 0,0:00:21.39,0:00:23.31,Default,,0,0,0,,[automated voice] Glitch signatures\Ndetected.
+Dialogue: 0,0:00:23.39,0:00:24.77,Default,,0,0,0,,Whoa, check it out, you guys.
+Dialogue: 0,0:00:24.85,0:00:27.48,Default,,0,0,0,,We got a whole bunch of glitch signatures\Nover on Stanz Avenue!
+Dialogue: 0,0:00:27.56,0:00:31.03,Default,,0,0,0,,Ooh, what's it look like, cap?\NZombie hoard? Orc army? The flood?
+Dialogue: 0,0:00:31.11,0:00:32.61,Default,,0,0,0,,Actually, they're--
+Dialogue: 0,0:00:32.69,0:00:35.07,Default,,0,0,0,,-[screams]\N-[tires screech]
+Dialogue: 0,0:00:35.16,0:00:36.24,Default,,0,0,0,,Oh, no.
+Dialogue: 0,0:00:37.32,0:00:38.49,Default,,0,0,0,,Them.
+Dialogue: 0,0:00:38.58,0:00:39.41,Default,,0,0,0,,[all meowing]
+Dialogue: 0,0:00:41.62,0:00:45.71,Default,,0,0,0,,I want to take them home and\Ncuddle-crush them until their eyes burst.
+Dialogue: 0,0:00:45.79,0:00:49.34,Default,,0,0,0,,They're from Itty Bitty Kitty Collector,\Nmy favorite kitty collection game!
+Dialogue: 0,0:00:49.42,0:00:52.09,Default,,0,0,0,,My number two being\NLitter Glitter Kittysitter, obvi.
+Dialogue: 0,0:00:52.17,0:00:54.05,Default,,0,0,0,,-[giggles]\N-Of course you love those games.
+Dialogue: 0,0:00:54.13,0:00:57.55,Default,,0,0,0,,Just like this patrol,\Nthey're a complete waste of time.
+Dialogue: 0,0:00:57.64,0:01:01.47,Default,,0,0,0,,Wait! Do you see a tan kitty\Nwith a pat of butter on its head?
+Dialogue: 0,0:01:01.56,0:01:02.60,Default,,0,0,0,,[Miko] Let's see.
+Dialogue: 0,0:01:02.68,0:01:05.89,Default,,0,0,0,,Sushi, Fez, Whip Cream Dollop,\NPaper Crown...
+Dialogue: 0,0:01:05.98,0:01:09.40,Default,,0,0,0,,There's one rare kitty named\NPancake who's worth a ton of XP.
+Dialogue: 0,0:01:10.27,0:01:11.57,Default,,0,0,0,,Pancake McGuffin?
+Dialogue: 0,0:01:11.65,0:01:14.32,Default,,0,0,0,,[chuckles] Please, that cat\Nis an urban legend.
+Dialogue: 0,0:01:14.40,0:01:18.03,Default,,0,0,0,,I tried using every squeak toy in the game\Nand never once got her to show up.
+Dialogue: 0,0:01:18.11,0:01:20.49,Default,,0,0,0,,I thought you hated this game.
+Dialogue: 0,0:01:20.58,0:01:21.87,Default,,0,0,0,,It was free to play.
+Dialogue: 0,0:01:21.95,0:01:23.12,Default,,0,0,0,,At first.
+Dialogue: 0,0:01:24.25,0:01:25.79,Default,,0,0,0,,[Five] They're getting away. Split up!
+Dialogue: 0,0:01:27.46,0:01:28.29,Default,,0,0,0,,[meowing]
+Dialogue: 0,0:01:34.63,0:01:35.47,Default,,0,0,0,,[meowing]
+Dialogue: 0,0:01:37.97,0:01:39.80,Default,,0,0,0,,Smile for the gauntlet, purr-box!
+Dialogue: 0,0:01:40.85,0:01:42.64,Default,,0,0,0,,Glitch contained.
+Dialogue: 0,0:01:42.72,0:01:44.43,Default,,0,0,0,,Looks like we're\Non the edge of town, guys.
+Dialogue: 0,0:01:44.52,0:01:47.64,Default,,0,0,0,,What if these glitches\Ncross the border into Dabney?
+Dialogue: 0,0:01:47.73,0:01:50.73,Default,,0,0,0,,[Mitch] Then they become a problem for the\NDabney Glitch Techs.
+Dialogue: 0,0:01:51.31,0:01:52.94,Default,,0,0,0,,Wouldn't we just work with them?
+Dialogue: 0,0:01:53.02,0:01:55.78,Default,,0,0,0,,[Mitch on radio] Phil's rules on this\Nare clear, newbie.
+Dialogue: 0,0:01:55.86,0:01:59.99,Default,,0,0,0,,We are not to poach glitches\Nfrom across town lines.
+Dialogue: 0,0:02:00.70,0:02:02.08,Default,,0,0,0,,[sighs] Okay.
+Dialogue: 0,0:02:03.87,0:02:04.87,Default,,0,0,0,,Huh?
+Dialogue: 0,0:02:05.54,0:02:06.41,Default,,0,0,0,,[meows]
+Dialogue: 0,0:02:06.50,0:02:10.21,Default,,0,0,0,,Pancake! The legend is real!
+Dialogue: 0,0:02:11.21,0:02:12.46,Default,,0,0,0,,Gotcha! [grunts]
+Dialogue: 0,0:02:14.25,0:02:16.92,Default,,0,0,0,,Come on, where'd you go, Pancake?
+Dialogue: 0,0:02:18.34,0:02:19.34,Default,,0,0,0,,[meows]
+Dialogue: 0,0:02:19.97,0:02:23.01,Default,,0,0,0,,No, no, no. Not that way, kitty.
+Dialogue: 0,0:02:23.10,0:02:24.56,Default,,0,0,0,,You don't wanna go to Dabney.
+Dialogue: 0,0:02:26.06,0:02:27.98,Default,,0,0,0,,You wanna come with me to Bailley.
+Dialogue: 0,0:02:30.31,0:02:32.36,Default,,0,0,0,,[speaking Spanish]
+Dialogue: 0,0:02:32.44,0:02:34.32,Default,,0,0,0,,-[meowing]\N-[Five] Oh, nerds.
+Dialogue: 0,0:02:45.74,0:02:47.70,Default,,0,0,0,,Nerds, another tech van.
+Dialogue: 0,0:02:51.00,0:02:53.71,Default,,0,0,0,,[automated voice] Now entering\NDabney city limits.
+Dialogue: 0,0:02:53.79,0:02:54.67,Default,,0,0,0,,[meows]
+Dialogue: 0,0:02:58.42,0:03:00.43,Default,,0,0,0,,[Miko on radio] Five?\NFive, did we lose you?
+Dialogue: 0,0:03:00.51,0:03:03.43,Default,,0,0,0,,Just a sec. I'm, uh... just finishing up.\N[giggles nervously]
+Dialogue: 0,0:03:11.31,0:03:13.02,Default,,0,0,0,,You're mine, kitty!
+Dialogue: 0,0:03:16.02,0:03:17.48,Default,,0,0,0,,-Yeah! Oh...\N-[automated voice] Glitch contained.
+Dialogue: 0,0:03:18.61,0:03:20.15,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:03:20.24,0:03:21.07,Default,,0,0,0,,[panting]
+Dialogue: 0,0:03:30.46,0:03:31.29,Default,,0,0,0,,Yes!
+Dialogue: 0,0:03:31.79,0:03:33.00,Default,,0,0,0,,[softly] I mean... yes.
+Dialogue: 0,0:03:33.08,0:03:35.84,Default,,0,0,0,,I did it, I did it, I did it... Oh!
+Dialogue: 0,0:03:35.92,0:03:38.00,Default,,0,0,0,,Did what, exactly?
+Dialogue: 0,0:03:38.59,0:03:40.13,Default,,0,0,0,,Read it and weep, Williams.
+Dialogue: 0,0:03:40.22,0:03:43.51,Default,,0,0,0,,I just bagged Pancake McGuffin! Ding!
+Dialogue: 0,0:03:43.59,0:03:47.01,Default,,0,0,0,,After what I told you about not\Npoaching from the Dabney techs?
+Dialogue: 0,0:03:47.10,0:03:48.10,Default,,0,0,0,,I didn't poach.
+Dialogue: 0,0:03:48.18,0:03:51.06,Default,,0,0,0,,You ignored my warning and decided\Nto ninja a rare glitch
+Dialogue: 0,0:03:51.14,0:03:54.02,Default,,0,0,0,,from out under another tech team's patrol.
+Dialogue: 0,0:03:54.10,0:03:56.52,Default,,0,0,0,,Hey, it started on our turf.
+Dialogue: 0,0:03:56.61,0:04:00.99,Default,,0,0,0,,Hmm, well, maybe you aren't the hopeless\Ngoody-two-shoes I always thought you were.
+Dialogue: 0,0:04:01.53,0:04:02.45,Default,,0,0,0,,There you are!
+Dialogue: 0,0:04:02.53,0:04:06.82,Default,,0,0,0,,Okay, I bagged three Missus Mittens,\Ntwo Buckaroo Catseyes and a Doctor Mew.
+Dialogue: 0,0:04:06.91,0:04:08.20,Default,,0,0,0,,What are we talking about?
+Dialogue: 0,0:04:08.28,0:04:10.66,Default,,0,0,0,,Nothing. Let's just go.
+Dialogue: 0,0:04:11.54,0:04:12.62,Default,,0,0,0,,[Miko] Five, wait up!
+Dialogue: 0,0:04:20.88,0:04:25.09,Default,,0,0,0,,[man] Who knows what really happens\Nwhen a video game starts to glitch?
+Dialogue: 0,0:04:25.18,0:04:27.26,Default,,0,0,0,,♪ Here come the Glitch Techs\NThey know what to do ♪
+Dialogue: 0,0:04:27.35,0:04:29.31,Default,,0,0,0,,♪ They got the tech\NThey got the moves ♪
+Dialogue: 0,0:04:29.39,0:04:30.97,Default,,0,0,0,,♪ Glitch Techs\NThey're the wrecking crew ♪
+Dialogue: 0,0:04:31.06,0:04:32.85,Default,,0,0,0,,♪ They'll solve the problem ♪
+Dialogue: 0,0:04:32.93,0:04:34.60,Default,,0,0,0,,♪ Glitch Techs\NWhen a glitch is loose ♪
+Dialogue: 0,0:04:34.69,0:04:36.52,Default,,0,0,0,,♪ They'll wipe them out\NOld school or new ♪
+Dialogue: 0,0:04:36.60,0:04:38.40,Default,,0,0,0,,♪ Glitch Techs\NAlways coming through ♪
+Dialogue: 0,0:04:38.48,0:04:39.90,Default,,0,0,0,,♪ To solve the problem ♪
+Dialogue: 0,0:04:39.98,0:04:45.32,Default,,0,0,0,,♪ Glitch Techs\NWhoa-oh! ♪
+Dialogue: 0,0:04:45.41,0:04:47.28,Default,,0,0,0,,♪ Glitch Techs! ♪
+Dialogue: 0,0:04:47.37,0:04:48.20,Default,,0,0,0,,♪ Yeah! ♪
+Dialogue: 0,0:04:49.66,0:04:52.54,Default,,0,0,0,,[Phil] I can't afford to lose this battle.
+Dialogue: 0,0:04:52.62,0:04:56.00,Default,,0,0,0,,I'm gonna need you to give me 100%.
+Dialogue: 0,0:04:56.08,0:04:57.50,Default,,0,0,0,,Can you deliver?
+Dialogue: 0,0:04:57.58,0:05:00.25,Default,,0,0,0,,Yes, we deliver.
+Dialogue: 0,0:05:00.96,0:05:02.55,Default,,0,0,0,,-I want a number five!\N-Extra cheese, please.
+Dialogue: 0,0:05:02.63,0:05:04.34,Default,,0,0,0,,Do they make protein-style pasta?
+Dialogue: 0,0:05:04.42,0:05:06.63,Default,,0,0,0,,Uh, this is not a communal order.
+Dialogue: 0,0:05:06.72,0:05:08.22,Default,,0,0,0,,Extra secret sauce on mine.
+Dialogue: 0,0:05:08.30,0:05:10.01,Default,,0,0,0,,Hold on, hold on.\NThere's a secret sauce?
+Dialogue: 0,0:05:10.10,0:05:12.60,Default,,0,0,0,,Hey! No one told me about a secret sauce.
+Dialogue: 0,0:05:12.68,0:05:16.14,Default,,0,0,0,,Sir, you are receiving\Nan incoming call from...
+Dialogue: 0,0:05:16.23,0:05:17.69,Default,,0,0,0,,Joan Fishback.
+Dialogue: 0,0:05:17.77,0:05:20.61,Default,,0,0,0,,[groans] From the Dabney branch?
+Dialogue: 0,0:05:20.69,0:05:21.98,Default,,0,0,0,,Tell her I'm not here, BITT.
+Dialogue: 0,0:05:22.07,0:05:25.28,Default,,0,0,0,,Don't try hiding behind your techbot,\Ngarbage head.
+Dialogue: 0,0:05:25.36,0:05:27.99,Default,,0,0,0,,[chuckles nervously] Joan.\NLong time no talk.
+Dialogue: 0,0:05:28.49,0:05:29.57,Default,,0,0,0,,Just the way I like it.
+Dialogue: 0,0:05:29.66,0:05:31.20,Default,,0,0,0,,Let me cut to the chase, Philbert.
+Dialogue: 0,0:05:31.28,0:05:34.29,Default,,0,0,0,,My team picked up\Nan ultra-rare glitch signature
+Dialogue: 0,0:05:34.37,0:05:35.87,Default,,0,0,0,,at the town border this morning...
+Dialogue: 0,0:05:35.96,0:05:37.29,Default,,0,0,0,,-[Five whimpers]\N-That's great.
+Dialogue: 0,0:05:37.37,0:05:38.88,Default,,0,0,0,,I deeply care about--
+Dialogue: 0,0:05:38.96,0:05:43.46,Default,,0,0,0,,...but it was sniped out from underneath\Nthem by one of your misfit crew.
+Dialogue: 0,0:05:43.55,0:05:46.55,Default,,0,0,0,,Joansy, let's not start this again.
+Dialogue: 0,0:05:46.63,0:05:50.97,Default,,0,0,0,,Unlike your bag of Dabney hooligans,\Nmy techs follow the rules.
+Dialogue: 0,0:05:51.05,0:05:53.68,Default,,0,0,0,,-[Five whimpers]\N-My techs respect our town borders.
+Dialogue: 0,0:05:54.27,0:05:58.02,Default,,0,0,0,,And my techs don't need\Nyour second-hand glitches.
+Dialogue: 0,0:05:58.10,0:06:03.36,Default,,0,0,0,,[clerk] Uh, do you wanna add an extra carb\Nor starch for another 59 cents?
+Dialogue: 0,0:06:05.74,0:06:07.82,Default,,0,0,0,,Oh, great, now I have to re-order.
+Dialogue: 0,0:06:07.90,0:06:10.07,Default,,0,0,0,,Your team really glitched up\Non this one, Phil.
+Dialogue: 0,0:06:10.16,0:06:12.83,Default,,0,0,0,,Have you even asked\Nthe little angels about it?
+Dialogue: 0,0:06:12.91,0:06:17.75,Default,,0,0,0,,I don't have to ask.\NI'm aware of everything my techs do.
+Dialogue: 0,0:06:18.54,0:06:21.46,Default,,0,0,0,,What have you guys been doing?\NAnyone bag a glitch outside town?
+Dialogue: 0,0:06:21.54,0:06:22.96,Default,,0,0,0,,-Nopes!\N-Negativo.
+Dialogue: 0,0:06:23.04,0:06:24.13,Default,,0,0,0,,Certainly not.
+Dialogue: 0,0:06:24.21,0:06:27.55,Default,,0,0,0,,Um, I can't actually find a rule\Nin the tech handbook that says--
+Dialogue: 0,0:06:27.63,0:06:30.97,Default,,0,0,0,,Good, the last thing I need\Nis a turf war on my hands.
+Dialogue: 0,0:06:31.64,0:06:35.43,Default,,0,0,0,,So as I was saying, without interruption,\Nmy kids are innocent.
+Dialogue: 0,0:06:35.52,0:06:37.02,Default,,0,0,0,,Oh, glitch poop.
+Dialogue: 0,0:06:37.10,0:06:40.69,Default,,0,0,0,,Someone's jaw is clenched\Nand I want it pried open.
+Dialogue: 0,0:06:40.77,0:06:43.44,Default,,0,0,0,,-Uh...\N-Good catching up with you, J-Bird.
+Dialogue: 0,0:06:43.52,0:06:47.65,Default,,0,0,0,,This is not over, Phil.\NMy techs will have justice!
+Dialogue: 0,0:06:47.74,0:06:51.28,Default,,0,0,0,,We will savor its flavor\Nlike secret sauce!
+Dialogue: 0,0:06:51.36,0:06:56.54,Default,,0,0,0,,Even Joan knows about the secret sauce?\NI should have brown-bagged it today.
+Dialogue: 0,0:06:56.62,0:06:59.79,Default,,0,0,0,,Looks like you got away with the\Nperfect crime, newbie.
+Dialogue: 0,0:06:59.87,0:07:05.34,Default,,0,0,0,,-Why didn't you say anything?\N-[chuckles] What fun would that be?
+Dialogue: 0,0:07:07.46,0:07:08.46,Default,,0,0,0,,Okay, techs.
+Dialogue: 0,0:07:08.55,0:07:13.05,Default,,0,0,0,,Satellite's trackin' three class-five\Nsludges from the game Smooze Brothers
+Dialogue: 0,0:07:13.14,0:07:15.51,Default,,0,0,0,,at various hotspots in town.
+Dialogue: 0,0:07:15.60,0:07:18.35,Default,,0,0,0,,Slow-moving signatures,\Nmultiple weak points.
+Dialogue: 0,0:07:18.43,0:07:19.98,Default,,0,0,0,,Easy-peasy-slimy-sleazy.
+Dialogue: 0,0:07:20.06,0:07:23.10,Default,,0,0,0,,To quote my grandpa,\Nit moves slower than molasses.
+Dialogue: 0,0:07:23.19,0:07:27.02,Default,,0,0,0,,[Phil] Just like in their game,\Nthe sludges are drawn toward one another.
+Dialogue: 0,0:07:27.11,0:07:30.78,Default,,0,0,0,,Take 'em down before\Nthey can merge together and level up.
+Dialogue: 0,0:07:32.74,0:07:34.03,Default,,0,0,0,,[kids laughing]
+Dialogue: 0,0:07:36.95,0:07:38.87,Default,,0,0,0,,-[beeping]\N-[exploding]
+Dialogue: 0,0:07:43.04,0:07:47.84,Default,,0,0,0,,Hey! Recess is over.\NGrab a buddy and get thee to a carpool.
+Dialogue: 0,0:07:47.92,0:07:50.76,Default,,0,0,0,,Ugh, so much goo. So little time.
+Dialogue: 0,0:07:50.84,0:07:54.80,Default,,0,0,0,,On the front lines, blueberries.\NI don't want that stuff in my hair.
+Dialogue: 0,0:07:54.89,0:07:56.89,Default,,0,0,0,,[Five] Let's earn our XP, guys!
+Dialogue: 0,0:07:57.76,0:07:59.27,Default,,0,0,0,,[indistinct roaring]
+Dialogue: 0,0:08:01.89,0:08:03.60,Default,,0,0,0,,[growls]
+Dialogue: 0,0:08:03.69,0:08:06.27,Default,,0,0,0,,-Zahra, crowd control!\N-Yep, yep!
+Dialogue: 0,0:08:11.15,0:08:12.07,Default,,0,0,0,,[Zahra] Five seconds!
+Dialogue: 0,0:08:12.15,0:08:14.66,Default,,0,0,0,,-Miko, melee strike!\N-On it.
+Dialogue: 0,0:08:20.79,0:08:23.54,Default,,0,0,0,,[chuckles] Tank you very much!
+Dialogue: 0,0:08:23.62,0:08:25.17,Default,,0,0,0,,No puns, ugh.
+Dialogue: 0,0:08:25.25,0:08:26.71,Default,,0,0,0,,Five, ranged strike.
+Dialogue: 0,0:08:26.79,0:08:29.42,Default,,0,0,0,,I think that can be a-ranged... sorry.
+Dialogue: 0,0:08:36.05,0:08:37.60,Default,,0,0,0,,This thing has shields?
+Dialogue: 0,0:08:37.68,0:08:39.06,Default,,0,0,0,,That wasn't the glitch.
+Dialogue: 0,0:08:39.14,0:08:41.77,Default,,0,0,0,,We've got adds! Ready, aim...
+Dialogue: 0,0:08:43.06,0:08:44.31,Default,,0,0,0,,Hold!
+Dialogue: 0,0:08:46.44,0:08:48.98,Default,,0,0,0,,[wicked heavy metal playing]
+Dialogue: 0,0:08:51.86,0:08:53.28,Default,,0,0,0,,[exclaiming]
+Dialogue: 0,0:08:53.95,0:08:55.40,Default,,0,0,0,,[Five] They're Glitch Techs?
+Dialogue: 0,0:08:55.49,0:08:57.20,Default,,0,0,0,,[Nameless] Take it out.
+Dialogue: 0,0:08:59.58,0:09:02.58,Default,,0,0,0,,[growling]
+Dialogue: 0,0:09:04.96,0:09:07.17,Default,,0,0,0,,-[Five gasps]\N-Incoming!
+Dialogue: 0,0:09:07.25,0:09:08.08,Default,,0,0,0,,[all yelp]
+Dialogue: 0,0:09:08.17,0:09:09.79,Default,,0,0,0,,No!
+Dialogue: 0,0:09:13.05,0:09:14.84,Default,,0,0,0,,[glitch screeching]
+Dialogue: 0,0:09:15.63,0:09:17.13,Default,,0,0,0,,[automated voice] Glitch contained.
+Dialogue: 0,0:09:17.22,0:09:19.39,Default,,0,0,0,,Hey! That was our glitch!
+Dialogue: 0,0:09:19.47,0:09:20.76,Default,,0,0,0,,Who do you clowns think you are?
+Dialogue: 0,0:09:20.85,0:09:23.02,Default,,0,0,0,,We're the real Glitch Techs.
+Dialogue: 0,0:09:25.27,0:09:27.02,Default,,0,0,0,,[man exclaiming in Japanese]
+Dialogue: 0,0:09:28.44,0:09:32.73,Default,,0,0,0,,[chuckles lightly] I'm sorry, come again?\NYour costumes are blinding me.
+Dialogue: 0,0:09:32.82,0:09:34.24,Default,,0,0,0,,-I'm Wes.\N-Ray.
+Dialogue: 0,0:09:34.32,0:09:35.53,Default,,0,0,0,,'Sup, guys?
+Dialogue: 0,0:09:35.61,0:09:39.45,Default,,0,0,0,,Simi? I thought you transferred\Nover to the Dabney store.
+Dialogue: 0,0:09:39.53,0:09:41.45,Default,,0,0,0,,They're all from the Dabney store.
+Dialogue: 0,0:09:41.53,0:09:45.25,Default,,0,0,0,,[Nameless] So which one of you\Nis the glitch thief, huh? Huh?
+Dialogue: 0,0:09:45.33,0:09:46.37,Default,,0,0,0,,I need an answer.
+Dialogue: 0,0:09:46.46,0:09:47.92,Default,,0,0,0,,Nameless needs an answer.
+Dialogue: 0,0:09:48.00,0:09:48.96,Default,,0,0,0,,[gulps]
+Dialogue: 0,0:09:49.04,0:09:52.34,Default,,0,0,0,,[chuckles] Hang on. "Nameless"? Ha!
+Dialogue: 0,0:09:52.42,0:09:53.63,Default,,0,0,0,,Is that a joke,
+Dialogue: 0,0:09:53.71,0:09:57.76,Default,,0,0,0,,or did you forget to enter one\Nwhen you created that ridiculous avatar?
+Dialogue: 0,0:09:57.84,0:10:00.97,Default,,0,0,0,,It was a rare glitch, you guys.\NWould have been worth a ton of XP.
+Dialogue: 0,0:10:01.05,0:10:05.18,Default,,0,0,0,,Our boss already told your boss.\NNobody took anything from you.
+Dialogue: 0,0:10:05.81,0:10:07.60,Default,,0,0,0,,Heat signatures don't lie.
+Dialogue: 0,0:10:07.69,0:10:10.31,Default,,0,0,0,,I captured this still from my visor.
+Dialogue: 0,0:10:10.40,0:10:14.07,Default,,0,0,0,,[Five] Guys, we're all techs.\NShouldn't we all be on the same team?
+Dialogue: 0,0:10:14.15,0:10:17.86,Default,,0,0,0,,[Nameless] Do I hear guilt or is he always\Nthis much of a goody-two-shoes?
+Dialogue: 0,0:10:17.95,0:10:19.86,Default,,0,0,0,,They don't come much goodier.
+Dialogue: 0,0:10:19.95,0:10:20.87,Default,,0,0,0,,Well, I...
+Dialogue: 0,0:10:20.95,0:10:24.79,Default,,0,0,0,,And Earth to Ray, your blurry,\Nbigfoot evidence is super unacceptable.
+Dialogue: 0,0:10:24.87,0:10:26.75,Default,,0,0,0,,Ugh, so nobody's gonna fess up?
+Dialogue: 0,0:10:27.75,0:10:29.33,Default,,0,0,0,,Looks like there's nothing to fess.
+Dialogue: 0,0:10:30.88,0:10:34.42,Default,,0,0,0,,Fine. Then from now on,\NI guess it's open season on glitches.
+Dialogue: 0,0:10:34.50,0:10:39.30,Default,,0,0,0,,-Techs, assemble and roll out!\N-[voice exclaiming] Yeah!
+Dialogue: 0,0:10:39.38,0:10:40.55,Default,,0,0,0,,[Miko] Is he kidding with that?
+Dialogue: 0,0:10:40.64,0:10:43.18,Default,,0,0,0,,Uh, what does "open season" mean?
+Dialogue: 0,0:10:43.26,0:10:45.93,Default,,0,0,0,,[automated voice] Warning,\NTrojan virus detected.
+Dialogue: 0,0:10:48.73,0:10:49.85,Default,,0,0,0,,[all groan]
+Dialogue: 0,0:10:50.56,0:10:52.44,Default,,0,0,0,,Those punks hacked our gauntlets!
+Dialogue: 0,0:10:52.52,0:10:55.32,Default,,0,0,0,,It means those techs\Naren't leaving town anytime soon.
+Dialogue: 0,0:10:55.40,0:10:56.86,Default,,0,0,0,,[grunting]
+Dialogue: 0,0:11:00.49,0:11:03.20,Default,,0,0,0,,[Miko] Ugh! Should we call Philbert\Nand tell him what those creeps did?
+Dialogue: 0,0:11:03.28,0:11:05.28,Default,,0,0,0,,I'm sure we don't need to bother Phil.
+Dialogue: 0,0:11:05.37,0:11:09.21,Default,,0,0,0,,We took a glitch from Dabney and they took\Na glitch from us. We're even now, right?
+Dialogue: 0,0:11:09.29,0:11:10.62,Default,,0,0,0,,Only we didn't take a glitch.
+Dialogue: 0,0:11:10.71,0:11:12.67,Default,,0,0,0,,Right, uh, I just meant--
+Dialogue: 0,0:11:12.75,0:11:15.17,Default,,0,0,0,,Which makes them the real glitch thieves!
+Dialogue: 0,0:11:15.25,0:11:18.13,Default,,0,0,0,,If anyone should be declaring open season,\Nit's us!
+Dialogue: 0,0:11:18.21,0:11:21.26,Default,,0,0,0,,Look sharp, we're coming up on that\Nsecond sludge glitch location.
+Dialogue: 0,0:11:22.01,0:11:23.89,Default,,0,0,0,,[tires screech]
+Dialogue: 0,0:11:23.97,0:11:25.14,Default,,0,0,0,,[horn honks]
+Dialogue: 0,0:11:25.22,0:11:26.85,Default,,0,0,0,,[honking continues]
+Dialogue: 0,0:11:26.93,0:11:30.14,Default,,0,0,0,,[Nameless scoffs]\NSorry, techs, that glitch is ours!
+Dialogue: 0,0:11:32.44,0:11:35.56,Default,,0,0,0,,[all yelping]
+Dialogue: 0,0:11:36.40,0:11:37.98,Default,,0,0,0,,-[Nameless chuckles]\N-[tires screech]
+Dialogue: 0,0:11:38.07,0:11:40.19,Default,,0,0,0,,Mitchell, you know what to do.
+Dialogue: 0,0:11:40.28,0:11:42.15,Default,,0,0,0,,Hold on to your mushrooms.
+Dialogue: 0,0:11:43.95,0:11:46.45,Default,,0,0,0,,[engine revving]
+Dialogue: 0,0:11:47.12,0:11:48.20,Default,,0,0,0,,[Miko screaming]
+Dialogue: 0,0:11:49.45,0:11:51.46,Default,,0,0,0,,[chiptune music playing]
+Dialogue: 0,0:11:53.87,0:11:55.33,Default,,0,0,0,,[horns honking]
+Dialogue: 0,0:11:56.88,0:11:58.05,Default,,0,0,0,,[Miko grunting]
+Dialogue: 0,0:12:05.05,0:12:06.26,Default,,0,0,0,,[tires screeching]
+Dialogue: 0,0:12:12.18,0:12:13.56,Default,,0,0,0,,[growling]
+Dialogue: 0,0:12:17.11,0:12:19.32,Default,,0,0,0,,[tires screeching]
+Dialogue: 0,0:12:23.70,0:12:25.49,Default,,0,0,0,,[growling]
+Dialogue: 0,0:12:26.03,0:12:29.41,Default,,0,0,0,,Wow. That thing sounds like Mitch\Nplaying Karaoke Hero.
+Dialogue: 0,0:12:29.49,0:12:32.37,Default,,0,0,0,,Hey, I unlocked the golden throat\Nachievement in that game.
+Dialogue: 0,0:12:32.46,0:12:35.58,Default,,0,0,0,,You're gonna have a golden everything\Nin a second!
+Dialogue: 0,0:12:35.67,0:12:38.67,Default,,0,0,0,,-Five?\N-It's slime-time, partner!
+Dialogue: 0,0:12:41.76,0:12:44.05,Default,,0,0,0,,-[tires screeching]\N-[Zahra] Didn't we shake that mob?
+Dialogue: 0,0:12:46.59,0:12:48.01,Default,,0,0,0,,Got a signal on them, Wes?
+Dialogue: 0,0:12:49.26,0:12:51.10,Default,,0,0,0,,[chuckles lightly] You know I do.
+Dialogue: 0,0:12:51.18,0:12:53.60,Default,,0,0,0,,Forget them.\NJust lock your emitters on one...
+Dialogue: 0,0:12:53.68,0:12:55.35,Default,,0,0,0,,-...two...\N-...three!
+Dialogue: 0,0:12:57.10,0:12:58.36,Default,,0,0,0,,[growls]
+Dialogue: 0,0:12:59.73,0:13:01.61,Default,,0,0,0,,Oh, come on!
+Dialogue: 0,0:13:01.69,0:13:02.57,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:13:02.65,0:13:06.74,Default,,0,0,0,,[Nameless chuckles] Looks like you techs\Nneed to get your gauntlets serviced!
+Dialogue: 0,0:13:06.82,0:13:09.03,Default,,0,0,0,,-Oh!\N-[all laugh]
+Dialogue: 0,0:13:09.12,0:13:11.16,Default,,0,0,0,,[Simi] Hope you got the extended warranty!
+Dialogue: 0,0:13:11.24,0:13:13.79,Default,,0,0,0,,[chuckles] I am sick of these griefers!
+Dialogue: 0,0:13:13.87,0:13:16.33,Default,,0,0,0,,Yeah, y'all are Class A cheaters!
+Dialogue: 0,0:13:16.42,0:13:19.34,Default,,0,0,0,,You're not allowed to hack another\Ntech's gauntlet! [blows raspberry]
+Dialogue: 0,0:13:19.42,0:13:20.96,Default,,0,0,0,,We would never do that.
+Dialogue: 0,0:13:21.05,0:13:23.55,Default,,0,0,0,,[chuckles lightly] Well, she wouldn't.\NShe never learned how.
+Dialogue: 0,0:13:23.63,0:13:25.22,Default,,0,0,0,,Get over yourself, Wes.
+Dialogue: 0,0:13:25.30,0:13:27.80,Default,,0,0,0,,[Nameless] Ugh, will you two\Njust bag that glitch?
+Dialogue: 0,0:13:33.60,0:13:34.93,Default,,0,0,0,,[automated voice] Glitch contained.
+Dialogue: 0,0:13:35.64,0:13:39.56,Default,,0,0,0,,Hey! You already took a glitch from us!\NWhat more do you trolls want?
+Dialogue: 0,0:13:39.65,0:13:43.32,Default,,0,0,0,,We want the truth. And we're gonna\Nshadow your team until we get it.
+Dialogue: 0,0:13:43.40,0:13:45.07,Default,,0,0,0,,Fine! You really want the truth?
+Dialogue: 0,0:13:45.15,0:13:47.74,Default,,0,0,0,,The truth is you lot can't hack it\Nin Dabney,
+Dialogue: 0,0:13:47.82,0:13:51.74,Default,,0,0,0,,so you're trolling newbies\Ninstead of patrolling your turf!
+Dialogue: 0,0:13:51.83,0:13:53.58,Default,,0,0,0,,Are you insulting us or them?
+Dialogue: 0,0:13:53.66,0:13:55.00,Default,,0,0,0,,If I did it right, both.
+Dialogue: 0,0:13:56.12,0:13:58.46,Default,,0,0,0,,Hey, one last sludge glitch\Non the radar, guys.
+Dialogue: 0,0:13:58.54,0:14:00.00,Default,,0,0,0,,We'll be three for three.
+Dialogue: 0,0:14:00.08,0:14:01.50,Default,,0,0,0,,Not if we get there first!
+Dialogue: 0,0:14:04.00,0:14:05.05,Default,,0,0,0,,You won't.
+Dialogue: 0,0:14:05.13,0:14:08.93,Default,,0,0,0,,[Nameless] Okay, techs,\Nassemble and roll out!
+Dialogue: 0,0:14:09.01,0:14:10.97,Default,,0,0,0,,[tires screeching]
+Dialogue: 0,0:14:11.05,0:14:14.81,Default,,0,0,0,,[Miko] Pick one battlecry\Nto rip off, dude!
+Dialogue: 0,0:14:19.56,0:14:21.44,Default,,0,0,0,,[all grunt]
+Dialogue: 0,0:14:22.52,0:14:25.44,Default,,0,0,0,,This is getting out of hand.\NWe gotta put an end to this feud.
+Dialogue: 0,0:14:25.53,0:14:27.28,Default,,0,0,0,,We will...
+Dialogue: 0,0:14:27.36,0:14:31.49,Default,,0,0,0,,by showing those out-of-towners\Nwho the real Glitch Techs really are!
+Dialogue: 0,0:14:31.57,0:14:32.83,Default,,0,0,0,,Won't that just make it worse?
+Dialogue: 0,0:14:33.83,0:14:35.54,Default,,0,0,0,,I'm Mitch Williams.
+Dialogue: 0,0:14:37.41,0:14:40.92,Default,,0,0,0,,I don't want to agree with Mitch,\Nbut I agree with Mitch.
+Dialogue: 0,0:14:41.00,0:14:42.50,Default,,0,0,0,,Even if he did steal their glitch.
+Dialogue: 0,0:14:44.30,0:14:45.96,Default,,0,0,0,,You think I stole their glitch?
+Dialogue: 0,0:14:46.05,0:14:47.26,Default,,0,0,0,,I wasn't gonna say,
+Dialogue: 0,0:14:47.34,0:14:50.80,Default,,0,0,0,,-but it seems a pretty Mitchy thing to do.\N-[Five whimpers]
+Dialogue: 0,0:14:51.93,0:14:53.60,Default,,0,0,0,,Well, if you say so.
+Dialogue: 0,0:14:53.68,0:14:57.43,Default,,0,0,0,,Now, come on, techs.\NLet's transform and cowabunga.
+Dialogue: 0,0:14:58.39,0:15:01.02,Default,,0,0,0,,Miko, wait up.\NThere's something I have to tell you.
+Dialogue: 0,0:15:01.10,0:15:03.94,Default,,0,0,0,,Can it wait? We gotta beat those guys\Nto the next glitch.
+Dialogue: 0,0:15:04.02,0:15:05.11,Default,,0,0,0,,I know, but...
+Dialogue: 0,0:15:06.32,0:15:08.94,Default,,0,0,0,,what if those guys\Ndidn't actually start this?
+Dialogue: 0,0:15:09.03,0:15:11.61,Default,,0,0,0,,Dude, who cares?\NThey hacked our gauntlets.
+Dialogue: 0,0:15:11.70,0:15:14.16,Default,,0,0,0,,They accused you of stealing that glitch.
+Dialogue: 0,0:15:14.24,0:15:16.79,Default,,0,0,0,,-I know, but--\N-You of all people.
+Dialogue: 0,0:15:16.87,0:15:19.66,Default,,0,0,0,,I mean, if you took something\Nyou would have at least told me.
+Dialogue: 0,0:15:19.75,0:15:20.79,Default,,0,0,0,,I'm your partner.
+Dialogue: 0,0:15:20.87,0:15:23.04,Default,,0,0,0,,Besides, if those guys\Nmess with one of us,
+Dialogue: 0,0:15:23.13,0:15:25.46,Default,,0,0,0,,they mess with all of us. Am I right?
+Dialogue: 0,0:15:26.34,0:15:27.42,Default,,0,0,0,,[Mitch] Hey!
+Dialogue: 0,0:15:27.50,0:15:29.67,Default,,0,0,0,,Close that chat window\Nand get in, you two.
+Dialogue: 0,0:15:29.76,0:15:31.97,Default,,0,0,0,,Zahra has a plan to get our glitches back.
+Dialogue: 0,0:15:32.05,0:15:33.76,Default,,0,0,0,,And it's epic.
+Dialogue: 0,0:15:35.01,0:15:37.47,Default,,0,0,0,,[epic chiptune metal music playing]
+Dialogue: 0,0:15:37.56,0:15:39.27,Default,,0,0,0,,[growls]
+Dialogue: 0,0:15:39.35,0:15:40.85,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:15:42.85,0:15:44.73,Default,,0,0,0,,[Nameless yells and grunts]
+Dialogue: 0,0:15:46.23,0:15:47.48,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:15:49.65,0:15:51.74,Default,,0,0,0,,[yells and grunts]
+Dialogue: 0,0:15:55.45,0:15:57.70,Default,,0,0,0,,-[automated voice] Glitch contained.\N-[horn honks]
+Dialogue: 0,0:15:57.79,0:15:59.08,Default,,0,0,0,,[tires screech]
+Dialogue: 0,0:15:59.16,0:16:00.87,Default,,0,0,0,,[Nameless] Aww, too late.
+Dialogue: 0,0:16:00.96,0:16:04.50,Default,,0,0,0,,Looks like we already bagged\Nthe last glitch on your grocery list.
+Dialogue: 0,0:16:04.58,0:16:05.50,Default,,0,0,0,,[laughs]
+Dialogue: 0,0:16:05.58,0:16:08.92,Default,,0,0,0,,I think you have something\Nthat belongs to us.
+Dialogue: 0,0:16:10.63,0:16:12.80,Default,,0,0,0,,[Nameless] Wesley, what's happening?
+Dialogue: 0,0:16:12.88,0:16:15.55,Default,,0,0,0,,[automated voice]\NWarning, wireless hack initiated.
+Dialogue: 0,0:16:15.64,0:16:17.55,Default,,0,0,0,,One of them must be a tech rogue, too.
+Dialogue: 0,0:16:17.64,0:16:21.93,Default,,0,0,0,,Oh, yeah, not the only one who maxed out\Ntheir tech hacking skills, son!
+Dialogue: 0,0:16:22.02,0:16:24.35,Default,,0,0,0,,[automated voice]\NNow reconstituting glitch data.
+Dialogue: 0,0:16:28.44,0:16:31.90,Default,,0,0,0,,You were supposed to download\Ntheir glitches straight to our gauntlets.
+Dialogue: 0,0:16:31.99,0:16:34.24,Default,,0,0,0,,I'd like to see how accurate you are\Nat hacking a tech gauntlet
+Dialogue: 0,0:16:34.32,0:16:35.82,Default,,0,0,0,,from the back of a moving van!
+Dialogue: 0,0:16:35.91,0:16:39.83,Default,,0,0,0,,Now it's open season, glitches!\N[screeching]
+Dialogue: 0,0:16:42.00,0:16:44.83,Default,,0,0,0,,[Phil on recording] The sludges are\Ndrawn toward one another.
+Dialogue: 0,0:16:44.92,0:16:48.42,Default,,0,0,0,,Take 'em down before they can\Nmerge together and level up.
+Dialogue: 0,0:16:48.50,0:16:50.00,Default,,0,0,0,,[echoing] Level up, level up...
+Dialogue: 0,0:16:50.09,0:16:51.34,Default,,0,0,0,,Secret sauce.
+Dialogue: 0,0:16:51.42,0:16:52.63,Default,,0,0,0,,[echoing] Secret sauce, secret sauce...
+Dialogue: 0,0:16:52.72,0:16:54.51,Default,,0,0,0,,Do not let them touch each other!
+Dialogue: 0,0:16:54.59,0:16:56.76,Default,,0,0,0,,[Nameless] Back off! This one's ours!
+Dialogue: 0,0:16:56.84,0:16:57.80,Default,,0,0,0,,[Mitch screams]
+Dialogue: 0,0:16:57.89,0:16:59.68,Default,,0,0,0,,You really need to chill-- [grunts]
+Dialogue: 0,0:16:59.76,0:17:00.68,Default,,0,0,0,,[glitch growls]
+Dialogue: 0,0:17:00.76,0:17:03.43,Default,,0,0,0,,-[scoffs] Chill out?\N-[Zahra screams]
+Dialogue: 0,0:17:03.52,0:17:04.44,Default,,0,0,0,,[Zahra and Wes grunt]
+Dialogue: 0,0:17:05.06,0:17:05.89,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:17:08.90,0:17:10.65,Default,,0,0,0,,-[all grunting]\N-[Five] Guys?
+Dialogue: 0,0:17:10.73,0:17:13.11,Default,,0,0,0,,Come on, focus on the glitch!
+Dialogue: 0,0:17:13.19,0:17:14.15,Default,,0,0,0,,[Mitch grunts]
+Dialogue: 0,0:17:16.74,0:17:18.41,Default,,0,0,0,,[growling]
+Dialogue: 0,0:17:18.49,0:17:20.53,Default,,0,0,0,,[panting]
+Dialogue: 0,0:17:24.46,0:17:25.50,Default,,0,0,0,,Oh, no!
+Dialogue: 0,0:17:26.00,0:17:26.92,Default,,0,0,0,,[Nameless grunts]
+Dialogue: 0,0:17:27.00,0:17:28.42,Default,,0,0,0,,-Admit the truth.\N-[Five grunts]
+Dialogue: 0,0:17:29.63,0:17:31.17,Default,,0,0,0,,[Nameless] We know you took it.
+Dialogue: 0,0:17:31.25,0:17:33.51,Default,,0,0,0,,Why are you all so hard stuck on this?
+Dialogue: 0,0:17:33.59,0:17:35.30,Default,,0,0,0,,Why can't all you just own up?
+Dialogue: 0,0:17:35.38,0:17:37.97,Default,,0,0,0,,For the last time,\Nnobody stole anything from your--
+Dialogue: 0,0:17:38.05,0:17:40.05,Default,,0,0,0,,It was me, okay? I did it.
+Dialogue: 0,0:17:40.14,0:17:42.31,Default,,0,0,0,,I stole Pancake McGuffin.
+Dialogue: 0,0:17:42.39,0:17:43.64,Default,,0,0,0,,And there it is.
+Dialogue: 0,0:17:47.06,0:17:47.94,Default,,0,0,0,,[meowing]
+Dialogue: 0,0:17:48.40,0:17:49.27,Default,,0,0,0,,[Miko] Dude!
+Dialogue: 0,0:17:49.35,0:17:52.15,Default,,0,0,0,,[Zahra] Wait, so you stole it from Mitch\Nafter he stole it?
+Dialogue: 0,0:17:52.23,0:17:54.07,Default,,0,0,0,,[Mitch] Are you... seriously?
+Dialogue: 0,0:17:54.15,0:17:57.57,Default,,0,0,0,,It escaped from our town.\NI was one foot over the line.
+Dialogue: 0,0:17:57.65,0:18:01.33,Default,,0,0,0,,And where does it say we can't catch\Nglitches in each other's towns anyway?
+Dialogue: 0,0:18:03.04,0:18:03.87,Default,,0,0,0,,[meowing]
+Dialogue: 0,0:18:05.25,0:18:06.33,Default,,0,0,0,,[screams]
+Dialogue: 0,0:18:08.12,0:18:10.17,Default,,0,0,0,,[roars]
+Dialogue: 0,0:18:11.84,0:18:14.80,Default,,0,0,0,,-[belching loudly]\N-[Pancake McGuffin meowing]
+Dialogue: 0,0:18:14.88,0:18:18.01,Default,,0,0,0,,-Great, now, nobody gets it.\N-I'm sorry, okay?
+Dialogue: 0,0:18:18.09,0:18:22.14,Default,,0,0,0,,I should have confessed from the start.\NNow, can we please work together on this?
+Dialogue: 0,0:18:22.22,0:18:24.52,Default,,0,0,0,,Glitch Techs is supposed to be\Na team, isn't it?
+Dialogue: 0,0:18:24.60,0:18:27.35,Default,,0,0,0,,[groans] Such a goody-goody.
+Dialogue: 0,0:18:27.43,0:18:29.02,Default,,0,0,0,,[Nameless] Techs,\Ngive me a tactical estimate.
+Dialogue: 0,0:18:29.10,0:18:31.65,Default,,0,0,0,,[Miko] Looks like we're starting\Na co-op game.
+Dialogue: 0,0:18:32.44,0:18:34.40,Default,,0,0,0,,[Wes] Step-lock shows\Nfour potential weak points.
+Dialogue: 0,0:18:35.78,0:18:38.24,Default,,0,0,0,,-Gonna have to surround them.\N-[Mitch] Ready!
+Dialogue: 0,0:18:38.82,0:18:40.66,Default,,0,0,0,,'Kay! Let's take 'em down!
+Dialogue: 0,0:18:40.74,0:18:43.37,Default,,0,0,0,,For Pancake McGuffin!
+Dialogue: 0,0:18:43.45,0:18:45.08,Default,,0,0,0,,[all] For Pancake!
+Dialogue: 0,0:18:45.16,0:18:47.45,Default,,0,0,0,,-[epic chiptune music resumes]\N-[roaring]
+Dialogue: 0,0:18:49.92,0:18:50.75,Default,,0,0,0,,[Miko yells]
+Dialogue: 0,0:18:53.04,0:18:55.21,Default,,0,0,0,,[roars]
+Dialogue: 0,0:18:55.30,0:18:58.01,Default,,0,0,0,,Wow! Show me how to do that charge?
+Dialogue: 0,0:18:58.09,0:19:00.30,Default,,0,0,0,,If you show me how to wield\Nthat two-handed strike.
+Dialogue: 0,0:19:01.68,0:19:04.85,Default,,0,0,0,,Got anything up that gauntlet\Nbesides party tricks?
+Dialogue: 0,0:19:06.01,0:19:08.31,Default,,0,0,0,,[automated voice] Buff unlocked, Tri-Shot.
+Dialogue: 0,0:19:08.39,0:19:12.44,Default,,0,0,0,,-Give this a try.\N-More buffs, less puns.
+Dialogue: 0,0:19:15.02,0:19:16.48,Default,,0,0,0,,[roars]
+Dialogue: 0,0:19:17.94,0:19:20.11,Default,,0,0,0,,Ugh, please don't tell me\Nyou expect us to bond.
+Dialogue: 0,0:19:20.20,0:19:21.91,Default,,0,0,0,,Yeah, can you stop talking?
+Dialogue: 0,0:19:21.99,0:19:24.12,Default,,0,0,0,,I'm trying to kick butt\Nand look good doing it.
+Dialogue: 0,0:19:24.20,0:19:27.79,Default,,0,0,0,,[automated voice] Hidden achievement\Nunlocked, Silent Bond.
+Dialogue: 0,0:19:28.20,0:19:30.04,Default,,0,0,0,,[roars]
+Dialogue: 0,0:19:31.25,0:19:32.54,Default,,0,0,0,,[Five] Our turn now?
+Dialogue: 0,0:19:32.62,0:19:34.54,Default,,0,0,0,,[Nameless] Plenty of XP to go around.
+Dialogue: 0,0:19:39.42,0:19:43.59,Default,,0,0,0,,Just what are your techs doing in my town,\NJoan of Snark?
+Dialogue: 0,0:19:43.68,0:19:46.97,Default,,0,0,0,,Probably cleaning up a mess\Nyour techs made,
+Dialogue: 0,0:19:47.06,0:19:48.77,Default,,0,0,0,,Philsbury Dough Guy.
+Dialogue: 0,0:19:49.39,0:19:50.98,Default,,0,0,0,,[both growl]
+Dialogue: 0,0:19:54.86,0:19:59.15,Default,,0,0,0,,[Nameless] You've sniped your last\Nlegendary kitty spawn, you sludgeball!
+Dialogue: 0,0:19:59.23,0:20:00.82,Default,,0,0,0,,[Five] Wait. You play Kitty Collector?
+Dialogue: 0,0:20:00.90,0:20:02.95,Default,,0,0,0,,[Nameless] Yeah!\NIt's my number one kitty collection game.
+Dialogue: 0,0:20:03.03,0:20:05.41,Default,,0,0,0,,My number two\Nbeing Litter Glitter Kittysitter, obvi.
+Dialogue: 0,0:20:05.49,0:20:06.74,Default,,0,0,0,,[Five laughs] Obvi!
+Dialogue: 0,0:20:10.33,0:20:12.12,Default,,0,0,0,,[glitch roars]
+Dialogue: 0,0:20:14.17,0:20:16.88,Default,,0,0,0,,[Nameless] The root forms are exposed.\NGauntlets up.
+Dialogue: 0,0:20:17.92,0:20:20.26,Default,,0,0,0,,-All together!\N-[all grunt]
+Dialogue: 0,0:20:20.34,0:20:22.47,Default,,0,0,0,,[glitch roars]
+Dialogue: 0,0:20:25.68,0:20:26.93,Default,,0,0,0,,[gauntlets chiming]
+Dialogue: 0,0:20:27.01,0:20:28.14,Default,,0,0,0,,[automated voice] Glitch contained.
+Dialogue: 0,0:20:29.51,0:20:30.72,Default,,0,0,0,,Oh, boy.
+Dialogue: 0,0:20:34.81,0:20:36.23,Default,,0,0,0,,Ugh.
+Dialogue: 0,0:20:38.19,0:20:39.44,Default,,0,0,0,,[Phil] So, Joan...
+Dialogue: 0,0:20:39.52,0:20:42.28,Default,,0,0,0,,apparently you were not all that incorrect
+Dialogue: 0,0:20:42.36,0:20:46.99,Default,,0,0,0,,on the facts regarding my techs' role\Nin your missing glitch situation.
+Dialogue: 0,0:20:47.07,0:20:50.83,Default,,0,0,0,,Good gravy, Philsy.\NWas that your best apology?
+Dialogue: 0,0:20:50.91,0:20:53.25,Default,,0,0,0,,And... yes.
+Dialogue: 0,0:20:53.33,0:20:54.83,Default,,0,0,0,,Can you guys please explain
+Dialogue: 0,0:20:54.92,0:20:58.00,Default,,0,0,0,,where in the rules it says\Ntechs can't catch glitches in other towns?
+Dialogue: 0,0:20:58.09,0:20:59.96,Default,,0,0,0,,Oh, it's not in the rulebook.
+Dialogue: 0,0:21:00.05,0:21:01.13,Default,,0,0,0,,[all] It's not?
+Dialogue: 0,0:21:01.21,0:21:05.05,Default,,0,0,0,,It's kind of a house rule Joansy\Nand I came up with back in the day.
+Dialogue: 0,0:21:05.13,0:21:09.30,Default,,0,0,0,,To keep techs like Phil\Nfrom stealing other techs' glitches.
+Dialogue: 0,0:21:09.39,0:21:13.60,Default,,0,0,0,,I did not steal Kodama. He came to me.
+Dialogue: 0,0:21:13.68,0:21:16.98,Default,,0,0,0,,After you lured him from me!
+Dialogue: 0,0:21:17.06,0:21:19.27,Default,,0,0,0,,You want me to say I stole him, Joan?
+Dialogue: 0,0:21:19.36,0:21:21.98,Default,,0,0,0,,Fine! I stole him from you.
+Dialogue: 0,0:21:22.48,0:21:24.11,Default,,0,0,0,,[Kodama giggles] Dama!
+Dialogue: 0,0:21:24.19,0:21:25.65,Default,,0,0,0,,-Dama, dama, dama...\N-[Joan] Wow.
+Dialogue: 0,0:21:25.74,0:21:30.24,Default,,0,0,0,,That must have been hard to say\Nafter all this time, Phil.
+Dialogue: 0,0:21:30.33,0:21:31.45,Default,,0,0,0,,[Kodama] Dama!
+Dialogue: 0,0:21:32.74,0:21:34.33,Default,,0,0,0,,[laughs]
+Dialogue: 0,0:21:34.41,0:21:37.42,Default,,0,0,0,,And I feel bad\Nabout breaking up this little...
+Dialogue: 0,0:21:37.92,0:21:39.67,Default,,0,0,0,,whatever this is supposed to be.
+Dialogue: 0,0:21:40.25,0:21:41.88,Default,,0,0,0,,-Thanks, Joansy.\N-[Kodama yelps]
+Dialogue: 0,0:21:41.96,0:21:43.38,Default,,0,0,0,,[automated voice] Glitch contained.
+Dialogue: 0,0:21:43.46,0:21:47.84,Default,,0,0,0,,So don't you ever put me\Nin this position again.
+Dialogue: 0,0:21:47.93,0:21:52.60,Default,,0,0,0,,Okay, team, let's bonzai and yo jo!
+Dialogue: 0,0:21:52.68,0:21:55.93,Default,,0,0,0,,Wait a minute. Come on, Joan.\NCan't we talk about this?
+Dialogue: 0,0:21:56.02,0:21:58.06,Default,,0,0,0,,Sorry I didn't tell you what I did, Miko.
+Dialogue: 0,0:21:58.15,0:22:01.86,Default,,0,0,0,,Ah, don't sweat it, partner.\NYou know I always got your back.
+Dialogue: 0,0:22:01.94,0:22:04.11,Default,,0,0,0,,[beeping]
+Dialogue: 0,0:22:04.74,0:22:06.19,Default,,0,0,0,,[automated voice] Glitch detected.
+Dialogue: 0,0:22:06.28,0:22:08.61,Default,,0,0,0,,Is that you guys or us?
+Dialogue: 0,0:22:08.70,0:22:09.99,Default,,0,0,0,,[Nameless scoffs] Does it matter?
+Dialogue: 0,0:22:10.53,0:22:14.29,Default,,0,0,0,,-Glitch...\N-[all] Techs!
+Dialogue: 0,0:22:15.29,0:22:17.29,Default,,0,0,0,,[chiptune music playing]

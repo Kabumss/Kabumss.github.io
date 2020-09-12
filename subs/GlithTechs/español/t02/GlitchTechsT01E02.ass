@@ -1,0 +1,348 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GlitchTechsT01E02
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.00,0:00:11.05,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:18.93,0:00:21.22,Default,,0,0,0,,Bueno. Tranquilo, Five.
+Dialogue: 0,0:00:22.14,0:00:22.98,Default,,0,0,0,,¡Eso!
+Dialogue: 0,0:00:23.27,0:00:25.65,Default,,0,0,0,,- ¡Carne y huevo!\N- ¡Carne y huevo!
+Dialogue: 0,0:00:29.11,0:00:33.78,Default,,0,0,0,,Oye, dormilón.\NDeja eso un rato y desayuna, ¿sí?
+Dialogue: 0,0:00:33.86,0:00:35.53,Default,,0,0,0,,Ya voy, abuela.
+Dialogue: 0,0:00:35.61,0:00:38.41,Default,,0,0,0,,- Kimchi y aguacate.\N- Kimchi y aguacate.
+Dialogue: 0,0:00:38.78,0:00:41.62,Default,,0,0,0,,- Con pimientos extra.\N- Con pimientos extra.
+Dialogue: 0,0:00:42.62,0:00:44.29,Default,,0,0,0,,- Ahí está.\N- Buenos días.
+Dialogue: 0,0:00:45.12,0:00:46.37,Default,,0,0,0,,Te guardé chorizo.
+Dialogue: 0,0:00:46.58,0:00:47.46,Default,,0,0,0,,Gracias, papi.
+Dialogue: 0,0:00:48.21,0:00:51.88,Default,,0,0,0,,Ten un buen día y no te olvides\Nde llamar a tu papá, ¿sí?
+Dialogue: 0,0:00:51.96,0:00:53.97,Default,,0,0,0,,Sí. Adiós. Los quiero.
+Dialogue: 0,0:00:54.97,0:00:56.22,Default,,0,0,0,,- ¡Five!\N- ¡Oye, Five!
+Dialogue: 0,0:00:56.30,0:00:57.18,Default,,0,0,0,,Ey, Five.
+Dialogue: 0,0:00:57.26,0:00:59.60,Default,,0,0,0,,- ¿Ya oíste?\N- Debes ir a la tienda.
+Dialogue: 0,0:00:59.80,0:01:01.89,Default,,0,0,0,,Uno a la vez, chicos.
+Dialogue: 0,0:01:02.72,0:01:04.89,Default,,0,0,0,,Hector "High Five" Nieves.
+Dialogue: 0,0:01:05.10,0:01:06.64,Default,,0,0,0,,¿Cómo has estado, nene?
+Dialogue: 0,0:01:06.73,0:01:08.10,Default,,0,0,0,,Ah, hola, Geri.
+Dialogue: 0,0:01:08.23,0:01:10.73,Default,,0,0,0,,- Tomen. Los veo en la tienda.\N- Gracias.
+Dialogue: 0,0:01:11.52,0:01:13.23,Default,,0,0,0,,Te vas a quedar helado
+Dialogue: 0,0:01:13.32,0:01:16.70,Default,,0,0,0,,cuando veas lo que traerán a mi tienda\Nesta mañana.
+Dialogue: 0,0:01:17.70,0:01:21.20,Default,,0,0,0,,¿Una Ping antigua?\NNunca he jugado una de esas.
+Dialogue: 0,0:01:21.28,0:01:23.66,Default,,0,0,0,,Ven a verla más tarde en mi tienda.
+Dialogue: 0,0:01:23.75,0:01:24.75,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:01:24.83,0:01:27.62,Default,,0,0,0,,Eres uno de mis mejores clientes.
+Dialogue: 0,0:01:27.87,0:01:30.25,Default,,0,0,0,,Aunque tiene tiempo que no te veo.
+Dialogue: 0,0:01:30.34,0:01:32.59,Default,,0,0,0,,La última fue antes\Nde que tu papá...
+Dialogue: 0,0:01:32.67,0:01:35.72,Default,,0,0,0,,Sí... De hecho, no creo poder ir.
+Dialogue: 0,0:01:35.80,0:01:38.89,Default,,0,0,0,,Tengo un nuevo trabajo\Nen la tienda Hinobi.
+Dialogue: 0,0:01:38.97,0:01:41.72,Default,,0,0,0,,Eso oí. Bueno, si no puedes hoy,
+Dialogue: 0,0:01:41.81,0:01:44.06,Default,,0,0,0,,- tal vez...\N- Sí, después. Claro.
+Dialogue: 0,0:01:44.14,0:01:46.35,Default,,0,0,0,,Me dio gusto verte, Geri. Adiós.
+Dialogue: 0,0:01:46.81,0:01:48.14,Default,,0,0,0,,Chow mein, chavalo.
+Dialogue: 0,0:01:49.19,0:01:51.65,Default,,0,0,0,,REINO DE LOS JUEGOS
+Dialogue: 0,0:01:51.73,0:01:53.82,Default,,0,0,0,,- ¿Necesitas ayuda?\N- No, bebés,
+Dialogue: 0,0:01:53.90,0:01:55.90,Default,,0,0,0,,jueguen y encárguense un rato.
+Dialogue: 0,0:01:56.82,0:02:00.12,Default,,0,0,0,,A ver, hermosa, vamos a abrirte.
+Dialogue: 0,0:02:03.49,0:02:07.87,Default,,0,0,0,,¡Envíos gratis!\NBueno, la belleza está por dentro.
+Dialogue: 0,0:02:11.38,0:02:12.38,Default,,0,0,0,,Vaya.
+Dialogue: 0,0:02:13.29,0:02:15.96,Default,,0,0,0,,¿Qué? ¡Funciona!
+Dialogue: 0,0:02:24.01,0:02:24.85,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:02:31.44,0:02:35.44,Default,,0,0,0,,CÓDIGO AVANZADO
+Dialogue: 0,0:02:39.70,0:02:40.53,Default,,0,0,0,,¡Vaya!
+Dialogue: 0,0:02:41.66,0:02:43.49,Default,,0,0,0,,Los días lentos son tan lentos.
+Dialogue: 0,0:02:43.70,0:02:44.53,Default,,0,0,0,,Sí.
+Dialogue: 0,0:02:48.08,0:02:49.29,Default,,0,0,0,,¿Qué están jugando?
+Dialogue: 0,0:02:49.37,0:02:52.04,Default,,0,0,0,,Es un juego de mesa basado\Nen un videojuego.
+Dialogue: 0,0:02:52.13,0:02:54.54,Default,,0,0,0,,Vamos, generador de números aleatorios.
+Dialogue: 0,0:02:55.13,0:02:57.26,Default,,0,0,0,,¡Uf! Otra vez en los pozos de brea.
+Dialogue: 0,0:02:58.72,0:03:02.76,Default,,0,0,0,,¡Alerta! Recibí una llamada urgente\Npara High Five
+Dialogue: 0,0:03:02.84,0:03:04.93,Default,,0,0,0,,en la línea de atención.
+Dialogue: 0,0:03:05.01,0:03:07.47,Default,,0,0,0,,¿Para mí? ¿Quién me llamaría a la...?
+Dialogue: 0,0:03:07.56,0:03:08.39,Default,,0,0,0,,¡Five!
+Dialogue: 0,0:03:08.47,0:03:10.06,Default,,0,0,0,,- ¿Geri?\N- ¿Miko?
+Dialogue: 0,0:03:10.14,0:03:13.15,Default,,0,0,0,,¿No es la señora de la tienda\Nde juegos antiguos?
+Dialogue: 0,0:03:13.23,0:03:17.86,Default,,0,0,0,,Odio los juegos antiguos.\NSon tan aburridos.
+Dialogue: 0,0:03:18.90,0:03:20.78,Default,,0,0,0,,¿Por qué me llamas al trabajo?
+Dialogue: 0,0:03:20.86,0:03:22.78,Default,,0,0,0,,La Ping que pedí,
+Dialogue: 0,0:03:22.86,0:03:25.95,Default,,0,0,0,,debe hacerse golpeado mucho\Ndurante el envío
+Dialogue: 0,0:03:26.03,0:03:29.25,Default,,0,0,0,,porque trae más de lo que pensaba.
+Dialogue: 0,0:03:29.33,0:03:31.54,Default,,0,0,0,,Dijiste que trabajas como técnico.
+Dialogue: 0,0:03:31.62,0:03:35.42,Default,,0,0,0,,Sí, pero es un servicio técnico\Nespecializado, Geri.
+Dialogue: 0,0:03:35.88,0:03:38.55,Default,,0,0,0,,¿Ya probaste apagarla\Ny volverla a encender?
+Dialogue: 0,0:03:38.63,0:03:41.26,Default,,0,0,0,,Esta cosa no quiere apagarse.
+Dialogue: 0,0:03:41.34,0:03:43.38,Default,,0,0,0,,¡Tranquilo, grandulón!
+Dialogue: 0,0:03:44.64,0:03:47.85,Default,,0,0,0,,Creo que necesita\Nservicio técnico especializado.
+Dialogue: 0,0:03:48.14,0:03:49.18,Default,,0,0,0,,Vamos, compañero.
+Dialogue: 0,0:04:01.82,0:04:04.28,Default,,0,0,0,,Válgame mi MORPG.
+Dialogue: 0,0:04:04.36,0:04:06.37,Default,,0,0,0,,¡Este lugar es increíble!
+Dialogue: 0,0:04:06.62,0:04:08.83,Default,,0,0,0,,Sí, venía mucho de niño.
+Dialogue: 0,0:04:09.16,0:04:11.08,Default,,0,0,0,,¿Tu amiga es la dueña?
+Dialogue: 0,0:04:11.25,0:04:13.12,Default,,0,0,0,,¿Por qué no me habías dicho?
+Dialogue: 0,0:04:13.83,0:04:17.00,Default,,0,0,0,,Porque prometí que\Nno volvería por un tiempo.
+Dialogue: 0,0:04:17.09,0:04:18.25,Default,,0,0,0,,¿A quién?
+Dialogue: 0,0:04:18.34,0:04:20.34,Default,,0,0,0,,Esto será una visita de trabajo.
+Dialogue: 0,0:04:20.42,0:04:23.63,Default,,0,0,0,,Entramos, atrapamos el Glitch\Ny salimos de ahí, ¿sí?
+Dialogue: 0,0:04:23.72,0:04:24.55,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:04:27.80,0:04:30.22,Default,,0,0,0,,- ¡Es Five!\N- ¿Quieres jugar?
+Dialogue: 0,0:04:31.39,0:04:32.98,Default,,0,0,0,,¿Tienes subalternos?
+Dialogue: 0,0:04:34.64,0:04:36.85,Default,,0,0,0,,¿De consola, de moneda, de control?
+Dialogue: 0,0:04:36.94,0:04:39.82,Default,,0,0,0,,¡Es el paraíso de los jugadores!
+Dialogue: 0,0:04:39.90,0:04:42.74,Default,,0,0,0,,Bueno, ¿podemos estar tranquilos?
+Dialogue: 0,0:04:42.99,0:04:45.70,Default,,0,0,0,,¿Tranquilos? Claro.\NBuscando... ¡lo genial!
+Dialogue: 0,0:04:48.16,0:04:50.87,Default,,0,0,0,,¿Ping, Beebuzz, Unicorp?
+Dialogue: 0,0:04:50.95,0:04:52.66,Default,,0,0,0,,Sí que son juegos antiguos.
+Dialogue: 0,0:04:52.87,0:04:54.00,Default,,0,0,0,,Llegaste. Qué bien.
+Dialogue: 0,0:04:54.08,0:04:56.71,Default,,0,0,0,,- Hola, Geri. Mi compañera, Miko.\N- Hola.
+Dialogue: 0,0:04:56.92,0:04:58.92,Default,,0,0,0,,- Miko...\N- Geraldine Lawson.
+Dialogue: 0,0:04:59.00,0:05:01.80,Default,,0,0,0,,Cualquier amiga de Five es amiga mía,\Nseñora.
+Dialogue: 0,0:05:02.26,0:05:05.17,Default,,0,0,0,,Ay, qué linda.
+Dialogue: 0,0:05:05.30,0:05:07.80,Default,,0,0,0,,No vengo de visita.\NVine por el Glitch.
+Dialogue: 0,0:05:07.93,0:05:11.56,Default,,0,0,0,,Parte del juego, brillante\Ny te hace gritar así:
+Dialogue: 0,0:05:11.93,0:05:13.93,Default,,0,0,0,,Ah... Vengan, les mostraré.
+Dialogue: 0,0:05:22.69,0:05:24.65,Default,,0,0,0,,Señal no identificada detectada.
+Dialogue: 0,0:05:25.15,0:05:27.70,Default,,0,0,0,,¿Atrapaste un Glitch?
+Dialogue: 0,0:05:27.78,0:05:32.41,Default,,0,0,0,,Bueno, tuve que darle un empujoncito,\Npero parece que le gustó la caja.
+Dialogue: 0,0:05:32.91,0:05:35.50,Default,,0,0,0,,Nenes, miren esto.
+Dialogue: 0,0:05:38.25,0:05:39.08,Default,,0,0,0,,Vaya.
+Dialogue: 0,0:05:42.25,0:05:43.38,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:05:43.88,0:05:46.05,Default,,0,0,0,,Vamos, no seas tímido.
+Dialogue: 0,0:05:47.59,0:05:50.26,Default,,0,0,0,,¿Ves? Solo se necesita un empujoncito.
+Dialogue: 0,0:05:51.55,0:05:52.47,Default,,0,0,0,,ARMADURA PUESTA
+Dialogue: 0,0:05:54.02,0:05:57.23,Default,,0,0,0,,- ¡Vaya!\N- Five, ¿es amigo o enemigo?
+Dialogue: 0,0:05:58.23,0:06:00.48,Default,,0,0,0,,No tengo idea.
+Dialogue: 0,0:06:04.78,0:06:08.40,Default,,0,0,0,,¿Quién sabe qué pasa\Ncuando un videojuego tiene un Glitch?
+Dialogue: 0,0:06:08.91,0:06:11.07,Default,,0,0,0,,♪ Los Glitch Techs\NSaben qué hacer ♪
+Dialogue: 0,0:06:11.16,0:06:13.16,Default,,0,0,0,,♪ Con tecnología y movimientos ♪
+Dialogue: 0,0:06:13.24,0:06:14.95,Default,,0,0,0,,♪ Glitch Techs demoledores ♪
+Dialogue: 0,0:06:15.04,0:06:16.83,Default,,0,0,0,,♪ Lo solucionarán ♪
+Dialogue: 0,0:06:16.91,0:06:20.42,Default,,0,0,0,,♪ Si un Glitch anda suelto\NLo acabarán como sea ♪
+Dialogue: 0,0:06:20.50,0:06:23.80,Default,,0,0,0,,♪ Los Glitch Techs siempre llegan\NA resolver problemas ♪
+Dialogue: 0,0:06:23.88,0:06:24.84,Default,,0,0,0,,♪ Glitch Techs ♪
+Dialogue: 0,0:06:29.30,0:06:31.26,Default,,0,0,0,,♪ ¡Glitch Techs! ♪
+Dialogue: 0,0:06:31.34,0:06:32.18,Default,,0,0,0,,♪ ¡Sí! ♪
+Dialogue: 0,0:06:35.10,0:06:37.89,Default,,0,0,0,,No encuentro récord\Nde un Glitch como este.
+Dialogue: 0,0:06:37.98,0:06:39.14,Default,,0,0,0,,Debe ser único.
+Dialogue: 0,0:06:39.35,0:06:42.15,Default,,0,0,0,,- O súper único.\N- O legendario.
+Dialogue: 0,0:06:42.23,0:06:45.40,Default,,0,0,0,,No sé el "cómo"\Nde este pequeño milagro,
+Dialogue: 0,0:06:45.48,0:06:47.57,Default,,0,0,0,,pero sí sé el "qué".
+Dialogue: 0,0:06:47.65,0:06:48.65,Default,,0,0,0,,¿El qué?
+Dialogue: 0,0:06:48.74,0:06:50.07,Default,,0,0,0,,Lo que significa.
+Dialogue: 0,0:06:50.15,0:06:55.45,Default,,0,0,0,,Creo que este pequeño tesoro\Nrepresenta el primer píxel,
+Dialogue: 0,0:06:55.66,0:06:59.91,Default,,0,0,0,,un elemento de imagen desde el cual\Nse construyeron los gráficos.
+Dialogue: 0,0:07:00.00,0:07:05.29,Default,,0,0,0,,Del código de este bloque de píxel\Nse hicieron infinitos gráficos,
+Dialogue: 0,0:07:05.46,0:07:09.47,Default,,0,0,0,,los cimientos de todo mob,\Nclon o sprite que hayan visto.
+Dialogue: 0,0:07:09.88,0:07:12.89,Default,,0,0,0,,Así que este primer píxel\Nfue para los videojuegos
+Dialogue: 0,0:07:12.97,0:07:16.22,Default,,0,0,0,,lo que la primer pincelada\Nfue para las pinturas.
+Dialogue: 0,0:07:16.64,0:07:19.06,Default,,0,0,0,,La primera nota musical\Na las canciones.
+Dialogue: 0,0:07:19.14,0:07:21.14,Default,,0,0,0,,Hermanos de su generación.
+Dialogue: 0,0:07:21.60,0:07:23.44,Default,,0,0,0,,Primero fue la Ping,
+Dialogue: 0,0:07:23.73,0:07:28.19,Default,,0,0,0,,hecha para que los jugadores\Nlancen píxeles de un lado a otro.
+Dialogue: 0,0:07:28.28,0:07:30.70,Default,,0,0,0,,Luego vino la Beebuzz,
+Dialogue: 0,0:07:30.78,0:07:35.28,Default,,0,0,0,,hecha para que los jugadores\Nmuevan píxeles alrededor.
+Dialogue: 0,0:07:35.45,0:07:37.33,Default,,0,0,0,,Después la Unicorp,
+Dialogue: 0,0:07:37.54,0:07:39.70,Default,,0,0,0,,que Five conoce tan bien,
+Dialogue: 0,0:07:40.00,0:07:44.63,Default,,0,0,0,,hecha para que los jugadores\Ndestruyan píxeles por diversión.
+Dialogue: 0,0:07:45.04,0:07:46.88,Default,,0,0,0,,¿Por qué "la conoces tan bien"?
+Dialogue: 0,0:07:47.25,0:07:49.55,Default,,0,0,0,,¿Eres el campeón regional de Unicorp?
+Dialogue: 0,0:07:49.63,0:07:51.76,Default,,0,0,0,,Porque mi papá ayudó a crearla.
+Dialogue: 0,0:07:53.09,0:07:54.34,Default,,0,0,0,,DIOS MÍO
+Dialogue: 0,0:07:54.43,0:07:56.14,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:07:56.30,0:07:57.72,Default,,0,0,0,,¿Acaso él...? ¿Tú...?
+Dialogue: 0,0:07:58.10,0:08:00.60,Default,,0,0,0,,¿Por qué diablos no sabía de esto?
+Dialogue: 0,0:08:00.68,0:08:02.52,Default,,0,0,0,,- No es relevante.\N- ¿No?
+Dialogue: 0,0:08:03.06,0:08:06.52,Default,,0,0,0,,Emilio Nieves podría escribir código\Npara jugar ajedrez
+Dialogue: 0,0:08:06.61,0:08:10.11,Default,,0,0,0,,o hackear una firewall\Nmás rápido que nadie.
+Dialogue: 0,0:08:10.19,0:08:13.36,Default,,0,0,0,,¿Hackear una firewall? ¿Que no es ilegal?
+Dialogue: 0,0:08:13.53,0:08:16.12,Default,,0,0,0,,- Por eso está en prisión.\N- Ah.
+Dialogue: 0,0:08:16.99,0:08:18.66,Default,,0,0,0,,¡Ah! Digo...
+Dialogue: 0,0:08:19.49,0:08:21.87,Default,,0,0,0,,- ¿Ah?\N- Está bien.
+Dialogue: 0,0:08:22.00,0:08:25.25,Default,,0,0,0,,- ¿En serio?\N- Así haya sido sombrero blanco.
+Dialogue: 0,0:08:25.33,0:08:28.46,Default,,0,0,0,,Todos tomamos decisiones.\NNo todas perfectas.
+Dialogue: 0,0:08:28.54,0:08:31.42,Default,,0,0,0,,Pero su mejor decisión\Nfue criar a este chico.
+Dialogue: 0,0:08:32.26,0:08:33.88,Default,,0,0,0,,¿Ese es High Five?
+Dialogue: 0,0:08:34.26,0:08:36.43,Default,,0,0,0,,¡Era tan pequeño!
+Dialogue: 0,0:08:36.72,0:08:38.39,Default,,0,0,0,,¡Eras un "Low Five"!
+Dialogue: 0,0:08:38.64,0:08:42.48,Default,,0,0,0,,Sí, Emilio traía a Five todos los días\Ndespués de clases
+Dialogue: 0,0:08:42.56,0:08:45.14,Default,,0,0,0,,para que jugara. Five, ¿recuerdas...?
+Dialogue: 0,0:08:45.23,0:08:46.10,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:08:48.06,0:08:51.78,Default,,0,0,0,,Llama a la compañía de envíos\Ny diles que la Ping llegó mal.
+Dialogue: 0,0:08:51.86,0:08:55.36,Default,,0,0,0,,Creo que debería llamar\Na la compañía de envíos.
+Dialogue: 0,0:08:56.20,0:08:58.24,Default,,0,0,0,,Oye, qué grosero.
+Dialogue: 0,0:08:58.32,0:09:00.33,Default,,0,0,0,,Quedamos en que sería rápido.
+Dialogue: 0,0:09:01.54,0:09:02.45,Default,,0,0,0,,Se acabó.
+Dialogue: 0,0:09:03.70,0:09:04.62,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:09:09.46,0:09:10.59,Default,,0,0,0,,¡Nerds!
+Dialogue: 0,0:09:10.67,0:09:12.13,Default,,0,0,0,,Oye, ¿qué te pasa?
+Dialogue: 0,0:09:12.30,0:09:14.34,Default,,0,0,0,,Mi emisor no tiene efecto.
+Dialogue: 0,0:09:14.42,0:09:17.01,Default,,0,0,0,,Con eso no, contigo.\NPrimero estabas raro
+Dialogue: 0,0:09:17.09,0:09:20.76,Default,,0,0,0,,- por venir a la tienda de la señora.\N- Quiero acabar e irnos.
+Dialogue: 0,0:09:20.85,0:09:23.77,Default,,0,0,0,,Pero la señora es amiga de tu familia,\N¿no?
+Dialogue: 0,0:09:23.85,0:09:25.60,Default,,0,0,0,,Sí, pero ese no es el punto.
+Dialogue: 0,0:09:26.14,0:09:27.44,Default,,0,0,0,,No quería venir.
+Dialogue: 0,0:09:29.90,0:09:30.77,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:09:32.19,0:09:34.69,Default,,0,0,0,,Five, acabará con este lugar.
+Dialogue: 0,0:09:35.28,0:09:38.91,Default,,0,0,0,,- Debemos sacarlo de aquí.\N- Le pediré refuerzos a B.I.T.T.
+Dialogue: 0,0:09:38.99,0:09:40.83,Default,,0,0,0,,No voy a esperar refuerzos.
+Dialogue: 0,0:09:46.54,0:09:48.25,Default,,0,0,0,,- ¿Five?\N- Miren.
+Dialogue: 0,0:09:48.33,0:09:49.25,Default,,0,0,0,,¿Sigo yo?
+Dialogue: 0,0:09:51.34,0:09:55.05,Default,,0,0,0,,¡No lo intenten en casa, niños!\NY... nunca estuvimos aquí.
+Dialogue: 0,0:10:02.05,0:10:05.27,Default,,0,0,0,,A la de tres\Nle pondré la caja encima. Uno..
+Dialogue: 0,0:10:05.35,0:10:07.60,Default,,0,0,0,,No creo que Geri lo haya hecho así.
+Dialogue: 0,0:10:08.02,0:10:09.10,Default,,0,0,0,,Dos...
+Dialogue: 0,0:10:10.44,0:10:11.48,Default,,0,0,0,,¡Tres!
+Dialogue: 0,0:10:13.32,0:10:15.32,Default,,0,0,0,,¡Lo tengo! ¡Lo atrapé! No...
+Dialogue: 0,0:10:22.45,0:10:24.45,Default,,0,0,0,,- Creo que no.\N- ¡Nerds!
+Dialogue: 0,0:10:30.50,0:10:31.63,Default,,0,0,0,,Espera, amigo.
+Dialogue: 0,0:10:32.50,0:10:34.05,Default,,0,0,0,,DISCO DE PARCHE HABILITADO
+Dialogue: 0,0:10:35.13,0:10:36.30,Default,,0,0,0,,Ally, a volar.
+Dialogue: 0,0:10:47.06,0:10:50.48,Default,,0,0,0,,Lánzame en una trayectoria\Nque me lleve al bosque.
+Dialogue: 0,0:10:50.56,0:10:52.44,Default,,0,0,0,,¿Cómo voy a hacer eso?
+Dialogue: 0,0:10:52.69,0:10:55.78,Default,,0,0,0,,- Con matemáticas.\N- Quizá necesite una calculadora.
+Dialogue: 0,0:10:56.23,0:10:58.61,Default,,0,0,0,,Bájame lentamente.
+Dialogue: 0,0:10:59.07,0:11:00.57,Default,,0,0,0,,Ay no.
+Dialogue: 0,0:11:01.82,0:11:03.82,Default,,0,0,0,,Fuera, duendes del cielo.
+Dialogue: 0,0:11:04.70,0:11:05.99,Default,,0,0,0,,Uno, dos...
+Dialogue: 0,0:11:12.71,0:11:15.34,Default,,0,0,0,,Lo siento... ¡Ups!
+Dialogue: 0,0:11:18.51,0:11:19.76,Default,,0,0,0,,¡Lo siento!
+Dialogue: 0,0:11:20.17,0:11:22.43,Default,,0,0,0,,Definitivamente necesitamos refuerzos.
+Dialogue: 0,0:11:27.06,0:11:30.73,Default,,0,0,0,,Y para molestarlos,\Nles dije "Todo fue un sueño al final".
+Dialogue: 0,0:11:30.98,0:11:32.23,Default,,0,0,0,,Ja, ja, ja, ja.
+Dialogue: 0,0:11:32.40,0:11:34.31,Default,,0,0,0,,Lo siento, todavía no entiendo.
+Dialogue: 0,0:11:34.52,0:11:35.90,Default,,0,0,0,,B.I.T.T., habla Miko.
+Dialogue: 0,0:11:35.98,0:11:39.07,Default,,0,0,0,,Hola. Five está volando\Ncon un Glitch no identificado
+Dialogue: 0,0:11:39.15,0:11:42.49,Default,,0,0,0,,que su amiga dijo que era\Nla primera pincelada de juegos,
+Dialogue: 0,0:11:42.57,0:11:45.20,Default,,0,0,0,,entonces lo que digo es que...\N¡Ayuda!
+Dialogue: 0,0:11:45.28,0:11:48.95,Default,,0,0,0,,Enseguida, Tech.\NBuscando técnicos en su área.
+Dialogue: 0,0:11:49.41,0:11:52.33,Default,,0,0,0,,Genial, ¿Haneesh está cerca?\N¿Zahra? ¿Bergy?
+Dialogue: 0,0:11:52.46,0:11:54.13,Default,,0,0,0,,Cualquiera. Excepto...
+Dialogue: 0,0:11:54.21,0:11:55.88,Default,,0,0,0,,Mitch está en camino.
+Dialogue: 0,0:12:01.05,0:12:03.18,Default,,0,0,0,,Eso empeorará todo aún más.
+Dialogue: 0,0:12:03.88,0:12:07.89,Default,,0,0,0,,Espera. Si Ally puede rastrear\Na Mitch, tal vez pueda encontrar a...
+Dialogue: 0,0:12:10.14,0:12:11.52,Default,,0,0,0,,Voy para allá, amigo.
+Dialogue: 0,0:12:13.19,0:12:16.11,Default,,0,0,0,,PARQUE BAILLEY
+Dialogue: 0,0:12:22.19,0:12:23.28,Default,,0,0,0,,Odio esta Ping.
+Dialogue: 0,0:12:35.96,0:12:37.84,Default,,0,0,0,,SALIENDO DEL CENTRO DE BAILLEY
+Dialogue: 0,0:12:56.73,0:12:58.36,Default,,0,0,0,,¡"Reto Mik-yo"!
+Dialogue: 0,0:13:10.41,0:13:13.12,Default,,0,0,0,,Este día... no podría...
+Dialogue: 0,0:13:13.20,0:13:14.91,Default,,0,0,0,,No termines esa frase.
+Dialogue: 0,0:13:15.00,0:13:19.88,Default,,0,0,0,,Miren en qué problema se metieron\Nlos Techs novatos otra vez.
+Dialogue: 0,0:13:19.96,0:13:21.92,Default,,0,0,0,,¿Qué hace aquí?
+Dialogue: 0,0:13:22.00,0:13:23.80,Default,,0,0,0,,¿Dejaron que los hackeara?
+Dialogue: 0,0:13:24.13,0:13:27.34,Default,,0,0,0,,Con razón rogaste por ayuda.
+Dialogue: 0,0:13:27.43,0:13:28.34,Default,,0,0,0,,No rogué.
+Dialogue: 0,0:13:28.68,0:13:30.39,Default,,0,0,0,,Fue una solicitud muy digna.
+Dialogue: 0,0:13:30.72,0:13:34.02,Default,,0,0,0,,Veamos qué se les salió\Nde las manos esta vez.
+Dialogue: 0,0:13:34.52,0:13:37.10,Default,,0,0,0,,-¡No la abras!\N-¡Es el píxel de Ping!
+Dialogue: 0,0:13:37.60,0:13:40.90,Default,,0,0,0,,¿Ese juego aburrido\Nen el que empujas un punto?
+Dialogue: 0,0:13:40.98,0:13:42.69,Default,,0,0,0,,Puerta desbloqueada.
+Dialogue: 0,0:13:44.94,0:13:46.61,Default,,0,0,0,,No tanto como recuerdas.
+Dialogue: 0,0:13:47.40,0:13:50.66,Default,,0,0,0,,Ni le dispares, Mitch.\NLos emisores no tienen efecto.
+Dialogue: 0,0:13:54.45,0:13:55.29,Default,,0,0,0,,¡Escudos!
+Dialogue: 0,0:13:58.42,0:14:02.84,Default,,0,0,0,,Ping es un juego antiguo.\N¿Por qué no están configurados?
+Dialogue: 0,0:14:02.92,0:14:07.13,Default,,0,0,0,,Tal vez... porque es tan viejo\Nque ya no importa.
+Dialogue: 0,0:14:08.01,0:14:11.51,Default,,0,0,0,,- ¿Qué significa eso?\N- "Retro", "clásico", "antiguo".
+Dialogue: 0,0:14:11.60,0:14:15.10,Default,,0,0,0,,Tres palabras elegantes\Nque significan... basura antigua.
+Dialogue: 0,0:14:15.18,0:14:19.90,Default,,0,0,0,,Esa "basura" creó el camino\Nde todo juego que has jugado, tonto.
+Dialogue: 0,0:14:20.44,0:14:23.44,Default,,0,0,0,,No hay tiempo... para duelos.
+Dialogue: 0,0:14:23.52,0:14:27.90,Default,,0,0,0,,Los juegos antiguos son repetitivos,\Naburridos y fáciles.
+Dialogue: 0,0:14:28.36,0:14:30.03,Default,,0,0,0,,¿Crees que esto es fácil?
+Dialogue: 0,0:14:31.16,0:14:35.16,Default,,0,0,0,,Al menos en los más nuevos se podía\Nexplotar cosas de vez en cuando.
+Dialogue: 0,0:14:35.91,0:14:38.96,Default,,0,0,0,,¡Eso es! Con los más nuevos\Nse puede explotar cosas.
+Dialogue: 0,0:14:40.17,0:14:42.25,Default,,0,0,0,,- Sigan hasta que vuelva.\N- ¿Qué?
+Dialogue: 0,0:14:45.46,0:14:46.71,Default,,0,0,0,,Espera, ¿adónde vas?
+Dialogue: 0,0:14:47.76,0:14:51.14,Default,,0,0,0,,¿Adónde va... con mi camioneta?
+Dialogue: 0,0:14:56.10,0:14:58.23,Default,,0,0,0,,- Oigan, es Five.\N- ¿Quieres jugar?
+Dialogue: 0,0:14:58.31,0:15:00.31,Default,,0,0,0,,¡No puedo jugar ahora, chicos!
+Dialogue: 0,0:15:04.23,0:15:07.57,Default,,0,0,0,,En Ping se lanzan píxeles\Nde un lado a otro.
+Dialogue: 0,0:15:07.86,0:15:11.07,Default,,0,0,0,,En Beebuz se mueven los píxeles\Nalrededor.
+Dialogue: 0,0:15:11.16,0:15:14.37,Default,,0,0,0,,Y Unicorp es para destruir píxeles\Npor diversión.
+Dialogue: 0,0:15:14.91,0:15:16.37,Default,,0,0,0,,Five, ¡viniste!
+Dialogue: 0,0:15:16.83,0:15:17.70,Default,,0,0,0,,Geri.
+Dialogue: 0,0:15:18.08,0:15:21.50,Default,,0,0,0,,Desafortunadamente la Ping\Nllegó malograda.
+Dialogue: 0,0:15:22.00,0:15:26.34,Default,,0,0,0,,- Llamé a la compañía, pero...\N- Geri, yo no quería venir.
+Dialogue: 0,0:15:26.42,0:15:29.92,Default,,0,0,0,,Tú y todo en esta tienda\Nme hacen pensar en mi papá.
+Dialogue: 0,0:15:30.01,0:15:33.97,Default,,0,0,0,,Pensar en él me recuerda que...\Nno está con nosotros
+Dialogue: 0,0:15:34.51,0:15:36.76,Default,,0,0,0,,y no lo estará por mucho tiempo.
+Dialogue: 0,0:15:37.01,0:15:38.27,Default,,0,0,0,,Ay, Héctor.
+Dialogue: 0,0:15:38.68,0:15:41.35,Default,,0,0,0,,Me prometí\Nque la próxima vez que viniera,
+Dialogue: 0,0:15:41.44,0:15:43.73,Default,,0,0,0,,sería porque él ya estaba liberado
+Dialogue: 0,0:15:43.81,0:15:48.19,Default,,0,0,0,,- y así éramos una familia otra vez.\N- Entonces, ¿qué haces aquí?
+Dialogue: 0,0:15:48.44,0:15:50.03,Default,,0,0,0,,Puede que mi papá no esté,
+Dialogue: 0,0:15:50.11,0:15:52.45,Default,,0,0,0,,pero te aseguraste de que su legado sí.
+Dialogue: 0,0:15:53.28,0:15:57.74,Default,,0,0,0,,Y ahora, ese legado es la clave\Npara arreglar un problema muy peligroso.
+Dialogue: 0,0:15:57.83,0:16:02.25,Default,,0,0,0,,Si te pido que mantengas ocupados\Na los niños y no me hagas más preguntas,
+Dialogue: 0,0:16:03.04,0:16:04.17,Default,,0,0,0,,¿qué me dirías?
+Dialogue: 0,0:16:05.08,0:16:07.42,Default,,0,0,0,,Diría que tú y yo no somos parientes,
+Dialogue: 0,0:16:07.84,0:16:11.05,Default,,0,0,0,,pero tu papá y yo\Nte vimos crecer en esta tienda.
+Dialogue: 0,0:16:11.13,0:16:14.34,Default,,0,0,0,,Así que, cuando estés aquí,\Nestarás en casa.
+Dialogue: 0,0:16:20.10,0:16:24.23,Default,,0,0,0,,Niños, vamos por un helado.\NUstedes invitan.
+Dialogue: 0,0:16:32.11,0:16:33.40,Default,,0,0,0,,Es una pesadilla.
+Dialogue: 0,0:16:33.49,0:16:37.37,Default,,0,0,0,,Atrapado en el bucle infinito\Nde un juego antiguo y muy malo.
+Dialogue: 0,0:16:37.78,0:16:39.54,Default,,0,0,0,,¿Dijiste "bucle infinito"?
+Dialogue: 0,0:16:46.17,0:16:48.34,Default,,0,0,0,,Ah, eso lo hizo callarse.
+Dialogue: 0,0:16:54.43,0:16:59.01,Default,,0,0,0,,¿Por qué tengo la sensación\Nde que a más silencioso, más letal?
+Dialogue: 0,0:16:59.39,0:17:00.35,Default,,0,0,0,,Algo está mal.
+Dialogue: 0,0:17:02.77,0:17:04.39,Default,,0,0,0,,Los portales no aguantarán.
+Dialogue: 0,0:17:10.44,0:17:13.94,Default,,0,0,0,,Es difícil encontrar portales confiables\Nhoy en día.
+Dialogue: 0,0:17:14.03,0:17:15.82,Default,,0,0,0,,¡Ay no!
+Dialogue: 0,0:17:16.32,0:17:19.83,Default,,0,0,0,,Está bien. Quizá los árboles\Nmantengan al píxel ocupado.
+Dialogue: 0,0:17:26.33,0:17:30.21,Default,,0,0,0,,O quizá se dirija hacia\Nla central eléctrica más cercana.
+Dialogue: 0,0:17:30.42,0:17:31.71,Default,,0,0,0,,Podemos con esto.
+Dialogue: 0,0:17:31.80,0:17:34.13,Default,,0,0,0,,Al menos lo están desacelerando.
+Dialogue: 0,0:17:34.21,0:17:37.43,Default,,0,0,0,,- Tendremos que interceptarlo.\N- No puedo, es rápido.
+Dialogue: 0,0:17:37.51,0:17:40.93,Default,,0,0,0,,¿Quieres aumentar el rendimiento?\N¡Acelera la tecnología!
+Dialogue: 0,0:17:43.97,0:17:47.14,Default,,0,0,0,,- ¿Acaso se puede?\N- La compañía no te lo dice.
+Dialogue: 0,0:17:47.23,0:17:50.02,Default,,0,0,0,,Sobre todo porque puede dañar su equipo.
+Dialogue: 0,0:17:51.82,0:17:54.23,Default,,0,0,0,,- ¡Quiero ser como el viento!\N- ¡Espera!
+Dialogue: 0,0:17:54.74,0:17:57.70,Default,,0,0,0,,Una vez que aceleremos,\Ntendremos 30 segundos
+Dialogue: 0,0:17:57.78,0:18:00.70,Default,,0,0,0,,antes de que se sobrecalienten,\N¿entendido?
+Dialogue: 0,0:18:02.74,0:18:04.66,Default,,0,0,0,,Claro que sí.
+Dialogue: 0,0:18:07.33,0:18:09.25,Default,,0,0,0,,REINO DE LOS JUEGOS
+Dialogue: 0,0:18:15.59,0:18:18.22,Default,,0,0,0,,ACCESORIOS
+Dialogue: 0,0:18:21.26,0:18:25.18,Default,,0,0,0,,Papá, espero que hayas sido\Ntan buen maestro como fuiste hacker.
+Dialogue: 0,0:18:31.86,0:18:33.27,Default,,0,0,0,,Descarga completada.
+Dialogue: 0,0:18:43.53,0:18:44.70,Default,,0,0,0,,¿Un malvavisco?
+Dialogue: 0,0:18:47.70,0:18:48.71,Default,,0,0,0,,¡Tostadito!
+Dialogue: 0,0:19:04.56,0:19:05.76,Default,,0,0,0,,¡Estoy volando!
+Dialogue: 0,0:19:09.56,0:19:12.27,Default,,0,0,0,,¡Viejo, te presento a la nueva generación!
+Dialogue: 0,0:19:12.35,0:19:13.19,Default,,0,0,0,,DEFENSA MÁXIMA
+Dialogue: 0,0:19:17.28,0:19:18.86,Default,,0,0,0,,FALLA MÁXIMA
+Dialogue: 0,0:19:21.53,0:19:24.16,Default,,0,0,0,,¡Miko, tu brazalete!
+Dialogue: 0,0:19:31.71,0:19:33.33,Default,,0,0,0,,¡ALERTA! ¡ALERTA! ¡ALERTA!
+Dialogue: 0,0:19:46.64,0:19:48.72,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:19:49.47,0:19:50.85,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:20:02.36,0:20:03.32,Default,,0,0,0,,APAGANDO
+Dialogue: 0,0:20:10.70,0:20:12.04,Default,,0,0,0,,¡No!
+Dialogue: 0,0:20:17.34,0:20:19.25,Default,,0,0,0,,Se acabó la diversión, anciano.
+Dialogue: 0,0:20:20.80,0:20:22.26,Default,,0,0,0,,COMBATIR
+Dialogue: 0,0:20:29.68,0:20:32.89,Default,,0,0,0,,¡Estallido... arco iris... de unicornio!
+Dialogue: 0,0:20:42.11,0:20:43.28,Default,,0,0,0,,¡Eso es!
+Dialogue: 0,0:20:48.78,0:20:51.70,Default,,0,0,0,,¡Sí! ¡Así se hace! ¡Bien hecho, Five...!
+Dialogue: 0,0:20:52.91,0:20:54.21,Default,,0,0,0,,Me tragué un bicho.
+Dialogue: 0,0:20:59.54,0:21:01.63,Default,,0,0,0,,Vaya, esos gráficos son terribles.
+Dialogue: 0,0:21:07.84,0:21:08.89,Default,,0,0,0,,Glitch contenido.
+Dialogue: 0,0:21:08.97,0:21:10.60,Default,,0,0,0,,PROCESANDO
+Dialogue: 0,0:21:13.31,0:21:15.69,Default,,0,0,0,,REINO DE LOS JUEGOS
+Dialogue: 0,0:21:15.77,0:21:16.60,Default,,0,0,0,,PING\NADQUIRIDO
+Dialogue: 0,0:21:23.28,0:21:25.65,Default,,0,0,0,,- Sigo yo.\N- Ahí tienes, Geri,
+Dialogue: 0,0:21:25.74,0:21:27.74,Default,,0,0,0,,cortesía del servicio\Nde Hinobi.
+Dialogue: 0,0:21:30.91,0:21:31.91,Default,,0,0,0,,Gracias, nene.
+Dialogue: 0,0:21:32.91,0:21:35.54,Default,,0,0,0,,Bueno, chicos, ¡a jugar Ping!
+Dialogue: 0,0:21:41.25,0:21:43.46,Default,,0,0,0,,¡Hola! Ahí está.
+Dialogue: 0,0:21:43.88,0:21:44.84,Default,,0,0,0,,Hola, papá.
+Dialogue: 0,0:21:44.92,0:21:48.01,Default,,0,0,0,,¿Cómo estas, mi vida?\NPensé que no te vería.
+Dialogue: 0,0:21:48.09,0:21:51.01,Default,,0,0,0,,Para nada. Pero estaba\Nen la tienda de Geri.
+Dialogue: 0,0:21:51.43,0:21:55.31,Default,,0,0,0,,Estoy tan feliz. ¿Finalmente fuiste?\N¿Cómo está todo por allá?
+Dialogue: 0,0:21:55.73,0:21:59.10,Default,,0,0,0,,Genial como siempre.\NGeri acaba de comprar una Ping.
+Dialogue: 0,0:21:59.19,0:22:02.36,Default,,0,0,0,,- ¿Todavía funciona?\N- Sí, y funciona bien.
+Dialogue: 0,0:22:03.11,0:22:05.07,Default,,0,0,0,,Unicorp sigue siendo mi favorito.
+Dialogue: 0,0:22:06.49,0:22:08.03,Default,,0,0,0,,¿Ya superaste mi puntaje?
+Dialogue: 0,0:22:08.11,0:22:10.78,Default,,0,0,0,,Todavía no, pero ya casi.
+Dialogue: 0,0:22:42.31,0:22:45.23,Default,,0,0,0,,Subtítulos: Carolina Salazar

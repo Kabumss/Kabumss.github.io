@@ -1,0 +1,340 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GlitchTechsT01E05
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.00,0:00:11.01,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:20.64,0:00:23.35,Default,,0,0,0,,Recibo una señal de esa casa.
+Dialogue: 0,0:00:23.44,0:00:25.52,Default,,0,0,0,,¿Por qué siempre hay Glitches aquí?
+Dialogue: 0,0:00:25.60,0:00:28.94,Default,,0,0,0,,No sé, Bergy, pero los brazaletes\Nno tienen mucha señal.
+Dialogue: 0,0:00:41.87,0:00:44.54,Default,,0,0,0,,Buscando señales.
+Dialogue: 0,0:00:48.29,0:00:50.00,Default,,0,0,0,,Qué muebles extraños.
+Dialogue: 0,0:00:50.71,0:00:52.42,Default,,0,0,0,,Se agota mi energía.
+Dialogue: 0,0:00:53.05,0:00:54.80,Default,,0,0,0,,La mía también. No me gusta.
+Dialogue: 0,0:00:54.88,0:00:58.30,Default,,0,0,0,,No te asustes.\NRecargaremos después de la misión.
+Dialogue: 0,0:00:58.39,0:00:59.68,Default,,0,0,0,,No me asusto.
+Dialogue: 0,0:00:59.76,0:01:03.68,Default,,0,0,0,,Solo estoy experimentando\Nun pequeño pico de ansiedad.
+Dialogue: 0,0:01:03.77,0:01:04.89,Default,,0,0,0,,PIZZA
+Dialogue: 0,0:01:05.60,0:01:08.48,Default,,0,0,0,,Bien, encontré la fuente.\NUna consola glitcheada.
+Dialogue: 0,0:01:09.02,0:01:11.15,Default,,0,0,0,,Claro, bloquearon la ventilación.
+Dialogue: 0,0:01:11.23,0:01:13.36,Default,,0,0,0,,¡Nadie respeta la ventilación!
+Dialogue: 0,0:01:14.03,0:01:15.86,Default,,0,0,0,,Mira qué estaban jugando.
+Dialogue: 0,0:01:16.86,0:01:18.24,Default,,0,0,0,,{\i1}Castlestein.{\i0}
+Dialogue: 0,0:01:24.41,0:01:27.04,Default,,0,0,0,,De acuerdo. ¡Ahora estoy asustado!
+Dialogue: 0,0:01:35.34,0:01:38.43,Default,,0,0,0,,¡Sí! Recogí todos los {\i1}shmoogs.{\i0}\N¡A la tercera vuelta!
+Dialogue: 0,0:01:38.51,0:01:41.47,Default,,0,0,0,,No te pierdas la sorpresa\Nbajo el último anillo.
+Dialogue: 0,0:01:43.93,0:01:45.73,Default,,0,0,0,,¿Cómo lo encontraste?
+Dialogue: 0,0:01:45.81,0:01:48.69,Default,,0,0,0,,- En mi segunda jugada.\N- ¿Ya ganaste este juego?
+Dialogue: 0,0:01:48.90,0:01:49.77,Default,,0,0,0,,Sabes cómo es,
+Dialogue: 0,0:01:49.85,0:01:53.02,Default,,0,0,0,,hasta que no lo gano,\Nno puedo pasar al siguiente.
+Dialogue: 0,0:01:53.11,0:01:56.19,Default,,0,0,0,,Sí, claro. Sé cómo es.
+Dialogue: 0,0:01:56.44,0:01:58.28,Default,,0,0,0,,¿Has ganado todos los juegos?
+Dialogue: 0,0:01:58.70,0:02:00.99,Default,,0,0,0,,Bueno, no todos los juegos.
+Dialogue: 0,0:02:02.37,0:02:03.20,Default,,0,0,0,,Bien.
+Dialogue: 0,0:02:03.54,0:02:05.16,Default,,0,0,0,,Solo los que jugué.
+Dialogue: 0,0:02:07.21,0:02:08.04,Default,,0,0,0,,FIN DEL JUEGO
+Dialogue: 0,0:02:08.12,0:02:10.63,Default,,0,0,0,,Chicos, les tengo una misión.
+Dialogue: 0,0:02:11.04,0:02:11.92,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:02:13.50,0:02:18.13,Default,,0,0,0,,{\i1}La cosa es así.{\i0}\N{\i1}Nix y Bergy desaparecieron por un caso.{\i0}
+Dialogue: 0,0:02:18.22,0:02:22.14,Default,,0,0,0,,{\i1}No ubico sus brazaletes,{\i0}\N{\i1}necesito que un equipo B los busque.{\i0}
+Dialogue: 0,0:02:22.51,0:02:24.60,Default,,0,0,0,,¿En serio? ¿Somos el equipo B?
+Dialogue: 0,0:02:24.68,0:02:27.52,Default,,0,0,0,,{\i1}Bueno, en sentido figurado,{\i0}\N{\i1}son el equipo B.{\i0}
+Dialogue: 0,0:02:27.60,0:02:29.60,Default,,0,0,0,,{\i1}Literalmente, son el equipo D.{\i0}
+Dialogue: 0,0:02:30.02,0:02:31.98,Default,,0,0,0,,Pero es lo que hay, ¿no?
+Dialogue: 0,0:02:32.06,0:02:35.82,Default,,0,0,0,,- ¡Somos nosotros! ¡Somos lo que hay!\N- ¡Sí!
+Dialogue: 0,0:02:36.07,0:02:36.90,Default,,0,0,0,,{\i1}Maravilloso.{\i0}
+Dialogue: 0,0:02:36.99,0:02:40.32,Default,,0,0,0,,{\i1}Según nuestros datos,{\i0}\N{\i1}se enfrentarán a un Glitch de mapeo{\i0}
+Dialogue: 0,0:02:40.41,0:02:44.37,Default,,0,0,0,,{\i1}que coloca mapas de videojuegos{\i0}\N{\i1}sobre ambientes de la vida real.{\i0}
+Dialogue: 0,0:02:44.74,0:02:47.33,Default,,0,0,0,,{\i1}El Glitch{\i0}\N{\i1}que enfrentarán es el mismo juego.{\i0}
+Dialogue: 0,0:02:47.41,0:02:51.17,Default,,0,0,0,,{\i1}Si ganan el juego, le ganan al Glitch.{\i0}\N¿Capisce?
+Dialogue: 0,0:02:51.42,0:02:54.79,Default,,0,0,0,,- Totalmente.\N- Sí, ¿qué juego dices que es?
+Dialogue: 0,0:02:54.88,0:02:57.46,Default,,0,0,0,,{\i1}No escuchamos bien su última transmisión,{\i0}
+Dialogue: 0,0:02:57.55,0:02:59.97,Default,,0,0,0,,{\i1}algo así como {\i0}Castle Grime {\i1}o...{\i0}
+Dialogue: 0,0:03:00.05,0:03:03.64,Default,,0,0,0,,¡Santo cielo! ¡Amo {\i1}Castlestein!{\i0}
+Dialogue: 0,0:03:04.14,0:03:06.64,Default,,0,0,0,,Sí, ya lo gané.
+Dialogue: 0,0:03:08.77,0:03:10.10,Default,,0,0,0,,Una puerta que cruje.
+Dialogue: 0,0:03:11.23,0:03:13.86,Default,,0,0,0,,Necesitamos más que eso para asustar...
+Dialogue: 0,0:03:15.69,0:03:17.69,Default,,0,0,0,,Bien, eso es espeluznante.
+Dialogue: 0,0:03:24.03,0:03:27.74,Default,,0,0,0,,Parece que estos mapas gráficos\Nsolo están dentro de la casa.
+Dialogue: 0,0:03:27.83,0:03:29.16,Default,,0,0,0,,Mapa. No hay mapa.
+Dialogue: 0,0:03:29.66,0:03:31.00,Default,,0,0,0,,Mapa. No hay mapa.
+Dialogue: 0,0:03:31.79,0:03:33.08,Default,,0,0,0,,Mapa. No hay mapa.
+Dialogue: 0,0:03:33.58,0:03:34.71,Default,,0,0,0,,Mapa. No hay mapa.
+Dialogue: 0,0:03:35.42,0:03:37.13,Default,,0,0,0,,{\i1}Gracias por aclararlo, Miko.{\i0}
+Dialogue: 0,0:03:37.21,0:03:40.09,Default,,0,0,0,,Encontremos los técnicos\Ny destruyamos el Glitch.
+Dialogue: 0,0:03:41.72,0:03:43.34,Default,,0,0,0,,¡No puedo creerlo!
+Dialogue: 0,0:03:43.43,0:03:47.97,Default,,0,0,0,,Estamos dentro del castillo\Nde {\i1}Castlestein.{\i0}
+Dialogue: 0,0:03:48.06,0:03:50.02,Default,,0,0,0,,Phil, ¿estás monitoreando esto?
+Dialogue: 0,0:03:50.10,0:03:53.44,Default,,0,0,0,,{\i1}Sí, pero hay un muro de interferencia{\i0}\N{\i1}que opaca la señal.{\i0}
+Dialogue: 0,0:03:53.52,0:03:55.15,Default,,0,0,0,,{\i1}¿Qué ven?{\i0}
+Dialogue: 0,0:03:56.02,0:03:57.86,Default,,0,0,0,,Muros de interferencia.
+Dialogue: 0,0:04:01.40,0:04:02.90,Default,,0,0,0,,Oye, un brazalete.
+Dialogue: 0,0:04:13.29,0:04:14.42,Default,,0,0,0,,¡Es Bergy!
+Dialogue: 0,0:04:14.54,0:04:16.92,Default,,0,0,0,,- Está atascado. Pobre.\N- Totalmente.
+Dialogue: 0,0:04:17.25,0:04:21.30,Default,,0,0,0,,Si fuese una estatua, habría elegido\Nuna pose mucho más genial.
+Dialogue: 0,0:04:23.97,0:04:27.60,Default,,0,0,0,,{\i1}¿Quién sabe qué pasa{\i0}\N{\i1}cuando un videojuego tiene un Glitch?{\i0}
+Dialogue: 0,0:04:28.05,0:04:30.27,Default,,0,0,0,,{\i1}Vienen los Glitch Tech{\i0}\N{\i1}Saben qué hacer{\i0}
+Dialogue: 0,0:04:30.35,0:04:32.68,Default,,0,0,0,,{\i1}¡Tienen la tecnología{\i0}\N{\i1}Y los movimientos!{\i0}
+Dialogue: 0,0:04:32.77,0:04:36.02,Default,,0,0,0,,{\i1}¡Glitch Techs! ¡Los demoledores!{\i0}\N{\i1}¡Lo solucionarán!{\i0}
+Dialogue: 0,0:04:36.10,0:04:39.57,Default,,0,0,0,,{\i1}Si un Glitch anda suelto,{\i0}\N{\i1}¡Lo acabarán como sea!{\i0}
+Dialogue: 0,0:04:39.65,0:04:43.11,Default,,0,0,0,,{\i1}Los Glitch Techs siempre llegan{\i0}\N{\i1}¡Para resolver el problema!{\i0}
+Dialogue: 0,0:04:43.19,0:04:44.03,Default,,0,0,0,,{\i1}¡Glitch Techs!{\i0}
+Dialogue: 0,0:04:48.49,0:04:51.33,Default,,0,0,0,,{\i1}¡Glitch Techs! ¡Sí!{\i0}
+Dialogue: 0,0:04:53.25,0:04:56.46,Default,,0,0,0,,¿Está bien?\NAdemás de ser una estatua humana.
+Dialogue: 0,0:04:58.67,0:05:00.38,Default,,0,0,0,,Está dormido ahí dentro.
+Dialogue: 0,0:05:00.46,0:05:02.05,Default,,0,0,0,,Phil, encontramos a Bergy.
+Dialogue: 0,0:05:03.34,0:05:05.43,Default,,0,0,0,,{\i1}Estoy perdiendo la señal.{\i0}
+Dialogue: 0,0:05:05.59,0:05:06.63,Default,,0,0,0,,{\i1}Vaya, estos...{\i0}
+Dialogue: 0,0:05:06.76,0:05:07.59,Default,,0,0,0,,¿Phil?
+Dialogue: 0,0:05:08.43,0:05:10.85,Default,,0,0,0,,Debemos deshacernos de la interferencia.
+Dialogue: 0,0:05:15.73,0:05:18.56,Default,,0,0,0,,Quizá por eso\Nlos técnicos perdieron contacto.
+Dialogue: 0,0:05:19.02,0:05:19.98,Default,,0,0,0,,ENERGÍA BAJA
+Dialogue: 0,0:05:20.06,0:05:23.94,Default,,0,0,0,,Tendremos que apagarlos\Nhasta que tengamos más señal.
+Dialogue: 0,0:05:24.28,0:05:27.70,Default,,0,0,0,,Phil dijo que si ganábamos el juego,\Nvencíamos al Glitch.
+Dialogue: 0,0:05:27.78,0:05:30.58,Default,,0,0,0,,Y todos ganaron {\i1}Castlestein,{\i0} ¿no?
+Dialogue: 0,0:05:31.20,0:05:33.20,Default,,0,0,0,,- Sí, totalmente.\N- ¡Vamos!
+Dialogue: 0,0:05:34.00,0:05:35.71,Default,,0,0,0,,¡A jugar, compañero!
+Dialogue: 0,0:05:38.88,0:05:44.05,Default,,0,0,0,,¡Los mapas glitcheados convirtieron\Neste lugar en un verdadero castillo!
+Dialogue: 0,0:05:48.09,0:05:49.84,Default,,0,0,0,,¡Eso fue como en el juego!
+Dialogue: 0,0:05:50.39,0:05:53.10,Default,,0,0,0,,¿Significa que podemos guardar el botín?
+Dialogue: 0,0:05:53.43,0:05:54.39,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,0:05:55.27,0:05:58.02,Default,,0,0,0,,Ahora que estamos dentro\Nde un juego así,
+Dialogue: 0,0:05:58.10,0:05:59.94,Default,,0,0,0,,puedes ver lo tonto que es.
+Dialogue: 0,0:06:00.69,0:06:04.03,Default,,0,0,0,,Y también el villano\Ndel juego es un zonzo.
+Dialogue: 0,0:06:04.11,0:06:06.94,Default,,0,0,0,,¿Recuerdas que tenía la risa más tonta?
+Dialogue: 0,0:06:12.16,0:06:16.58,Default,,0,0,0,,{\i1}¿Quién se atreve{\i0}\N{\i1}a perturbar mi oscuro sueño?{\i0}
+Dialogue: 0,0:06:19.29,0:06:22.46,Default,,0,0,0,,¡Es él! Conde Nogrog.
+Dialogue: 0,0:06:28.63,0:06:30.22,Default,,0,0,0,,¿Qué está esperando?
+Dialogue: 0,0:06:30.30,0:06:31.59,Default,,0,0,0,,¡El diálogo!
+Dialogue: 0,0:06:32.89,0:06:37.31,Default,,0,0,0,,¡Criatura vil, estoy aquí\Npara terminar tu reinado
+Dialogue: 0,0:06:37.39,0:06:39.69,Default,,0,0,0,,y salvar a la humanidad!
+Dialogue: 0,0:06:40.06,0:06:41.35,Default,,0,0,0,,Ahora es su línea.
+Dialogue: 0,0:06:41.44,0:06:43.94,Default,,0,0,0,,¿La humanidad? ¡Me río!
+Dialogue: 0,0:06:44.52,0:06:49.40,Default,,0,0,0,,¿Qué es un mortal\Nsino un montón de vanidades?
+Dialogue: 0,0:06:52.78,0:06:53.78,Default,,0,0,0,,Te toca.
+Dialogue: 0,0:06:54.99,0:06:58.16,Default,,0,0,0,,Puedes gobernar la oscuridad, pero...
+Dialogue: 0,0:06:58.25,0:07:01.92,Default,,0,0,0,,Algo... Algo... ¡Luz!
+Dialogue: 0,0:07:02.42,0:07:05.34,Default,,0,0,0,,Acepto su reto.
+Dialogue: 0,0:07:05.42,0:07:06.34,Default,,0,0,0,,COMIENZO
+Dialogue: 0,0:07:06.67,0:07:08.42,Default,,0,0,0,,Pero tengan cuidado,
+Dialogue: 0,0:07:08.67,0:07:11.63,Default,,0,0,0,,porque cuando llegue\Nla medianoche negativa,
+Dialogue: 0,0:07:11.72,0:07:14.47,Default,,0,0,0,,se unirán a mi colección
+Dialogue: 0,0:07:14.97,0:07:16.10,Default,,0,0,0,,¡para siempre!
+Dialogue: 0,0:07:31.57,0:07:33.24,Default,,0,0,0,,¡Cabeza en alto! ¿Entiendes?
+Dialogue: 0,0:07:33.45,0:07:35.83,Default,,0,0,0,,¡Son los Esquele-tomos!
+Dialogue: 0,0:07:39.20,0:07:41.25,Default,,0,0,0,,Tienen la columna hecha de libros.
+Dialogue: 0,0:07:45.21,0:07:46.75,Default,,0,0,0,,Ahora lo recuerdo todo.
+Dialogue: 0,0:07:48.38,0:07:51.97,Default,,0,0,0,,¡Sí! Tengo el palo puntiagudo.
+Dialogue: 0,0:07:54.51,0:07:56.35,Default,,0,0,0,,¿Tengo una espada doblada?
+Dialogue: 0,0:08:02.89,0:08:06.19,Default,,0,0,0,,¿Te quedas con eso?\NCuando jugué, la tiré.
+Dialogue: 0,0:08:06.44,0:08:07.40,Default,,0,0,0,,Para nada.
+Dialogue: 0,0:08:07.48,0:08:10.69,Default,,0,0,0,,Debes guardar todo el botín.\NNada puede hacerte mal...
+Dialogue: 0,0:08:14.16,0:08:15.16,Default,,0,0,0,,No digas nada.
+Dialogue: 0,0:08:15.24,0:08:17.58,Default,,0,0,0,,Pero la ironía... Está bien. Vamos.
+Dialogue: 0,0:08:17.66,0:08:18.91,Default,,0,0,0,,¡Por aquí!
+Dialogue: 0,0:08:20.66,0:08:22.04,Default,,0,0,0,,Por allá.
+Dialogue: 0,0:08:28.13,0:08:29.17,Default,,0,0,0,,¡Amigo!
+Dialogue: 0,0:08:29.55,0:08:30.38,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:08:30.96,0:08:33.47,Default,,0,0,0,,No necesitas saquear todas las antorchas.
+Dialogue: 0,0:08:33.72,0:08:34.72,Default,,0,0,0,,¡Claro que sí!
+Dialogue: 0,0:08:41.77,0:08:45.06,Default,,0,0,0,,Mira, es ese cofre del tesoro\Nque no puedes alcanzar.
+Dialogue: 0,0:08:45.14,0:08:47.36,Default,,0,0,0,,Un diseño de juego muy chiflado, ¿no?
+Dialogue: 0,0:08:47.44,0:08:51.07,Default,,0,0,0,,¿Tú también caíste en eso?\NEs muy de{\i1} Castlestein.{\i0}
+Dialogue: 0,0:09:00.28,0:09:02.29,Default,,0,0,0,,¡Acabas de ganar el botín mayor!
+Dialogue: 0,0:09:02.75,0:09:05.00,Default,,0,0,0,,¡Guantes magnéticos! Son raros.
+Dialogue: 0,0:09:05.08,0:09:06.00,Default,,0,0,0,,Y...
+Dialogue: 0,0:09:06.54,0:09:08.38,Default,,0,0,0,,...son geniales porque
+Dialogue: 0,0:09:08.83,0:09:10.21,Default,,0,0,0,,se usan para...
+Dialogue: 0,0:09:10.38,0:09:13.84,Default,,0,0,0,,- Ya sabes, desarmar a los caballeros.\N- ...los caballeros.
+Dialogue: 0,0:09:13.92,0:09:15.76,Default,,0,0,0,,Sí, lo entendí.
+Dialogue: 0,0:09:17.80,0:09:19.47,Default,,0,0,0,,Necesito ayuda.
+Dialogue: 0,0:09:19.85,0:09:22.35,Default,,0,0,0,,¿Quieres chequear la siguiente habitación?
+Dialogue: 0,0:09:22.43,0:09:23.27,Default,,0,0,0,,¿Yo?
+Dialogue: 0,0:09:24.43,0:09:26.06,Default,,0,0,0,,Sí, niña, lo haré.
+Dialogue: 0,0:09:26.14,0:09:29.81,Default,,0,0,0,,Lo que sea que venga, Five te ayudará
+Dialogue: 0,0:09:29.90,0:09:31.44,Default,,0,0,0,,desde adelante.
+Dialogue: 0,0:09:36.65,0:09:38.20,Default,,0,0,0,,¡Adelante, enanos!
+Dialogue: 0,0:09:39.95,0:09:41.24,Default,,0,0,0,,Es la Armería.
+Dialogue: 0,0:09:41.33,0:09:44.58,Default,,0,0,0,,Sí, hay que pasar por el minimonstruo.\N¿Es un problema?
+Dialogue: 0,0:09:45.58,0:09:49.42,Default,,0,0,0,,No, estoy muer... Bien... Genial.
+Dialogue: 0,0:09:49.92,0:09:51.92,Default,,0,0,0,,Tranquilo como agua de pozo.
+Dialogue: 0,0:09:55.76,0:09:58.30,Default,,0,0,0,,Bien, Five, puedes hacerlo.
+Dialogue: 0,0:10:01.55,0:10:04.64,Default,,0,0,0,,Nadie derrota\Nal Demonio de acero de la verdad.
+Dialogue: 0,0:10:05.43,0:10:08.85,Default,,0,0,0,,¡Todos los que lo intenten fracasarán!
+Dialogue: 0,0:10:08.94,0:10:12.77,Default,,0,0,0,,Fue un desafío inteligente.\NTardé un poco en vencerlo.
+Dialogue: 0,0:10:12.86,0:10:16.07,Default,,0,0,0,,- Quizá quieras retroceder.\N- Todo tuyo, campeón.
+Dialogue: 0,0:10:17.24,0:10:21.53,Default,,0,0,0,,Oye, ¿sabes qué hora es?\N¡Es la hora de Five!
+Dialogue: 0,0:10:21.62,0:10:22.58,Default,,0,0,0,,LUCHA
+Dialogue: 0,0:10:28.41,0:10:31.42,Default,,0,0,0,,Solo debilito sus defensas. Ya vuelvo.
+Dialogue: 0,0:10:54.90,0:10:57.49,Default,,0,0,0,,Bien, Miko. Lo cansé,
+Dialogue: 0,0:10:57.57,0:11:00.49,Default,,0,0,0,,pero tal vez podríamos hacerlo en equipo.
+Dialogue: 0,0:11:00.57,0:11:02.62,Default,,0,0,0,,¿De verdad? ¿Por qué?
+Dialogue: 0,0:11:03.62,0:11:04.99,Default,,0,0,0,,Porque...
+Dialogue: 0,0:11:05.58,0:11:06.83,Default,,0,0,0,,Porque...
+Dialogue: 0,0:11:07.75,0:11:08.83,Default,,0,0,0,,¡Porque mentí!
+Dialogue: 0,0:11:09.37,0:11:10.92,Default,,0,0,0,,Nunca gané este juego.
+Dialogue: 0,0:11:11.00,0:11:15.09,Default,,0,0,0,,Si no actúas ahora,\Nterminaremos aquí para siempre.
+Dialogue: 0,0:11:15.17,0:11:16.34,Default,,0,0,0,,¿De acuerdo, Miko?
+Dialogue: 0,0:11:16.42,0:11:17.46,Default,,0,0,0,,¿Miko?
+Dialogue: 0,0:11:19.47,0:11:22.72,Default,,0,0,0,,Nunca gané el juego.
+Dialogue: 0,0:11:26.72,0:11:29.27,Default,,0,0,0,,Sabía que nunca ganaste ese juego.
+Dialogue: 0,0:11:29.35,0:11:31.85,Default,,0,0,0,,Deberías verte la cara, es toda...
+Dialogue: 0,0:11:36.15,0:11:37.19,Default,,0,0,0,,Esa pared era...
+Dialogue: 0,0:11:37.27,0:11:39.65,Default,,0,0,0,,No tan puntiaguda. ¿Quién lo creería?
+Dialogue: 0,0:11:39.74,0:11:44.32,Default,,0,0,0,,¿La única manera de derrotar\Nal Demonio era no derrotarlo?
+Dialogue: 0,0:11:44.41,0:11:48.83,Default,,0,0,0,,Él mismo dijo:\N"Todos los que lo intenten fallarán".
+Dialogue: 0,0:11:48.91,0:11:49.75,Default,,0,0,0,,La verdad.
+Dialogue: 0,0:11:51.83,0:11:55.84,Default,,0,0,0,,Estuve atascado mucho tiempo\Nodiando este juego por ser imposible,
+Dialogue: 0,0:11:55.92,0:11:58.50,Default,,0,0,0,,y la respuesta siempre estuvo\Ndelante de mí.
+Dialogue: 0,0:11:58.59,0:12:02.26,Default,,0,0,0,,No te castigues. ¡Es solo{\i1} Castlestein!{\i0}
+Dialogue: 0,0:12:02.34,0:12:03.88,Default,,0,0,0,,¡Se te mete en la cabeza!
+Dialogue: 0,0:12:04.14,0:12:07.47,Default,,0,0,0,,Podrías haberme dicho\Nque nunca lo habías ganado.
+Dialogue: 0,0:12:07.56,0:12:08.39,Default,,0,0,0,,Lo sé.
+Dialogue: 0,0:12:08.64,0:12:12.02,Default,,0,0,0,,Pero siempre alardeas\Nde que ganaste todos los juegos.
+Dialogue: 0,0:12:12.10,0:12:14.40,Default,,0,0,0,,Bueno, tal vez no todos.
+Dialogue: 0,0:12:14.48,0:12:16.73,Default,,0,0,0,,Además, no habría pensado menos en ti.
+Dialogue: 0,0:12:16.81,0:12:19.07,Default,,0,0,0,,Ganar un juego no es tan importante.
+Dialogue: 0,0:12:19.15,0:12:21.49,Default,,0,0,0,,Sí, bueno, lo ganaré ahora.
+Dialogue: 0,0:12:22.99,0:12:26.24,Default,,0,0,0,,¿Oíste eso, {\i1}Castlestein?{\i0}\NVoy por ti, hermano.
+Dialogue: 0,0:12:26.78,0:12:29.33,Default,,0,0,0,,Esto va a la torre del reloj de Nogrog.
+Dialogue: 0,0:12:29.41,0:12:31.95,Default,,0,0,0,,¿Listo para luchar contra el jefe?
+Dialogue: 0,0:12:32.04,0:12:32.87,Default,,0,0,0,,¡Listo!
+Dialogue: 0,0:12:36.79,0:12:37.71,Default,,0,0,0,,LUCHA FINAL
+Dialogue: 0,0:12:37.79,0:12:38.63,Default,,0,0,0,,LLEGANDO
+Dialogue: 0,0:12:47.68,0:12:52.60,Default,,0,0,0,,Llegó la noche\Nen que se unirán a mi colección.
+Dialogue: 0,0:12:53.73,0:12:56.77,Default,,0,0,0,,Les puse mi alma y mi corazón.
+Dialogue: 0,0:12:56.85,0:13:01.44,Default,,0,0,0,,Disfrutarán de la vida eterna
+Dialogue: 0,0:13:01.53,0:13:02.90,Default,,0,0,0,,como mis juguetes.
+Dialogue: 0,0:13:12.33,0:13:15.66,Default,,0,0,0,,Llegó la noche, alma y corazón...
+Dialogue: 0,0:13:15.92,0:13:17.88,Default,,0,0,0,,¡Deben ser pistas de un acertijo!
+Dialogue: 0,0:13:17.96,0:13:21.38,Default,,0,0,0,,Si me caigo, pueden levantarse,
+Dialogue: 0,0:13:21.46,0:13:25.30,Default,,0,0,0,,pero el tiempo siempre está de mi lado.
+Dialogue: 0,0:13:25.51,0:13:28.43,Default,,0,0,0,,O tal vez el diálogo\Ndel juego sea muy malo.
+Dialogue: 0,0:13:29.39,0:13:33.35,Default,,0,0,0,,Toma mi mano, aprende el patrón\Ny apunta al tipo de pelo fabuloso.
+Dialogue: 0,0:13:33.85,0:13:34.93,Default,,0,0,0,,Hagámoslo.
+Dialogue: 0,0:13:48.82,0:13:50.49,Default,,0,0,0,,- ¿Tienes el patrón?\N- Sí.
+Dialogue: 0,0:13:58.21,0:13:59.04,Default,,0,0,0,,¡Ahora!
+Dialogue: 0,0:14:01.59,0:14:02.42,Default,,0,0,0,,¡CRÍTICO!
+Dialogue: 0,0:14:15.39,0:14:17.06,Default,,0,0,0,,¡Sí! ¡Lo logramos!
+Dialogue: 0,0:14:17.14,0:14:19.06,Default,,0,0,0,,Bien, esto es lo mejor.
+Dialogue: 0,0:14:19.14,0:14:22.23,Default,,0,0,0,,En esta parte, el juego se vuelve negro.
+Dialogue: 0,0:14:22.90,0:14:24.32,Default,,0,0,0,,Y...
+Dialogue: 0,0:14:24.94,0:14:26.57,Default,,0,0,0,,- ¿Es todo?\N- Fin del juego.
+Dialogue: 0,0:14:26.65,0:14:30.32,Default,,0,0,0,,Usted, buen señor, puede decir\Nque ha vencido a los 32 bits
+Dialogue: 0,0:14:30.41,0:14:32.41,Default,,0,0,0,,de genialidad de {\i1}Castelstein.{\i0}
+Dialogue: 0,0:14:33.87,0:14:35.70,Default,,0,0,0,,Pero aún oigo el reloj.
+Dialogue: 0,0:14:36.20,0:14:39.33,Default,,0,0,0,,Cuando jugaste antes,\N¿así terminaba tu juego?
+Dialogue: 0,0:14:39.42,0:14:40.71,Default,,0,0,0,,Déjame pensar.
+Dialogue: 0,0:14:40.79,0:14:44.84,Default,,0,0,0,,Le gané a Nogrog, se oscureció,\Nme quedé un rato, y luego,
+Dialogue: 0,0:14:44.92,0:14:48.55,Default,,0,0,0,,como obviamente no había manera\Nde salir de esta habitación...
+Dialogue: 0,0:14:49.34,0:14:50.80,Default,,0,0,0,,...apagué el juego.
+Dialogue: 0,0:14:51.72,0:14:53.22,Default,,0,0,0,,¿Lo apagaste?
+Dialogue: 0,0:14:53.30,0:14:54.64,Default,,0,0,0,,¡Sí, lo apagué!
+Dialogue: 0,0:14:54.72,0:14:57.35,Default,,0,0,0,,Como cuando apagas los aparatos\Nque no usas
+Dialogue: 0,0:14:57.43,0:15:01.65,Default,,0,0,0,,para no gastar energía. ¿Por qué te grito?
+Dialogue: 0,0:15:04.02,0:15:07.74,Default,,0,0,0,,- No ganaste el juego.\N- No gané este juego.
+Dialogue: 0,0:15:08.44,0:15:10.78,Default,,0,0,0,,Si no ganamos el juego...
+Dialogue: 0,0:15:10.86,0:15:12.62,Default,,0,0,0,,No derrotamos al Glitch.
+Dialogue: 0,0:15:19.04,0:15:22.79,Default,,0,0,0,,¡Es Nix! ¡Y son A, B, C!
+Dialogue: 0,0:15:22.88,0:15:26.42,Default,,0,0,0,,Vaya. Supongo que\Nde verdad éramos el equipo D.
+Dialogue: 0,0:15:26.50,0:15:27.84,Default,,0,0,0,,Solo que ahora...
+Dialogue: 0,0:15:29.42,0:15:30.88,Default,,0,0,0,,¡Estamos atascados
+Dialogue: 0,0:15:31.55,0:15:34.76,Default,,0,0,0,,en {\i1}Castlestein!{\i0}
+Dialogue: 0,0:15:38.68,0:15:41.19,Default,,0,0,0,,Bien, podemos resolver esto.
+Dialogue: 0,0:15:42.23,0:15:45.69,Default,,0,0,0,,Si el juego no terminó,\Nel Nogrog con el que luchamos
+Dialogue: 0,0:15:45.77,0:15:48.36,Default,,0,0,0,,debe haber sido falso o un señuelo.
+Dialogue: 0,0:15:48.44,0:15:52.20,Default,,0,0,0,,Todo en mi vida ha sido una mentira.\NSoy una mentira.
+Dialogue: 0,0:15:52.28,0:15:54.41,Default,,0,0,0,,Lo dijiste tú misma,
+Dialogue: 0,0:15:54.49,0:15:56.41,Default,,0,0,0,,este juego se mete en la cabeza.
+Dialogue: 0,0:15:56.53,0:15:59.12,Default,,0,0,0,,Solo necesitamos... ¿Qué haces?
+Dialogue: 0,0:15:59.20,0:16:01.16,Default,,0,0,0,,Solo intento ver qué pose hacer
+Dialogue: 0,0:16:01.25,0:16:03.33,Default,,0,0,0,,antes de congelarnos para siempre.
+Dialogue: 0,0:16:03.42,0:16:05.29,Default,,0,0,0,,¿Esta se ve mejor? ¿O esta?
+Dialogue: 0,0:16:05.38,0:16:06.25,Default,,0,0,0,,Miko.
+Dialogue: 0,0:16:06.96,0:16:09.42,Default,,0,0,0,,Tienes razón.\NDebo pensar en la comodidad.
+Dialogue: 0,0:16:09.84,0:16:11.80,Default,,0,0,0,,Para siempre es mucho tiempo.
+Dialogue: 0,0:16:11.92,0:16:13.84,Default,,0,0,0,,Vamos, despierta.
+Dialogue: 0,0:16:13.93,0:16:15.68,Default,,0,0,0,,Necesito a la Miko luchadora.
+Dialogue: 0,0:16:15.76,0:16:18.35,Default,,0,0,0,,La Miko que se arroja contra los pinchos.
+Dialogue: 0,0:16:18.72,0:16:20.35,Default,,0,0,0,,¿Y qué logró con eso?
+Dialogue: 0,0:16:20.43,0:16:21.39,Default,,0,0,0,,¡Atascarse!
+Dialogue: 0,0:16:21.48,0:16:26.11,Default,,0,0,0,,Está atascada con una bolsa llena\Ndel peor botín de la historia.
+Dialogue: 0,0:16:26.36,0:16:30.28,Default,,0,0,0,,Como esta espada ridícula,\Ninútil y destrozada.
+Dialogue: 0,0:16:32.70,0:16:34.49,Default,,0,0,0,,¿Dónde he visto este símbolo?
+Dialogue: 0,0:16:36.45,0:16:38.33,Default,,0,0,0,,¡Ahí! ¡Es el símbolo de Nogrog!
+Dialogue: 0,0:16:38.53,0:16:40.33,Default,,0,0,0,,¡Rápido, sube los engranajes!
+Dialogue: 0,0:16:42.25,0:16:44.33,Default,,0,0,0,,"Si me caigo, pueden levantarse".
+Dialogue: 0,0:16:44.42,0:16:47.00,Default,,0,0,0,,El diálogo de Nogrog tiene sentido.
+Dialogue: 0,0:16:50.50,0:16:51.59,Default,,0,0,0,,Eres un genio.
+Dialogue: 0,0:16:51.92,0:16:52.97,Default,,0,0,0,,¿Lo hacemos?
+Dialogue: 0,0:16:53.05,0:16:54.88,Default,,0,0,0,,- Juntos a las tres.\N- ¡Tres!
+Dialogue: 0,0:17:06.94,0:17:08.48,Default,,0,0,0,,Tengo una idea. Espera.
+Dialogue: 0,0:17:10.07,0:17:11.07,Default,,0,0,0,,¡Balancéame!
+Dialogue: 0,0:17:12.32,0:17:13.15,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:17:13.24,0:17:14.65,Default,,0,0,0,,Bien, ponte el otro.
+Dialogue: 0,0:17:14.74,0:17:19.12,Default,,0,0,0,,Encontraremos al verdadero conde Nogrog\Ny ganaremos su juego juntos.
+Dialogue: 0,0:17:50.40,0:17:52.36,Default,,0,0,0,,¡Ahora llegamos al cofre!
+Dialogue: 0,0:17:52.44,0:17:55.03,Default,,0,0,0,,Lo que haya ahí será totalmente...
+Dialogue: 0,0:17:55.24,0:17:56.49,Default,,0,0,0,,Una cuchara tenedor.
+Dialogue: 0,0:17:58.16,0:17:59.07,Default,,0,0,0,,{\i1}Castlestein.{\i0}
+Dialogue: 0,0:17:59.74,0:18:03.16,Default,,0,0,0,,¡Cielos! Lo atrapamos de regreso.
+Dialogue: 0,0:18:04.16,0:18:09.92,Default,,0,0,0,,Su intrusión\Nya no me es tolerable, humanos.
+Dialogue: 0,0:18:10.25,0:18:16.22,Default,,0,0,0,,Están en deuda,\Nel reloj marca la medianoche negativa.
+Dialogue: 0,0:18:16.63,0:18:19.97,Default,,0,0,0,,¡Ajá! ¡Pero es pasada la medianoche!
+Dialogue: 0,0:18:20.05,0:18:23.93,Default,,0,0,0,,¡Tus poderes te fallan, vil patán!
+Dialogue: 0,0:18:24.01,0:18:25.77,Default,,0,0,0,,- ¿Patán?\N- Se pondrá de moda.
+Dialogue: 0,0:18:28.77,0:18:31.15,Default,,0,0,0,,Pero con mi castillo invertido,
+Dialogue: 0,0:18:31.23,0:18:37.03,Default,,0,0,0,,tu medianoche pasada se convierte\Nen mi medianoche negativa.
+Dialogue: 0,0:18:48.04,0:18:51.67,Default,,0,0,0,,A juzgar por esa exhibición,\Nesta es la verdadera lucha final.
+Dialogue: 0,0:18:52.13,0:18:57.97,Default,,0,0,0,,La humanidad necesita salvadores\Ncomo ustedes.
+Dialogue: 0,0:19:11.19,0:19:12.98,Default,,0,0,0,,INVENTARIO: GUADAÑA, MAZO
+Dialogue: 0,0:19:14.82,0:19:15.77,Default,,0,0,0,,DAÑO: 0
+Dialogue: 0,0:19:17.40,0:19:18.32,Default,,0,0,0,,MARTILLO DE AJO
+Dialogue: 0,0:19:19.24,0:19:20.61,Default,,0,0,0,,DAÑO: 0\NGOLPE DE ENERGÍA
+Dialogue: 0,0:19:22.16,0:19:22.99,Default,,0,0,0,,BESO DE AMOR
+Dialogue: 0,0:19:23.07,0:19:23.91,Default,,0,0,0,,AMOR VERDADERO
+Dialogue: 0,0:19:31.29,0:19:32.37,Default,,0,0,0,,No funciona nada.
+Dialogue: 0,0:19:32.50,0:19:34.46,Default,,0,0,0,,Dame algo más. ¡Lo que sea!
+Dialogue: 0,0:19:38.17,0:19:39.05,Default,,0,0,0,,Veamos...
+Dialogue: 0,0:19:39.30,0:19:42.22,Default,,0,0,0,,Trofeo, costilla de hombre lobo,\Nchampiñones...
+Dialogue: 0,0:19:43.34,0:19:45.01,Default,,0,0,0,,¡Agotamos todo!
+Dialogue: 0,0:19:46.47,0:19:47.64,Default,,0,0,0,,¿Qué queda?
+Dialogue: 0,0:19:48.10,0:19:49.52,Default,,0,0,0,,El escudo y... ¡Toma!
+Dialogue: 0,0:19:51.31,0:19:53.44,Default,,0,0,0,,¿Qué diablos haré con esto, Five?
+Dialogue: 0,0:19:53.52,0:19:55.73,Default,,0,0,0,,¿Servirle un almuerzo caliente?
+Dialogue: 0,0:20:02.91,0:20:04.41,Default,,0,0,0,,¡Cuidado con el láser!
+Dialogue: 0,0:20:05.91,0:20:06.95,Default,,0,0,0,,¡Miko!
+Dialogue: 0,0:20:08.04,0:20:09.79,Default,,0,0,0,,¡Terminaremos como los demás!
+Dialogue: 0,0:20:09.87,0:20:13.12,Default,,0,0,0,,Atrapados en poses desesperadas y tontas.
+Dialogue: 0,0:20:28.26,0:20:29.93,Default,,0,0,0,,Miko, olvídate de Nogrog.
+Dialogue: 0,0:20:30.43,0:20:31.98,Default,,0,0,0,,Apunta a la estatua.
+Dialogue: 0,0:20:32.18,0:20:34.48,Default,,0,0,0,,¿Con qué, Five? ¿Con esto?
+Dialogue: 0,0:20:36.10,0:20:39.36,Default,,0,0,0,,¡Es la legendaria {\i1}tenespada{\i0} de Gygaggen!
+Dialogue: 0,0:20:39.44,0:20:42.69,Default,,0,0,0,,Perdón, ¿dijiste {\i1}tenespada?{\i0}
+Dialogue: 0,0:20:46.78,0:20:49.08,Default,,0,0,0,,¡Dispara! Sí, aprendo sobre la marcha.
+Dialogue: 0,0:20:53.25,0:20:54.87,Default,,0,0,0,,¡Inconceptual!
+Dialogue: 0,0:21:02.80,0:21:04.30,Default,,0,0,0,,¡Mi brazo de {\i1}tenespada!{\i0}
+Dialogue: 0,0:21:04.38,0:21:07.34,Default,,0,0,0,,¡Casi se les acaba el tiempo!
+Dialogue: 0,0:21:11.10,0:21:14.60,Default,,0,0,0,,Toma mi mano y apunta a la estatua\Nde pelo fabuloso.
+Dialogue: 0,0:21:15.23,0:21:16.60,Default,,0,0,0,,Hagámoslo.
+Dialogue: 0,0:21:24.78,0:21:27.45,Default,,0,0,0,,¡No!
+Dialogue: 0,0:21:30.16,0:21:33.04,Default,,0,0,0,,¿Quiénes se creen que son?
+Dialogue: 0,0:21:34.25,0:21:35.54,Default,,0,0,0,,VICTORIA\N10 000 XP
+Dialogue: 0,0:21:40.38,0:21:42.67,Default,,0,0,0,,¡Somos el equipo D, patán!
+Dialogue: 0,0:21:45.42,0:21:46.26,Default,,0,0,0,,Sí.
+Dialogue: 0,0:21:49.05,0:21:52.01,Default,,0,0,0,,- Patán es pegadizo.\N- Eso digo.
+Dialogue: 0,0:21:54.14,0:21:56.48,Default,,0,0,0,,Nos salvaron, novatos. Gracias.
+Dialogue: 0,0:21:56.56,0:21:57.81,Default,,0,0,0,,Gracias a los dos.
+Dialogue: 0,0:21:57.89,0:21:59.73,Default,,0,0,0,,Oye, déjame preguntarte,
+Dialogue: 0,0:21:59.81,0:22:03.07,Default,,0,0,0,,¿al menos me veía genial\Nen mi pose de estatua?
+Dialogue: 0,0:22:09.61,0:22:11.83,Default,,0,0,0,,Sí, totalmente.
+Dialogue: 0,0:22:12.95,0:22:14.49,Default,,0,0,0,,No soy buena para mentir.
+Dialogue: 0,0:22:42.23,0:22:45.15,Default,,0,0,0,,Subtítulos: Pilar Arias

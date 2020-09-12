@@ -1,0 +1,436 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GlitchTechsS01E03
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.60,0:00:22.60,Default,,0,0,0,,[upbeat music playing]
+Dialogue: 0,0:00:35.82,0:00:37.82,Default,,0,0,0,,[rapping] {\i1}♪ I'm a Glitch Tech{\i0}\N{\i1}So you show respect ♪{\i0}
+Dialogue: 0,0:00:37.91,0:00:39.99,Default,,0,0,0,,{\i1}♪ When a glitch comes at me{\i0}\N{\i1}It better come correct ♪{\i0}
+Dialogue: 0,0:00:40.08,0:00:42.04,Default,,0,0,0,,[vocalizing]
+Dialogue: 0,0:00:42.12,0:00:44.96,Default,,0,0,0,,Mama, drop a triple mushroom\Non this beast!
+Dialogue: 0,0:00:45.04,0:00:46.67,Default,,0,0,0,,I gotta get to work!
+Dialogue: 0,0:00:46.75,0:00:51.21,Default,,0,0,0,,Chill out, Miko.\NYour lame little job isn't going anywhere.
+Dialogue: 0,0:00:51.30,0:00:54.92,Default,,0,0,0,,Lame? My job is awesome in ways\Nincomprehensible to your muggle mind.
+Dialogue: 0,0:00:55.01,0:00:57.84,Default,,0,0,0,,Name one awesome thing about it.
+Dialogue: 0,0:00:57.93,0:00:58.76,Default,,0,0,0,,Uh...
+Dialogue: 0,0:01:13.61,0:01:16.70,Default,,0,0,0,,-Mmm, yeah, that's what I thought.\N-Miko?
+Dialogue: 0,0:01:16.78,0:01:19.28,Default,,0,0,0,,Well, you can think\Nthat's what you thought...
+Dialogue: 0,0:01:19.37,0:01:21.53,Default,,0,0,0,,-[Miko's Mom] Miko!\N-...but if you really knew,
+Dialogue: 0,0:01:21.62,0:01:23.16,Default,,0,0,0,,I'd have to delete your brain!
+Dialogue: 0,0:01:23.24,0:01:25.16,Default,,0,0,0,,[gasps] I may have already said too much.
+Dialogue: 0,0:01:25.25,0:01:27.46,Default,,0,0,0,,-Miko! We're here.\N-Huh?
+Dialogue: 0,0:01:27.54,0:01:29.75,Default,,0,0,0,,[Miko] Oh, why didn't you tell me?
+Dialogue: 0,0:01:30.34,0:01:31.92,Default,,0,0,0,,Miko, listen to me.
+Dialogue: 0,0:01:32.00,0:01:35.34,Default,,0,0,0,,If you really want to keep this job,\Nor any job,
+Dialogue: 0,0:01:35.42,0:01:38.05,Default,,0,0,0,,you must try to focus for once, okay?
+Dialogue: 0,0:01:38.13,0:01:39.72,Default,,0,0,0,,Hey, I can focus.
+Dialogue: 0,0:01:39.80,0:01:43.56,Default,,0,0,0,,I made you some brain food for lunch.\NMung beans and seaweed.
+Dialogue: 0,0:01:43.64,0:01:45.10,Default,,0,0,0,,[door closes]
+Dialogue: 0,0:01:45.18,0:01:49.10,Default,,0,0,0,,Thinks I can't focus?\NI'm so focused, glasses need me.
+Dialogue: 0,0:01:49.19,0:01:50.98,Default,,0,0,0,,-Miko!\N-Huh?
+Dialogue: 0,0:01:54.32,0:01:56.19,Default,,0,0,0,,Just focus.
+Dialogue: 0,0:01:57.82,0:01:58.82,Default,,0,0,0,,[scanner beeps]
+Dialogue: 0,0:01:58.91,0:02:01.74,Default,,0,0,0,,There you go, kid.\NOne used copy of {\i1}Flunky Quest.{\i0}
+Dialogue: 0,0:02:02.83,0:02:04.12,Default,,0,0,0,,[beeps]
+Dialogue: 0,0:02:04.20,0:02:07.91,Default,,0,0,0,,-Yes! Time to catch some flunkies!\N-[video game beeping]
+Dialogue: 0,0:02:08.00,0:02:10.50,Default,,0,0,0,,[announcer]{\i1} You have selected Ginko!{\i0}\N{\i1}Let's go!{\i0}
+Dialogue: 0,0:02:11.42,0:02:12.84,Default,,0,0,0,,[video game beeping]
+Dialogue: 0,0:02:12.92,0:02:14.75,Default,,0,0,0,,Let's see how focused you think I am
+Dialogue: 0,0:02:14.84,0:02:17.55,Default,,0,0,0,,when I'm saving you\Nfrom giant glitch monsters!
+Dialogue: 0,0:02:17.63,0:02:18.97,Default,,0,0,0,,[both grunt]
+Dialogue: 0,0:02:19.05,0:02:19.97,Default,,0,0,0,,[groans] I'm sorry!
+Dialogue: 0,0:02:20.05,0:02:21.64,Default,,0,0,0,,No, me! I'm the sorry one.
+Dialogue: 0,0:02:22.89,0:02:25.35,Default,,0,0,0,,[gasps] What have I done?
+Dialogue: 0,0:02:25.43,0:02:29.27,Default,,0,0,0,,Come on, dude, don't be broken. Restart!\NRestart! Restart! Don't give up on me!
+Dialogue: 0,0:02:29.35,0:02:31.48,Default,,0,0,0,,-[video game beeping]\N-Is it okay?
+Dialogue: 0,0:02:34.73,0:02:38.28,Default,,0,0,0,,-Yeah, think I'm good.\N-[sighs] Game on, sister.
+Dialogue: 0,0:02:40.82,0:02:45.33,Default,,0,0,0,,[breathes heavily] Okay. Focus.
+Dialogue: 0,0:02:49.66,0:02:50.87,Default,,0,0,0,,[video game beeping]
+Dialogue: 0,0:02:50.96,0:02:53.13,Default,,0,0,0,,[announcer] {\i1}Flunky detected.{\i0}
+Dialogue: 0,0:02:53.21,0:02:55.55,Default,,0,0,0,,-{\i1}Catch it.{\i0}\N-[girl] {\i1}Yeah, got ya now.{\i0}
+Dialogue: 0,0:02:55.63,0:02:56.80,Default,,0,0,0,,[video game beeping]
+Dialogue: 0,0:02:57.84,0:02:58.67,Default,,0,0,0,,Uh...
+Dialogue: 0,0:03:04.60,0:03:05.81,Default,,0,0,0,,[glitch hisses]
+Dialogue: 0,0:03:05.89,0:03:07.52,Default,,0,0,0,,[exclaims]
+Dialogue: 0,0:03:09.52,0:03:10.98,Default,,0,0,0,,What the...
+Dialogue: 0,0:03:15.86,0:03:18.07,Default,,0,0,0,,[growling softly]
+Dialogue: 0,0:03:18.15,0:03:20.19,Default,,0,0,0,,[girl] It's... it's a Ginko!
+Dialogue: 0,0:03:20.28,0:03:21.53,Default,,0,0,0,,[laughs]
+Dialogue: 0,0:03:21.61,0:03:23.74,Default,,0,0,0,,-[snarls]\N-Aah!
+Dialogue: 0,0:03:24.74,0:03:27.37,Default,,0,0,0,,[yelps and screams]
+Dialogue: 0,0:03:33.04,0:03:33.96,Default,,0,0,0,,[sniffing]
+Dialogue: 0,0:03:34.04,0:03:35.38,Default,,0,0,0,,[cat meows]
+Dialogue: 0,0:03:36.46,0:03:38.42,Default,,0,0,0,,[announcer] {\i1}Flunky detected.{\i0}
+Dialogue: 0,0:03:39.01,0:03:40.34,Default,,0,0,0,,[cat screeches]
+Dialogue: 0,0:03:41.26,0:03:42.34,Default,,0,0,0,,[cat meows]
+Dialogue: 0,0:03:45.22,0:03:47.10,Default,,0,0,0,,-[cat meowing]\N-[Ginko snorting]
+Dialogue: 0,0:03:48.22,0:03:49.22,Default,,0,0,0,,[sniffing]
+Dialogue: 0,0:03:54.27,0:03:55.10,Default,,0,0,0,,[exclaims]
+Dialogue: 0,0:03:56.61,0:03:58.94,Default,,0,0,0,,-[cat meows]\N-[growls]
+Dialogue: 0,0:04:04.32,0:04:05.28,Default,,0,0,0,,[shrieks]
+Dialogue: 0,0:04:05.37,0:04:06.45,Default,,0,0,0,,[theme song playing]
+Dialogue: 0,0:04:06.53,0:04:10.83,Default,,0,0,0,,[man] {\i1}Who knows what really happens{\i0}\N{\i1}when a video game starts to glitch.{\i0}
+Dialogue: 0,0:04:10.91,0:04:12.87,Default,,0,0,0,,{\i1}♪ Here come the Glitch Techs{\i0}\N{\i1}They know what to do ♪ {\i0}
+Dialogue: 0,0:04:12.96,0:04:14.83,Default,,0,0,0,,{\i1}♪ They got the tech{\i0}\N{\i1}They got the moves ♪ {\i0}
+Dialogue: 0,0:04:14.92,0:04:16.79,Default,,0,0,0,,{\i1}♪ Glitch Techs{\i0}\N{\i1}They're the wrecking crew ♪ {\i0}
+Dialogue: 0,0:04:16.88,0:04:18.42,Default,,0,0,0,,{\i1}♪ They'll solve the problem ♪ {\i0}
+Dialogue: 0,0:04:18.50,0:04:19.96,Default,,0,0,0,,{\i1}♪ Glitch Techs{\i0}\N{\i1}When a glitch is loose ♪{\i0}
+Dialogue: 0,0:04:20.05,0:04:21.63,Default,,0,0,0,,{\i1}♪ They'll wipe them out{\i0}\N{\i1}Old school or new ♪{\i0}
+Dialogue: 0,0:04:21.71,0:04:23.93,Default,,0,0,0,,{\i1}♪ Glitch Techs{\i0}\N{\i1}Always coming through ♪{\i0}
+Dialogue: 0,0:04:24.01,0:04:25.68,Default,,0,0,0,,{\i1}♪ To solve the problem ♪{\i0}
+Dialogue: 0,0:04:25.76,0:04:30.93,Default,,0,0,0,,{\i1}♪ Glitch Techs{\i0}\N{\i1}Whoa! ♪{\i0}
+Dialogue: 0,0:04:31.02,0:04:32.98,Default,,0,0,0,,{\i1}♪ Glitch Techs! ♪{\i0}
+Dialogue: 0,0:04:33.06,0:04:33.89,Default,,0,0,0,,{\i1}♪ Yeah! ♪{\i0}
+Dialogue: 0,0:04:42.53,0:04:44.40,Default,,0,0,0,,Okay, Miko. You got this.
+Dialogue: 0,0:04:45.91,0:04:48.03,Default,,0,0,0,,What's up, Miko? Happy first day of--
+Dialogue: 0,0:04:48.12,0:04:52.79,Default,,0,0,0,,Five! Hey, buddy.\NMy partner, my loyal party companion!
+Dialogue: 0,0:04:53.37,0:04:54.79,Default,,0,0,0,,Can't breathe...
+Dialogue: 0,0:04:54.87,0:04:55.87,Default,,0,0,0,,[gasping]
+Dialogue: 0,0:04:55.96,0:04:57.21,Default,,0,0,0,,[coughs]
+Dialogue: 0,0:04:57.29,0:04:58.63,Default,,0,0,0,,[chuckles] Sorry.
+Dialogue: 0,0:04:58.71,0:05:01.30,Default,,0,0,0,,Mom packs a healthy but potent lunch.
+Dialogue: 0,0:05:01.38,0:05:04.38,Default,,0,0,0,,-Well, that's nice that your mom--\N-First patrol!
+Dialogue: 0,0:05:04.47,0:05:08.55,Default,,0,0,0,,You ready to crush this day\Nwith a triple-S-flawless victory?
+Dialogue: 0,0:05:08.64,0:05:09.72,Default,,0,0,0,,Fo sho!
+Dialogue: 0,0:05:09.80,0:05:11.72,Default,,0,0,0,,[gasps] You believe in me.
+Dialogue: 0,0:05:11.81,0:05:13.14,Default,,0,0,0,,[Phil] All right, break up\Nthe team huddle, you two.
+Dialogue: 0,0:05:13.22,0:05:14.98,Default,,0,0,0,,We've got some tech that needs support.
+Dialogue: 0,0:05:15.89,0:05:19.11,Default,,0,0,0,,Today is your first official patrol\Nas level-one Techs,
+Dialogue: 0,0:05:19.19,0:05:21.23,Default,,0,0,0,,so what does that mean, you ask?
+Dialogue: 0,0:05:22.48,0:05:24.11,Default,,0,0,0,,Great question.
+Dialogue: 0,0:05:24.19,0:05:27.03,Default,,0,0,0,,You partner up,\Nlocate glitches in your assigned area,
+Dialogue: 0,0:05:27.11,0:05:29.03,Default,,0,0,0,,debug 'em, reset any damage
+Dialogue: 0,0:05:29.12,0:05:31.95,Default,,0,0,0,,and mind-wipe\Nwhatever stooges witness the disturbance.
+Dialogue: 0,0:05:33.16,0:05:36.33,Default,,0,0,0,,Now, every glitch you bag\Ngrants you experience points.
+Dialogue: 0,0:05:36.41,0:05:39.71,Default,,0,0,0,,The more XP you earn,\Nthe more Tech levels you gain,
+Dialogue: 0,0:05:39.79,0:05:42.88,Default,,0,0,0,,unlocking achievements, loot, upgrades...
+Dialogue: 0,0:05:42.96,0:05:44.38,Default,,0,0,0,,Like an RPG!
+Dialogue: 0,0:05:44.46,0:05:45.38,Default,,0,0,0,,Like an RPG.
+Dialogue: 0,0:05:45.47,0:05:46.30,Default,,0,0,0,,[monitor beeps]
+Dialogue: 0,0:05:50.09,0:05:53.14,Default,,0,0,0,,We can get real rocket boots?
+Dialogue: 0,0:05:53.22,0:05:54.89,Default,,0,0,0,,Dude, blazing gemsword!
+Dialogue: 0,0:05:54.97,0:05:56.73,Default,,0,0,0,,Both requiring Tech level two,
+Dialogue: 0,0:05:56.81,0:05:59.69,Default,,0,0,0,,which is currently 10,000 XP\Nout of your reach.
+Dialogue: 0,0:05:59.77,0:06:01.06,Default,,0,0,0,,[speaks Spanish]
+Dialogue: 0,0:06:01.15,0:06:02.11,Default,,0,0,0,,[in English] Just show me how to grind!
+Dialogue: 0,0:06:02.19,0:06:07.03,Default,,0,0,0,,[BITT] Please allow me to assign you\Nwith your tier-one Glitch Tech gauntlets!
+Dialogue: 0,0:06:07.61,0:06:09.61,Default,,0,0,0,,[dramatic music playing]
+Dialogue: 0,0:06:14.45,0:06:16.16,Default,,0,0,0,,[laughing] Ho-ho, ding!
+Dialogue: 0,0:06:16.25,0:06:17.54,Default,,0,0,0,,Hype-hype!
+Dialogue: 0,0:06:17.62,0:06:19.21,Default,,0,0,0,,Hello, my beautiful.
+Dialogue: 0,0:06:19.29,0:06:23.29,Default,,0,0,0,,Today is the first day\Nof the rest of our lives!
+Dialogue: 0,0:06:23.38,0:06:26.51,Default,,0,0,0,,An invasion of evil alien spaceships?
+Dialogue: 0,0:06:27.38,0:06:28.97,Default,,0,0,0,,Not on my watch.
+Dialogue: 0,0:06:30.64,0:06:31.64,Default,,0,0,0,,[grunting]
+Dialogue: 0,0:06:41.02,0:06:44.44,Default,,0,0,0,,Miko, that took so much focus.
+Dialogue: 0,0:06:44.52,0:06:47.40,Default,,0,0,0,,I never realized how awesome you were.
+Dialogue: 0,0:06:47.49,0:06:48.82,Default,,0,0,0,,I'm so ashamed.
+Dialogue: 0,0:06:48.90,0:06:51.45,Default,,0,0,0,,You should be, Mom. You should be.
+Dialogue: 0,0:06:53.91,0:06:57.25,Default,,0,0,0,,Hey, just remember, those gauntlets\Nare your tools, not your toys.
+Dialogue: 0,0:06:57.33,0:06:59.75,Default,,0,0,0,,You lose 'em, we lose you. Ya got it?
+Dialogue: 0,0:06:59.83,0:07:02.33,Default,,0,0,0,,Sir, yes, sir. Phil, Mr. Boss, sir!
+Dialogue: 0,0:07:02.42,0:07:05.38,Default,,0,0,0,,-BITT, just get 'em a vehicle, will ya?\N-There's a vehicle?
+Dialogue: 0,0:07:05.46,0:07:07.09,Default,,0,0,0,,[automated voice] {\i1}Autopilot engaged.{\i0}
+Dialogue: 0,0:07:07.17,0:07:08.88,Default,,0,0,0,,[both cheering]
+Dialogue: 0,0:07:08.97,0:07:10.63,Default,,0,0,0,,[automated voice] {\i1}Activating portal gate.{\i0}
+Dialogue: 0,0:07:14.26,0:07:17.39,Default,,0,0,0,,[both cheering]
+Dialogue: 0,0:07:17.47,0:07:18.31,Default,,0,0,0,,[car horn honks]
+Dialogue: 0,0:07:19.23,0:07:21.02,Default,,0,0,0,,[Five laughs] Nice!
+Dialogue: 0,0:07:21.10,0:07:24.81,Default,,0,0,0,,[automated voice] {\i1}The following signatures{\i0}\N{\i1}have been added to your patrol map.{\i0}
+Dialogue: 0,0:07:24.90,0:07:26.73,Default,,0,0,0,,{\i1}Please select a target.{\i0}
+Dialogue: 0,0:07:26.82,0:07:30.24,Default,,0,0,0,,Ooh, very open-world sandbox.
+Dialogue: 0,0:07:30.32,0:07:31.45,Default,,0,0,0,,This lad looks promising--
+Dialogue: 0,0:07:31.53,0:07:34.95,Default,,0,0,0,,[automated voice] {\i1}Warning, the selected{\i0}\N{\i1}glitch exceeds your skill level.{\i0}
+Dialogue: 0,0:07:35.03,0:07:36.20,Default,,0,0,0,,We can take that one on
+Dialogue: 0,0:07:36.28,0:07:39.04,Default,,0,0,0,,once we've finished\Nleveling up our butt-kicking skills.
+Dialogue: 0,0:07:39.12,0:07:40.54,Default,,0,0,0,,Let's go wreck some fools!
+Dialogue: 0,0:07:42.25,0:07:43.54,Default,,0,0,0,,[automated voice] Engaging target.
+Dialogue: 0,0:07:43.62,0:07:44.88,Default,,0,0,0,,[Miko and Five cheering]
+Dialogue: 0,0:07:52.55,0:07:56.26,Default,,0,0,0,,[Goblin laughing]
+Dialogue: 0,0:07:57.26,0:07:59.77,Default,,0,0,0,,Destroy the interloper!
+Dialogue: 0,0:08:02.77,0:08:04.60,Default,,0,0,0,,-[both] Whoo-hoo!\N-Yeah!
+Dialogue: 0,0:08:04.69,0:08:07.73,Default,,0,0,0,,We are crushing it. Literally!
+Dialogue: 0,0:08:07.82,0:08:09.03,Default,,0,0,0,,Did we level?
+Dialogue: 0,0:08:09.94,0:08:10.78,Default,,0,0,0,,[beeps]
+Dialogue: 0,0:08:11.49,0:08:12.57,Default,,0,0,0,,[Miko] Not yet.
+Dialogue: 0,0:08:12.65,0:08:14.95,Default,,0,0,0,,What's a Tech gotta do\Nto get a little XP bump around--
+Dialogue: 0,0:08:15.03,0:08:17.24,Default,,0,0,0,,-[bird caws and screeches]\N-[Miko yelps]
+Dialogue: 0,0:08:20.12,0:08:21.20,Default,,0,0,0,,[caws]
+Dialogue: 0,0:08:21.29,0:08:23.66,Default,,0,0,0,,Oh, hello. What do we have here?
+Dialogue: 0,0:08:25.37,0:08:28.67,Default,,0,0,0,,Weird, no stats on this one.\NWe should probably call it in.
+Dialogue: 0,0:08:28.75,0:08:30.05,Default,,0,0,0,,[bird caws]
+Dialogue: 0,0:08:30.13,0:08:33.47,Default,,0,0,0,,-How much XP is it worth?\N-Enough for us to level up and more!
+Dialogue: 0,0:08:35.64,0:08:37.35,Default,,0,0,0,,Let's bag us a bird.
+Dialogue: 0,0:08:38.47,0:08:39.60,Default,,0,0,0,,[exclaims]
+Dialogue: 0,0:08:40.64,0:08:42.89,Default,,0,0,0,,[cawing]
+Dialogue: 0,0:08:45.52,0:08:47.36,Default,,0,0,0,,Uh, did it just teleport?
+Dialogue: 0,0:08:47.44,0:08:49.02,Default,,0,0,0,,[bird taunting]
+Dialogue: 0,0:08:49.11,0:08:50.78,Default,,0,0,0,,Don't waggle your tuchus at me!
+Dialogue: 0,0:08:50.86,0:08:53.40,Default,,0,0,0,,Uh, stay focused. Don't let it--
+Dialogue: 0,0:08:53.49,0:08:55.11,Default,,0,0,0,,Ay-ay-ay-ay-ay!
+Dialogue: 0,0:08:55.20,0:08:56.11,Default,,0,0,0,,You're mine, turkey!
+Dialogue: 0,0:08:56.86,0:08:57.82,Default,,0,0,0,,[exclaims]
+Dialogue: 0,0:09:00.24,0:09:01.79,Default,,0,0,0,,Shields up! [grunts]
+Dialogue: 0,0:09:03.62,0:09:04.71,Default,,0,0,0,,[Miko grunts]
+Dialogue: 0,0:09:09.67,0:09:11.80,Default,,0,0,0,,[groans] Huh?
+Dialogue: 0,0:09:11.88,0:09:12.96,Default,,0,0,0,,Oh, no.
+Dialogue: 0,0:09:20.35,0:09:22.47,Default,,0,0,0,,-[caws]\N-Good birdie.
+Dialogue: 0,0:09:23.18,0:09:24.14,Default,,0,0,0,,[caws]
+Dialogue: 0,0:09:25.06,0:09:28.40,Default,,0,0,0,,Okay, you have proven\Na clever and worthy foe
+Dialogue: 0,0:09:28.48,0:09:31.19,Default,,0,0,0,,with talents beyond my paltry skill level.
+Dialogue: 0,0:09:31.27,0:09:34.99,Default,,0,0,0,,So if you'll just give me back\Nmy brand-new gauntlet,
+Dialogue: 0,0:09:35.07,0:09:37.41,Default,,0,0,0,,my partner and I will get you!
+Dialogue: 0,0:09:39.24,0:09:40.07,Default,,0,0,0,,[caws]
+Dialogue: 0,0:09:40.66,0:09:42.45,Default,,0,0,0,,No!
+Dialogue: 0,0:09:45.00,0:09:46.21,Default,,0,0,0,,[straining]
+Dialogue: 0,0:09:46.29,0:09:47.29,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:09:48.58,0:09:50.08,Default,,0,0,0,,Ma... Mama?
+Dialogue: 0,0:09:50.17,0:09:52.17,Default,,0,0,0,,Don't look so disappointed, honey.
+Dialogue: 0,0:09:52.25,0:09:55.42,Default,,0,0,0,,Winning galactic wars\Ntakes focus, discipline
+Dialogue: 0,0:09:55.51,0:09:57.93,Default,,0,0,0,,and not losing your gauntlet.
+Dialogue: 0,0:09:58.01,0:10:00.60,Default,,0,0,0,,To the mung bean fields with her! Caw!
+Dialogue: 0,0:10:00.68,0:10:02.01,Default,,0,0,0,,[cawing]
+Dialogue: 0,0:10:02.10,0:10:05.47,Default,,0,0,0,,No!
+Dialogue: 0,0:10:05.56,0:10:07.73,Default,,0,0,0,,No!
+Dialogue: 0,0:10:07.81,0:10:10.27,Default,,0,0,0,,Miko! C'mon, snap out of it.
+Dialogue: 0,0:10:11.15,0:10:13.65,Default,,0,0,0,,Aah! No, Mama, I can change!
+Dialogue: 0,0:10:14.23,0:10:16.53,Default,,0,0,0,,-Oh.\N-That glitch just took your gauntlet!
+Dialogue: 0,0:10:16.61,0:10:18.74,Default,,0,0,0,,I know. I know. And it's fine, though!
+Dialogue: 0,0:10:18.82,0:10:21.41,Default,,0,0,0,,You know why it's fine?\NBecause this gives me focus.
+Dialogue: 0,0:10:21.49,0:10:24.37,Default,,0,0,0,,Yeah, calm, cool focus.
+Dialogue: 0,0:10:24.45,0:10:27.33,Default,,0,0,0,,The kind that gets gauntlets back\Nfrom deranged chicken glitches,
+Dialogue: 0,0:10:27.41,0:10:28.75,Default,,0,0,0,,keeps people from\Nlosing their awesome jobs
+Dialogue: 0,0:10:28.83,0:10:31.25,Default,,0,0,0,,and keeps their mothers from\Nbanishing them to the mung bean fields.
+Dialogue: 0,0:10:31.33,0:10:34.25,Default,,0,0,0,,No reason to freak out,\Nso stop freaking out, Five!
+Dialogue: 0,0:10:35.13,0:10:37.84,Default,,0,0,0,,Uh, I kinda feel\Nlike you're the one who's--
+Dialogue: 0,0:10:39.80,0:10:41.14,Default,,0,0,0,,Okay, yeah, I'm cool. I'm cool.
+Dialogue: 0,0:10:41.22,0:10:42.80,Default,,0,0,0,,Look! An obvious trail!
+Dialogue: 0,0:10:43.55,0:10:46.10,Default,,0,0,0,,The taunty little toucan\Nwants us to chase it!
+Dialogue: 0,0:10:46.18,0:10:48.68,Default,,0,0,0,,Look, I wanna level up\Nas much as you do, Miko,
+Dialogue: 0,0:10:48.77,0:10:50.39,Default,,0,0,0,,but this is our first day!
+Dialogue: 0,0:10:50.48,0:10:54.48,Default,,0,0,0,,That bird teleports, breathes fire,\Nand who knows what else?
+Dialogue: 0,0:10:54.57,0:10:55.82,Default,,0,0,0,,Five, it's a glitch.
+Dialogue: 0,0:10:55.90,0:10:57.61,Default,,0,0,0,,Game code, acting out a pattern.
+Dialogue: 0,0:10:57.69,0:11:00.24,Default,,0,0,0,,All we need is a little gamer logic\Nand a plan, right?
+Dialogue: 0,0:11:00.32,0:11:02.20,Default,,0,0,0,,And you love plans.
+Dialogue: 0,0:11:02.95,0:11:04.28,Default,,0,0,0,,I do love plans.
+Dialogue: 0,0:11:04.37,0:11:07.16,Default,,0,0,0,,But if the plan tanks\Nand that thing goes all aggro on us again,
+Dialogue: 0,0:11:07.24,0:11:09.33,Default,,0,0,0,,we retreat and call for backup, deal?
+Dialogue: 0,0:11:09.41,0:11:11.33,Default,,0,0,0,,-Deal, baby seal!\N-"Baby seal"?
+Dialogue: 0,0:11:11.42,0:11:14.42,Default,,0,0,0,,Figure of speech I made up!\NI'll workshop it! Let's go!
+Dialogue: 0,0:11:17.80,0:11:19.97,Default,,0,0,0,,[children screaming]
+Dialogue: 0,0:11:20.05,0:11:21.01,Default,,0,0,0,,[caws]
+Dialogue: 0,0:11:21.68,0:11:23.68,Default,,0,0,0,,Okay, we still don't have\Nthe stats for the bird,
+Dialogue: 0,0:11:23.76,0:11:26.31,Default,,0,0,0,,but I cross-referenced\Nother known glitches that can teleport.
+Dialogue: 0,0:11:26.39,0:11:27.64,Default,,0,0,0,,Crossing the references. Brilliant.
+Dialogue: 0,0:11:27.72,0:11:30.14,Default,,0,0,0,,It says here if a porter\Nis physically restrained
+Dialogue: 0,0:11:30.23,0:11:32.02,Default,,0,0,0,,by a creature who can't teleport,
+Dialogue: 0,0:11:32.10,0:11:33.69,Default,,0,0,0,,it prevents them from using the ability.
+Dialogue: 0,0:11:33.77,0:11:36.07,Default,,0,0,0,,So grab it,\Nand it can't poof out on us again.
+Dialogue: 0,0:11:36.15,0:11:38.19,Default,,0,0,0,,Uh, yeah. Grab it, basically.
+Dialogue: 0,0:11:38.28,0:11:40.19,Default,,0,0,0,,Genius.
+Dialogue: 0,0:11:40.28,0:11:41.40,Default,,0,0,0,,[exclaims]
+Dialogue: 0,0:11:51.50,0:11:53.87,Default,,0,0,0,,[warbles]
+Dialogue: 0,0:11:54.79,0:11:58.80,Default,,0,0,0,,All right, chickadork, here we go!
+Dialogue: 0,0:11:58.88,0:12:00.76,Default,,0,0,0,,[cawing]
+Dialogue: 0,0:12:01.34,0:12:02.30,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:12:02.38,0:12:04.34,Default,,0,0,0,,[both exclaiming]
+Dialogue: 0,0:12:05.26,0:12:07.30,Default,,0,0,0,,All outta poof juice?
+Dialogue: 0,0:12:07.39,0:12:09.68,Default,,0,0,0,,It's called research, glitch!
+Dialogue: 0,0:12:09.77,0:12:11.18,Default,,0,0,0,,[Five] Don't worry. I got this!
+Dialogue: 0,0:12:11.81,0:12:13.85,Default,,0,0,0,,Almost got it. [grunts]
+Dialogue: 0,0:12:14.77,0:12:16.36,Default,,0,0,0,,Give up the gauntlet, Tweety!
+Dialogue: 0,0:12:24.86,0:12:25.87,Default,,0,0,0,,Aah!
+Dialogue: 0,0:12:26.99,0:12:27.99,Default,,0,0,0,,[gasps]
+Dialogue: 0,0:12:30.33,0:12:31.20,Default,,0,0,0,,Oh, nerds.
+Dialogue: 0,0:12:39.75,0:12:41.59,Default,,0,0,0,,It's using the gauntlet beams?
+Dialogue: 0,0:12:41.67,0:12:45.30,Default,,0,0,0,,That means this thing gets\Nall the powers from whatever it eats!
+Dialogue: 0,0:12:45.38,0:12:46.39,Default,,0,0,0,,Miko!
+Dialogue: 0,0:12:46.47,0:12:48.43,Default,,0,0,0,,It takes the power from whatever it eats!
+Dialogue: 0,0:12:48.51,0:12:49.72,Default,,0,0,0,,Neat fun fact.
+Dialogue: 0,0:12:49.81,0:12:53.06,Default,,0,0,0,,Ugh! What's your take on\Nwhether it has a gag reflex?
+Dialogue: 0,0:12:53.14,0:12:56.40,Default,,0,0,0,,Uh, I guess it'd require\Nsomething super disgusting...
+Dialogue: 0,0:12:56.48,0:12:57.69,Default,,0,0,0,,[both] The lunch!
+Dialogue: 0,0:12:59.69,0:13:00.94,Default,,0,0,0,,[grunts] Not cool!
+Dialogue: 0,0:13:01.03,0:13:04.03,Default,,0,0,0,,All right, bird brain,\Ntime to eat your vegetables!
+Dialogue: 0,0:13:10.74,0:13:12.33,Default,,0,0,0,,Open wide!
+Dialogue: 0,0:13:18.04,0:13:20.29,Default,,0,0,0,,[groans] Did it work?
+Dialogue: 0,0:13:20.38,0:13:22.38,Default,,0,0,0,,[cawing]
+Dialogue: 0,0:13:27.30,0:13:29.05,Default,,0,0,0,,[birds chirping]
+Dialogue: 0,0:13:30.68,0:13:31.51,Default,,0,0,0,,Uh--
+Dialogue: 0,0:13:35.89,0:13:38.19,Default,,0,0,0,,Yup, that's one heck of a radiant yes.
+Dialogue: 0,0:13:38.27,0:13:41.61,Default,,0,0,0,,[gagging]
+Dialogue: 0,0:13:43.32,0:13:46.15,Default,,0,0,0,,[Miko gasps] The precious!
+Dialogue: 0,0:13:46.86,0:13:48.95,Default,,0,0,0,,-[snorting]\N-[Miko laughing]
+Dialogue: 0,0:13:50.87,0:13:52.16,Default,,0,0,0,,Huh! And guest.
+Dialogue: 0,0:13:52.24,0:13:53.12,Default,,0,0,0,,[caws]
+Dialogue: 0,0:13:53.20,0:13:55.91,Default,,0,0,0,,Wow. I think it's saying\Nthank you! [laughs]
+Dialogue: 0,0:13:56.54,0:13:58.83,Default,,0,0,0,,Ew, dude! You just vommed!
+Dialogue: 0,0:13:59.75,0:14:01.17,Default,,0,0,0,,[Ginko grunts]
+Dialogue: 0,0:14:01.25,0:14:03.50,Default,,0,0,0,,[Miko] Birdie wasn't\Na fire-breather at all.
+Dialogue: 0,0:14:03.59,0:14:07.05,Default,,0,0,0,,It just had glitchy heartburn\Nfrom this little dude it ate.
+Dialogue: 0,0:14:07.13,0:14:09.13,Default,,0,0,0,,Getting a clear reading now.
+Dialogue: 0,0:14:09.22,0:14:12.76,Default,,0,0,0,,That bird is a friendly NPC\Nfrom a game called{\i1} Bravestone XII.{\i0}
+Dialogue: 0,0:14:12.85,0:14:14.22,Default,,0,0,0,,You weren't an enemy.
+Dialogue: 0,0:14:14.31,0:14:17.73,Default,,0,0,0,,You were just a big, feathery ally\Nwith a tummy ache!
+Dialogue: 0,0:14:18.44,0:14:19.44,Default,,0,0,0,,[snorting]
+Dialogue: 0,0:14:19.52,0:14:21.56,Default,,0,0,0,,It reads as level one now.
+Dialogue: 0,0:14:21.65,0:14:23.69,Default,,0,0,0,,Apparently, it only read as higher before
+Dialogue: 0,0:14:23.77,0:14:27.61,Default,,0,0,0,,because it had gobbled up\Nsomething apparently much worse.
+Dialogue: 0,0:14:29.70,0:14:30.78,Default,,0,0,0,,Watch out, Ally!
+Dialogue: 0,0:14:32.24,0:14:33.91,Default,,0,0,0,,-[Five] Who's Ally?\N-[Miko straining]
+Dialogue: 0,0:14:34.54,0:14:36.50,Default,,0,0,0,,I just named the bird!
+Dialogue: 0,0:14:36.58,0:14:37.41,Default,,0,0,0,,Holy smokes!
+Dialogue: 0,0:14:37.50,0:14:39.21,Default,,0,0,0,,[both screaming]
+Dialogue: 0,0:14:46.17,0:14:47.55,Default,,0,0,0,,[announcer]{\i1} Flunky detected!{\i0}
+Dialogue: 0,0:14:47.63,0:14:48.84,Default,,0,0,0,,[video game chiming]
+Dialogue: 0,0:14:48.92,0:14:51.59,Default,,0,0,0,,[roaring]
+Dialogue: 0,0:14:55.18,0:14:59.85,Default,,0,0,0,,Okay, I think it's safe to say things\Nhave escalated above our difficulty level.
+Dialogue: 0,0:14:59.94,0:15:00.90,Default,,0,0,0,,I know.
+Dialogue: 0,0:15:00.98,0:15:03.65,Default,,0,0,0,,And if I'd kept it together\Nand let you call for backup,
+Dialogue: 0,0:15:03.73,0:15:05.61,Default,,0,0,0,,we wouldn't be in this mess now.
+Dialogue: 0,0:15:06.36,0:15:09.86,Default,,0,0,0,,My mom is right. I can't focus.
+Dialogue: 0,0:15:09.95,0:15:13.78,Default,,0,0,0,,I'm a total fail fish who couldn't even\Nmake it through her first day at work
+Dialogue: 0,0:15:13.87,0:15:16.20,Default,,0,0,0,,without an epic disaster!
+Dialogue: 0,0:15:16.29,0:15:18.58,Default,,0,0,0,,Hey, Miko, that's not true--
+Dialogue: 0,0:15:19.33,0:15:20.58,Default,,0,0,0,,-[man screams]\N-[Five] Heh.
+Dialogue: 0,0:15:20.66,0:15:21.92,Default,,0,0,0,,[Ally warbles]
+Dialogue: 0,0:15:22.00,0:15:24.29,Default,,0,0,0,,[gauntlet chimes]{\i1} Incoming call from...{\i0}
+Dialogue: 0,0:15:24.38,0:15:26.71,Default,,0,0,0,,[Phil] {\i1}Your boss.{\i0}
+Dialogue: 0,0:15:26.80,0:15:29.01,Default,,0,0,0,,-It's Phil. I have to tell him.\N-[chiming continues]
+Dialogue: 0,0:15:29.09,0:15:30.01,Default,,0,0,0,,[Miko] I know.
+Dialogue: 0,0:15:30.09,0:15:34.47,Default,,0,0,0,,I'll take full responsibility for this.\NNo point in both of us losing our jobs.
+Dialogue: 0,0:15:35.51,0:15:37.22,Default,,0,0,0,,[Phil] {\i1}Just a quick heads-up.{\i0}
+Dialogue: 0,0:15:37.31,0:15:40.18,Default,,0,0,0,,{\i1}We're showing a major glitch pattern{\i0}\N{\i1}in your area right now.{\i0}
+Dialogue: 0,0:15:40.27,0:15:41.10,Default,,0,0,0,,{\i1}Where's your partner?{\i0}
+Dialogue: 0,0:15:41.19,0:15:43.06,Default,,0,0,0,,{\i1}We're not getting{\i0}\N{\i1}a signal on her gauntlet.{\i0}
+Dialogue: 0,0:15:45.19,0:15:49.28,Default,,0,0,0,,Uh, that's weird, 'cause she's fine.\NWe're both fine.
+Dialogue: 0,0:15:49.90,0:15:51.99,Default,,0,0,0,,We are crushing it out here!
+Dialogue: 0,0:15:52.07,0:15:55.45,Default,,0,0,0,,And totally not in danger of anything\Ncrushing us. [chuckles nervously]
+Dialogue: 0,0:15:56.45,0:16:00.41,Default,,0,0,0,,{\i1}Yeah. Just, uh, get her back online{\i0}\N{\i1}and come to HQ to turn in your XP.{\i0}
+Dialogue: 0,0:16:00.50,0:16:02.00,Default,,0,0,0,,Okay. Bye! [sighs]
+Dialogue: 0,0:16:02.08,0:16:03.21,Default,,0,0,0,,Why didn't you tell him?
+Dialogue: 0,0:16:03.29,0:16:06.42,Default,,0,0,0,,Look, you didn't drag me into this.\NWe got into it together.
+Dialogue: 0,0:16:06.50,0:16:10.63,Default,,0,0,0,,So let's just get out of it.\NNew deal, baby seal?
+Dialogue: 0,0:16:11.59,0:16:14.13,Default,,0,0,0,,Need to breathe. Always to breathe.
+Dialogue: 0,0:16:14.22,0:16:16.18,Default,,0,0,0,,Sorry, partner. So, what's the plan?
+Dialogue: 0,0:16:17.47,0:16:19.47,Default,,0,0,0,,[people screaming]
+Dialogue: 0,0:16:23.56,0:16:24.98,Default,,0,0,0,,You said it before.
+Dialogue: 0,0:16:25.06,0:16:28.40,Default,,0,0,0,,They're just glitches, right?\NGame codes, acting out patterns.
+Dialogue: 0,0:16:28.48,0:16:29.57,Default,,0,0,0,,Right!
+Dialogue: 0,0:16:29.65,0:16:30.82,Default,,0,0,0,,With his pattern,
+Dialogue: 0,0:16:30.90,0:16:35.03,Default,,0,0,0,,he exposes some kind of power gem\Non his back with every third step.
+Dialogue: 0,0:16:35.11,0:16:37.24,Default,,0,0,0,,So if we break it, we break him.
+Dialogue: 0,0:16:37.78,0:16:38.78,Default,,0,0,0,,Gamer logic!
+Dialogue: 0,0:16:38.87,0:16:40.37,Default,,0,0,0,,Okay, look, he's a higher level,
+Dialogue: 0,0:16:40.45,0:16:44.00,Default,,0,0,0,,so the trick would be doing max DPS\Nwith a close and powerful shot.
+Dialogue: 0,0:16:44.71,0:16:46.83,Default,,0,0,0,,I know I haven't made\Nthe best choices today,
+Dialogue: 0,0:16:46.92,0:16:49.21,Default,,0,0,0,,but if Ally helps me get close,\NI think I could--
+Dialogue: 0,0:16:49.96,0:16:51.05,Default,,0,0,0,,I think you could, too.
+Dialogue: 0,0:16:51.13,0:16:53.92,Default,,0,0,0,,You'd trust me with your gauntlet?\NEven after--
+Dialogue: 0,0:16:54.01,0:16:55.68,Default,,0,0,0,,You're not a fail fish, Miko.
+Dialogue: 0,0:16:55.76,0:16:58.97,Default,,0,0,0,,You can focus when it counts.\NSo make it count.
+Dialogue: 0,0:17:03.52,0:17:05.02,Default,,0,0,0,,[people screaming]
+Dialogue: 0,0:17:09.48,0:17:10.98,Default,,0,0,0,,[roaring]
+Dialogue: 0,0:17:15.20,0:17:17.78,Default,,0,0,0,,Hey! Down here!
+Dialogue: 0,0:17:17.87,0:17:20.62,Default,,0,0,0,,I picked up this little maneuver\Nfrom a taunty glitch bird!
+Dialogue: 0,0:17:20.70,0:17:23.45,Default,,0,0,0,,[taunting and cawing]
+Dialogue: 0,0:17:23.54,0:17:25.54,Default,,0,0,0,,[continues cawing]
+Dialogue: 0,0:17:27.71,0:17:29.08,Default,,0,0,0,,[growls]
+Dialogue: 0,0:17:29.17,0:17:31.13,Default,,0,0,0,,[roars]
+Dialogue: 0,0:17:32.00,0:17:34.26,Default,,0,0,0,,One step. Two steps.
+Dialogue: 0,0:17:35.22,0:17:36.30,Default,,0,0,0,,Aah!
+Dialogue: 0,0:17:39.01,0:17:40.64,Default,,0,0,0,,Wreck that fool!
+Dialogue: 0,0:17:41.22,0:17:42.31,Default,,0,0,0,,[Ally cawing]
+Dialogue: 0,0:17:45.73,0:17:46.81,Default,,0,0,0,,[Miko] Not good!
+Dialogue: 0,0:17:51.32,0:17:52.32,Default,,0,0,0,,Hi-yah!
+Dialogue: 0,0:17:54.19,0:17:56.82,Default,,0,0,0,,[panting] Get us right up\Non that gem, Ally!
+Dialogue: 0,0:17:56.90,0:17:57.95,Default,,0,0,0,,[Ally caws]
+Dialogue: 0,0:17:58.03,0:17:58.99,Default,,0,0,0,,[Miko grunts]
+Dialogue: 0,0:17:59.57,0:18:00.57,Default,,0,0,0,,[Ally caws]
+Dialogue: 0,0:18:02.24,0:18:04.29,Default,,0,0,0,,[Miko exclaiming]
+Dialogue: 0,0:18:05.29,0:18:07.71,Default,,0,0,0,,Yeah, yeah, yeah! That's it!\NCome at me, bro!
+Dialogue: 0,0:18:07.79,0:18:09.42,Default,,0,0,0,,[Miko exclaiming]
+Dialogue: 0,0:18:09.50,0:18:12.21,Default,,0,0,0,,Oh, nerds! You're really scary!
+Dialogue: 0,0:18:13.67,0:18:15.21,Default,,0,0,0,,One step.
+Dialogue: 0,0:18:15.30,0:18:16.47,Default,,0,0,0,,[Miko grunting]
+Dialogue: 0,0:18:17.26,0:18:18.43,Default,,0,0,0,,Two steps.
+Dialogue: 0,0:18:19.18,0:18:21.14,Default,,0,0,0,,-[grunts]\N-Hold on, Miko!
+Dialogue: 0,0:18:21.22,0:18:22.85,Default,,0,0,0,,[growling]
+Dialogue: 0,0:18:23.60,0:18:25.56,Default,,0,0,0,,[Miko grunting]
+Dialogue: 0,0:18:26.43,0:18:28.06,Default,,0,0,0,,[screams]
+Dialogue: 0,0:18:28.14,0:18:29.48,Default,,0,0,0,,Miko!
+Dialogue: 0,0:18:34.69,0:18:36.74,Default,,0,0,0,,I love this face!
+Dialogue: 0,0:18:38.40,0:18:40.78,Default,,0,0,0,,Now let's dive-bomb that flunky!
+Dialogue: 0,0:19:00.84,0:19:03.39,Default,,0,0,0,,That was amazing!
+Dialogue: 0,0:19:03.47,0:19:06.47,Default,,0,0,0,,You're the greatest bird\Nthat's ever lived!
+Dialogue: 0,0:19:06.56,0:19:08.89,Default,,0,0,0,,Actually, I don't know\Nif you're technically alive,
+Dialogue: 0,0:19:08.98,0:19:10.85,Default,,0,0,0,,and thinking about that\Nmakes me feel kind of weird,
+Dialogue: 0,0:19:10.94,0:19:12.48,Default,,0,0,0,,but, anyway, you're amazing!
+Dialogue: 0,0:19:12.56,0:19:14.82,Default,,0,0,0,,[panting]
+Dialogue: 0,0:19:14.90,0:19:15.98,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:19:17.28,0:19:19.07,Default,,0,0,0,,No time to lose focus, partner!
+Dialogue: 0,0:19:19.15,0:19:22.53,Default,,0,0,0,,We still have an entire city block\Nof stooges to mind-wipe!
+Dialogue: 0,0:19:22.61,0:19:23.70,Default,,0,0,0,,[Five mutters]
+Dialogue: 0,0:19:26.91,0:19:28.08,Default,,0,0,0,,[Phil] Uh...
+Dialogue: 0,0:19:29.29,0:19:30.62,Default,,0,0,0,,Mr. Boss, sir,
+Dialogue: 0,0:19:30.71,0:19:35.54,Default,,0,0,0,,I have failed my station to epic degree,\Nand I humbly await the consequences.
+Dialogue: 0,0:19:35.63,0:19:37.05,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:19:37.13,0:19:39.88,Default,,0,0,0,,-You said if we--\N-I said don't lose it.
+Dialogue: 0,0:19:39.97,0:19:42.01,Default,,0,0,0,,I didn't say\Nyou couldn't bang it up a little.
+Dialogue: 0,0:19:42.09,0:19:43.14,Default,,0,0,0,,Happens all the time.
+Dialogue: 0,0:19:48.31,0:19:50.39,Default,,0,0,0,,So, I'm still a Glitch Tech?
+Dialogue: 0,0:19:50.48,0:19:51.98,Default,,0,0,0,,Uh... yeah.
+Dialogue: 0,0:19:52.06,0:19:53.98,Default,,0,0,0,,-[Five] Yeah!\N-[Miko] Yes!
+Dialogue: 0,0:19:54.06,0:19:57.44,Default,,0,0,0,,-Okay, then, let's just count up the XP.\N-[Five exclaims]
+Dialogue: 0,0:19:57.52,0:19:58.98,Default,,0,0,0,,[BITT] Welcome back, Techs!
+Dialogue: 0,0:19:59.07,0:20:01.53,Default,,0,0,0,,Please insert your gauntlets\Ninto the main repository
+Dialogue: 0,0:20:01.61,0:20:05.16,Default,,0,0,0,,to offload all glitches and claim your XP!
+Dialogue: 0,0:20:08.54,0:20:13.37,Default,,0,0,0,,You have exceeded your XP goal\Nand achieved Tech level two!
+Dialogue: 0,0:20:16.88,0:20:18.63,Default,,0,0,0,,[scoffs] Noobs.
+Dialogue: 0,0:20:18.71,0:20:22.13,Default,,0,0,0,,[BITT] You may now preview\Npotential power upgrades.
+Dialogue: 0,0:20:23.18,0:20:24.30,Default,,0,0,0,,[both gasp]
+Dialogue: 0,0:20:25.22,0:20:28.81,Default,,0,0,0,,Ha ha! Sparkly hack and slash!
+Dialogue: 0,0:20:28.89,0:20:30.97,Default,,0,0,0,,Rocket boots... [grunts]
+Dialogue: 0,0:20:31.77,0:20:33.52,Default,,0,0,0,,Surprisingly difficult!
+Dialogue: 0,0:20:34.69,0:20:35.52,Default,,0,0,0,,[crashes]
+Dialogue: 0,0:20:35.60,0:20:39.69,Default,,0,0,0,,Yeah, you could purchase those items\Nwith your individual XP points,
+Dialogue: 0,0:20:39.78,0:20:42.19,Default,,0,0,0,,or pool 'em together\Nto purchase unique loot,
+Dialogue: 0,0:20:42.28,0:20:45.45,Default,,0,0,0,,like... Oh, I don't know...\Na companion pet.
+Dialogue: 0,0:20:46.16,0:20:48.03,Default,,0,0,0,,A companion pet?
+Dialogue: 0,0:20:48.12,0:20:51.95,Default,,0,0,0,,Yeah. You know, like the unauthorized one\Nyou tried to hide in your Tech van?
+Dialogue: 0,0:20:52.04,0:20:52.87,Default,,0,0,0,,[caws]
+Dialogue: 0,0:20:52.96,0:20:56.96,Default,,0,0,0,,Yeah. Didn't have the heart to zap her\Nafter all we'd been through.
+Dialogue: 0,0:20:59.46,0:21:00.46,Default,,0,0,0,,[caws]
+Dialogue: 0,0:21:00.55,0:21:02.67,Default,,0,0,0,,So, we can keep her?
+Dialogue: 0,0:21:02.76,0:21:05.68,Default,,0,0,0,,Well, if you want\Nto pool your points together...
+Dialogue: 0,0:21:05.76,0:21:06.80,Default,,0,0,0,,Let's do it!
+Dialogue: 0,0:21:06.89,0:21:09.47,Default,,0,0,0,,I'm not sure boots were meant\Nto have rockets on them, anyways.
+Dialogue: 0,0:21:09.55,0:21:11.47,Default,,0,0,0,,-Aw, thanks.\N-[Five chuckles]
+Dialogue: 0,0:21:13.77,0:21:15.60,Default,,0,0,0,,[automated voice] {\i1}Now combining XP.{\i0}
+Dialogue: 0,0:21:20.86,0:21:22.73,Default,,0,0,0,,{\i1}Companion pet acquired.{\i0}
+Dialogue: 0,0:21:22.82,0:21:24.19,Default,,0,0,0,,[Miko laughing] Yeah!
+Dialogue: 0,0:21:24.28,0:21:28.70,Default,,0,0,0,,Well, you both did great today.\NGood first patrol.
+Dialogue: 0,0:21:30.28,0:21:32.16,Default,,0,0,0,,Right up until this hug.
+Dialogue: 0,0:21:34.37,0:21:36.00,Default,,0,0,0,,-[Miko's Mom] Miko?\N-Mama?
+Dialogue: 0,0:21:36.83,0:21:39.21,Default,,0,0,0,,-I brought you a snack.\N-Thank you.
+Dialogue: 0,0:21:39.29,0:21:42.92,Default,,0,0,0,,I know you came home late today.\NI'm proud you're working so hard.
+Dialogue: 0,0:21:43.01,0:21:44.38,Default,,0,0,0,,[gauntlet beeping]
+Dialogue: 0,0:21:44.46,0:21:45.97,Default,,0,0,0,,-What was that?\N-Uh...
+Dialogue: 0,0:21:46.05,0:21:48.30,Default,,0,0,0,,You've got a video game\Nunder there, don't you?
+Dialogue: 0,0:21:48.39,0:21:51.05,Default,,0,0,0,,[laughs] No fooling you.
+Dialogue: 0,0:21:51.64,0:21:55.27,Default,,0,0,0,,Well, enjoy it.\NYou work hard, you play hard.
+Dialogue: 0,0:21:55.35,0:21:57.14,Default,,0,0,0,,Just not too late, now.
+Dialogue: 0,0:22:02.07,0:22:04.36,Default,,0,0,0,,-[Ally cooing]\N-Save some for me, ya turkey!
+Dialogue: 0,0:22:04.44,0:22:05.94,Default,,0,0,0,,[laughing]
+Dialogue: 0,0:22:06.03,0:22:07.49,Default,,0,0,0,,Aw, you...
+Dialogue: 0,0:22:07.57,0:22:09.78,Default,,0,0,0,,[laughing]
+Dialogue: 0,0:22:11.16,0:22:13.16,Default,,0,0,0,,[theme music playing]

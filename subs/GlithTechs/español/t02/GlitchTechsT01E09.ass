@@ -1,0 +1,367 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GlitchTechsT01E09
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.00,0:00:11.05,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:20.56,0:00:22.23,Default,,0,0,0,,La plataforma está bajando.
+Dialogue: 0,0:00:22.77,0:00:23.94,Default,,0,0,0,,¡Sí! ¡Muy bien!
+Dialogue: 0,0:00:24.27,0:00:25.81,Default,,0,0,0,,- Debo sanar.\N- ¡Sí!
+Dialogue: 0,0:00:25.90,0:00:28.36,Default,,0,0,0,,¡A quemar! Está por enrabiarse.
+Dialogue: 0,0:00:28.44,0:00:30.36,Default,,0,0,0,,¡Vamos a ponernos furiosos!
+Dialogue: 0,0:00:30.98,0:00:33.40,Default,,0,0,0,,Esto sí que es intenso.
+Dialogue: 0,0:00:35.24,0:00:36.45,Default,,0,0,0,,¿Qué haces?
+Dialogue: 0,0:00:39.03,0:00:40.08,Default,,0,0,0,,Bailando.
+Dialogue: 0,0:00:40.16,0:00:43.33,Default,,0,0,0,,Lo hago cuando me aburro\Ny quiero que pase algo.
+Dialogue: 0,0:00:44.12,0:00:46.08,Default,,0,0,0,,¿Podría ser una misión?
+Dialogue: 0,0:00:46.17,0:00:48.38,Default,,0,0,0,,Ha pasado mucho desde la última.
+Dialogue: 0,0:00:49.96,0:00:53.63,Default,,0,0,0,,No controlo este baile, Five.\NMe controla a mí.
+Dialogue: 0,0:00:53.76,0:00:55.72,Default,,0,0,0,,¿Cómo estuvo el entrenamiento?
+Dialogue: 0,0:00:55.80,0:00:59.01,Default,,0,0,0,,Nix ya casi se certifica\Nen la creación con plíxeles.
+Dialogue: 0,0:00:59.10,0:01:00.76,Default,,0,0,0,,¡Qué lindo!
+Dialogue: 0,0:01:00.85,0:01:02.77,Default,,0,0,0,,No hace falta el sarcasmo, Zee.
+Dialogue: 0,0:01:02.89,0:01:06.23,Default,,0,0,0,,- No lo soy, es mi voz.\N- ¿De qué se trata?
+Dialogue: 0,0:01:06.31,0:01:07.65,Default,,0,0,0,,Es una especialidad.
+Dialogue: 0,0:01:07.73,0:01:12.03,Default,,0,0,0,,Aprendes a crear objetos\Ny fuentes de energía con plíxeles.
+Dialogue: 0,0:01:12.11,0:01:13.15,Default,,0,0,0,,¡Increíble!
+Dialogue: 0,0:01:13.23,0:01:15.11,Default,,0,0,0,,¡Increíble!
+Dialogue: 0,0:01:16.40,0:01:19.37,Default,,0,0,0,,Claro que, hasta que aprendes\Na regular la energía,
+Dialogue: 0,0:01:19.45,0:01:21.74,Default,,0,0,0,,los plíxeles atraen a los Glitches.
+Dialogue: 0,0:01:22.37,0:01:25.08,Default,,0,0,0,,¡Justo lo que necesitamos, mininovatos!
+Dialogue: 0,0:01:25.37,0:01:27.83,Default,,0,0,0,,Mientras ustedes jugaban,
+Dialogue: 0,0:01:27.92,0:01:30.67,Default,,0,0,0,,yo escalé la tabla de logros diarios...
+Dialogue: 0,0:01:30.92,0:01:31.88,Default,,0,0,0,,¡Otra vez!
+Dialogue: 0,0:01:33.05,0:01:35.30,Default,,0,0,0,,No entiendo. Incluso en un día lento,
+Dialogue: 0,0:01:35.38,0:01:38.01,Default,,0,0,0,,este tipo logra un montón de puntos.
+Dialogue: 0,0:01:38.09,0:01:39.80,Default,,0,0,0,,¿Cuál es su secreto?
+Dialogue: 0,0:01:40.93,0:01:43.14,Default,,0,0,0,,Les diré el secreto, niños.
+Dialogue: 0,0:01:43.22,0:01:45.68,Default,,0,0,0,,¡Soy Mitch Williams! ¡Bum!
+Dialogue: 0,0:01:45.77,0:01:47.81,Default,,0,0,0,,EL MEJOR VESTIDO\NY EL MÁS INCREÍBLE
+Dialogue: 0,0:01:47.89,0:01:51.82,Default,,0,0,0,,Hay una nueva misión\Npara los Glitch Techs.
+Dialogue: 0,0:01:51.90,0:01:52.94,Default,,0,0,0,,- ¡Sí!\N- ¡Es mía!
+Dialogue: 0,0:01:53.98,0:01:55.15,Default,,0,0,0,,Qué desesperados.
+Dialogue: 0,0:01:56.07,0:01:57.11,Default,,0,0,0,,Esto es nuevo.
+Dialogue: 0,0:01:57.53,0:01:59.91,Default,,0,0,0,,Es una alerta de alto nivel en...
+Dialogue: 0,0:02:00.32,0:02:03.03,Default,,0,0,0,,¿La calle Spengler #1984?
+Dialogue: 0,0:02:03.58,0:02:04.41,Default,,0,0,0,,¡Agárrala!
+Dialogue: 0,0:02:05.33,0:02:07.66,Default,,0,0,0,,¡ROBADA!
+Dialogue: 0,0:02:08.08,0:02:10.75,Default,,0,0,0,,- Oye, ¿qué te pasa?\N- Ese es mi territorio.
+Dialogue: 0,0:02:10.83,0:02:12.59,Default,,0,0,0,,Pero ni estás de servicio.
+Dialogue: 0,0:02:12.67,0:02:16.30,Default,,0,0,0,,Cuando se trata de esa casa,\Nsiempre estoy de servicio.
+Dialogue: 0,0:02:16.92,0:02:21.14,Default,,0,0,0,,Disculpe, Tech. Esta misión\Nha sido bloqueada por un administrador.
+Dialogue: 0,0:02:21.22,0:02:23.47,Default,,0,0,0,,- ¿Qué idiota la bloqueó?\N- ¡Mitch!
+Dialogue: 0,0:02:23.93,0:02:26.14,Default,,0,0,0,,El "idiota" quiere hablar contigo.
+Dialogue: 0,0:02:27.23,0:02:28.56,Default,,0,0,0,,Qué molesto.
+Dialogue: 0,0:02:29.02,0:02:33.40,Default,,0,0,0,,Qué raro. ¿Qué tiene de especial\Nla casa en la calle Spengler?
+Dialogue: 0,0:02:33.48,0:02:37.32,Default,,0,0,0,,¿No saben? Es el lugar con más Glitches\Nen toda la ciudad.
+Dialogue: 0,0:02:37.40,0:02:40.53,Default,,0,0,0,,Se supone que es un panteón\Nde tecnología.
+Dialogue: 0,0:02:40.61,0:02:43.70,Default,,0,0,0,,Las ventanas están bloqueadas\Ncon controles.
+Dialogue: 0,0:02:43.78,0:02:46.83,Default,,0,0,0,,Los pisos están cubiertos\Nde cables enredados.
+Dialogue: 0,0:02:47.25,0:02:49.54,Default,,0,0,0,,- ¿Quién vive ahí?\N - Quien sea,
+Dialogue: 0,0:02:49.62,0:02:53.08,Default,,0,0,0,,ha creado el lugar perfecto\Npara que hayan Glitches.
+Dialogue: 0,0:02:53.17,0:02:56.09,Default,,0,0,0,,Por eso Mitch quiere ir para allá.
+Dialogue: 0,0:02:56.17,0:02:57.96,Default,,0,0,0,,Allí hay un montón de puntos.
+Dialogue: 0,0:02:58.63,0:03:01.13,Default,,0,0,0,,Mitch, sé que te importa este caso,
+Dialogue: 0,0:03:01.22,0:03:05.47,Default,,0,0,0,,pero la compañía quiere que la casa\Nde la calle Spengler esté limpia ya.
+Dialogue: 0,0:03:05.56,0:03:08.06,Default,,0,0,0,,Mandarán a un Tech especialista.
+Dialogue: 0,0:03:08.14,0:03:11.73,Default,,0,0,0,,¿Un especialista?\NEsa casa es mi territorio.
+Dialogue: 0,0:03:11.90,0:03:14.86,Default,,0,0,0,,No puedes dársela a cualquier idiota.
+Dialogue: 0,0:03:15.23,0:03:16.40,Default,,0,0,0,,¿Y los ocupantes?
+Dialogue: 0,0:03:16.48,0:03:19.49,Default,,0,0,0,,Debido a su uso indebido\Nde productos Hinobi,
+Dialogue: 0,0:03:19.57,0:03:23.66,Default,,0,0,0,,los residentes de la calle Spengler #1984\Nserán vetados.
+Dialogue: 0,0:03:23.74,0:03:26.16,Default,,0,0,0,,¿Vetados? Phil, no lo puedo permitir.
+Dialogue: 0,0:03:26.24,0:03:30.46,Default,,0,0,0,,Lo siento pero, oficialmente,\Nno puedo darte esta misión.
+Dialogue: 0,0:03:31.29,0:03:36.71,Default,,0,0,0,,Pero si la casa está limpia\Npara cuando llegue el especialista...
+Dialogue: 0,0:03:37.38,0:03:38.42,Default,,0,0,0,,Lo estará.
+Dialogue: 0,0:03:38.71,0:03:41.59,Default,,0,0,0,,Y esta vez debe permanecer limpia.
+Dialogue: 0,0:03:41.84,0:03:45.09,Default,,0,0,0,,Así que deberías llevar refuerzos\Npor una vez.
+Dialogue: 0,0:03:47.76,0:03:48.60,Default,,0,0,0,,Hola.
+Dialogue: 0,0:03:48.97,0:03:50.93,Default,,0,0,0,,No necesito refuerzos.
+Dialogue: 0,0:03:51.35,0:03:53.60,Default,,0,0,0,,¿Phil te dio ese caso?
+Dialogue: 0,0:03:54.31,0:03:57.07,Default,,0,0,0,,- Nosotros lo vimos primero.\N- ¡No!
+Dialogue: 0,0:03:57.82,0:04:00.44,Default,,0,0,0,,El baile no resultó en una misión.
+Dialogue: 0,0:04:00.86,0:04:02.07,Default,,0,0,0,,Tenemos una misión.
+Dialogue: 0,0:04:02.15,0:04:04.66,Default,,0,0,0,,Seguiremos a ese sombrero negro\Na ese lugar
+Dialogue: 0,0:04:04.74,0:04:06.28,Default,,0,0,0,,para una contradanza.
+Dialogue: 0,0:04:06.37,0:04:09.54,Default,,0,0,0,,No sé qué es eso, ¡pero me gusta!
+Dialogue: 0,0:04:12.87,0:04:16.50,Default,,0,0,0,,Si seguimos a Mitch,\Ntendremos que ser sigilosos.
+Dialogue: 0,0:04:16.63,0:04:18.88,Default,,0,0,0,,- Five...\N- Lentes de visión nocturna,
+Dialogue: 0,0:04:18.96,0:04:20.26,Default,,0,0,0,,- batarangs.\N- Five...
+Dialogue: 0,0:04:20.34,0:04:23.55,Default,,0,0,0,,Como fantasmas. Tenemos que ser su sombra.
+Dialogue: 0,0:04:23.63,0:04:26.18,Default,,0,0,0,,¿Oíste, Mitch? ¡Somos tu sombra!
+Dialogue: 0,0:04:26.55,0:04:27.68,Default,,0,0,0,,¡Ay, no!
+Dialogue: 0,0:04:27.76,0:04:29.39,Default,,0,0,0,,¡Váyanse, pesados!
+Dialogue: 0,0:04:33.85,0:04:35.31,Default,,0,0,0,,Como fantasmas. ¡Vamos!
+Dialogue: 0,0:04:36.52,0:04:38.52,Default,,0,0,0,,Portal de destino configurado.
+Dialogue: 0,0:04:41.69,0:04:42.61,Default,,0,0,0,,¡Los perdí!
+Dialogue: 0,0:04:44.70,0:04:45.53,Default,,0,0,0,,Claro.
+Dialogue: 0,0:04:45.82,0:04:50.58,Default,,0,0,0,,- Ya les dije...\N- Sí, es tu territorio.
+Dialogue: 0,0:04:51.41,0:04:55.08,Default,,0,0,0,,No espero que su cerebro de arándano\Nlo entienda,
+Dialogue: 0,0:04:55.16,0:04:57.46,Default,,0,0,0,,pero este lugar es importante para mí.
+Dialogue: 0,0:04:57.54,0:05:01.30,Default,,0,0,0,,Sí, sabemos que vienes por todos\Nlos puntos de experiencia.
+Dialogue: 0,0:05:01.42,0:05:03.26,Default,,0,0,0,,¡Bum! Entendemos.
+Dialogue: 0,0:05:04.47,0:05:07.80,Default,,0,0,0,,No tengo tiempo para esto,\Npasemos al final.
+Dialogue: 0,0:05:07.89,0:05:10.60,Default,,0,0,0,,¿Qué quieren a cambio de irse?\N¿Puntos?
+Dialogue: 0,0:05:10.68,0:05:13.64,Default,,0,0,0,,Les daré consejos de belleza,\Nlos necesitan.
+Dialogue: 0,0:05:16.14,0:05:19.56,Default,,0,0,0,,Lo siento, hermano, mejor acostúmbrate.\NSomos tu refuerzo.
+Dialogue: 0,0:05:20.73,0:05:21.82,Default,,0,0,0,,¡Qué lástima!
+Dialogue: 0,0:05:22.40,0:05:25.82,Default,,0,0,0,,¡En ese caso, no necesito refuerzos!
+Dialogue: 0,0:05:26.70,0:05:29.24,Default,,0,0,0,,¡Soy Mitch Williams!
+Dialogue: 0,0:05:30.95,0:05:34.58,Default,,0,0,0,,¿Quién sabe qué pasa\Ncuando un videojuego tiene un Glitch?
+Dialogue: 0,0:05:35.12,0:05:37.25,Default,,0,0,0,,♪ Los Glitch Techs\NSaben qué hacer ♪
+Dialogue: 0,0:05:37.33,0:05:39.33,Default,,0,0,0,,♪ Con tecnología y movimientos ♪
+Dialogue: 0,0:05:39.42,0:05:41.25,Default,,0,0,0,,♪ Glitch Techs demoledores ♪
+Dialogue: 0,0:05:41.34,0:05:43.00,Default,,0,0,0,,♪ Lo solucionarán ♪
+Dialogue: 0,0:05:43.09,0:05:46.59,Default,,0,0,0,,♪ Si un Glitch anda suelto\NLo atraparán como sea ♪
+Dialogue: 0,0:05:46.67,0:05:49.97,Default,,0,0,0,,♪ Los Glitch Techs llegan\NA resolver el problema ♪
+Dialogue: 0,0:05:50.05,0:05:51.01,Default,,0,0,0,,♪ Glitch Techs ♪
+Dialogue: 0,0:05:55.48,0:05:57.44,Default,,0,0,0,,♪ ¡Glitch Techs! ♪
+Dialogue: 0,0:05:57.52,0:05:58.35,Default,,0,0,0,,♪ ¡Sí! ♪
+Dialogue: 0,0:06:00.61,0:06:02.61,Default,,0,0,0,,¡Vamos, Mitch, abre!
+Dialogue: 0,0:06:02.94,0:06:05.49,Default,,0,0,0,,Es una serpiente venenosa.
+Dialogue: 0,0:06:05.57,0:06:07.78,Default,,0,0,0,,Olvídalo. Las serpientes son amables.
+Dialogue: 0,0:06:07.86,0:06:10.74,Default,,0,0,0,,Vamos. No dejaremos\Nque se salga con la suya.
+Dialogue: 0,0:06:12.95,0:06:17.96,Default,,0,0,0,,Veamos si este lugar tiene tantos Glitches\Ncomo dijeron.
+Dialogue: 0,0:06:19.50,0:06:21.50,Default,,0,0,0,,¿Por qué escalar\Nsi puedo saltar?
+Dialogue: 0,0:06:29.72,0:06:32.39,Default,,0,0,0,,Está a la altura de las expectativas.
+Dialogue: 0,0:06:32.80,0:06:35.14,Default,,0,0,0,,Mira todo este equipo malogrado.
+Dialogue: 0,0:06:35.26,0:06:36.93,Default,,0,0,0,,Señal de Glitch detectada.
+Dialogue: 0,0:06:37.23,0:06:40.27,Default,,0,0,0,,Tenemos una visita y está...
+Dialogue: 0,0:06:42.19,0:06:44.48,Default,,0,0,0,,¡Ese Glitch sigue en su primera forma!
+Dialogue: 0,0:06:44.57,0:06:46.53,Default,,0,0,0,,Debe estar buscando un anfitrión.
+Dialogue: 0,0:06:47.15,0:06:50.95,Default,,0,0,0,,Con todo esto, podría esconderse\Nen cualquier parte.
+Dialogue: 0,0:06:51.03,0:06:52.87,Default,,0,0,0,,¿No deberíamos buscar a...?
+Dialogue: 0,0:06:54.95,0:06:55.87,Default,,0,0,0,,¡Mitch!
+Dialogue: 0,0:06:58.91,0:07:00.92,Default,,0,0,0,,¡Sí! ¡Vamos!
+Dialogue: 0,0:07:01.00,0:07:02.29,Default,,0,0,0,,¡Cielos!
+Dialogue: 0,0:07:03.25,0:07:07.96,Default,,0,0,0,,¡Oye! ¿Cuántas veces te lo dije?\NEsta tecnología es cara.
+Dialogue: 0,0:07:08.13,0:07:10.13,Default,,0,0,0,,No puedes usarla así.
+Dialogue: 0,0:07:10.34,0:07:12.93,Default,,0,0,0,,- ¡Genial!\N- ¿Cómo entraron aquí?
+Dialogue: 0,0:07:13.76,0:07:15.22,Default,,0,0,0,,- Saltando.\N- Escalando.
+Dialogue: 0,0:07:17.39,0:07:19.35,Default,,0,0,0,,Hermano, necesito baterías.
+Dialogue: 0,0:07:19.43,0:07:21.31,Default,,0,0,0,,- Un momento.\N- ¿Quiénes son?
+Dialogue: 0,0:07:21.56,0:07:23.02,Default,,0,0,0,,¿Trabajan con Mitch?
+Dialogue: 0,0:07:23.98,0:07:24.94,Default,,0,0,0,,Sí, yo...
+Dialogue: 0,0:07:25.02,0:07:27.78,Default,,0,0,0,,- Denme baterías entonces.\N- Yo lo haré.
+Dialogue: 0,0:07:27.86,0:07:30.49,Default,,0,0,0,,Ellos ya se van.
+Dialogue: 0,0:07:31.03,0:07:33.45,Default,,0,0,0,,-¿Por qué?\N-¿Por qué te saliste, Aud?
+Dialogue: 0,0:07:34.07,0:07:35.49,Default,,0,0,0,,¿Hermano? ¿Jugamos?
+Dialogue: 0,0:07:36.08,0:07:38.58,Default,,0,0,0,,¡Oigan! Estamos jugando.
+Dialogue: 0,0:07:38.70,0:07:41.37,Default,,0,0,0,,Si necesitan ir al baño,\Nusen las botellas.
+Dialogue: 0,0:07:42.96,0:07:43.96,Default,,0,0,0,,¡A jugar!
+Dialogue: 0,0:07:46.92,0:07:49.01,Default,,0,0,0,,¡Vamos a ponernos furiosos!
+Dialogue: 0,0:07:49.09,0:07:50.21,Default,,0,0,0,,LOS CUATRO FURIOSOS
+Dialogue: 0,0:07:50.30,0:07:52.01,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:07:52.97,0:07:54.14,Default,,0,0,0,,¿Furiosos?
+Dialogue: 0,0:07:54.97,0:07:57.39,Default,,0,0,0,,¿Ustedes son Los cuatro furiosos?
+Dialogue: 0,0:07:58.35,0:08:00.10,Default,,0,0,0,,Miko, son profesionales.
+Dialogue: 0,0:08:00.18,0:08:03.60,Default,,0,0,0,,¿Ellos han destrozado\Ntodo este equipo?
+Dialogue: 0,0:08:03.69,0:08:05.44,Default,,0,0,0,,No exageren.
+Dialogue: 0,0:08:06.44,0:08:08.27,Default,,0,0,0,,¡Este control es basura!
+Dialogue: 0,0:08:09.15,0:08:11.15,Default,,0,0,0,,Oye, tranquila.
+Dialogue: 0,0:08:11.24,0:08:14.28,Default,,0,0,0,,Hermano, pensé que traerías\Nmás equipo esta semana.
+Dialogue: 0,0:08:14.36,0:08:16.45,Default,,0,0,0,,No habrá más equipo
+Dialogue: 0,0:08:16.53,0:08:19.24,Default,,0,0,0,,si tú y los demás no cambian\Nde actitud.
+Dialogue: 0,0:08:20.41,0:08:24.17,Default,,0,0,0,,Espera. ¿Tú les traes todo este equipo?
+Dialogue: 0,0:08:25.67,0:08:28.63,Default,,0,0,0,,¡Dejen de meterse! ¡Váyanse!
+Dialogue: 0,0:08:29.38,0:08:33.30,Default,,0,0,0,,No les pedí ayuda, ¿sí?\NTengo todo bajo control.
+Dialogue: 0,0:08:33.38,0:08:35.64,Default,,0,0,0,,¡Claro que lo tienes bajo control!
+Dialogue: 0,0:08:35.84,0:08:40.56,Default,,0,0,0,,Le das tecnología nueva para que creen\NGlitches y así ganar puntos.
+Dialogue: 0,0:08:40.64,0:08:43.02,Default,,0,0,0,,Sabes bien que causan Glitches.
+Dialogue: 0,0:08:43.10,0:08:45.23,Default,,0,0,0,,No saben de lo que están hablando.
+Dialogue: 0,0:08:45.31,0:08:47.27,Default,,0,0,0,,Si no limpio este lugar ahora,
+Dialogue: 0,0:08:47.36,0:08:49.69,Default,,0,0,0,,los van a vetar para siempre.
+Dialogue: 0,0:08:49.77,0:08:52.28,Default,,0,0,0,,¿La compañía los vetará de por vida?
+Dialogue: 0,0:08:52.36,0:08:54.49,Default,,0,0,0,,¿Sin transmitir ni jugar en línea?
+Dialogue: 0,0:08:54.70,0:08:56.86,Default,,0,0,0,,¿Sin parches de consola\Nni descargas?
+Dialogue: 0,0:08:56.95,0:08:59.16,Default,,0,0,0,,¡Es una sentencia de muerte!
+Dialogue: 0,0:09:03.75,0:09:05.41,Default,,0,0,0,,LOS CUATRO FURIOSOS
+Dialogue: 0,0:09:06.42,0:09:09.84,Default,,0,0,0,,Odio decirlo pero,\Nsi usan así la tecnología,
+Dialogue: 0,0:09:09.96,0:09:11.59,Default,,0,0,0,,tal vez deberían vetarlos.
+Dialogue: 0,0:09:12.51,0:09:15.47,Default,,0,0,0,,Nadie pidió tu opinión.\NNo deberías estar aquí.
+Dialogue: 0,0:09:23.93,0:09:24.77,Default,,0,0,0,,¡Glitch!
+Dialogue: 0,0:09:29.69,0:09:31.15,Default,,0,0,0,,Oye, ¿eres tú, hermano?
+Dialogue: 0,0:09:33.03,0:09:36.49,Default,,0,0,0,,Speck, tienen que limpiar\Neste lugar ahora o...
+Dialogue: 0,0:09:36.57,0:09:40.58,Default,,0,0,0,,Tranquilo. Lo haremos...\Ncuando terminemos de jugar.
+Dialogue: 0,0:09:41.03,0:09:43.45,Default,,0,0,0,,Pero nunca terminan de jugar.
+Dialogue: 0,0:09:44.08,0:09:46.50,Default,,0,0,0,,¡Cuidado, vas a romper algo!
+Dialogue: 0,0:09:46.58,0:09:48.54,Default,,0,0,0,,¡Regresa acá, Glitch travieso!
+Dialogue: 0,0:09:53.00,0:09:55.09,Default,,0,0,0,,- ¡Sí!\N- ¡Ven aquí, Glitch!
+Dialogue: 0,0:09:58.55,0:09:59.59,Default,,0,0,0,,Por la ventana.
+Dialogue: 0,0:10:02.31,0:10:04.72,Default,,0,0,0,,Miko, es hora del Parkour.
+Dialogue: 0,0:10:05.93,0:10:06.77,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:10:08.39,0:10:10.35,Default,,0,0,0,,¿Qué hace? Es una locura.
+Dialogue: 0,0:10:12.40,0:10:15.07,Default,,0,0,0,,Te equivocas.\NEsto es trabajar en equipo.
+Dialogue: 0,0:10:19.86,0:10:21.24,Default,,0,0,0,,¡Eso sí que no!
+Dialogue: 0,0:10:25.20,0:10:26.04,Default,,0,0,0,,¡Atentos!
+Dialogue: 0,0:10:27.41,0:10:29.12,Default,,0,0,0,,- ¡Muévete!\N- Lo tengo.
+Dialogue: 0,0:10:29.21,0:10:30.46,Default,,0,0,0,,- ¡No!\N- ¡Vamos!
+Dialogue: 0,0:10:48.81,0:10:49.98,Default,,0,0,0,,Qué Glitch.
+Dialogue: 0,0:10:50.73,0:10:53.27,Default,,0,0,0,,Demasiado Glitch.
+Dialogue: 0,0:10:55.78,0:10:58.32,Default,,0,0,0,,¿Hermano?\NCuidado con las botellas.
+Dialogue: 0,0:10:58.40,0:10:59.78,Default,,0,0,0,,Ruf, debes escucharme.
+Dialogue: 0,0:10:59.86,0:11:03.12,Default,,0,0,0,,Si no limpiamos este lugar,\Nperderán todo.
+Dialogue: 0,0:11:05.58,0:11:07.54,Default,,0,0,0,,Te tengo, maldito.
+Dialogue: 0,0:11:10.87,0:11:12.21,Default,,0,0,0,,¡Ruf, cuidado!
+Dialogue: 0,0:11:19.88,0:11:23.39,Default,,0,0,0,,Oye, cuidado.\NEres un peligro para la seguridad.
+Dialogue: 0,0:11:23.47,0:11:24.80,Default,,0,0,0,,¿Yo soy el peligro?
+Dialogue: 0,0:11:29.81,0:11:33.15,Default,,0,0,0,,Puntos o no, no veo por qué Mitch\Nsigue aguantándolos.
+Dialogue: 0,0:11:33.23,0:11:35.31,Default,,0,0,0,,Supongo que es un gran fanático.
+Dialogue: 0,0:11:35.40,0:11:38.73,Default,,0,0,0,,Espera. Si se llaman Los cuatro furiosos,
+Dialogue: 0,0:11:38.82,0:11:40.82,Default,,0,0,0,,¿por qué solo hay tres?
+Dialogue: 0,0:11:41.65,0:11:44.16,Default,,0,0,0,,Mitch, si no estás aquí\Npor los puntos,
+Dialogue: 0,0:11:44.24,0:11:46.45,Default,,0,0,0,,¿por qué no dejas que los veten?
+Dialogue: 0,0:11:46.53,0:11:50.58,Default,,0,0,0,,- No puedo.\N- ¿Por qué? ¿Qué son de ti?
+Dialogue: 0,0:11:50.66,0:11:52.87,Default,,0,0,0,,- Llamada entrante.\N- ¿Y ahora qué?
+Dialogue: 0,0:11:52.96,0:11:54.54,Default,,0,0,0,,De tu jefe.
+Dialogue: 0,0:11:55.00,0:11:57.46,Default,,0,0,0,,Estoy ocupado, Phil.
+Dialogue: 0,0:11:59.13,0:12:00.26,Default,,0,0,0,,Bueno, ve al grano.
+Dialogue: 0,0:12:00.34,0:12:04.22,Default,,0,0,0,,Acabo de oír que el Tech especialista\Nllegará allí
+Dialogue: 0,0:12:04.30,0:12:06.01,Default,,0,0,0,,en 15 minutos.
+Dialogue: 0,0:12:06.39,0:12:09.64,Default,,0,0,0,,Y créeme, Mitch,\Nno quieres meterte con este tipo.
+Dialogue: 0,0:12:10.47,0:12:12.52,Default,,0,0,0,,No quieres meterte conmigo.
+Dialogue: 0,0:12:15.60,0:12:17.31,Default,,0,0,0,,- Ven aquí.\N- ¡A un lado!
+Dialogue: 0,0:12:17.40,0:12:18.82,Default,,0,0,0,,¡Lo tengo!
+Dialogue: 0,0:12:24.11,0:12:26.32,Default,,0,0,0,,¿Adónde van todos estos cables?
+Dialogue: 0,0:12:27.12,0:12:28.33,Default,,0,0,0,,¿Cuál es el plan?
+Dialogue: 0,0:12:29.12,0:12:33.91,Default,,0,0,0,,¿Podrían dejar de fallar cerca de mí?\N¡Es un pequeño Glitch!
+Dialogue: 0,0:12:34.00,0:12:35.96,Default,,0,0,0,,¡En un nido de electrónicos!
+Dialogue: 0,0:12:36.42,0:12:39.84,Default,,0,0,0,,Espera. El Glitch busca un anfitrión, ¿no?
+Dialogue: 0,0:12:40.13,0:12:42.88,Default,,0,0,0,,Quiere energía,\Ncomo un ratón buscando queso.
+Dialogue: 0,0:12:44.38,0:12:45.55,Default,,0,0,0,,Aquí vamos.
+Dialogue: 0,0:12:45.63,0:12:49.56,Default,,0,0,0,,Sí, en vez de perseguirlo,\Nquizá podamos atraerlo.
+Dialogue: 0,0:12:49.72,0:12:53.39,Default,,0,0,0,,- Genial, pensamos lo mismo.\N- Si cortamos la electricidad,
+Dialogue: 0,0:12:53.48,0:12:56.10,Default,,0,0,0,,y le damos una sola fuente que buscar...
+Dialogue: 0,0:12:56.73,0:12:58.69,Default,,0,0,0,,¡Lo atraparemos en una ratonera!
+Dialogue: 0,0:13:02.65,0:13:04.61,Default,,0,0,0,,Claro... ¡Más trabajo en equipo!
+Dialogue: 0,0:13:04.78,0:13:07.32,Default,,0,0,0,,¿Y qué usaremos para el queso?
+Dialogue: 0,0:13:09.78,0:13:11.33,Default,,0,0,0,,Hola, Five, ¿qué tal?
+Dialogue: 0,0:13:11.54,0:13:13.79,Default,,0,0,0,,Nix, necesito que me subas un archivo.
+Dialogue: 0,0:13:19.84,0:13:22.17,Default,,0,0,0,,Cortando la electricidad... ¡ahora!
+Dialogue: 0,0:13:34.98,0:13:35.85,Default,,0,0,0,,¡Increíble!
+Dialogue: 0,0:13:36.64,0:13:39.36,Default,,0,0,0,,Debe haber un queso mejor que este.
+Dialogue: 0,0:13:39.44,0:13:43.40,Default,,0,0,0,,Vigilen los enchufes.\NLlegará pronto por su carnada.
+Dialogue: 0,0:13:43.48,0:13:45.99,Default,,0,0,0,,Quietos.
+Dialogue: 0,0:13:46.86,0:13:49.28,Default,,0,0,0,,- ¡Ahí está!\N- ¿Listos?
+Dialogue: 0,0:13:49.95,0:13:50.83,Default,,0,0,0,,¡Apunten!
+Dialogue: 0,0:13:55.16,0:13:56.00,Default,,0,0,0,,¡Increíble!
+Dialogue: 0,0:14:01.25,0:14:02.88,Default,,0,0,0,,Sus sistemas volvieron.
+Dialogue: 0,0:14:02.96,0:14:05.26,Default,,0,0,0,,- ¿No cortamos la electricidad?\N- Sí.
+Dialogue: 0,0:14:05.34,0:14:06.97,Default,,0,0,0,,¿Entonces cómo...?
+Dialogue: 0,0:14:08.13,0:14:11.72,Default,,0,0,0,,Los cables, van a...
+Dialogue: 0,0:14:12.68,0:14:15.56,Default,,0,0,0,,Oigan, revisen la electricidad\Nantes de irse.
+Dialogue: 0,0:14:15.68,0:14:17.69,Default,,0,0,0,,Estamos con el generador.
+Dialogue: 0,0:14:18.44,0:14:19.85,Default,,0,0,0,,¿El generador?
+Dialogue: 0,0:14:19.94,0:14:22.82,Default,,0,0,0,,Sí, tenemos uno de reserva\Npor si se va la luz.
+Dialogue: 0,0:14:24.23,0:14:27.28,Default,,0,0,0,,¡Nerds!\NSi es la única fuente de energía...
+Dialogue: 0,0:14:27.36,0:14:31.24,Default,,0,0,0,,Acabamos de unir a un Glitch\Ncon un generador de energía.
+Dialogue: 0,0:14:35.58,0:14:36.66,Default,,0,0,0,,No, no...
+Dialogue: 0,0:14:37.04,0:14:40.17,Default,,0,0,0,,¡Ahí no!
+Dialogue: 0,0:14:48.76,0:14:51.05,Default,,0,0,0,,¡Ay, bum!
+Dialogue: 0,0:15:02.61,0:15:05.40,Default,,0,0,0,,Podemos con esto. Es un solo Glitch.
+Dialogue: 0,0:15:05.52,0:15:08.15,Default,,0,0,0,,- Somos tres Glitch Techs.\N- ¿Y?
+Dialogue: 0,0:15:08.40,0:15:10.28,Default,,0,0,0,,Ya casi llega el especialista.
+Dialogue: 0,0:15:10.74,0:15:14.07,Default,,0,0,0,,Aunque lograra limpiar el lugar\Nantes de que llegue,
+Dialogue: 0,0:15:15.08,0:15:18.79,Default,,0,0,0,,estos vándalos lo llenarían\Nde Glitches otra vez.
+Dialogue: 0,0:15:22.96,0:15:25.67,Default,,0,0,0,,Oye, no te rendirás.\NNunca te rindes.
+Dialogue: 0,0:15:25.84,0:15:28.46,Default,,0,0,0,,Eres un robot, una roca,\Neres Mitch...
+Dialogue: 0,0:15:31.18,0:15:32.05,Default,,0,0,0,,Williams.
+Dialogue: 0,0:15:35.35,0:15:36.76,Default,,0,0,0,,LOS CUATRO FURIOSOS
+Dialogue: 0,0:15:41.06,0:15:44.15,Default,,0,0,0,,Ya sabemos quién es el cuarto jugador.
+Dialogue: 0,0:15:44.23,0:15:46.44,Default,,0,0,0,,Es... ¿es tu habitación, Mitch?
+Dialogue: 0,0:15:46.52,0:15:47.69,Default,,0,0,0,,Sí, lo era.
+Dialogue: 0,0:15:48.11,0:15:50.49,Default,,0,0,0,,Me fui hace un año para enfocarme.
+Dialogue: 0,0:15:50.82,0:15:53.45,Default,,0,0,0,,Ahora solo vengo a ver a mi familia.
+Dialogue: 0,0:15:53.61,0:15:56.20,Default,,0,0,0,,¡Hermano, mis auriculares no funcionan!
+Dialogue: 0,0:15:56.28,0:15:58.87,Default,,0,0,0,,¡Mi silla está vibrando\Nsin estar conectada!
+Dialogue: 0,0:15:58.95,0:16:00.87,Default,,0,0,0,,Ya no hay galletas saladas.
+Dialogue: 0,0:16:00.96,0:16:03.71,Default,,0,0,0,,Entonces, ¿cuando le dicen "hermano"\Na Mitch...
+Dialogue: 0,0:16:04.25,0:16:06.04,Default,,0,0,0,,...quieren decir que son...?
+Dialogue: 0,0:16:06.13,0:16:10.09,Default,,0,0,0,,Les presento a mi hermana, Audrey,\Ny a mis hermanos, Ruf y Speck.
+Dialogue: 0,0:16:12.51,0:16:15.93,Default,,0,0,0,,Eras parte del equipo\Nporque eras parte de la familia.
+Dialogue: 0,0:16:16.01,0:16:20.81,Default,,0,0,0,,Obvio. Solo que nos dejó para pasar\Ntodo su tiempo en ese trabajo nuevo.
+Dialogue: 0,0:16:20.89,0:16:22.31,Default,,0,0,0,,Juegan todo el día.
+Dialogue: 0,0:16:22.39,0:16:25.81,Default,,0,0,0,,- Trabajas todo el día.\N- Ya no te vemos.
+Dialogue: 0,0:16:26.23,0:16:30.19,Default,,0,0,0,,Lo harían si se quitaran eso de la cabeza\Nde vez en cuando.
+Dialogue: 0,0:16:39.70,0:16:41.66,Default,,0,0,0,,- ¡Nerds! ¡Ayuda!\N- ¡Ay!
+Dialogue: 0,0:16:43.91,0:16:46.38,Default,,0,0,0,,- ¿Ellos están bien?\N- Necesitan ayuda.
+Dialogue: 0,0:16:46.96,0:16:48.09,Default,,0,0,0,,Eso pareciera.
+Dialogue: 0,0:16:48.38,0:16:53.84,Default,,0,0,0,,Pero en cualquier momento,\Nreunirán el poder del trabajo en equipo,
+Dialogue: 0,0:16:53.92,0:16:58.47,Default,,0,0,0,,o de la amistad, o... de la comprensión.
+Dialogue: 0,0:17:02.81,0:17:05.06,Default,,0,0,0,,Esos arándanos no me necesitan.
+Dialogue: 0,0:17:08.48,0:17:12.40,Default,,0,0,0,,- Claro que sí, hermano.\N- Eres el mejor compañero de todos.
+Dialogue: 0,0:17:12.48,0:17:14.86,Default,,0,0,0,,¿Por qué crees que\Nte pedimos que vengas?
+Dialogue: 0,0:17:14.95,0:17:17.57,Default,,0,0,0,,¿Porque son tan buenos rompiendo cosas?
+Dialogue: 0,0:17:17.66,0:17:20.03,Default,,0,0,0,,Porque eres bueno para arreglarlas.
+Dialogue: 0,0:17:20.12,0:17:23.16,Default,,0,0,0,,Sí, si no, nunca te veríamos, ¿verdad?
+Dialogue: 0,0:17:23.70,0:17:28.42,Default,,0,0,0,,¿Hacen todo esto para que yo los visite?
+Dialogue: 0,0:17:29.00,0:17:30.17,Default,,0,0,0,,¡Qué locura!
+Dialogue: 0,0:17:30.67,0:17:33.17,Default,,0,0,0,,Sí, pero te necesitamos, hermano.
+Dialogue: 0,0:17:35.55,0:17:36.51,Default,,0,0,0,,¡Mitch!
+Dialogue: 0,0:17:37.26,0:17:38.64,Default,,0,0,0,,¡Te necesitamos!
+Dialogue: 0,0:17:42.43,0:17:46.60,Default,,0,0,0,,Entonces, demostrémosles\Nde qué se trata el trabajo en equipo.
+Dialogue: 0,0:17:47.14,0:17:50.06,Default,,0,0,0,,Si quieren seguir siendo\Nel equipo más furioso,
+Dialogue: 0,0:17:50.15,0:17:52.15,Default,,0,0,0,,van a tener que luchar por ello.
+Dialogue: 0,0:17:52.23,0:17:53.65,Default,,0,0,0,,¿De qué hablas?
+Dialogue: 0,0:17:56.15,0:17:59.49,Default,,0,0,0,,Vamos a jugar con la realidad aumentada.
+Dialogue: 0,0:18:09.37,0:18:10.63,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:18:13.75,0:18:17.13,Default,,0,0,0,,Hemos luchado contra Glitches\Nmucho más fuertes que este.
+Dialogue: 0,0:18:17.22,0:18:20.09,Default,,0,0,0,,Sí, pero no con las manos amarradas.
+Dialogue: 0,0:18:20.76,0:18:23.97,Default,,0,0,0,,¡Típico! Sin hacer nada\Ncuando hay mucho qué hacer.
+Dialogue: 0,0:18:24.06,0:18:25.14,Default,,0,0,0,,¡Vamos, equipo!
+Dialogue: 0,0:18:25.31,0:18:26.14,Default,,0,0,0,,- ¡Sí!\N- ¡Sí!
+Dialogue: 0,0:18:28.14,0:18:29.65,Default,,0,0,0,,¡Vamos a ponernos...
+Dialogue: 0,0:18:31.06,0:18:31.94,Default,,0,0,0,,...furiosos!
+Dialogue: 0,0:19:01.39,0:19:03.10,Default,,0,0,0,,¡Miren por dónde disparan!
+Dialogue: 0,0:19:03.60,0:19:06.43,Default,,0,0,0,,Debo ir por ellos.\NUstedes me cubren.
+Dialogue: 0,0:19:06.52,0:19:07.68,Default,,0,0,0,,Claro, hermano.
+Dialogue: 0,0:19:22.16,0:19:23.82,Default,,0,0,0,,¿Querían trabajar en equipo?
+Dialogue: 0,0:19:24.24,0:19:25.28,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:19:59.07,0:20:02.45,Default,,0,0,0,,- Glitch contenido.\N- Son muchos puntos de experiencia.
+Dialogue: 0,0:20:03.86,0:20:05.28,Default,,0,0,0,,¡Oigan, eso fue genial!
+Dialogue: 0,0:20:05.37,0:20:07.49,Default,,0,0,0,,- ¿Jugamos más?\N- ¡Parecía tan real!
+Dialogue: 0,0:20:18.42,0:20:20.71,Default,,0,0,0,,¿Qué hacen ustedes aquí?
+Dialogue: 0,0:20:20.80,0:20:24.22,Default,,0,0,0,,Me mandaron a vetarlos\Nde manera permanente.
+Dialogue: 0,0:20:24.30,0:20:27.76,Default,,0,0,0,,Inténtalo,\Ny te borraré la sonrisa.
+Dialogue: 0,0:20:27.85,0:20:30.43,Default,,0,0,0,,No, no. Esperen un momento, chicos.
+Dialogue: 0,0:20:30.89,0:20:33.31,Default,,0,0,0,,Creo que debe haber un error.
+Dialogue: 0,0:20:33.39,0:20:35.44,Default,,0,0,0,,Esta casa está totalmente limpia.
+Dialogue: 0,0:20:37.44,0:20:39.52,Default,,0,0,0,,De Glitches...
+Dialogue: 0,0:20:39.61,0:20:40.73,Default,,0,0,0,,Revise, si quiere.
+Dialogue: 0,0:20:41.49,0:20:43.45,Default,,0,0,0,,Buscando señales de Glitch.
+Dialogue: 0,0:20:46.82,0:20:48.08,Default,,0,0,0,,No hay ninguna.
+Dialogue: 0,0:20:49.41,0:20:50.70,Default,,0,0,0,,Decepcionante.
+Dialogue: 0,0:20:51.79,0:20:54.12,Default,,0,0,0,,Pero a juzgar\Npor cómo se ve este lugar,
+Dialogue: 0,0:20:54.37,0:21:01.21,Default,,0,0,0,,creo que veré a estos...\Nclientes leales muy pronto.
+Dialogue: 0,0:21:02.59,0:21:04.17,Default,,0,0,0,,Me retiro.
+Dialogue: 0,0:21:07.89,0:21:09.93,Default,,0,0,0,,Esos cables son un peligro.
+Dialogue: 0,0:21:10.81,0:21:12.43,Default,,0,0,0,,Lo pondré en mi informe.
+Dialogue: 0,0:21:16.85,0:21:19.65,Default,,0,0,0,,¿Qué? Tiene razón.
+Dialogue: 0,0:21:19.77,0:21:22.48,Default,,0,0,0,,Este lugar es un basurero.
+Dialogue: 0,0:21:22.61,0:21:24.15,Default,,0,0,0,,¿Qué haremos?
+Dialogue: 0,0:21:24.24,0:21:27.45,Default,,0,0,0,,Bueno, tendrán que empezar\Na cuidar su equipo.
+Dialogue: 0,0:21:27.53,0:21:30.12,Default,,0,0,0,,Por que yo ya no lo haré.
+Dialogue: 0,0:21:30.49,0:21:32.66,Default,,0,0,0,,Pero ¿cómo podremos verte?
+Dialogue: 0,0:21:34.29,0:21:35.33,Default,,0,0,0,,Te extrañan.
+Dialogue: 0,0:21:35.41,0:21:36.75,Default,,0,0,0,,Por alguna razón.
+Dialogue: 0,0:21:39.29,0:21:41.38,Default,,0,0,0,,He estado trabajando mucho.
+Dialogue: 0,0:21:42.00,0:21:45.47,Default,,0,0,0,,Supongo que no estaría mal\Npasar un tiempo en familia.
+Dialogue: 0,0:21:45.55,0:21:46.38,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:21:46.47,0:21:49.80,Default,,0,0,0,,¿Será que Phil podrá lidiar\Ncon que te tomes un descanso?
+Dialogue: 0,0:21:49.93,0:21:53.27,Default,,0,0,0,,Bueno, para eso los tengo como refuerzos.
+Dialogue: 0,0:21:53.97,0:21:56.98,Default,,0,0,0,,- ¿No?\N- ¡Qué lindo, Mitch!
+Dialogue: 0,0:21:57.73,0:21:59.02,Default,,0,0,0,,Claro que soy lindo.
+Dialogue: 0,0:21:59.90,0:22:01.94,Default,,0,0,0,,¡Soy Mitch Williams!
+Dialogue: 0,0:22:02.52,0:22:04.32,Default,,0,0,0,,¿Quién quiere ponerse furioso?
+Dialogue: 0,0:22:04.40,0:22:06.36,Default,,0,0,0,,¡Vamos a ponernos furiosos!
+Dialogue: 0,0:22:07.65,0:22:09.20,Default,,0,0,0,,- ¡Sí!\N- ¡Increíble!
+Dialogue: 0,0:22:11.07,0:22:13.20,Default,,0,0,0,,¿Quién limpiará este desastre?
+Dialogue: 0,0:22:42.31,0:22:45.23,Default,,0,0,0,,Subtítulos: Carolina Salazar

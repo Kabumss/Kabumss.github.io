@@ -1,0 +1,350 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GlitchTechsT01E06
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.13,0:00:11.05,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:28.02,0:00:29.98,Default,,0,0,0,,Bajaron su defensa, separémonos.
+Dialogue: 0,0:00:30.07,0:00:31.99,Default,,0,0,0,,- Tú ve por arriba y yo...\N- ¡Sí!
+Dialogue: 0,0:00:33.74,0:00:34.82,Default,,0,0,0,,Vamos, Ally.
+Dialogue: 0,0:00:51.13,0:00:52.26,Default,,0,0,0,,¡Equipo perfecto!
+Dialogue: 0,0:00:53.21,0:00:54.09,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:00:55.13,0:00:59.35,Default,,0,0,0,,¿Quién es el mejor pájaro del universo?\NTú, claro que sí.
+Dialogue: 0,0:01:02.22,0:01:04.10,Default,,0,0,0,,Buen trabajo, dodo digital.
+Dialogue: 0,0:01:04.27,0:01:06.85,Default,,0,0,0,,¡Mitch, te quitamos el enjambre de drones!
+Dialogue: 0,0:01:07.56,0:01:10.07,Default,,0,0,0,,Sí, destruiste unas maquinitas.
+Dialogue: 0,0:01:10.15,0:01:12.53,Default,,0,0,0,,¿Quieres una galleta por seguir órdenes?
+Dialogue: 0,0:01:20.49,0:01:22.54,Default,,0,0,0,,¡Haneesh, dale un empujón a Zahra!
+Dialogue: 0,0:01:25.96,0:01:27.96,Default,,0,0,0,,- ¡Sí!\N- Aumento de velocidad.
+Dialogue: 0,0:01:38.55,0:01:41.18,Default,,0,0,0,,Ahora váyanse y déjenme acabar con ella.
+Dialogue: 0,0:01:41.72,0:01:43.39,Default,,0,0,0,,¿Y su radio de salpicaduras?
+Dialogue: 0,0:01:43.47,0:01:46.06,Default,,0,0,0,,- Era una orden.\N- Está bien.
+Dialogue: 0,0:01:48.27,0:01:49.31,Default,,0,0,0,,¡Bum!
+Dialogue: 0,0:01:59.74,0:02:00.78,Default,,0,0,0,,{\i1}Glitch contenido.{\i0}
+Dialogue: 0,0:02:02.99,0:02:06.50,Default,,0,0,0,,¡Vaya! Haneesh\Ny Zahra estuvieron geniales.
+Dialogue: 0,0:02:06.58,0:02:08.21,Default,,0,0,0,,¿Por qué no les hablas?
+Dialogue: 0,0:02:08.29,0:02:10.83,Default,,0,0,0,,No lo sé. No sé qué decir.
+Dialogue: 0,0:02:10.92,0:02:11.92,Default,,0,0,0,,Solo di:
+Dialogue: 0,0:02:12.34,0:02:14.55,Default,,0,0,0,,"Hola, son muy geniales".
+Dialogue: 0,0:02:15.67,0:02:16.71,Default,,0,0,0,,¡Tú puedes!
+Dialogue: 0,0:02:17.92,0:02:19.43,Default,,0,0,0,,- Hola.\N- Hola, ¿qué tal?
+Dialogue: 0,0:02:20.05,0:02:23.85,Default,,0,0,0,,Solo quería decir que son muy geniales.
+Dialogue: 0,0:02:25.85,0:02:26.93,Default,,0,0,0,,Gracias, High Fly.
+Dialogue: 0,0:02:27.27,0:02:28.10,Default,,0,0,0,,Nos vemos.
+Dialogue: 0,0:02:29.23,0:02:30.31,Default,,0,0,0,,¿High Fly?
+Dialogue: 0,0:02:30.77,0:02:33.90,Default,,0,0,0,,Mira el lado bueno,\Ncasi saben tu nombre.
+Dialogue: 0,0:02:40.41,0:02:42.20,Default,,0,0,0,,TABLERO DE POSICIONES
+Dialogue: 0,0:02:42.28,0:02:43.37,Default,,0,0,0,,4 ME_KO\N5 HI_5
+Dialogue: 0,0:02:43.45,0:02:45.08,Default,,0,0,0,,2 ZAHRA\N3 HANESH
+Dialogue: 0,0:02:45.54,0:02:47.75,Default,,0,0,0,,1 EQUIPO MITCH
+Dialogue: 0,0:02:49.12,0:02:51.88,Default,,0,0,0,,El equipo de Mitch es el dueño\Ndel tablero.
+Dialogue: 0,0:02:51.96,0:02:54.54,Default,,0,0,0,,¿Cuál es el secreto\Nde esas clasificaciones?
+Dialogue: 0,0:02:54.63,0:02:57.55,Default,,0,0,0,,Ya que un equipo es tan bueno\Ncomo su lider,
+Dialogue: 0,0:02:59.55,0:03:02.14,Default,,0,0,0,,diría que el secreto soy yo.
+Dialogue: 0,0:03:05.76,0:03:08.60,Default,,0,0,0,,Diagnosis: contrajiste una nano-gripe.
+Dialogue: 0,0:03:08.68,0:03:10.19,Default,,0,0,0,,Se requiere cuarentena.
+Dialogue: 0,0:03:10.73,0:03:12.02,Default,,0,0,0,,Espera, ¿qué?
+Dialogue: 0,0:03:14.27,0:03:15.86,Default,,0,0,0,,¡Técnicos, vengan!
+Dialogue: 0,0:03:15.94,0:03:17.69,Default,,0,0,0,,Aquí está la descarga.
+Dialogue: 0,0:03:17.78,0:03:20.03,Default,,0,0,0,,Tenemos cuatro Glitches multijugadores
+Dialogue: 0,0:03:20.11,0:03:24.20,Default,,0,0,0,,que buscan afincarse\Nen el parque de diversiones abandonado.
+Dialogue: 0,0:03:24.70,0:03:28.08,Default,,0,0,0,,Necesitamos un equipo oponente\Nque vaya y tome el control.
+Dialogue: 0,0:03:28.16,0:03:31.29,Default,,0,0,0,,Ya que nuestro líder de ataque\Nse está muriendo...
+Dialogue: 0,0:03:31.37,0:03:32.62,Default,,0,0,0,,¿Me estoy muriendo?
+Dialogue: 0,0:03:32.71,0:03:34.67,Default,,0,0,0,,Técnicamente, todos los humanos.
+Dialogue: 0,0:03:34.75,0:03:37.59,Default,,0,0,0,,Necesitar que alguien más se haga cargo.
+Dialogue: 0,0:03:38.05,0:03:39.88,Default,,0,0,0,,¿Quién va a ser?
+Dialogue: 0,0:03:41.05,0:03:44.18,Default,,0,0,0,,No, yo no, jefe.\NLo hice, no me gustó. ¿Zahra?
+Dialogue: 0,0:03:44.51,0:03:47.35,Default,,0,0,0,,Según mis estadísticas,\Nsoy mejor como apoyo...
+Dialogue: 0,0:03:47.56,0:03:48.39,Default,,0,0,0,,Yo lo haré.
+Dialogue: 0,0:03:48.47,0:03:51.27,Default,,0,0,0,,Genial. Serás responsable de tácticas,
+Dialogue: 0,0:03:51.35,0:03:53.44,Default,,0,0,0,,gestión de equipo, parámetros...
+Dialogue: 0,0:03:53.52,0:03:58.52,Default,,0,0,0,,Me aburrí. ¿Qué tal Five?\NLe encanta todo lo que acabas de decir.
+Dialogue: 0,0:03:59.07,0:04:01.07,Default,,0,0,0,,Claro, podría liderar.
+Dialogue: 0,0:04:01.15,0:04:03.66,Default,,0,0,0,,Cerebro de tortuga,\Nconfianza de lagarto.
+Dialogue: 0,0:04:04.74,0:04:06.28,Default,,0,0,0,,- Bien.\N- Genial.
+Dialogue: 0,0:04:06.37,0:04:09.08,Default,,0,0,0,,Contamos contigo, chico nuevo.\NNo lo arruines.
+Dialogue: 0,0:04:12.16,0:04:15.83,Default,,0,0,0,,Hi_5, diviértete y muéstrales\Nlo que puedes hacer. Tranquilo.
+Dialogue: 0,0:04:16.13,0:04:17.50,Default,,0,0,0,,No te tranquilices.
+Dialogue: 0,0:04:18.04,0:04:20.05,Default,,0,0,0,,¡Claro que no te tranquilizarás!
+Dialogue: 0,0:04:21.63,0:04:25.18,Default,,0,0,0,,Mi equipo ha liderado el tablero\Ncuatro semanas seguidas
+Dialogue: 0,0:04:25.26,0:04:28.30,Default,,0,0,0,,y no dejaré que arruines nuestra racha.
+Dialogue: 0,0:04:28.55,0:04:33.06,Default,,0,0,0,,¿Cómo esperas llevar a mi equipo\Na otra victoria impecable?
+Dialogue: 0,0:04:33.52,0:04:35.98,Default,,0,0,0,,Iba a dar lo mejor de mí.
+Dialogue: 0,0:04:37.48,0:04:43.28,Default,,0,0,0,,¿Eres el mejor? Si quieres que Haneesh\Ny Zahra te respeten como a mí,
+Dialogue: 0,0:04:43.36,0:04:45.53,Default,,0,0,0,,no puedes mostrar ninguna debilidad.
+Dialogue: 0,0:04:46.41,0:04:50.45,Default,,0,0,0,,Tú das las órdenes, ellos las siguen.\N¿Entendido?
+Dialogue: 0,0:04:52.12,0:04:54.12,Default,,0,0,0,,Pero ¿no tienen más experiencia?
+Dialogue: 0,0:04:54.37,0:04:56.29,Default,,0,0,0,,Sí, en seguir a su líder.
+Dialogue: 0,0:04:56.37,0:04:58.58,Default,,0,0,0,,A menos que quieras que se paralicen,
+Dialogue: 0,0:04:58.67,0:05:02.55,Default,,0,0,0,,asegúrate de que cuando te miren\Na ti me vean a mí.
+Dialogue: 0,0:05:14.48,0:05:15.77,Default,,0,0,0,,FIJADOR HOMBRE PURO
+Dialogue: 0,0:05:15.85,0:05:16.69,Default,,0,0,0,,¡Bum!
+Dialogue: 0,0:05:18.44,0:05:22.44,Default,,0,0,0,,{\i1}¿Quién sabe qué pasa{\i0}\N{\i1}cuando un videojuego tiene un Glitch?{\i0}
+Dialogue: 0,0:05:22.53,0:05:24.74,Default,,0,0,0,,{\i1}Vienen los Glitch Tech{\i0}\N{\i1}Saben qué hacer{\i0}
+Dialogue: 0,0:05:24.82,0:05:27.16,Default,,0,0,0,,{\i1}¡Tienen la tecnología{\i0}\N{\i1}Y los movimientos!{\i0}
+Dialogue: 0,0:05:27.24,0:05:30.49,Default,,0,0,0,,{\i1}¡Glitch Techs! ¡Los demoledores!{\i0}\N{\i1}¡Lo solucionarán!{\i0}
+Dialogue: 0,0:05:30.58,0:05:33.91,Default,,0,0,0,,{\i1}Si un Glitch anda suelto{\i0}\N{\i1}¡Lo acabarán como sea!{\i0}
+Dialogue: 0,0:05:34.00,0:05:37.46,Default,,0,0,0,,{\i1}Los Glitch Techs siempre llegan{\i0}\N{\i1}¡Para resolver el problema!{\i0}
+Dialogue: 0,0:05:37.54,0:05:38.46,Default,,0,0,0,,{\i1}¡Glitch Techs!{\i0}
+Dialogue: 0,0:05:42.96,0:05:45.67,Default,,0,0,0,,{\i1}¡Glitch Techs! ¡Sí!{\i0}
+Dialogue: 0,0:05:47.22,0:05:48.34,Default,,0,0,0,,DIVERTILANDIA
+Dialogue: 0,0:05:49.84,0:05:51.85,Default,,0,0,0,,{\i1}¡Llegamos! Bueno...{\i0}
+Dialogue: 0,0:05:53.68,0:05:54.52,Default,,0,0,0,,¡Lo hicimos!
+Dialogue: 0,0:05:58.39,0:06:00.27,Default,,0,0,0,,¿Dónde está el intrépido líder?
+Dialogue: 0,0:06:00.36,0:06:03.07,Default,,0,0,0,,No sé, dijo\Nque nos vería aquí en cuanto...
+Dialogue: 0,0:06:10.45,0:06:11.74,Default,,0,0,0,,...¿se cambiara?
+Dialogue: 0,0:06:11.82,0:06:15.20,Default,,0,0,0,,Escuchen, el Glitch\Nque buscamos es de un juego
+Dialogue: 0,0:06:15.29,0:06:18.00,Default,,0,0,0,,de multijugadores\Nllamado {\i1}Oversight Squadron.{\i0}
+Dialogue: 0,0:06:18.08,0:06:20.58,Default,,0,0,0,,Cualquier entidad Glitch puede atacarnos,
+Dialogue: 0,0:06:20.67,0:06:22.92,Default,,0,0,0,,así que Zahra irá adelante y el resto
+Dialogue: 0,0:06:23.00,0:06:25.25,Default,,0,0,0,,defenderemos el perímetro. ¿Preguntas?
+Dialogue: 0,0:06:25.34,0:06:28.59,Default,,0,0,0,,Las reduje a una.\N¿Puedo tocar ese pelo?
+Dialogue: 0,0:06:28.84,0:06:30.72,Default,,0,0,0,,Zahra, lleva a cabo la orden.
+Dialogue: 0,0:06:30.80,0:06:32.26,Default,,0,0,0,,Entendido, novato.
+Dialogue: 0,0:06:32.35,0:06:33.85,Default,,0,0,0,,BOLETOS
+Dialogue: 0,0:06:45.65,0:06:46.73,Default,,0,0,0,,Zhara, informa.
+Dialogue: 0,0:06:46.86,0:06:48.57,Default,,0,0,0,,- ¿Qué ves?\N- En posición.
+Dialogue: 0,0:06:49.53,0:06:50.57,Default,,0,0,0,,Transmitiendo.
+Dialogue: 0,0:06:56.12,0:06:58.79,Default,,0,0,0,,{\i1}Sin defensas, sin resistencia.{\i0}
+Dialogue: 0,0:06:58.87,0:07:02.13,Default,,0,0,0,,{\i1}La oposición se acobarda{\i0}\N{\i1}ante nuestra presencia.{\i0}
+Dialogue: 0,0:07:02.25,0:07:03.67,Default,,0,0,0,,¿Están viendo esto?
+Dialogue: 0,0:07:03.75,0:07:04.67,Default,,0,0,0,,{\i1}Fuerte y claro.{\i0}
+Dialogue: 0,0:07:04.75,0:07:09.13,Default,,0,0,0,,Conquistaré este planeta\Nen menos de un {\i1}femtosegundo.{\i0}
+Dialogue: 0,0:07:09.22,0:07:12.39,Default,,0,0,0,,¡Mira, Tank! ¡Dejaron mapas de su base!
+Dialogue: 0,0:07:12.72,0:07:14.05,Default,,0,0,0,,¡Esos tontos!
+Dialogue: 0,0:07:14.76,0:07:18.22,Default,,0,0,0,,Según esto, hemos alcanzado con éxito
+Dialogue: 0,0:07:18.39,0:07:20.52,Default,,0,0,0,,¡Montaña Malvavisco!
+Dialogue: 0,0:07:20.60,0:07:22.56,Default,,0,0,0,,¡Montaña Malvavisco!
+Dialogue: 0,0:07:22.65,0:07:24.73,Default,,0,0,0,,Montaña...
+Dialogue: 0,0:07:25.57,0:07:29.15,Default,,0,0,0,,- ¡Mecha, activa la barra de control!\N- ¡Lo haré!
+Dialogue: 0,0:07:35.87,0:07:37.41,Default,,0,0,0,,{\i1}Punto de control tomado.{\i0}
+Dialogue: 0,0:07:37.79,0:07:40.00,Default,,0,0,0,,Mecha, vigila este punto de captura,
+Dialogue: 0,0:07:40.08,0:07:42.75,Default,,0,0,0,,yo los llevaré\Nal próximo punto de conquista.
+Dialogue: 0,0:07:44.58,0:07:47.34,Default,,0,0,0,,¡La isla de los toboganes!
+Dialogue: 0,0:07:47.84,0:07:49.84,Default,,0,0,0,,¡La isla de los toboganes!
+Dialogue: 0,0:07:49.92,0:07:51.55,Default,,0,0,0,,Toboganes...
+Dialogue: 0,0:07:55.85,0:07:59.14,Default,,0,0,0,,Confirmo que cuatro Glitches\Ncapturaron el primer punto.
+Dialogue: 0,0:07:59.22,0:08:01.10,Default,,0,0,0,,Sí, ya tramo un plan táctico.
+Dialogue: 0,0:08:01.18,0:08:04.10,Default,,0,0,0,,Oye, lo difícil\Nde los Glitches multijugadores...
+Dialogue: 0,0:08:04.19,0:08:05.81,Default,,0,0,0,,Sí, genial, sé lo que hago.
+Dialogue: 0,0:08:05.90,0:08:07.98,Default,,0,0,0,,El plan tiene dos partes, escuchen.
+Dialogue: 0,0:08:08.07,0:08:09.86,Default,,0,0,0,,Primero, tomamos las barras...
+Dialogue: 0,0:08:09.94,0:08:11.94,Default,,0,0,0,,Destruir la barra, entendido.
+Dialogue: 0,0:08:12.03,0:08:12.95,Default,,0,0,0,,¡Espera, Miko!
+Dialogue: 0,0:08:15.91,0:08:16.91,Default,,0,0,0,,¡Síganme!
+Dialogue: 0,0:08:18.99,0:08:20.66,Default,,0,0,0,,¡Voy por ti, barra!
+Dialogue: 0,0:08:22.79,0:08:25.29,Default,,0,0,0,,¿Gallinas? ¡Odio las gallinas!
+Dialogue: 0,0:08:35.38,0:08:37.22,Default,,0,0,0,,{\i1}Punto de control perdido.{\i0}
+Dialogue: 0,0:08:40.93,0:08:42.14,Default,,0,0,0,,¡Quédate quieta!
+Dialogue: 0,0:08:59.08,0:09:01.29,Default,,0,0,0,,¡Formación de defensa!
+Dialogue: 0,0:09:03.75,0:09:06.00,Default,,0,0,0,,¿Escudos? Odio los escudos.
+Dialogue: 0,0:09:06.37,0:09:07.71,Default,,0,0,0,,¡Técnicos, disparen!
+Dialogue: 0,0:09:11.34,0:09:12.38,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:09:18.55,0:09:21.97,Default,,0,0,0,,¡Estuvo increíble, chicos!\NBuen plan, Five.
+Dialogue: 0,0:09:23.93,0:09:26.69,Default,,0,0,0,,¿Y quién sigue siendo\Nmi pajarito luchador?
+Dialogue: 0,0:09:26.94,0:09:28.10,Default,,0,0,0,,Tú.
+Dialogue: 0,0:09:30.57,0:09:33.86,Default,,0,0,0,,Ahora no, Ally. Miko,\N¿puedo hablar contigo un segundo?
+Dialogue: 0,0:09:34.74,0:09:36.49,Default,,0,0,0,,¿Qué? ¿Nos diremos secretos?
+Dialogue: 0,0:09:36.78,0:09:38.28,Default,,0,0,0,,Intento liderar al equipo
+Dialogue: 0,0:09:38.36,0:09:41.12,Default,,0,0,0,,y te fuiste\Nantes de que explicara el plan.
+Dialogue: 0,0:09:41.45,0:09:42.29,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:09:42.54,0:09:47.12,Default,,0,0,0,,Pero está bien, ¿no? Tú lideraste,\Nyo colideré y atrapamos esa barra.
+Dialogue: 0,0:09:47.21,0:09:48.67,Default,,0,0,0,,¡Equipo perfecto!
+Dialogue: 0,0:09:48.75,0:09:50.59,Default,,0,0,0,,Ahora no es el equipo perfecto.
+Dialogue: 0,0:09:50.67,0:09:54.34,Default,,0,0,0,,Es una misión y solo uno puede liderarla.\N¿De acuerdo?
+Dialogue: 0,0:09:54.42,0:09:55.76,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:09:56.97,0:09:57.88,Default,,0,0,0,,Buena charla.
+Dialogue: 0,0:10:01.97,0:10:03.51,Default,,0,0,0,,{\i1}Punto de control tomado.{\i0}
+Dialogue: 0,0:10:04.93,0:10:07.48,Default,,0,0,0,,¿Qué armamento primitivo es este?
+Dialogue: 0,0:10:08.10,0:10:09.06,Default,,0,0,0,,Agua.
+Dialogue: 0,0:10:12.15,0:10:13.57,Default,,0,0,0,,¡Un aparato de tortura!
+Dialogue: 0,0:10:16.82,0:10:17.99,Default,,0,0,0,,Me gusta.
+Dialogue: 0,0:10:21.07,0:10:23.74,Default,,0,0,0,,Señor, hubo una emboscada.
+Dialogue: 0,0:10:24.16,0:10:25.41,Default,,0,0,0,,¡Odio las emboscadas!
+Dialogue: 0,0:10:25.49,0:10:26.75,Default,,0,0,0,,¡Límites!
+Dialogue: 0,0:10:27.87,0:10:29.42,Default,,0,0,0,,Hay un equipo defensor.
+Dialogue: 0,0:10:29.58,0:10:31.38,Default,,0,0,0,,Nos quitaron el punto control.
+Dialogue: 0,0:10:31.63,0:10:36.71,Default,,0,0,0,,Cambio de planes, gusanos.\NTenemos que devolver algo.
+Dialogue: 0,0:10:38.30,0:10:40.55,Default,,0,0,0,,Bien, recuperamos un punto de control,
+Dialogue: 0,0:10:40.64,0:10:43.01,Default,,0,0,0,,pero aún debemos volar cuatro Glitches.
+Dialogue: 0,0:10:43.43,0:10:44.72,Default,,0,0,0,,No puedes vencerlos.
+Dialogue: 0,0:10:44.81,0:10:48.10,Default,,0,0,0,,Miko y yo atacaremos al rinoceronte,\NZahra nos flanquea.
+Dialogue: 0,0:10:48.18,0:10:52.61,Default,,0,0,0,,Con Haneesh como apoyo, atacamos\Na su gran líder feo y ¡bum!
+Dialogue: 0,0:10:56.44,0:10:57.44,Default,,0,0,0,,Sigue.
+Dialogue: 0,0:10:57.53,0:10:58.36,Default,,0,0,0,,ESCANEANDO...
+Dialogue: 0,0:10:58.44,0:10:59.36,Default,,0,0,0,,CUERPO NORMAL
+Dialogue: 0,0:10:59.45,0:11:01.61,Default,,0,0,0,,¿Qué pasa después del bum?
+Dialogue: 0,0:11:03.57,0:11:04.83,Default,,0,0,0,,Oh, nerds.
+Dialogue: 0,0:11:07.08,0:11:08.95,Default,,0,0,0,,Zahra, ¿nos puedes cubrir?
+Dialogue: 0,0:11:09.04,0:11:10.79,Default,,0,0,0,,En 31 sabores diferentes.
+Dialogue: 0,0:11:10.87,0:11:11.83,Default,,0,0,0,,¡Hazlo!
+Dialogue: 0,0:11:26.10,0:11:26.93,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:11:34.23,0:11:37.15,Default,,0,0,0,,ESCANEAR ENEMIGOS\NEVALUACIÓN DE UBICACIÓN
+Dialogue: 0,0:11:37.23,0:11:39.24,Default,,0,0,0,,¡Persíganlos, cretinos!
+Dialogue: 0,0:11:40.61,0:11:43.03,Default,,0,0,0,,¿Huir? ¿Ese era tu plan?
+Dialogue: 0,0:11:43.61,0:11:45.78,Default,,0,0,0,,Este viaje es uber-cursi, chicos.
+Dialogue: 0,0:11:46.16,0:11:48.12,Default,,0,0,0,,Están asustados, como dijo Mitch.
+Dialogue: 0,0:11:48.20,0:11:50.54,Default,,0,0,0,,{\i1}¡Luchemos contra estos tipos!{\i0}
+Dialogue: 0,0:11:50.62,0:11:53.83,Default,,0,0,0,,No, puedes hacerlo. Todos cuentan contigo.
+Dialogue: 0,0:11:53.92,0:11:55.42,Default,,0,0,0,,Manténganse tranquilos.
+Dialogue: 0,0:11:55.50,0:11:58.25,Default,,0,0,0,,- Podemos derribarlos.\N- De hecho, no pueden...
+Dialogue: 0,0:11:58.34,0:12:01.09,Default,,0,0,0,,Yo soy el líder, todos al bote ahora.
+Dialogue: 0,0:12:03.01,0:12:04.93,Default,,0,0,0,,Fuera del camino, idiotas.
+Dialogue: 0,0:12:05.18,0:12:07.18,Default,,0,0,0,,¡Muévanse! Al túnel.
+Dialogue: 0,0:12:07.51,0:12:09.52,Default,,0,0,0,,Haneesh, danos otro impulso.
+Dialogue: 0,0:12:09.72,0:12:11.77,Default,,0,0,0,,Bien, jefe. Lo tienes.
+Dialogue: 0,0:12:13.60,0:12:14.52,Default,,0,0,0,,CATARATAS
+Dialogue: 0,0:12:15.69,0:12:16.52,Default,,0,0,0,,¡Tras ellos!
+Dialogue: 0,0:12:16.61,0:12:21.49,Default,,0,0,0,,Pagarán por faltarle el respeto\Nal nuevo rey de la Montaña Malvavisco.
+Dialogue: 0,0:12:27.03,0:12:28.03,Default,,0,0,0,,¡Escudos!
+Dialogue: 0,0:12:30.16,0:12:31.08,Default,,0,0,0,,¡Haneesh!
+Dialogue: 0,0:12:41.30,0:12:43.42,Default,,0,0,0,,Chicos, váyanse. Yo los destruiré.
+Dialogue: 0,0:12:43.80,0:12:45.68,Default,,0,0,0,,¿Tú solo? ¡Estás loco!
+Dialogue: 0,0:12:45.76,0:12:48.01,Default,,0,0,0,,¡No domines el juego y déjanos ayudar!
+Dialogue: 0,0:12:48.51,0:12:52.81,Default,,0,0,0,,Soy el líder. No necesito ayuda.\NDoy las órdenes, ustedes las siguen.
+Dialogue: 0,0:12:54.14,0:12:55.31,Default,,0,0,0,,Sí, señor.
+Dialogue: 0,0:13:04.86,0:13:10.12,Default,,0,0,0,,¿Crees que me superarás\Ncon tu pequeño brazalete bebé?
+Dialogue: 0,0:13:11.54,0:13:14.50,Default,,0,0,0,,No, no tengo que superarte.
+Dialogue: 0,0:13:14.75,0:13:17.21,Default,,0,0,0,,- ¿Qué?\N- Solo debo ser más listo que tú.
+Dialogue: 0,0:13:23.51,0:13:24.34,Default,,0,0,0,,¿Qué...?
+Dialogue: 0,0:13:24.76,0:13:26.38,Default,,0,0,0,,¡Oh, nerds!
+Dialogue: 0,0:13:26.63,0:13:28.01,Default,,0,0,0,,¡Tras él!
+Dialogue: 0,0:13:31.72,0:13:32.97,Default,,0,0,0,,{\i1}Alerta de misiles.{\i0}
+Dialogue: 0,0:13:42.69,0:13:43.86,Default,,0,0,0,,Te tengo.
+Dialogue: 0,0:13:45.15,0:13:47.07,Default,,0,0,0,,- ¡No!\N- ¡Te tengo, amigo!
+Dialogue: 0,0:13:49.95,0:13:51.41,Default,,0,0,0,,{\i1}Punto de control tomado.{\i0}
+Dialogue: 0,0:13:55.12,0:13:56.54,Default,,0,0,0,,- ¡Bien, Miko!\N- Genial.
+Dialogue: 0,0:13:59.12,0:14:00.46,Default,,0,0,0,,¡Vete, Ally!
+Dialogue: 0,0:14:02.46,0:14:04.13,Default,,0,0,0,,¿Cuál es tu problema, Miko?
+Dialogue: 0,0:14:04.21,0:14:09.05,Default,,0,0,0,,Lo siento. Creo que querías decir:\N"Gracias por salvarme el trasero".
+Dialogue: 0,0:14:09.34,0:14:12.97,Default,,0,0,0,,¡Lo tenía justo donde quería!\NDesobedeciste una orden directa.
+Dialogue: 0,0:14:13.06,0:14:14.52,Default,,0,0,0,,Oigan, chicos.
+Dialogue: 0,0:14:14.60,0:14:18.39,Default,,0,0,0,,Deberías escucharte.\N¿Te mordió un Mitchpiro?
+Dialogue: 0,0:14:19.31,0:14:21.36,Default,,0,0,0,,"Quiero liderar a tu equipo".
+Dialogue: 0,0:14:21.44,0:14:24.44,Default,,0,0,0,,- ¡En serio, chicos!\N- Todo es una broma para ti.
+Dialogue: 0,0:14:24.86,0:14:28.03,Default,,0,0,0,,¿Yo? ¿Qué no te has visto\Nen el espejo últimamente?
+Dialogue: 0,0:14:28.11,0:14:30.45,Default,,0,0,0,,¿O los Mitchpiros no tiene reflejo?
+Dialogue: 0,0:14:30.53,0:14:31.91,Default,,0,0,0,,¡Terrícolas!
+Dialogue: 0,0:14:35.29,0:14:38.71,Default,,0,0,0,,Su resistencia es más formidable\Nde lo anticipado.
+Dialogue: 0,0:14:38.79,0:14:42.42,Default,,0,0,0,,Pero un planeta es tan fuerte\Ncomo su líder.
+Dialogue: 0,0:14:42.50,0:14:46.05,Default,,0,0,0,,Así que es a ti a quien desafío
+Dialogue: 0,0:14:46.46,0:14:48.47,Default,,0,0,0,,¡a un combate a muerte!
+Dialogue: 0,0:14:51.93,0:14:53.76,Default,,0,0,0,,¿Sabes qué? Acepto.
+Dialogue: 0,0:14:53.85,0:14:56.31,Default,,0,0,0,,- Cielos.\N- De hecho, no se... De acuerdo.
+Dialogue: 0,0:15:14.24,0:15:15.33,Default,,0,0,0,,¡Bum!
+Dialogue: 0,0:15:21.04,0:15:22.21,Default,,0,0,0,,OBJETIVO EN LA MIRA
+Dialogue: 0,0:15:26.75,0:15:27.59,Default,,0,0,0,,50 000 XP
+Dialogue: 0,0:15:28.55,0:15:31.47,Default,,0,0,0,,- ¡Fallaste!\N- Se acabó el juego, señor fregado.
+Dialogue: 0,0:15:31.59,0:15:33.22,Default,,0,0,0,,Por lo menos, es uno menos.
+Dialogue: 0,0:15:33.30,0:15:35.05,Default,,0,0,0,,¿Quién quiere ser el próximo?
+Dialogue: 0,0:15:41.48,0:15:43.10,Default,,0,0,0,,{\i1}El jugador ha sido clonado.{\i0}
+Dialogue: 0,0:15:49.65,0:15:51.32,Default,,0,0,0,,¿Pueden clonarse?
+Dialogue: 0,0:15:51.40,0:15:53.41,Default,,0,0,0,,Eso intentaba decirte, jefe.
+Dialogue: 0,0:15:53.86,0:15:55.87,Default,,0,0,0,,- Pero ¿cómo?\N- Así, macho Alfa.
+Dialogue: 0,0:15:57.66,0:16:01.46,Default,,0,0,0,,Vaya, intentaban decirlo,\Npero no estaba escuchando.
+Dialogue: 0,0:16:01.75,0:16:03.83,Default,,0,0,0,,¿Qué hacemos?
+Dialogue: 0,0:16:05.71,0:16:07.04,Default,,0,0,0,,DERRIBADOS
+Dialogue: 0,0:16:14.59,0:16:15.80,Default,,0,0,0,,¡No, chicos!
+Dialogue: 0,0:16:17.26,0:16:19.64,Default,,0,0,0,,Sí, mira a tu equipo.
+Dialogue: 0,0:16:19.81,0:16:22.14,Default,,0,0,0,,Y hasta dónde los guiaste.
+Dialogue: 0,0:16:22.43,0:16:26.19,Default,,0,0,0,,Ahora, ¿a quién llamabas señor fregado?
+Dialogue: 0,0:16:30.99,0:16:33.53,Default,,0,0,0,,Bueno, ya puedo desechar estos calzones.
+Dialogue: 0,0:16:33.61,0:16:35.99,Default,,0,0,0,,¡Planta las barras de control restantes!
+Dialogue: 0,0:16:36.07,0:16:37.87,Default,,0,0,0,,Vigílalo y espera órdenes.
+Dialogue: 0,0:16:39.79,0:16:41.54,Default,,0,0,0,,{\i1}Punto de control tomado.{\i0}
+Dialogue: 0,0:16:41.62,0:16:44.92,Default,,0,0,0,,- La señal es débil.\N- Debe ser un campo amortiguador.
+Dialogue: 0,0:16:45.00,0:16:48.67,Default,,0,0,0,,Esto es culpa mía.\NTengo que hacer algo para sacarlos.
+Dialogue: 0,0:16:49.71,0:16:50.55,Default,,0,0,0,,Ally.
+Dialogue: 0,0:16:58.93,0:17:00.64,Default,,0,0,0,,¡Espera, Ally! No te vayas.
+Dialogue: 0,0:17:03.52,0:17:06.52,Default,,0,0,0,,¿Quién es el mejor pájaro\Nde la galaxia? Tú.
+Dialogue: 0,0:17:06.81,0:17:09.69,Default,,0,0,0,,Así es. Eres un pajarito hermoso, ¿no?
+Dialogue: 0,0:17:15.61,0:17:17.41,Default,,0,0,0,,Eres un buen pájaro de verdad.
+Dialogue: 0,0:17:17.49,0:17:19.32,Default,,0,0,0,,Y he sido un líder pésimo.
+Dialogue: 0,0:17:26.25,0:17:27.08,Default,,0,0,0,,¿Five?
+Dialogue: 0,0:17:34.34,0:17:38.43,Default,,0,0,0,,Eres el mejor Glitch pájaro\Nque se haya inventado.
+Dialogue: 0,0:17:39.01,0:17:40.35,Default,,0,0,0,,Y tú...
+Dialogue: 0,0:17:40.43,0:17:42.93,Default,,0,0,0,,Perdón por meterlos a todos\Nen este lío.
+Dialogue: 0,0:17:43.02,0:17:46.52,Default,,0,0,0,,Solo quería que me respetaran,\Ncomo respetan a Mitch.
+Dialogue: 0,0:17:49.02,0:17:50.15,Default,,0,0,0,,Pero, la verdad,
+Dialogue: 0,0:17:50.52,0:17:51.86,Default,,0,0,0,,no soy como él.
+Dialogue: 0,0:17:51.94,0:17:53.98,Default,,0,0,0,,¿Como nosotros respetamos a Mitch?
+Dialogue: 0,0:17:54.28,0:17:57.36,Default,,0,0,0,,Ese tipo es el peor.\N¿Quién dijo que lo respetamos?
+Dialogue: 0,0:17:57.95,0:17:58.95,Default,,0,0,0,,Él.
+Dialogue: 0,0:18:00.28,0:18:03.95,Default,,0,0,0,,Está bien, tonto. Igual\Nno podía seguir enojada con esta cara.
+Dialogue: 0,0:18:06.58,0:18:08.42,Default,,0,0,0,,¿Cuál es el plan, capitán?
+Dialogue: 0,0:18:11.21,0:18:14.42,Default,,0,0,0,,No me mires a mí.\NEscucho sugerencias.
+Dialogue: 0,0:18:14.92,0:18:18.84,Default,,0,0,0,,Debemos eliminar su sitio de clonación,\Npero la nave es muy fuerte.
+Dialogue: 0,0:18:18.93,0:18:22.43,Default,,0,0,0,,Necesitamos algo más poderoso\Nque nuestras explosiones.
+Dialogue: 0,0:18:23.22,0:18:24.47,Default,,0,0,0,,¿Sí, Haneesh?
+Dialogue: 0,0:18:25.06,0:18:28.35,Default,,0,0,0,,Estas barras de control\Nestán llenas de energía.
+Dialogue: 0,0:18:28.44,0:18:30.40,Default,,0,0,0,,Si las hackeo, puedo redirigirlas
+Dialogue: 0,0:18:30.48,0:18:33.23,Default,,0,0,0,,- para derribar la nave.\N- Le gusta hackear.
+Dialogue: 0,0:18:33.32,0:18:34.61,Default,,0,0,0,,Me gusta hackear.
+Dialogue: 0,0:18:34.69,0:18:36.78,Default,,0,0,0,,Zahra y yo podemos tomar una barra,
+Dialogue: 0,0:18:36.86,0:18:39.66,Default,,0,0,0,,pero alguien debe distraer a los Glitches.
+Dialogue: 0,0:18:39.74,0:18:41.95,Default,,0,0,0,,Yo los distraeré.
+Dialogue: 0,0:18:42.41,0:18:44.33,Default,,0,0,0,,¡Equipo perfecto!
+Dialogue: 0,0:18:44.41,0:18:46.41,Default,,0,0,0,,Sí, no diré eso.
+Dialogue: 0,0:18:49.83,0:18:51.29,Default,,0,0,0,,{\i1}Punto de control tomado.{\i0}
+Dialogue: 0,0:18:53.46,0:18:56.42,Default,,0,0,0,,Mi victoria está casi terminada.
+Dialogue: 0,0:18:57.38,0:18:58.47,Default,,0,0,0,,¿Qué...?
+Dialogue: 0,0:18:59.30,0:19:01.51,Default,,0,0,0,,Oye, señor fregado, hemos vuelto.
+Dialogue: 0,0:19:01.64,0:19:04.56,Default,,0,0,0,,Y esta vez los aniquilaremos a todos.
+Dialogue: 0,0:19:04.76,0:19:07.81,Default,,0,0,0,,Impresionante. Admiro tu valentía.
+Dialogue: 0,0:19:08.23,0:19:09.39,Default,,0,0,0,,Después de todo...
+Dialogue: 0,0:19:09.69,0:19:11.94,Default,,0,0,0,,...¡son cuatro contra uno!
+Dialogue: 0,0:19:12.19,0:19:14.77,Default,,0,0,0,,No. No son cuatro contra uno.
+Dialogue: 0,0:19:15.19,0:19:16.78,Default,,0,0,0,,Son cuatro contra Five.
+Dialogue: 0,0:19:16.98,0:19:18.65,Default,,0,0,0,,Pero es uno solo.
+Dialogue: 0,0:19:20.99,0:19:23.20,Default,,0,0,0,,¡A pelear!
+Dialogue: 0,0:19:31.83,0:19:32.71,Default,,0,0,0,,¡Muy lento!
+Dialogue: 0,0:19:34.33,0:19:35.42,Default,,0,0,0,,Oh, nerds.
+Dialogue: 0,0:19:35.79,0:19:38.67,Default,,0,0,0,,Five está peleando.\NEl resto depende de nosotros.
+Dialogue: 0,0:19:38.76,0:19:40.22,Default,,0,0,0,,- ¿Lista?\N- Por supuesto.
+Dialogue: 0,0:19:40.30,0:19:45.26,Default,,0,0,0,,Estoy hackeando la barra,\Nagegaré una cosa más aquí...
+Dialogue: 0,0:19:45.35,0:19:48.31,Default,,0,0,0,,¡Ya está modificada!\NLes estoy cargando el código.
+Dialogue: 0,0:19:50.77,0:19:53.56,Default,,0,0,0,,¿Aplastar? ¡Me encanta aplastar!
+Dialogue: 0,0:20:01.53,0:20:02.86,Default,,0,0,0,,SUBIENDO...
+Dialogue: 0,0:20:02.95,0:20:05.57,Default,,0,0,0,,Vamos, Five. ¡Tú puedes, amigo!
+Dialogue: 0,0:20:17.88,0:20:18.84,Default,,0,0,0,,¿Qué hacen?
+Dialogue: 0,0:20:20.09,0:20:23.55,Default,,0,0,0,,Tank, su equipo le hace algo\Na las barras de control...
+Dialogue: 0,0:20:23.63,0:20:25.97,Default,,0,0,0,,¡Calla! Nadie te preguntó.
+Dialogue: 0,0:20:26.22,0:20:32.14,Default,,0,0,0,,¿De verdad creíste que el equipo "Nombre"\Nsería derrotado tan fácilmente?
+Dialogue: 0,0:20:32.43,0:20:35.85,Default,,0,0,0,,¿Equipo Nombre? Glitches.
+Dialogue: 0,0:20:35.94,0:20:38.32,Default,,0,0,0,,¡Ven aquí, duende!
+Dialogue: 0,0:20:55.54,0:20:57.50,Default,,0,0,0,,¿Qué clase de líder eres?
+Dialogue: 0,0:20:58.04,0:21:00.05,Default,,0,0,0,,El tipo que depende de su equipo.
+Dialogue: 0,0:21:01.59,0:21:02.55,Default,,0,0,0,,¡Ahora!
+Dialogue: 0,0:21:07.64,0:21:08.97,Default,,0,0,0,,Oh, nerds.
+Dialogue: 0,0:21:14.56,0:21:15.73,Default,,0,0,0,,¡Bien, lo logramos!
+Dialogue: 0,0:21:16.52,0:21:18.19,Default,,0,0,0,,¡Equipo perfecto!
+Dialogue: 0,0:21:18.90,0:21:20.23,Default,,0,0,0,,Sí, bueno, eso.
+Dialogue: 0,0:21:21.11,0:21:23.86,Default,,0,0,0,,Buen trabajo, Hi_5. Y te respeto.
+Dialogue: 0,0:21:24.15,0:21:25.24,Default,,0,0,0,,Eso fue
+Dialogue: 0,0:21:25.61,0:21:26.57,Default,,0,0,0,,muy genial.
+Dialogue: 0,0:21:27.78,0:21:29.12,Default,,0,0,0,,¡Sabían mi nombre!
+Dialogue: 0,0:21:29.41,0:21:33.00,Default,,0,0,0,,Y pensar que te conocía\Nantes de que fueras famoso.
+Dialogue: 0,0:21:37.08,0:21:38.58,Default,,0,0,0,,TABLERO\NEQUIPO MITCH
+Dialogue: 0,0:21:41.04,0:21:44.26,Default,,0,0,0,,Parece que no lo arruinaste\Npor completo, novato.
+Dialogue: 0,0:21:44.34,0:21:45.47,Default,,0,0,0,,¿Sabes qué, Mitch?
+Dialogue: 0,0:21:45.72,0:21:48.14,Default,,0,0,0,,Nunca debiste preocuparte\Npor tu puntaje.
+Dialogue: 0,0:21:48.22,0:21:49.97,Default,,0,0,0,,Tu equipo es asombroso.
+Dialogue: 0,0:21:50.05,0:21:51.68,Default,,0,0,0,,- Exacto.\N- Gracias, Five.
+Dialogue: 0,0:21:51.76,0:21:54.81,Default,,0,0,0,,Hoy fue divertido,\Npodría liderar la próxima misión.
+Dialogue: 0,0:21:54.89,0:21:57.77,Default,,0,0,0,,- ¿Qué opinas, Mitch?\N- Empecemos a rotar.
+Dialogue: 0,0:21:57.85,0:21:58.85,Default,,0,0,0,,¿Qué? ¿Qué?
+Dialogue: 0,0:21:58.94,0:22:01.23,Default,,0,0,0,,Debo irme, que estén bien. ¡Adiós!
+Dialogue: 0,0:22:01.32,0:22:02.77,Default,,0,0,0,,¡Regresen!
+Dialogue: 0,0:22:03.53,0:22:08.45,Default,,0,0,0,,Buen trabajo, capitán. Pero de ahora\Nen más, yo daré las órdenes.
+Dialogue: 0,0:22:08.91,0:22:11.12,Default,,0,0,0,,¡Un Mitchpiro mordió a mi compañera!
+Dialogue: 0,0:22:12.12,0:22:14.58,Default,,0,0,0,,Yo no hablo así.
+Dialogue: 0,0:22:42.31,0:22:45.23,Default,,0,0,0,,Subtítulos: Pilar Arias
