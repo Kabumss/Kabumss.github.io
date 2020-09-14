@@ -1,0 +1,25 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GravityFallsT02E09
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:05:35.92,0:05:36.96,Default,,0,0,0,,FUNERÁRIA VALENTINO
+Dialogue: 0,0:05:37.04,0:05:38.92,Default,,0,0,0,,SE VOCÊ ESTIVESSE MORTO,\NJÁ ESTARIA EM CASA!
+Dialogue: 0,0:06:59.66,0:07:00.71,Default,,0,0,0,,QUERIDA WENDY\NME PERDOE. - ROBBIE.
+Dialogue: 0,0:08:00.98,0:08:02.94,Default,,0,0,0,,TALVEZ\NMUITO NOVA
+Dialogue: 0,0:08:03.02,0:08:05.86,Default,,0,0,0,,MUITO VELHA\NCOMBINAÇÕES FUTURAS?
+Dialogue: 0,0:09:03.25,0:09:05.46,Default,,0,0,0,,PERGUNTE SOBRE NOSSO CHURRASCO!\NNÓS NÃO TEMOS!
+Dialogue: 0,0:11:02.95,0:11:04.45,Default,,0,0,0,,AMOR\NSINGLE DECK DOS SONHOS
+Dialogue: 0,0:15:10.11,0:15:13.24,Default,,0,0,0,,IRMÃOS CORRIMÃO
+Dialogue: 0,0:16:29.65,0:16:31.70,Default,,0,0,0,,OS IRMÃOS CORRIMÃO
+Dialogue: 0,0:17:13.44,0:17:14.45,Default,,0,0,0,,GARRAFAS DE SPRAY\N$25,00
+Dialogue: 0,0:18:09.79,0:18:12.09,Default,,0,0,0,,EU COMO JOVENS
+Dialogue: 0,0:21:33.79,0:21:35.21,Default,,0,0,0,,WADDLES E GOMPERS O GRANDE DIA!

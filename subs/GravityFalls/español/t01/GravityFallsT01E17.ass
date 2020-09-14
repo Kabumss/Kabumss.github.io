@@ -1,0 +1,463 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GravityFallsT01E17
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.54,0:00:03.75,Default,,0,0,0,,{\i1}¿Tiene esta camiseta en mi talla?{\i0}
+Dialogue: 0,0:00:03.83,0:00:07.25,Default,,0,0,0,,{\i1}Tengo algo aún mejor.{\i0}\N{\i1}Mire. Mi trasero.{\i0}
+Dialogue: 0,0:00:09.51,0:00:11.55,Default,,0,0,0,,Podría jugar a este juego\Npara siempre.
+Dialogue: 0,0:00:11.63,0:00:14.18,Default,,0,0,0,,- ¿Qué has dicho?\N- ¡Tosiendo! ¡Estaba tosiendo!
+Dialogue: 0,0:00:14.26,0:00:15.85,Default,,0,0,0,,No eran palabras.
+Dialogue: 0,0:00:16.39,0:00:18.39,Default,,0,0,0,,Es divertido,\Nlo que tienen ustedes dos.
+Dialogue: 0,0:00:18.47,0:00:20.47,Default,,0,0,0,,¡Mabel! ¿Cuánto tiempo llevas ahí?
+Dialogue: 0,0:00:20.56,0:00:22.10,Default,,0,0,0,,No te preocupes por eso.
+Dialogue: 0,0:00:22.18,0:00:25.52,Default,,0,0,0,,¡Hablemos de por qué\Nestoy haciendo este baile!
+Dialogue: 0,0:00:26.61,0:00:28.65,Default,,0,0,0,,¡No! Está bailando\Nel Smile Dip otra vez.
+Dialogue: 0,0:00:28.73,0:00:30.28,Default,,0,0,0,,Te has equivocado por mil.
+Dialogue: 0,0:00:30.36,0:00:33.57,Default,,0,0,0,,¡Es porque hoy es el\Nmejor día de mi vida!
+Dialogue: 0,0:00:35.49,0:00:39.74,Default,,0,0,0,,¡"Muchaz vecez'" tocan\Nen el Centro Cívico de Gravity Falls!
+Dialogue: 0,0:00:39.83,0:00:41.50,Default,,0,0,0,,¿"Muchaz vecez"?
+Dialogue: 0,0:00:41.58,0:00:44.21,Default,,0,0,0,,¿No es la banda de chicos\Nque llegó una década tarde?
+Dialogue: 0,0:00:46.38,0:00:49.50,Default,,0,0,0,,{\i1}Chica, te estás portando tan rara{\i0}\N{\i1}Tan rara, rara{\i0}
+Dialogue: 0,0:00:49.59,0:00:53.22,Default,,0,0,0,,{\i1}Dime que no serás mi nena{\i0}
+Dialogue: 0,0:00:53.30,0:00:55.30,Default,,0,0,0,,{\i1}No estamos amenazando{\i0}
+Dialogue: 0,0:00:56.43,0:00:59.43,Default,,0,0,0,,Mabel, sabes que todas esas bandas\Nde chicos son falsas, ¿cierto?
+Dialogue: 0,0:00:59.51,0:01:01.72,Default,,0,0,0,,Dipper tiene razón. Tan solo\Nson un producto manufacturado
+Dialogue: 0,0:01:01.81,0:01:03.64,Default,,0,0,0,,de la hinchada industria\Nde la música.
+Dialogue: 0,0:01:03.73,0:01:05.90,Default,,0,0,0,,Están haciendo\Nque mi baile sea triste.
+Dialogue: 0,0:01:05.98,0:01:08.57,Default,,0,0,0,,Probablemente una máquina\Nlos produce en masa.
+Dialogue: 0,0:01:08.65,0:01:10.94,Default,,0,0,0,,O tal vez los chicos nacen\Nde vainas de judías.
+Dialogue: 0,0:01:11.03,0:01:12.65,Default,,0,0,0,,¡Sí! ¡Vainas, totalmente!
+Dialogue: 0,0:01:12.74,0:01:16.53,Default,,0,0,0,,No pueden arruinarme esto.\N¡Mabel tiene apoyo!
+Dialogue: 0,0:01:16.61,0:01:18.41,Default,,0,0,0,,¡Hola, chicos!
+Dialogue: 0,0:01:18.49,0:01:21.24,Default,,0,0,0,,Estoy lista para la mejor noche\Nde nuestra vida.
+Dialogue: 0,0:01:21.33,0:01:23.41,Default,,0,0,0,,¿Cuántas veces voy a amarte?
+Dialogue: 0,0:01:23.50,0:01:25.46,Default,,0,0,0,,¡"Muchaz vecez"!
+Dialogue: 0,0:01:28.08,0:01:30.00,Default,,0,0,0,,- Chicas.\N- Lo sé.
+Dialogue: 0,0:01:31.75,0:01:33.46,Default,,0,0,0,,Estoy bien.
+Dialogue: 0,0:01:42.18,0:01:43.47,Default,,0,0,0,,LA CABAÑA DEL MISTERIO
+Dialogue: 0,0:01:43.56,0:01:45.39,Default,,0,0,0,,SORPRÉNDASE
+Dialogue: 0,0:01:50.65,0:01:51.90,Default,,0,0,0,,¿QUÉ?
+Dialogue: 0,0:02:14.67,0:02:16.42,Default,,0,0,0,,MUCHAZ VECEZ
+Dialogue: 0,0:02:17.17,0:02:19.80,Default,,0,0,0,,¿Debería ponerme brillo labial\No color de labios?
+Dialogue: 0,0:02:19.89,0:02:22.39,Default,,0,0,0,,¡Sé salvaje! ¡Esta\Nnoche es nuestra noche!
+Dialogue: 0,0:02:22.47,0:02:24.47,Default,,0,0,0,,No puedo esperar, chicas.\NEsta noche conoceremos
+Dialogue: 0,0:02:24.56,0:02:26.39,Default,,0,0,0,,a Creggy G, Greggy C,
+Dialogue: 0,0:02:26.48,0:02:29.48,Default,,0,0,0,,Leggy P, Chubby Z, ¡y Deep Chris!
+Dialogue: 0,0:02:29.56,0:02:30.65,Default,,0,0,0,,Él es el gordito.
+Dialogue: 0,0:02:30.73,0:02:33.36,Default,,0,0,0,,Y esos chicos\Nse enamorarán de nosotras.
+Dialogue: 0,0:02:33.44,0:02:35.03,Default,,0,0,0,,¿Por qué no deberían?
+Dialogue: 0,0:02:37.07,0:02:39.20,Default,,0,0,0,,{\i1}¿Es esta la tienda{\i0}\N{\i1}de los guantes sin dedos?{\i0}
+Dialogue: 0,0:02:39.28,0:02:40.87,Default,,0,0,0,,Me gustan las cosas estúpidas.\NSoy Robbie.
+Dialogue: 0,0:02:41.57,0:02:42.78,Default,,0,0,0,,Vamos, amigo.
+Dialogue: 0,0:02:44.16,0:02:45.49,Default,,0,0,0,,Tú ríete.
+Dialogue: 0,0:02:45.58,0:02:47.25,Default,,0,0,0,,Bueno, Wendy, Nate y su novia
+Dialogue: 0,0:02:47.33,0:02:48.92,Default,,0,0,0,,irán al mirador\Neste fin de semana.
+Dialogue: 0,0:02:49.00,0:02:52.25,Default,,0,0,0,,- Quizá también deberíamos ir.\N- ¿Es broma?
+Dialogue: 0,0:02:52.33,0:02:53.71,Default,,0,0,0,,Primero me diste plantón anoche,
+Dialogue: 0,0:02:53.80,0:02:57.01,Default,,0,0,0,,y en vez de disculparte,\N¿quieres que vaya al mirador?
+Dialogue: 0,0:02:57.09,0:02:59.68,Default,,0,0,0,,Yo estaré... por ahí.
+Dialogue: 0,0:03:01.09,0:03:04.35,Default,,0,0,0,,Robbie, no estoy segura de que\Nesta relación esté funcionando.
+Dialogue: 0,0:03:04.43,0:03:06.64,Default,,0,0,0,,Quizá debería ver a otras personas.
+Dialogue: 0,0:03:07.93,0:03:09.43,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:03:10.90,0:03:13.23,Default,,0,0,0,,Espera, espera.\NAntes de que hagas una locura,
+Dialogue: 0,0:03:13.31,0:03:15.44,Default,,0,0,0,,quiero que escuches esto.
+Dialogue: 0,0:03:16.78,0:03:18.40,Default,,0,0,0,,Espero que funcione.
+Dialogue: 0,0:03:20.91,0:03:23.20,Default,,0,0,0,,He escrito esta canción solo para ti.
+Dialogue: 0,0:03:24.37,0:03:26.70,Default,,0,0,0,,{\i1}Cuando pienso en ti{\i0}
+Dialogue: 0,0:03:26.79,0:03:28.75,Default,,0,0,0,,{\i1}Tengo sentimientos muy profundos{\i0}
+Dialogue: 0,0:03:28.83,0:03:32.37,Default,,0,0,0,,{\i1}Estoy confundido y doy vueltas{\i0}\N{\i1}Y sabes que no duermo{\i0}
+Dialogue: 0,0:03:32.46,0:03:34.71,Default,,0,0,0,,{\i1}Y sé que me vuelvo loco{\i0}
+Dialogue: 0,0:03:34.79,0:03:36.75,Default,,0,0,0,,{\i1}Cuando te miro a los ojos{\i0}
+Dialogue: 0,0:03:36.84,0:03:38.88,Default,,0,0,0,,{\i1}Tan solo escucha esta canción{\i0}
+Dialogue: 0,0:03:38.97,0:03:43.64,Default,,0,0,0,,{\i1}Y serás hipnotizada{\i0}
+Dialogue: 0,0:03:45.22,0:03:47.64,Default,,0,0,0,,¿Sabes? Puede que me\Nhaya precipitado un poco.
+Dialogue: 0,0:03:47.72,0:03:49.06,Default,,0,0,0,,Te daré otra oportunidad.
+Dialogue: 0,0:03:49.14,0:03:50.56,Default,,0,0,0,,¡Sí! Qué bueno.
+Dialogue: 0,0:03:52.27,0:03:53.44,Default,,0,0,0,,Iré por mi chaqueta.
+Dialogue: 0,0:03:55.11,0:03:59.07,Default,,0,0,0,,Robbie, vi ese extraño CD.\N¿Qué demonios traes entre manos?
+Dialogue: 0,0:03:59.15,0:04:02.20,Default,,0,0,0,,Se llama romance, niño.\NAlgo que tú nunca entenderás.
+Dialogue: 0,0:04:03.66,0:04:04.78,Default,,0,0,0,,¿Estás listo?
+Dialogue: 0,0:04:04.87,0:04:06.62,Default,,0,0,0,,No puedo creer\Nque escribieras eso para mí.
+Dialogue: 0,0:04:06.70,0:04:09.37,Default,,0,0,0,,Lo sé. Tengo tanto talento.
+Dialogue: 0,0:04:15.88,0:04:17.38,Default,,0,0,0,,¿Qué estás haciendo?
+Dialogue: 0,0:04:17.46,0:04:19.25,Default,,0,0,0,,Acaba de pasar algo rarísimo.
+Dialogue: 0,0:04:19.34,0:04:22.18,Default,,0,0,0,,Creo que Robbie hipnotizó a Wendy\Ncon su música.
+Dialogue: 0,0:04:22.26,0:04:24.80,Default,,0,0,0,,¡Dipper! A las chicas\Nles gustan los músicos.
+Dialogue: 0,0:04:24.89,0:04:27.68,Default,,0,0,0,,- Lo entenderás cuando seas mayor.\N- ¡Somos de la misma edad!
+Dialogue: 0,0:04:27.76,0:04:30.22,Default,,0,0,0,,Las chicas maduran antes\Nque los chicos. ¿Verdad, Grenda?
+Dialogue: 0,0:04:31.06,0:04:33.19,Default,,0,0,0,,¡Es el momento de Grenda!
+Dialogue: 0,0:04:35.65,0:04:37.02,Default,,0,0,0,,ESTA NOCHE MUCHAZ VECEZ
+Dialogue: 0,0:04:37.11,0:04:38.11,Default,,0,0,0,,Muy bien, chicas.
+Dialogue: 0,0:04:38.19,0:04:41.07,Default,,0,0,0,,¿Ensayaron su grito de obsesión\Npor las bandas de chicos?
+Dialogue: 0,0:04:45.91,0:04:47.74,Default,,0,0,0,,Ignoremos eso.
+Dialogue: 0,0:04:47.83,0:04:49.58,Default,,0,0,0,,¡Entradas, por favor!
+Dialogue: 0,0:04:49.66,0:04:52.75,Default,,0,0,0,,¡Demasiado tarde, chicas!\NSe han agotado.
+Dialogue: 0,0:04:54.50,0:04:56.71,Default,,0,0,0,,AGOTADO
+Dialogue: 0,0:04:56.79,0:04:58.80,Default,,0,0,0,,¡La noche se ha arruinado!
+Dialogue: 0,0:04:59.67,0:05:01.71,Default,,0,0,0,,Te doy la bienvenida, muerte.
+Dialogue: 0,0:05:05.22,0:05:08.30,Default,,0,0,0,,¡No! Dije que conoceríamos\Na Muchaz Vecez esta noche
+Dialogue: 0,0:05:08.39,0:05:09.60,Default,,0,0,0,,y lo dije en serio.
+Dialogue: 0,0:05:09.68,0:05:12.64,Default,,0,0,0,,¡Y no dejaré que un cartel\Nde "No pasar" nos deje afuera!
+Dialogue: 0,0:05:12.72,0:05:14.14,Default,,0,0,0,,CARNE MARRÓN
+Dialogue: 0,0:05:14.23,0:05:16.69,Default,,0,0,0,,Guardando carne\Npara el apocalipsis.
+Dialogue: 0,0:05:16.77,0:05:18.19,Default,,0,0,0,,Vamos a morir todos...
+Dialogue: 0,0:05:18.27,0:05:19.52,Default,,0,0,0,,¿Qué te pasa, chico?
+Dialogue: 0,0:05:19.61,0:05:21.48,Default,,0,0,0,,Te ves más asustado de lo normal.
+Dialogue: 0,0:05:21.57,0:05:23.82,Default,,0,0,0,,No sé. No lo entenderías.
+Dialogue: 0,0:05:23.90,0:05:26.36,Default,,0,0,0,,Vamos, chico. Inténtalo.
+Dialogue: 0,0:05:26.45,0:05:28.37,Default,,0,0,0,,Está bien.\NEsto sonará raro,
+Dialogue: 0,0:05:28.45,0:05:31.37,Default,,0,0,0,,pero creo que Robbie está lavándole\Nel cerebro a Wendy con música.
+Dialogue: 0,0:05:31.45,0:05:33.62,Default,,0,0,0,,Ya lo había visto antes.
+Dialogue: 0,0:05:34.50,0:05:36.96,Default,,0,0,0,,- ¿En serio?\N- Su nombre era Carla McCorkle.
+Dialogue: 0,0:05:37.04,0:05:40.25,Default,,0,0,0,,Carla "pantalones cortos" McCorkle...
+Dialogue: 0,0:05:43.34,0:05:46.34,Default,,0,0,0,,{\i1}Carla y yo bailábamos juntos{\i0}\N{\i1}como nadie en el Juke Joint,{\i0}
+Dialogue: 0,0:05:46.42,0:05:49.93,Default,,0,0,0,,{\i1}nuestro bar de los 50 favorito{\i0}\N{\i1}en 1970.{\i0}
+Dialogue: 0,0:05:50.64,0:05:53.31,Default,,0,0,0,,{\i1}Hasta que un día,{\i0}\N{\i1}un ecologista new age{\i0}
+Dialogue: 0,0:05:53.39,0:05:56.19,Default,,0,0,0,,{\i1}empezó a tocar{\i0}\N{\i1}esa música hippie transcendental.{\i0}
+Dialogue: 0,0:05:59.52,0:06:02.02,Default,,0,0,0,,{\i1}Carla se convirtió{\i0}\N{\i1}en "pantalones de campana"{\i0}
+Dialogue: 0,0:06:02.11,0:06:03.94,Default,,0,0,0,,{\i1}antes de que yo entendiera{\i0}\N{\i1}qué pasó.{\i0}
+Dialogue: 0,0:06:08.99,0:06:11.08,Default,,0,0,0,,Mi memoria se vuelve un poco\Nalucinógena hacia el final,
+Dialogue: 0,0:06:11.16,0:06:12.20,Default,,0,0,0,,pero entiendes la idea.
+Dialogue: 0,0:06:12.29,0:06:15.12,Default,,0,0,0,,Entonces, espera.\N¿De hecho crees mi teoría?
+Dialogue: 0,0:06:15.20,0:06:18.29,Default,,0,0,0,,Puedes apostar a que sí,\Ny llegaremos al fondo de esto.
+Dialogue: 0,0:06:19.08,0:06:22.09,Default,,0,0,0,,Después de que llegue\Nal fondo de esta carne marrón.
+Dialogue: 0,0:06:22.17,0:06:23.88,Default,,0,0,0,,¡Es "apoca-liciosa"!
+Dialogue: 0,0:06:25.67,0:06:27.72,Default,,0,0,0,,{\i1}Muchaz vecez{\i0}
+Dialogue: 0,0:06:30.01,0:06:31.89,Default,,0,0,0,,Chica, quiero ponerme serio\Nun momento
+Dialogue: 0,0:06:31.97,0:06:33.68,Default,,0,0,0,,y aunque adoramos\Nser súper estrellas,
+Dialogue: 0,0:06:33.76,0:06:35.68,Default,,0,0,0,,la verdadera razón\Npor la que hacemos esto eres tú,
+Dialogue: 0,0:06:35.77,0:06:38.56,Default,,0,0,0,,tú concretamente,\Nno la chica a tu lado, solo tú.
+Dialogue: 0,0:06:38.64,0:06:40.65,Default,,0,0,0,,¡Te amo, Deep Chris!
+Dialogue: 0,0:06:40.73,0:06:42.56,Default,,0,0,0,,¡Me estaba hablando a mí!
+Dialogue: 0,0:06:44.77,0:06:46.57,Default,,0,0,0,,¡Dale! ¡Dale!
+Dialogue: 0,0:06:46.65,0:06:48.45,Default,,0,0,0,,¡Gracias! ¡Buenas noches!
+Dialogue: 0,0:06:51.74,0:06:53.74,Default,,0,0,0,,¿Hola? ¿Muchaz vecez?
+Dialogue: 0,0:06:53.83,0:06:56.45,Default,,0,0,0,,¡Queremos darles "muchoz besoz"!
+Dialogue: 0,0:06:56.54,0:06:57.75,Default,,0,0,0,,¡Miren!
+Dialogue: 0,0:06:57.83,0:06:59.04,Default,,0,0,0,,MUCHAZ VECEZ
+Dialogue: 0,0:07:00.50,0:07:01.67,Default,,0,0,0,,Aquí es, chicas.
+Dialogue: 0,0:07:01.75,0:07:03.04,Default,,0,0,0,,¡Por fin vamos a conocer
+Dialogue: 0,0:07:03.13,0:07:05.63,Default,,0,0,0,,a los cinco chicos\Nmás lindos del mundo!
+Dialogue: 0,0:07:05.71,0:07:07.51,Default,,0,0,0,,Dipper deberá tragarse sus palabras
+Dialogue: 0,0:07:07.59,0:07:10.63,Default,,0,0,0,,de que las bandas de chicos\Nson falsas.
+Dialogue: 0,0:07:15.68,0:07:17.22,Default,,0,0,0,,TUBOS DE CLONACIÓN
+Dialogue: 0,0:07:24.98,0:07:26.28,Default,,0,0,0,,Esto es divertido.
+Dialogue: 0,0:07:28.61,0:07:30.78,Default,,0,0,0,,¡Tío! ¡Somos clones!
+Dialogue: 0,0:07:31.41,0:07:34.24,Default,,0,0,0,,¡Ay... por... Dios!
+Dialogue: 0,0:07:36.04,0:07:38.54,Default,,0,0,0,,Ese tubo para hámsters es enorme.
+Dialogue: 0,0:07:38.62,0:07:40.25,Default,,0,0,0,,¡Alguien viene!
+Dialogue: 0,0:07:41.62,0:07:43.83,Default,,0,0,0,,¡Un show terrible!
+Dialogue: 0,0:07:43.92,0:07:45.96,Default,,0,0,0,,¿Qué les pasa, chicos?
+Dialogue: 0,0:07:46.05,0:07:48.21,Default,,0,0,0,,¡Apenas si agotaron las entradas!
+Dialogue: 0,0:07:48.30,0:07:50.30,Default,,0,0,0,,Y Deep Chris,\N¿a eso llamas poner ojillos?
+Dialogue: 0,0:07:51.55,0:07:54.55,Default,,0,0,0,,¡Todos ustedes deberían\Nestar avergonzados!
+Dialogue: 0,0:07:54.64,0:07:57.06,Default,,0,0,0,,Excepto tú, Leggy P,\Nestuviste muy bien esta noche.
+Dialogue: 0,0:07:57.14,0:07:58.81,Default,,0,0,0,,Aquí tienes, precioso.
+Dialogue: 0,0:08:01.77,0:08:04.06,Default,,0,0,0,,Y para el resto de ustedes,\Nrecuerden:
+Dialogue: 0,0:08:04.15,0:08:07.90,Default,,0,0,0,,siempre pueden ser sustituidos\Npor sus hermanos.
+Dialogue: 0,0:08:07.98,0:08:11.32,Default,,0,0,0,,¡Baila para mí, chico, baila!
+Dialogue: 0,0:08:16.95,0:08:19.20,Default,,0,0,0,,¡Mi garganta me está matando!
+Dialogue: 0,0:08:19.29,0:08:21.75,Default,,0,0,0,,¿Alguien puede traerme\Nun limón y agua?
+Dialogue: 0,0:08:22.42,0:08:23.58,Default,,0,0,0,,¿Quién anda ahí?
+Dialogue: 0,0:08:23.67,0:08:25.79,Default,,0,0,0,,¡Prepárense para ser bailados!
+Dialogue: 0,0:08:28.42,0:08:29.96,Default,,0,0,0,,¡Atrás, Deep Chris!
+Dialogue: 0,0:08:30.05,0:08:32.67,Default,,0,0,0,,Es una señorita. No le faltes\Nel respeto, hermano.
+Dialogue: 0,0:08:32.76,0:08:35.39,Default,,0,0,0,,- ¡No le faltes al respeto!\N- Culpa mía.
+Dialogue: 0,0:08:36.97,0:08:39.35,Default,,0,0,0,,Chubby Z, tranquilicemos\Na esta hermosura posando
+Dialogue: 0,0:08:39.43,0:08:40.64,Default,,0,0,0,,al estilo póster.
+Dialogue: 0,0:08:42.39,0:08:45.40,Default,,0,0,0,,¡Intento con fuerza no dejar\Nque mi cerebro explote!
+Dialogue: 0,0:08:45.48,0:08:47.48,Default,,0,0,0,,¡Siempre he querido conoceros, chicos!
+Dialogue: 0,0:08:47.56,0:08:50.48,Default,,0,0,0,,¿Pero qué pasa con ese siniestro\Nhombre gordito?
+Dialogue: 0,0:08:50.57,0:08:52.53,Default,,0,0,0,,El señor Bratzman\Nes nuestro productor.
+Dialogue: 0,0:08:52.61,0:08:55.57,Default,,0,0,0,,Nos modificó genéticamente para\Nser la banda perfecta de chicos.
+Dialogue: 0,0:08:55.66,0:08:57.28,Default,,0,0,0,,¡Pero nos tiene enjaulados!
+Dialogue: 0,0:08:57.37,0:08:59.16,Default,,0,0,0,,¡Es una porquería brutal, chica!
+Dialogue: 0,0:08:59.24,0:09:01.50,Default,,0,0,0,,Eso es totalmente brutal, Chubby Z.
+Dialogue: 0,0:09:01.58,0:09:05.17,Default,,0,0,0,,Nuestro único sueño es escapar\Nal mundo de verdad, de verdad.
+Dialogue: 0,0:09:05.25,0:09:07.33,Default,,0,0,0,,¿Has escuchado hablar\Nde esas cosas llamadas árboles?
+Dialogue: 0,0:09:07.42,0:09:09.54,Default,,0,0,0,,No sé lo que son,\N¡pero quiero besar uno!
+Dialogue: 0,0:09:09.63,0:09:11.59,Default,,0,0,0,,Pero no podemos desobedecer\Nal señor Bratzman.
+Dialogue: 0,0:09:11.67,0:09:13.13,Default,,0,0,0,,Él dice que nos ama.
+Dialogue: 0,0:09:13.22,0:09:15.22,Default,,0,0,0,,¡Si los amara, los dejaría libres!
+Dialogue: 0,0:09:15.30,0:09:16.51,Default,,0,0,0,,Eso es cierto.
+Dialogue: 0,0:09:16.59,0:09:18.05,Default,,0,0,0,,¡Es un punto de vista válido!
+Dialogue: 0,0:09:19.39,0:09:20.81,Default,,0,0,0,,Vámonos ahora.
+Dialogue: 0,0:09:20.89,0:09:22.93,Default,,0,0,0,,Mis amigas y yo\Npodemos ayudarlos a escapar.
+Dialogue: 0,0:09:23.02,0:09:24.89,Default,,0,0,0,,¡Somos expertas del sigilo!
+Dialogue: 0,0:09:24.98,0:09:27.15,Default,,0,0,0,,¡Oye! ¿De verdad harías eso\Npor nosotros, ternerita?
+Dialogue: 0,0:09:27.23,0:09:28.44,Default,,0,0,0,,¡Pueden contar conmigo!
+Dialogue: 0,0:09:28.52,0:09:30.86,Default,,0,0,0,,Lo siento, ¿me acabas\Nde llamar "ternerita"?
+Dialogue: 0,0:09:30.94,0:09:32.32,Default,,0,0,0,,LA CABAÑA DEL MISTERIO
+Dialogue: 0,0:09:33.49,0:09:34.65,Default,,0,0,0,,Mira, Dipper,
+Dialogue: 0,0:09:34.74,0:09:37.49,Default,,0,0,0,,la música siempre tiene mensajes de\Ncontrol mental escondidos en ella.
+Dialogue: 0,0:09:37.57,0:09:38.70,Default,,0,0,0,,Si escuchas atentamente,
+Dialogue: 0,0:09:38.78,0:09:40.37,Default,,0,0,0,,incluso la música que pongo\Nen la tienda de regalos
+Dialogue: 0,0:09:40.45,0:09:42.33,Default,,0,0,0,,tiene mensajes sutiles escondidos.
+Dialogue: 0,0:09:43.08,0:09:44.83,Default,,0,0,0,,{\i1}¡Compra más llaveros!{\i0}
+Dialogue: 0,0:09:44.91,0:09:47.04,Default,,0,0,0,,{\i1}¡Compra más llaveros!{\i0}
+Dialogue: 0,0:09:47.92,0:09:49.96,Default,,0,0,0,,Si quieres oír\Nlos mensajes controla-mentes,
+Dialogue: 0,0:09:50.04,0:09:51.42,Default,,0,0,0,,tienes que ralentizar la grabación.
+Dialogue: 0,0:09:51.50,0:09:52.67,Default,,0,0,0,,¡Dame ese LP!
+Dialogue: 0,0:09:56.55,0:09:58.01,Default,,0,0,0,,Oh. Claro.
+Dialogue: 0,0:09:58.09,0:10:01.60,Default,,0,0,0,,Estamos haciendo algo mal aquí,\Npero no sé qué es.
+Dialogue: 0,0:10:03.31,0:10:05.89,Default,,0,0,0,,Hola, chicas. ¿Qué tal el concierto?\N¿Y qué hay en la bolsa?
+Dialogue: 0,0:10:05.98,0:10:07.69,Default,,0,0,0,,Dinero. Dinero que hemos robado.
+Dialogue: 0,0:10:07.77,0:10:09.65,Default,,0,0,0,,Somos criminales. ¡Te cortaremos!
+Dialogue: 0,0:10:09.73,0:10:11.44,Default,,0,0,0,,¡Vámonos de aquí ya!
+Dialogue: 0,0:10:14.24,0:10:15.74,Default,,0,0,0,,¡Cuidado, chica!
+Dialogue: 0,0:10:22.16,0:10:24.08,Default,,0,0,0,,Tu autobús de gira es muy raro,\Nchica Mabel.
+Dialogue: 0,0:10:24.16,0:10:25.37,Default,,0,0,0,,¿Dónde están\Nlos tubos de alimentación?
+Dialogue: 0,0:10:27.21,0:10:28.71,Default,,0,0,0,,¿Qué pasa, chica?
+Dialogue: 0,0:10:30.29,0:10:31.96,Default,,0,0,0,,¿Cuándo vamos a salir afuera?
+Dialogue: 0,0:10:32.04,0:10:34.75,Default,,0,0,0,,¡Quiero retozar\Ncomo una criatura del bosque!
+Dialogue: 0,0:10:36.63,0:10:37.97,Default,,0,0,0,,¡Es su productor!
+Dialogue: 0,0:10:42.56,0:10:43.72,Default,,0,0,0,,MUCHO DINERO
+Dialogue: 0,0:10:45.52,0:10:48.19,Default,,0,0,0,,¡No puedo creer que esos chicos\Nescaparon de su jaula!
+Dialogue: 0,0:10:48.27,0:10:50.69,Default,,0,0,0,,¡Oye, tú! Hallé este rastro\Nde puntas rubias
+Dialogue: 0,0:10:50.77,0:10:52.81,Default,,0,0,0,,que llevan a este mismo lugar.
+Dialogue: 0,0:10:52.90,0:10:55.40,Default,,0,0,0,,¿Viste algún chico perfecto\Npor aquí?
+Dialogue: 0,0:10:55.48,0:10:58.07,Default,,0,0,0,,Solo cuando me miro en el espejo.\NChócala.
+Dialogue: 0,0:10:59.45,0:11:01.03,Default,,0,0,0,,Tienen que estar por aquí.
+Dialogue: 0,0:11:01.11,0:11:04.49,Default,,0,0,0,,¡Hallaré a esos chicos aunque tenga\Nque poner a este pueblo patas arriba!
+Dialogue: 0,0:11:12.13,0:11:13.38,Default,,0,0,0,,Buen chico.
+Dialogue: 0,0:11:13.46,0:11:16.38,Default,,0,0,0,,Chicos, no es seguro ahí fuera.\N¡Ergman sigue buscándolos!
+Dialogue: 0,0:11:16.46,0:11:18.84,Default,,0,0,0,,¿Qué podemos hacer?\N- ¡Tengo miedo, Mabel!
+Dialogue: 0,0:11:18.92,0:11:21.55,Default,,0,0,0,,No se preocupen,\Nen algún momento se rendirá.
+Dialogue: 0,0:11:21.64,0:11:24.05,Default,,0,0,0,,Mientras tanto, ¡pueden\Nquedarse aquí con nosotras!
+Dialogue: 0,0:11:24.68,0:11:25.85,Default,,0,0,0,,- ¡Qué bien!\N- ¡Veinte trece!
+Dialogue: 0,0:11:25.93,0:11:29.19,Default,,0,0,0,,Chicas, ¿se dan cuenta\Nde lo que está pasando?
+Dialogue: 0,0:11:29.27,0:11:31.35,Default,,0,0,0,,Tenemos nuestra propia\Nbanda de chicos mascota
+Dialogue: 0,0:11:31.44,0:11:33.36,Default,,0,0,0,,con la que podemos hacer\Nlo que queramos.
+Dialogue: 0,0:11:33.44,0:11:35.90,Default,,0,0,0,,Recuerda que al final\Ndebemos dejarlos ir.
+Dialogue: 0,0:11:35.98,0:11:38.90,Default,,0,0,0,,Tenemos que prometer\Nque no nos encariñaremos con ellos.
+Dialogue: 0,0:11:38.99,0:11:40.99,Default,,0,0,0,,¿Verdad, Mabel? ¿Mabel?
+Dialogue: 0,0:11:41.07,0:11:42.66,Default,,0,0,0,,¡Pasajeros al tren de las trenzas!
+Dialogue: 0,0:11:44.12,0:11:45.45,Default,,0,0,0,,¡Trenza, trenza!
+Dialogue: 0,0:11:46.33,0:11:47.58,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:11:48.62,0:11:50.83,Default,,0,0,0,,{\i1}Vamos, nena{\i0}\N{\i1}¿No volarás conmigo?{\i0}
+Dialogue: 0,0:11:50.91,0:11:53.38,Default,,0,0,0,,{\i1}Toma mi mano, es el destino{\i0}
+Dialogue: 0,0:11:53.46,0:11:56.21,Default,,0,0,0,,{\i1}No necesitamos a nadie{\i0}\N{\i1}Si estamos juntos{\i0}
+Dialogue: 0,0:11:56.30,0:11:58.17,Default,,0,0,0,,{\i1}Chica, toma mi mano{\i0}\N{\i1}Puede ser para siempre{\i0}
+Dialogue: 0,0:11:58.26,0:12:00.97,Default,,0,0,0,,{\i1}Arriba en el cielo, chica{\i0}\N{\i1}Vamos a volar{\i0}
+Dialogue: 0,0:12:01.05,0:12:03.47,Default,,0,0,0,,{\i1}Mira mis enormes ojos azules{\i0}
+Dialogue: 0,0:12:03.55,0:12:05.55,Default,,0,0,0,,{\i1}Chica, sabes que es el destino{\i0}
+Dialogue: 0,0:12:05.64,0:12:08.77,Default,,0,0,0,,{\i1}Toma mi mano y verás{\i0}
+Dialogue: 0,0:12:08.85,0:12:10.85,Default,,0,0,0,,Escapemos, huyendo de la realidad
+Dialogue: 0,0:12:10.93,0:12:14.48,Default,,0,0,0,,{\i1}Será así para siempre{\i0}
+Dialogue: 0,0:12:15.65,0:12:18.07,Default,,0,0,0,,- Solo unos minutos más.\N- Pero...
+Dialogue: 0,0:12:22.40,0:12:23.57,Default,,0,0,0,,Muy bien.
+Dialogue: 0,0:12:23.66,0:12:25.74,Default,,0,0,0,,Me llevó todo el día,\Npero lo convertí en un vinilo.
+Dialogue: 0,0:12:25.82,0:12:26.99,Default,,0,0,0,,Ahora podremos ralentizarlo
+Dialogue: 0,0:12:27.08,0:12:29.66,Default,,0,0,0,,para ver si la teoría del mensaje\Nde control mental es correcta.
+Dialogue: 0,0:12:29.74,0:12:31.37,Default,,0,0,0,,Prepárate para que te estalle\Nla cabeza.
+Dialogue: 0,0:12:31.46,0:12:33.58,Default,,0,0,0,,Trago para escupir, aquí va.
+Dialogue: 0,0:12:35.17,0:12:37.04,Default,,0,0,0,,{\i1}Cuando pienso en ti{\i0}
+Dialogue: 0,0:12:37.13,0:12:40.21,Default,,0,0,0,,{\i1}Tengo sentimientos muy profundos{\i0}
+Dialogue: 0,0:12:40.80,0:12:43.68,Default,,0,0,0,,{\i1}Estoy confundido y doy vueltas{\i0}
+Dialogue: 0,0:12:43.76,0:12:46.18,Default,,0,0,0,,Eso no vale la pena\Npara escupir. ¿Qué nos da?
+Dialogue: 0,0:12:46.26,0:12:48.18,Default,,0,0,0,,¿Qué? ¿Eso es todo?
+Dialogue: 0,0:12:51.22,0:12:52.85,Default,,0,0,0,,¡Esto fue una estupidez!
+Dialogue: 0,0:12:52.93,0:12:55.23,Default,,0,0,0,,¡Claro que no hay mensajes\Nde control mental escondidos!
+Dialogue: 0,0:12:55.31,0:12:57.73,Default,,0,0,0,,Mabel tenía razón. A Wendy\Nsimplemente le gusta la canción.
+Dialogue: 0,0:12:57.81,0:13:00.48,Default,,0,0,0,,- Simplemente le gusta Robbie.\N- Hola, Dip.
+Dialogue: 0,0:13:00.57,0:13:02.24,Default,,0,0,0,,Olvidé mis llaves.
+Dialogue: 0,0:13:02.32,0:13:04.24,Default,,0,0,0,,¿Qué pasa, niño?\N¿Qué haces?
+Dialogue: 0,0:13:04.32,0:13:06.91,Default,,0,0,0,,¿Buscas una ecuación\Npara gustarle a las chicas?
+Dialogue: 0,0:13:07.70,0:13:09.37,Default,,0,0,0,,¿Listo para ir al mirador?
+Dialogue: 0,0:13:09.45,0:13:11.12,Default,,0,0,0,,Lo estoy. Hasta luego, tonto.
+Dialogue: 0,0:13:11.20,0:13:13.79,Default,,0,0,0,,Los veo a la vuelta atrás.\NInventé eso.
+Dialogue: 0,0:13:13.87,0:13:15.50,Default,,0,0,0,,¡Le daré una vuelta a tu cara!
+Dialogue: 0,0:13:15.58,0:13:18.50,Default,,0,0,0,,Espera un momento.\N¡Stan, vuelta atrás!
+Dialogue: 0,0:13:21.42,0:13:23.63,Default,,0,0,0,,{\i1}Ahora estás bajo mi control{\i0}
+Dialogue: 0,0:13:23.72,0:13:25.22,Default,,0,0,0,,{\i1}Tu mente es mía{\i0}
+Dialogue: 0,0:13:26.97,0:13:29.60,Default,,0,0,0,,¡Santo Cielo!\NAhí tienes mi escupitajo.
+Dialogue: 0,0:13:30.51,0:13:33.64,Default,,0,0,0,,¡Lo sabía! Sí que era control mental\Ndespués de todo.
+Dialogue: 0,0:13:33.73,0:13:35.14,Default,,0,0,0,,¡No! ¡Debo salvar a Wendy!
+Dialogue: 0,0:13:35.23,0:13:38.48,Default,,0,0,0,,¡Por fin una buena razón para golpear\Na un adolescente! ¡Vámonos!
+Dialogue: 0,0:13:41.78,0:13:43.57,Default,,0,0,0,,¿Cómo ha ido ahí arriba?
+Dialogue: 0,0:13:43.65,0:13:45.95,Default,,0,0,0,,Por fin logré que se durmieran.
+Dialogue: 0,0:13:46.03,0:13:49.28,Default,,0,0,0,,Pobre Greggy C. Intentó comerse\Nun rollo de cinta adhesiva.
+Dialogue: 0,0:13:49.37,0:13:51.70,Default,,0,0,0,,¡Creo que esto es comida!
+Dialogue: 0,0:13:54.83,0:13:56.54,Default,,0,0,0,,Oye, ¿vas a compartir eso?
+Dialogue: 0,0:13:56.62,0:13:58.17,Default,,0,0,0,,Cuántos recuerdos.
+Dialogue: 0,0:13:58.71,0:14:01.00,Default,,0,0,0,,{\i1}La industria de la música hoy sufrió{\i0}\N{\i1}un duro golpe con la noticia{\i0}
+Dialogue: 0,0:14:01.09,0:14:03.00,Default,,0,0,0,,{\i1}de que el rey de las bandas{\i0}\N{\i1}de chicos, Ergman Bratzman{\i0}
+Dialogue: 0,0:14:03.09,0:14:05.17,Default,,0,0,0,,{\i1}fue arrestado.{\i0}\N{\i1}Fue detenido anoche{\i0}
+Dialogue: 0,0:14:05.26,0:14:07.55,Default,,0,0,0,,{\i1}por no tener una matrícula{\i0}\N{\i1}en la parte de atrás.{\i0}
+Dialogue: 0,0:14:07.63,0:14:10.26,Default,,0,0,0,,{\i1}¡Escúchenme, la cabra la tomó!{\i0}
+Dialogue: 0,0:14:10.35,0:14:12.31,Default,,0,0,0,,{\i1}Eso es lo que dicen todos.{\i0}
+Dialogue: 0,0:14:12.39,0:14:15.10,Default,,0,0,0,,{\i1}Ahora está en comisaría{\i0}\N{\i1}a la espera del juicio.{\i0}
+Dialogue: 0,0:14:15.18,0:14:16.39,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:14:16.48,0:14:18.44,Default,,0,0,0,,¡Debemos decirles a los chicos\Nque ya son libres!
+Dialogue: 0,0:14:20.36,0:14:21.94,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:14:23.53,0:14:24.94,Default,,0,0,0,,¡No tan rápido!
+Dialogue: 0,0:14:25.03,0:14:26.61,Default,,0,0,0,,No se irán a ningún sitio.
+Dialogue: 0,0:14:30.41,0:14:31.62,Default,,0,0,0,,¿Pero qué pasa, Mabel?
+Dialogue: 0,0:14:31.70,0:14:34.50,Default,,0,0,0,,Ese productor malvado ya no está.\N¡Debemos decírselo a los chicos!
+Dialogue: 0,0:14:34.58,0:14:37.41,Default,,0,0,0,,Esperen, chicas,\Nno nos precipitemos.
+Dialogue: 0,0:14:37.50,0:14:39.83,Default,,0,0,0,,Piensen en esto:\Nsi no se lo decimos a los chicos,
+Dialogue: 0,0:14:39.92,0:14:43.00,Default,,0,0,0,,podrán quedarse aquí conmigo.\NQuiero decir, con nosotras.
+Dialogue: 0,0:14:43.09,0:14:45.05,Default,,0,0,0,,Mabel, no podemos retenerlos\Naquí para siempre.
+Dialogue: 0,0:14:45.13,0:14:46.30,Default,,0,0,0,,¡Pero yo los amo!
+Dialogue: 0,0:14:46.38,0:14:48.47,Default,,0,0,0,,Si los amas,\Ntienes que dejarlos libres.
+Dialogue: 0,0:14:48.55,0:14:51.34,Default,,0,0,0,,¡Nunca! Todos los chicos\Nque amé este verano me dejó,
+Dialogue: 0,0:14:51.43,0:14:53.01,Default,,0,0,0,,¡y no dejaré\Nque eso pase otra vez!
+Dialogue: 0,0:14:53.10,0:14:56.35,Default,,0,0,0,,¡Candy, debemos pasar por encima de\Nella! ¡Se volvió loca por los chicos!
+Dialogue: 0,0:14:57.60,0:14:59.06,Default,,0,0,0,,¡Chicos!
+Dialogue: 0,0:14:59.98,0:15:02.44,Default,,0,0,0,,¡Candy... ataca!
+Dialogue: 0,0:15:04.15,0:15:05.44,Default,,0,0,0,,¡Vaya!
+Dialogue: 0,0:15:05.53,0:15:07.69,Default,,0,0,0,,¡Chicos! ¡Ergman Bratzman\Nestá en la cárcel!
+Dialogue: 0,0:15:07.78,0:15:09.53,Default,,0,0,0,,- ¡Son libres!\N- ¡Váyanse!
+Dialogue: 0,0:15:09.61,0:15:11.70,Default,,0,0,0,,¿Eso es verdad, querida Mabel?
+Dialogue: 0,0:15:11.78,0:15:14.24,Default,,0,0,0,,No. Su productor\Naún está por ahí.
+Dialogue: 0,0:15:14.33,0:15:16.87,Default,,0,0,0,,Tendrán que quedarse aquí...\N¡probablemente para siempre!
+Dialogue: 0,0:15:16.95,0:15:18.71,Default,,0,0,0,,¿Qué? ¡No la escuchen!
+Dialogue: 0,0:15:18.79,0:15:20.46,Default,,0,0,0,,Mabel es nuestra chica, chica.
+Dialogue: 0,0:15:20.54,0:15:22.50,Default,,0,0,0,,Pone pizza en nuestro comedero.
+Dialogue: 0,0:15:22.58,0:15:25.25,Default,,0,0,0,,Me cambia el periódico, tía.\NElla está bien.
+Dialogue: 0,0:15:25.34,0:15:27.84,Default,,0,0,0,,¡Ella no está bien, Chubby Z!
+Dialogue: 0,0:15:27.92,0:15:29.68,Default,,0,0,0,,¡Muchaz vecez!
+Dialogue: 0,0:15:29.76,0:15:30.93,Default,,0,0,0,,¿Sí, querida Mabel?
+Dialogue: 0,0:15:31.01,0:15:34.39,Default,,0,0,0,,Quiten a estas dos de aquí,\Npor favor.
+Dialogue: 0,0:15:36.72,0:15:39.98,Default,,0,0,0,,¡No! ¡Están bailando\Nagresivamente hacia nosotras!
+Dialogue: 0,0:15:40.85,0:15:42.44,Default,,0,0,0,,¡Mabel se ha vuelto loca de poder!
+Dialogue: 0,0:15:42.52,0:15:43.98,Default,,0,0,0,,¡Sálvense, Muchaz Vecez!
+Dialogue: 0,0:15:44.06,0:15:46.19,Default,,0,0,0,,¡Estaban mejor con su productor!
+Dialogue: 0,0:15:46.27,0:15:47.61,Default,,0,0,0,,Hecho.
+Dialogue: 0,0:15:47.69,0:15:49.28,Default,,0,0,0,,¡Llámame, Deep Chris!
+Dialogue: 0,0:15:49.36,0:15:50.90,Default,,0,0,0,,¡Veinte trece!
+Dialogue: 0,0:15:51.91,0:15:53.49,Default,,0,0,0,,Gracias, chicos.
+Dialogue: 0,0:15:53.57,0:15:56.03,Default,,0,0,0,,Ahora pasajeros\Nal tren de las trenzas.
+Dialogue: 0,0:15:56.12,0:15:57.66,Default,,0,0,0,,Las cosas\Nse han complicado, Mabel.
+Dialogue: 0,0:15:57.74,0:15:59.83,Default,,0,0,0,,Quizá deberíamos descansar\Ntodos un poco y...
+Dialogue: 0,0:15:59.91,0:16:02.71,Default,,0,0,0,,¡He dicho, pasajeros\Nal tren de las trenzas!
+Dialogue: 0,0:16:06.29,0:16:07.55,Default,,0,0,0,,¡Debemos advertir a Wendy
+Dialogue: 0,0:16:07.63,0:16:09.30,Default,,0,0,0,,sobre la canción\Nantes de que le lave el cerebro!
+Dialogue: 0,0:16:09.38,0:16:12.84,Default,,0,0,0,,¡Normas de tráfico, prepárense\Npara ser ignoradas!
+Dialogue: 0,0:16:19.35,0:16:21.06,Default,,0,0,0,,Qué raro. Nate no ha venido.
+Dialogue: 0,0:16:21.14,0:16:23.52,Default,,0,0,0,,Supongo que somos solo tú y yo.
+Dialogue: 0,0:16:23.60,0:16:25.81,Default,,0,0,0,,No es lo que había planeado\Npara nada.
+Dialogue: 0,0:16:29.69,0:16:32.78,Default,,0,0,0,,¡Wendy! ¡Detente! ¡Robbie\Nte ha estado mintiendo!
+Dialogue: 0,0:16:32.86,0:16:35.11,Default,,0,0,0,,- ¿Dipper?\N- ¿Niño? ¿Señor Pines?
+Dialogue: 0,0:16:35.20,0:16:36.87,Default,,0,0,0,,¡Es Señor Pines para ti!
+Dialogue: 0,0:16:36.95,0:16:38.62,Default,,0,0,0,,¿Qué? Es lo que dije.
+Dialogue: 0,0:16:38.70,0:16:41.04,Default,,0,0,0,,Mira, Wendy.\NTienes que escuchar esto.
+Dialogue: 0,0:16:43.62,0:16:45.29,Default,,0,0,0,,Mabel, tienes que escuchar esto.
+Dialogue: 0,0:16:45.37,0:16:47.38,Default,,0,0,0,,Es una canción que hemos escrito\Npara darte las gracias.
+Dialogue: 0,0:16:47.46,0:16:48.75,Default,,0,0,0,,¡Dale!
+Dialogue: 0,0:16:50.42,0:16:53.76,Default,,0,0,0,,¡Vaya! Las canciones son como abrazos\Nque las bocas dan a las orejas.
+Dialogue: 0,0:16:55.55,0:16:57.72,Default,,0,0,0,,{\i1}Aquí viene la joven chica Mabel{\i0}
+Dialogue: 0,0:16:57.80,0:17:00.26,Default,,0,0,0,,{\i1}Habíamos soñado con ser libres{\i0}
+Dialogue: 0,0:17:00.35,0:17:04.23,Default,,0,0,0,,{\i1}Pero ahora sabemos{\i0}\N{\i1}Que eso nunca podrá ser{\i0}
+Dialogue: 0,0:17:04.31,0:17:05.85,Default,,0,0,0,,{\i1}Ya sabes cómo son los amigos{\i0}
+Dialogue: 0,0:17:05.94,0:17:07.90,Default,,0,0,0,,{\i1}Has echado a esas mentirosas{\i0}
+Dialogue: 0,0:17:07.98,0:17:10.65,Default,,0,0,0,,{\i1}- Las has echado, sí{\i0}\N- Empiezo a sentirme culpable.
+Dialogue: 0,0:17:10.73,0:17:11.94,Default,,0,0,0,,{\i1}¡Dale!{\i0}
+Dialogue: 0,0:17:12.03,0:17:13.90,Default,,0,0,0,,{\i1}¿Quién es la chica más genia?{\i0}
+Dialogue: 0,0:17:13.99,0:17:16.03,Default,,0,0,0,,{\i1}Que nos arropa en la cama{\i0}\N{\i1}Por la noches{\i0}
+Dialogue: 0,0:17:16.11,0:17:17.74,Default,,0,0,0,,{\i1}Que sujeta el ventilador{\i0}\N{\i1}Mientras cantamos{\i0}
+Dialogue: 0,0:17:17.82,0:17:19.74,Default,,0,0,0,,{\i1}Que me mantiene entretenido{\i0}\N{\i1}Con un cordel{\i0}
+Dialogue: 0,0:17:19.83,0:17:21.87,Default,,0,0,0,,{\i1}Mi camisa estaba arrugada{\i0}\N{\i1}Hasta que ella la planchó{\i0}
+Dialogue: 0,0:17:21.95,0:17:23.91,Default,,0,0,0,,{\i1}Nos mastica la comida{\i0}\N{\i1}Para que podamos digerirla{\i0}
+Dialogue: 0,0:17:24.00,0:17:26.00,Default,,0,0,0,,{\i1}Él era malvado, cruel y mezquino{\i0}
+Dialogue: 0,0:17:26.08,0:17:28.79,Default,,0,0,0,,{\i1}Tú me diste{\i0}\N{\i1}Este collar de caramelos{\i0}
+Dialogue: 0,0:17:28.88,0:17:29.92,Default,,0,0,0,,{\i1}¿Qué pasa, chica?{\i0}
+Dialogue: 0,0:17:30.00,0:17:32.01,Default,,0,0,0,,{\i1}No podríamos confiar en otros{\i0}
+Dialogue: 0,0:17:32.09,0:17:34.01,Default,,0,0,0,,{\i1}Pero nosotros sabemos{\i0}
+Dialogue: 0,0:17:34.09,0:17:36.34,Default,,0,0,0,,{\i1}Que tú nunca nos mentirías{\i0}
+Dialogue: 0,0:17:36.43,0:17:38.18,Default,,0,0,0,,{\i1}Mabel, chica{\i0}
+Dialogue: 0,0:17:38.26,0:17:41.64,Default,,0,0,0,,{\i1}Sabemos que nos amas{\i0}
+Dialogue: 0,0:17:42.56,0:17:45.73,Default,,0,0,0,,Y por eso los tengo que dejar ir.
+Dialogue: 0,0:17:46.85,0:17:49.23,Default,,0,0,0,,{\i1}Cuando pienso en ti{\i0}
+Dialogue: 0,0:17:49.31,0:17:51.44,Default,,0,0,0,,¡Hay un mensaje aquí, lo juro!
+Dialogue: 0,0:17:51.52,0:17:53.32,Default,,0,0,0,,Déjame cerrar la ventanilla.
+Dialogue: 0,0:17:53.40,0:17:55.61,Default,,0,0,0,,¡Espera! ¡Espera! Aquí.
+Dialogue: 0,0:17:55.70,0:17:57.82,Default,,0,0,0,,{\i1}Ahora estás bajo mi control{\i0}
+Dialogue: 0,0:17:57.91,0:18:00.03,Default,,0,0,0,,{\i1}Tu mente es mía{\i0}
+Dialogue: 0,0:18:02.45,0:18:04.33,Default,,0,0,0,,Robbie, ¿qué hace eso en tu canción?
+Dialogue: 0,0:18:04.41,0:18:07.00,Default,,0,0,0,,Nena, lo prometo. No sé nada\Nsobre esos mensajes.
+Dialogue: 0,0:18:07.08,0:18:09.04,Default,,0,0,0,,De hecho, ni siquiera\Nhe escrito esa canción.
+Dialogue: 0,0:18:09.13,0:18:10.46,Default,,0,0,0,,Se la robé a otro grupo.
+Dialogue: 0,0:18:10.54,0:18:12.13,Default,,0,0,0,,Así que estamos bien, ¿verdad?
+Dialogue: 0,0:18:12.21,0:18:15.17,Default,,0,0,0,,¡No! No estamos bien.\NNo me importan los mensajes.
+Dialogue: 0,0:18:15.26,0:18:17.05,Default,,0,0,0,,Dijiste que habías escrito\Nesa canción para mí,
+Dialogue: 0,0:18:17.13,0:18:19.64,Default,,0,0,0,,y de hecho pensé que era\Nadorable, ¡mentiroso!
+Dialogue: 0,0:18:19.72,0:18:22.39,Default,,0,0,0,,Lo sé, lo sé, miento\Nsobre un montón de cosas.
+Dialogue: 0,0:18:22.47,0:18:24.98,Default,,0,0,0,,Como usar tu maquillaje o pelear\Ncontra un oso. Aunque...
+Dialogue: 0,0:18:25.06,0:18:27.98,Default,,0,0,0,,No. ¿Sabes qué? Se acabó,\NRobbie. Hemos terminado.
+Dialogue: 0,0:18:28.06,0:18:29.27,Default,,0,0,0,,¿Qué? ¡Wendy!
+Dialogue: 0,0:18:29.35,0:18:30.40,Default,,0,0,0,,Adiós.
+Dialogue: 0,0:18:31.98,0:18:33.32,Default,,0,0,0,,¡Hemos ganado!
+Dialogue: 0,0:18:33.40,0:18:35.90,Default,,0,0,0,,Chico, esta es una victoria\Npara cada tipo cuyas manos
+Dialogue: 0,0:18:35.99,0:18:38.32,Default,,0,0,0,,son demasiado débiles o gordas\Npara tocar un instrumento musical.
+Dialogue: 0,0:18:38.40,0:18:40.36,Default,,0,0,0,,No podría haberlo hecho sin ti,\Ntío abuelo Stan.
+Dialogue: 0,0:18:41.91,0:18:44.95,Default,,0,0,0,,¡Oye! Ahora que tienes la noche libre,
+Dialogue: 0,0:18:45.04,0:18:47.96,Default,,0,0,0,,mi tío abuelo Stan y yo pensábamos\Nir a jugar a los bolos o algo.
+Dialogue: 0,0:18:48.04,0:18:49.79,Default,,0,0,0,,¿En serio? ¿Ahora?
+Dialogue: 0,0:18:50.75,0:18:52.50,Default,,0,0,0,,¿Qué les pasa a los chicos?
+Dialogue: 0,0:18:52.59,0:18:54.25,Default,,0,0,0,,¡Solo piensan en ustedes mismos!
+Dialogue: 0,0:18:54.34,0:18:57.26,Default,,0,0,0,,¡Solo déjenme sola!
+Dialogue: 0,0:18:58.68,0:19:01.18,Default,,0,0,0,,- Ay, no.\N- Mira, si te hace sentir mejor,
+Dialogue: 0,0:19:01.26,0:19:02.76,Default,,0,0,0,,el apocalipsis llegará pronto.
+Dialogue: 0,0:19:02.85,0:19:05.97,Default,,0,0,0,,Entierra tu oro. Estuviste\Ncomprando oro, ¿verdad?
+Dialogue: 0,0:19:09.39,0:19:10.98,Default,,0,0,0,,Debemos salvar a los chicos.
+Dialogue: 0,0:19:11.06,0:19:12.94,Default,,0,0,0,,Estoy preparada para defenderme.
+Dialogue: 0,0:19:13.98,0:19:16.48,Default,,0,0,0,,Hola, chicas.\NSiento haberme vuelto loca.
+Dialogue: 0,0:19:16.57,0:19:19.53,Default,,0,0,0,,Una canción pegadiza me ha hecho\Ndarme cuenta de que tienen razón.
+Dialogue: 0,0:19:19.61,0:19:20.95,Default,,0,0,0,,¿Podrán perdonarme?
+Dialogue: 0,0:19:21.03,0:19:22.37,Default,,0,0,0,,¡Pues claro!
+Dialogue: 0,0:19:22.45,0:19:24.03,Default,,0,0,0,,Amistad reparada.
+Dialogue: 0,0:19:24.12,0:19:25.70,Default,,0,0,0,,¿Qué pasa, chica Mabel?
+Dialogue: 0,0:19:25.79,0:19:28.12,Default,,0,0,0,,¿Dijiste que tenías algo que querías\Nenseñarnos o algo así?
+Dialogue: 0,0:19:28.20,0:19:29.92,Default,,0,0,0,,Sí, ¡esto!
+Dialogue: 0,0:19:31.50,0:19:32.63,Default,,0,0,0,,Oye, chico.
+Dialogue: 0,0:19:32.71,0:19:34.63,Default,,0,0,0,,¿Quién es ese enorme, redondo\Ny brillante idiota?
+Dialogue: 0,0:19:34.71,0:19:36.92,Default,,0,0,0,,Eso, Chubby Z, es el sol.
+Dialogue: 0,0:19:37.01,0:19:39.59,Default,,0,0,0,,¡Ese idiota está haciendo\Nque mis ojos ardan de dolor!
+Dialogue: 0,0:19:39.68,0:19:41.68,Default,,0,0,0,,Voy a sostenerle la mirada.
+Dialogue: 0,0:19:45.18,0:19:47.93,Default,,0,0,0,,Oye, espera. ¿Qué es\Ntodo ese revoltijo verde?
+Dialogue: 0,0:19:48.02,0:19:49.56,Default,,0,0,0,,Eso es la naturaleza, Deep Chris.
+Dialogue: 0,0:19:49.64,0:19:51.44,Default,,0,0,0,,Bratzman no los molestará\Nnunca más.
+Dialogue: 0,0:19:51.52,0:19:53.27,Default,,0,0,0,,Pueden hacer\Nlo que quieran,
+Dialogue: 0,0:19:53.35,0:19:55.73,Default,,0,0,0,,pueden ir a cualquier lugar\Nque quieran. ¡Son libres!
+Dialogue: 0,0:19:55.82,0:19:57.82,Default,,0,0,0,,¿Li-bres?
+Dialogue: 0,0:19:57.90,0:19:59.86,Default,,0,0,0,,¡Libres! ¡Son libres!
+Dialogue: 0,0:19:59.95,0:20:01.78,Default,,0,0,0,,¡Significa que pueden irse!
+Dialogue: 0,0:20:01.86,0:20:03.61,Default,,0,0,0,,¡Ahora váyanse! ¡Vayan!
+Dialogue: 0,0:20:06.74,0:20:10.62,Default,,0,0,0,,¡Fuera de aquí\Nantes de que cambie de idea!
+Dialogue: 0,0:20:17.21,0:20:20.38,Default,,0,0,0,,{\i1}Adiós, chica{\i0}
+Dialogue: 0,0:20:21.47,0:20:23.22,Default,,0,0,0,,No durarán ni una semana.
+Dialogue: 0,0:20:24.68,0:20:27.14,Default,,0,0,0,,¡Mujeres! ¡Ellas son\Nel verdadero misterio, Dip!
+Dialogue: 0,0:20:27.22,0:20:28.39,Default,,0,0,0,,Arruinas su cita,
+Dialogue: 0,0:20:28.47,0:20:30.64,Default,,0,0,0,,tiras la furgoneta de su novio\Nhippie por un barranco,
+Dialogue: 0,0:20:30.73,0:20:32.44,Default,,0,0,0,,y de alguna manera\Ntú eres el malo.
+Dialogue: 0,0:20:32.52,0:20:33.81,Default,,0,0,0,,No, es culpa mía.
+Dialogue: 0,0:20:33.90,0:20:35.90,Default,,0,0,0,,No debí haberme entrometido\Nen la vida personal de Wendy.
+Dialogue: 0,0:20:35.98,0:20:37.44,Default,,0,0,0,,Seguramente me odia.
+Dialogue: 0,0:20:37.52,0:20:40.36,Default,,0,0,0,,Anímate, chico.\NIntentabas hacer lo correcto.
+Dialogue: 0,0:20:40.44,0:20:43.16,Default,,0,0,0,,Aunque hayas destruido\Nsu relación y parte de mi coche.
+Dialogue: 0,0:20:43.24,0:20:44.66,Default,,0,0,0,,¿Crees que me perdonará algún día?
+Dialogue: 0,0:20:44.74,0:20:46.16,Default,,0,0,0,,Apuesto a que sí.
+Dialogue: 0,0:20:46.24,0:20:48.70,Default,,0,0,0,,Y hasta entonces, siempre puedes\Njugar a los bolos conmigo.
+Dialogue: 0,0:20:48.79,0:20:50.00,Default,,0,0,0,,Gracias, tío abuelo Stan.
+Dialogue: 0,0:20:50.08,0:20:51.70,Default,,0,0,0,,No hay de qué, chico.
+Dialogue: 0,0:20:51.79,0:20:54.75,Default,,0,0,0,,Espera un segundo. ¿Hay algo\Nescarbando en nuestra basura?
+Dialogue: 0,0:20:55.71,0:20:56.71,Default,,0,0,0,,¡Largo de aquí!
+Dialogue: 0,0:20:58.54,0:20:59.88,Default,,0,0,0,,¡Malditos hombres atractivos!
+Dialogue: 0,0:20:59.96,0:21:02.38,Default,,0,0,0,,Siempre comiendo de mi basura.
+Dialogue: 0,0:21:02.47,0:21:03.67,Default,,0,0,0,,Espera. ¿Qué?
+Dialogue: 0,0:21:05.55,0:21:08.22,Default,,0,0,0,,{\i1}Chica, te estás portando tan rara{\i0}
+Dialogue: 0,0:21:08.30,0:21:09.51,Default,,0,0,0,,{\i1}Tan rara{\i0}
+Dialogue: 0,0:21:09.60,0:21:12.43,Default,,0,0,0,,{\i1}Dices que no serás mi nena{\i0}
+Dialogue: 0,0:21:12.52,0:21:15.64,Default,,0,0,0,,{\i1}¡No estamos amenazando, nena!{\i0}\N{\i1}Sí{\i0}
+Dialogue: 0,0:21:24.70,0:21:26.16,Default,,0,0,0,,Caray, chica.
+Dialogue: 0,0:21:31.12,0:21:32.29,Default,,0,0,0,,¡Veinte trece!
