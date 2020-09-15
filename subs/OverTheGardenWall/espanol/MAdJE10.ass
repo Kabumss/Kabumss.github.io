@@ -1,0 +1,201 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 10- LO DESCONOCIDO
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.60,0:00:16.80,Default,,0,0,0,,CAPITULO 10\N"LO DESCONOCIDO"
+Dialogue: 0,0:00:33.70,0:00:34.58,Default,,0,0,0,,¿Greg?
+Dialogue: 0,0:00:34.60,0:00:37.50,Default,,0,0,0,,{\i1}- ¿Me trajiste el peine dorado?{\i0}\N- ¿Esto cuenta?
+Dialogue: 0,0:00:37.50,0:00:40.93,Default,,0,0,0,,{\i1}- Es un panal.{\i0}\N- Pero es dorado como la miel.
+Dialogue: 0,0:00:41.45,0:00:42.35,Default,,0,0,0,,Greg.
+Dialogue: 0,0:00:45.18,0:00:46.60,Default,,0,0,0,,¡Greg!
+Dialogue: 0,0:00:47.51,0:00:51.32,Default,,0,0,0,,{\i1}Ignora eso, Gregory.\NTrajiste los primeros objetos...{\i0}
+Dialogue: 0,0:00:51.35,0:00:54.58,Default,,0,0,0,,{\i1}Un peine dorado y\Nun carrete con hilos de plata.{\i0}
+Dialogue: 0,0:00:54.60,0:00:56.41,Default,,0,0,0,,Son telarañas en un palo.
+Dialogue: 0,0:00:56.49,0:00:58.78,Default,,0,0,0,,{\i1}Ahora quiero el sol.{\i0}
+Dialogue: 0,0:00:58.80,0:01:00.28,Default,,0,0,0,,¿El sol?
+Dialogue: 0,0:01:00.30,0:01:05.25,Default,,0,0,0,,{\i1}Toma. Baja el sol y ponlo\Ndentro de esta taza.{\i0}
+Dialogue: 0,0:01:05.70,0:01:07.68,Default,,0,0,0,,Pues, suena imposible.
+Dialogue: 0,0:01:07.70,0:01:10.78,Default,,0,0,0,,{\i1}Todo es posible si te lo propones, ¿no?{\i0}
+Dialogue: 0,0:01:10.80,0:01:12.98,Default,,0,0,0,,{\i1}Pero apresúrate,\Nel sol se pondrá pronto y...{\i0}
+Dialogue: 0,0:01:13.00,0:01:14.80,Default,,0,0,0,,Oh, ya entendí.
+Dialogue: 0,0:01:20.55,0:01:25.13,Default,,0,0,0,,Ves, el viejo sol bajará\Na esta vieja taza.
+Dialogue: 0,0:01:25.22,0:01:28.68,Default,,0,0,0,,{\i1}Lo resolviste, pensé que\Ntal vez te rendirías.{\i0}
+Dialogue: 0,0:01:28.70,0:01:31.20,Default,,0,0,0,,¿Rendirme?\NNunca me rendiré.
+Dialogue: 0,0:01:32.65,0:01:35.35,Default,,0,0,0,,Solo debo esperar,\Nsolo debo esperar.
+Dialogue: 0,0:01:35.36,0:01:39.48,Default,,0,0,0,,{\i1}Sí, solo siéntate\Nen la nieve y espera.{\i0}
+Dialogue: 0,0:01:48.15,0:01:49.30,Default,,0,0,0,,Qué demo...
+Dialogue: 0,0:01:49.70,0:01:51.08,Default,,0,0,0,,¿Beatrice?
+Dialogue: 0,0:01:51.10,0:01:52.83,Default,,0,0,0,,- ¡Wirt!\N- ¡Beatrice!
+Dialogue: 0,0:01:52.85,0:01:55.21,Default,,0,0,0,,- ¿Qué haces aquí fuera?\N- ¡Vi a Greg!
+Dialogue: 0,0:01:55.30,0:01:56.88,Default,,0,0,0,,- ¿¡Qué?!\N- Vi a Greg.
+Dialogue: 0,0:01:56.90,0:01:59.72,Default,,0,0,0,,Estaba con alguien.\N¡Por aquí!
+Dialogue: 0,0:01:59.75,0:02:03.40,Default,,0,0,0,,- O tal vez...\N- Beatrice, regresa a casa.
+Dialogue: 0,0:02:03.42,0:02:05.38,Default,,0,0,0,,No puedo...\Nno todavía.
+Dialogue: 0,0:02:05.40,0:02:07.60,Default,,0,0,0,,No hasta que Greg esté a salvo.
+Dialogue: 0,0:02:08.45,0:02:10.43,Default,,0,0,0,,- Está bien.\N- Apresurémonos.
+Dialogue: 0,0:02:10.48,0:02:14.10,Default,,0,0,0,,- Creo que fue por ahí.\N- Gracias, Beatrice.
+Dialogue: 0,0:02:26.05,0:02:28.28,Default,,0,0,0,,¡Aquí!\N¡Madera de Edel!
+Dialogue: 0,0:02:28.30,0:02:31.83,Default,,0,0,0,,¿Ves? Esto nos dará más combustible.
+Dialogue: 0,0:02:31.85,0:02:36.40,Default,,0,0,0,,Sí, mantendremos tu luz brillando, ¿cierto?
+Dialogue: 0,0:02:37.20,0:02:38.19,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:02:40.60,0:02:41.50,Default,,0,0,0,,Tú...
+Dialogue: 0,0:02:46.27,0:02:48.58,Default,,0,0,0,,{\i1}...Oscuridad{\i0}
+Dialogue: 0,0:02:48.90,0:02:55.05,Default,,0,0,0,,{\i1}Hay una luz para los\Nperdidos y los dóciles{\i0}
+Dialogue: 0,0:02:58.30,0:03:01.96,Default,,0,0,0,,{\i1}El dolor y el miedo{\i0}
+Dialogue: 0,0:03:01.97,0:03:06.67,Default,,0,0,0,,{\i1}Se olvidan fácilmente{\i0}
+Dialogue: 0,0:03:07.00,0:03:13.20,Default,,0,0,0,,{\i1}Cuando te entregas al suelo de la Tierra{\i0}
+Dialogue: 0,0:03:17.15,0:03:19.68,Default,,0,0,0,,{\i1}Leñador, sabía que vendrías.{\i0}
+Dialogue: 0,0:03:19.70,0:03:21.58,Default,,0,0,0,,{\i1}Tengo algo para ti.{\i0}
+Dialogue: 0,0:03:24.00,0:03:25.58,Default,,0,0,0,,¡¿Qué has hecho?!
+Dialogue: 0,0:03:25.60,0:03:27.73,Default,,0,0,0,,{\i1}Te he dado otro Edel.{\i0}
+Dialogue: 0,0:03:27.75,0:03:28.68,Default,,0,0,0,,¡No!
+Dialogue: 0,0:03:28.70,0:03:31.07,Default,,0,0,0,,{\i1}Se quemará muy bien en la linterna.{\i0}
+Dialogue: 0,0:03:31.10,0:03:33.73,Default,,0,0,0,,¡No! ¡No haré esto!
+Dialogue: 0,0:03:33.75,0:03:36.58,Default,,0,0,0,,{\i1}Has cosechado almas perdidas por años.{\i0}
+Dialogue: 0,0:03:36.60,0:03:38.28,Default,,0,0,0,,¡No lo sabía!
+Dialogue: 0,0:03:38.30,0:03:42.00,Default,,0,0,0,,¡No sabía que los árboles\Nde Edel se hacían así!
+Dialogue: 0,0:03:42.04,0:03:43.67,Default,,0,0,0,,{\i1}¿Habría importado?{\i0}
+Dialogue: 0,0:03:43.74,0:03:47.70,Default,,0,0,0,,{\i1}¿Habrías dejado que el espíritu\Nde tu hija se apagara por siempre?{\i0}
+Dialogue: 0,0:03:48.25,0:03:50.01,Default,,0,0,0,,{\i1}Quémalo en la linterna.{\i0}
+Dialogue: 0,0:03:50.50,0:03:51.48,Default,,0,0,0,,No.
+Dialogue: 0,0:03:51.50,0:03:55.28,Default,,0,0,0,,{\i1}Supongo, que tras tantos años,\Nella ya no te importa.{\i0}
+Dialogue: 0,0:03:55.30,0:03:58.45,Default,,0,0,0,,¡Cuida tu lengua o te la\Narrancaré de la boca!
+Dialogue: 0,0:03:58.50,0:04:00.98,Default,,0,0,0,,No hables de mi hija.
+Dialogue: 0,0:04:01.00,0:04:03.27,Default,,0,0,0,,Ella no querría esto.
+Dialogue: 0,0:04:03.29,0:04:05.00,Default,,0,0,0,,Vamos a liberarte.
+Dialogue: 0,0:04:07.40,0:04:08.30,Default,,0,0,0,,No.
+Dialogue: 0,0:04:09.45,0:04:13.47,Default,,0,0,0,,{\i1}Solo quiero ayudarte, leñador.\NSin el combustible tu hija...{\i0}
+Dialogue: 0,0:04:13.55,0:04:16.00,Default,,0,0,0,,¡Dije que cuidaras tu lengua!
+Dialogue: 0,0:04:24.18,0:04:25.56,Default,,0,0,0,,{\i1}¿Greg?{\i0}
+Dialogue: 0,0:04:25.65,0:04:28.45,Default,,0,0,0,,{\i1}- ¡Greg!\N- Pensé que sería por aquí.{\i0}
+Dialogue: 0,0:04:30.35,0:04:31.40,Default,,0,0,0,,Una luz.
+Dialogue: 0,0:04:32.10,0:04:35.00,Default,,0,0,0,,- Una linterna.\N- Parece la del leñador.
+Dialogue: 0,0:04:38.50,0:04:40.30,Default,,0,0,0,,¿Qué sucedió aquí?
+Dialogue: 0,0:04:41.40,0:04:44.23,Default,,0,0,0,,¡Greg!\N¡Greg! ¿Estás...
+Dialogue: 0,0:04:44.25,0:04:46.32,Default,,0,0,0,,- ¿Wirt?\N- ¡Oh, Greg!
+Dialogue: 0,0:04:46.35,0:04:49.65,Default,,0,0,0,,Wirt, lo logré.\NVencí a la bestia.
+Dialogue: 0,0:04:51.95,0:04:54.78,Default,,0,0,0,,Santo cielo, las hojas\Ncrecen en su interior.
+Dialogue: 0,0:04:54.80,0:04:55.71,Default,,0,0,0,,No.
+Dialogue: 0,0:04:55.78,0:04:57.80,Default,,0,0,0,,Solo comí unas hojas.
+Dialogue: 0,0:04:58.30,0:05:01.50,Default,,0,0,0,,- Lo siento, Wirt.\N- No, no, Greg.
+Dialogue: 0,0:05:02.80,0:05:07.08,Default,,0,0,0,,Por mi culpa terminamos aquí.\NTodo fue mi culpa. Debí ser más...
+Dialogue: 0,0:05:07.10,0:05:10.48,Default,,0,0,0,,No, hablo de mi roca\Nde los hechos sólidos.
+Dialogue: 0,0:05:10.50,0:05:11.43,Default,,0,0,0,,- ¿Qué?\N- ¿Qué?
+Dialogue: 0,0:05:11.45,0:05:13.32,Default,,0,0,0,,Yo... la robé, Wirt.
+Dialogue: 0,0:05:13.35,0:05:18.03,Default,,0,0,0,,Del jardín de la señora Daniels.\NSoy un ladrón.
+Dialogue: 0,0:05:18.05,0:05:20.73,Default,,0,0,0,,Y ese es un hecho sólido...
+Dialogue: 0,0:05:20.75,0:05:23.58,Default,,0,0,0,,¿Qué? No, eso no importa.
+Dialogue: 0,0:05:23.60,0:05:24.80,Default,,0,0,0,,Sí importa.
+Dialogue: 0,0:05:26.40,0:05:28.76,Default,,0,0,0,,Tienes que regresarla por mí, ¿bien?
+Dialogue: 0,0:05:28.80,0:05:31.68,Default,,0,0,0,,No, la podrás regresar tú.\NVamos...
+Dialogue: 0,0:05:31.70,0:05:35.15,Default,,0,0,0,,Debemos llevar a\NJason Funderberker a casa, ¿no?
+Dialogue: 0,0:05:35.70,0:05:37.80,Default,,0,0,0,,Jason Funderberker...
+Dialogue: 0,0:05:37.83,0:05:41.08,Default,,0,0,0,,El perfecto...\Nnombre para rana.
+Dialogue: 0,0:05:41.10,0:05:43.07,Default,,0,0,0,,¿Greg?\N¡¿Greg?!
+Dialogue: 0,0:05:43.10,0:05:45.20,Default,,0,0,0,,¡Saquémoslo de aquí! ¡Vamos!
+Dialogue: 0,0:05:46.15,0:05:47.70,Default,,0,0,0,,Sí. Sí...
+Dialogue: 0,0:05:48.98,0:05:51.70,Default,,0,0,0,,- ¡Vamos!\N- Todo estará bien, Wirt.
+Dialogue: 0,0:05:56.90,0:05:58.68,Default,,0,0,0,,{\i1}Dame mi linterna.{\i0}
+Dialogue: 0,0:05:58.70,0:06:00.90,Default,,0,0,0,,- ¿Tu linterna?\N- No, la necesitamos.
+Dialogue: 0,0:06:00.92,0:06:03.23,Default,,0,0,0,,Me la quedaré.\NDebo llevar a Greg a casa.
+Dialogue: 0,0:06:03.25,0:06:05.58,Default,,0,0,0,,{\i1}Tu hermano está muy\Ndébil para regresar.{\i0}
+Dialogue: 0,0:06:05.60,0:06:08.58,Default,,0,0,0,,{\i1}Pronto será parte de mi bosque.{\i0}
+Dialogue: 0,0:06:08.63,0:06:10.30,Default,,0,0,0,,¡No lo permitiré!
+Dialogue: 0,0:06:10.60,0:06:12.18,Default,,0,0,0,,{\i1}Entonces...{\i0}
+Dialogue: 0,0:06:12.20,0:06:14.63,Default,,0,0,0,,{\i1}...Deberíamos hacer un trato.{\i0}
+Dialogue: 0,0:06:14.65,0:06:15.70,Default,,0,0,0,,¿Un trato?
+Dialogue: 0,0:06:16.90,0:06:19.68,Default,,0,0,0,,{\i1}Puedo poner su espíritu en la linterna.{\i0}
+Dialogue: 0,0:06:19.70,0:06:23.67,Default,,0,0,0,,{\i1}Mientras la flama esté encendida,\Nel vivirá en su interior.{\i0}
+Dialogue: 0,0:06:24.15,0:06:27.03,Default,,0,0,0,,{\i1}Conviértete en el portador de la linterna...{\i0}
+Dialogue: 0,0:06:27.05,0:06:30.10,Default,,0,0,0,,{\i1}...U observa a tu hermano perecer.{\i0}
+Dialogue: 0,0:06:31.61,0:06:33.40,Default,,0,0,0,,{\i1}Ven aquí.{\i0}
+Dialogue: 0,0:06:35.70,0:06:37.18,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:06:37.20,0:06:38.10,Default,,0,0,0,,¡Wirt!
+Dialogue: 0,0:06:40.40,0:06:41.18,Default,,0,0,0,,Espera.
+Dialogue: 0,0:06:41.20,0:06:42.18,Default,,0,0,0,,Es una tontería.
+Dialogue: 0,0:06:42.20,0:06:43.68,Default,,0,0,0,,{\i1}- ¿Qué?{\i0}\N- Una tontería.
+Dialogue: 0,0:06:43.70,0:06:46.43,Default,,0,0,0,,No vagaré en el bosque\Nel resto de mi vida.
+Dialogue: 0,0:06:46.45,0:06:48.38,Default,,0,0,0,,{\i1}Intento ayudarte.{\i0}
+Dialogue: 0,0:06:48.40,0:06:49.68,Default,,0,0,0,,No intentas ayudarme.
+Dialogue: 0,0:06:49.70,0:06:52.73,Default,,0,0,0,,Tienes una obsesión con\Ntener encendida esta linterna.
+Dialogue: 0,0:06:52.76,0:06:55.60,Default,,0,0,0,,Como si tu alma estuviera\Ndentro de ella.
+Dialogue: 0,0:07:00.52,0:07:04.00,Default,,0,0,0,,{\i1}¿Estás preparado para ver\Nla oscuridad verdadera?{\i0}
+Dialogue: 0,0:07:08.70,0:07:09.60,Default,,0,0,0,,¿Lo...
+Dialogue: 0,0:07:12.30,0:07:13.60,Default,,0,0,0,,¿Lo estás tú?
+Dialogue: 0,0:07:14.22,0:07:16.45,Default,,0,0,0,,{\i1}¡No lo hagas!\N¡No!{\i0}
+Dialogue: 0,0:07:20.00,0:07:21.28,Default,,0,0,0,,Toma, leñador.
+Dialogue: 0,0:07:21.30,0:07:23.33,Default,,0,0,0,,Tengo mis propios\Nproblemas que resolver.
+Dialogue: 0,0:07:23.38,0:07:24.50,Default,,0,0,0,,Este es tuyo.
+Dialogue: 0,0:07:25.70,0:07:27.45,Default,,0,0,0,,Mi hermano y yo iremos a casa.
+Dialogue: 0,0:07:29.60,0:07:33.39,Default,,0,0,0,,Ella nunca estuvo en la linterna,\N¿cierto, bestia?
+Dialogue: 0,0:07:33.50,0:07:35.68,Default,,0,0,0,,{\i1}Escúchame, leñador.{\i0}
+Dialogue: 0,0:07:35.70,0:07:37.60,Default,,0,0,0,,{\i1}Escúchame.{\i0}
+Dialogue: 0,0:07:40.20,0:07:41.83,Default,,0,0,0,,- Wirt...\N- Ven con nosotros.
+Dialogue: 0,0:07:41.85,0:07:45.13,Default,,0,0,0,,Yo... también tengo que regresar a casa.
+Dialogue: 0,0:07:45.15,0:07:48.60,Default,,0,0,0,,Y admitirle a mi familia que\Npor mi culpa son azulejos.
+Dialogue: 0,0:07:49.65,0:07:50.43,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 0,0:07:50.45,0:07:52.78,Default,,0,0,0,,Las tijeras que los volverán humanos.
+Dialogue: 0,0:07:52.80,0:07:54.70,Default,,0,0,0,,¡¿Las tuviste todo este tiempo?!
+Dialogue: 0,0:07:55.10,0:07:58.00,Default,,0,0,0,,Las usé para escapar de Adelaide,\Ny entonces...
+Dialogue: 0,0:07:58.20,0:08:00.28,Default,,0,0,0,,Sí, estaba algo enojado contigo.
+Dialogue: 0,0:08:00.30,0:08:01.43,Default,,0,0,0,,Oh, tú...
+Dialogue: 0,0:08:01.45,0:08:03.80,Default,,0,0,0,,¡Maravilloso error de la naturaleza!
+Dialogue: 0,0:08:04.75,0:08:06.43,Default,,0,0,0,,{\i1}¿Ves, leñador?{\i0}
+Dialogue: 0,0:08:06.45,0:08:10.23,Default,,0,0,0,,{\i1}Los que aquí perecen se convierten\Nen árboles para la linterna.{\i0}
+Dialogue: 0,0:08:10.25,0:08:12.31,Default,,0,0,0,,{\i1}Atácalos con tu hacha.{\i0}
+Dialogue: 0,0:08:12.70,0:08:14.00,Default,,0,0,0,,{\i1}¡Ve! ¡Ahora!{\i0}
+Dialogue: 0,0:08:15.20,0:08:16.10,Default,,0,0,0,,¡No!
+Dialogue: 0,0:08:18.10,0:08:22.08,Default,,0,0,0,,{\i1}¡Detente!\NNo volverás a ver a tu hija, leñador.{\i0}
+Dialogue: 0,0:08:22.10,0:08:25.45,Default,,0,0,0,,{\i1}¿Estás listo para regresar\Na esa casa vacía?{\i0}
+Dialogue: 0,0:08:25.80,0:08:27.60,Default,,0,0,0,,{\i1}¡No! ¡Leñador!{\i0}
+Dialogue: 0,0:08:31.80,0:08:34.30,Default,,0,0,0,,{\i1}- Adiós, Beatrice.\N- Adiós, Wirt.{\i0}
+Dialogue: 0,0:08:34.55,0:08:37.28,Default,,0,0,0,,{\i1}Uno es un ave{\i0}
+Dialogue: 0,0:08:37.70,0:08:41.10,Default,,0,0,0,,{\i1}Dos son los árboles{\i0}
+Dialogue: 0,0:08:41.65,0:08:46.88,Default,,0,0,0,,{\i1}Tres es el viento en las hojas{\i0}
+Dialogue: 0,0:08:46.90,0:08:48.78,Default,,0,0,0,,- Ayuda.\N- ¡Wirt!
+Dialogue: 0,0:08:49.00,0:08:52.00,Default,,0,0,0,,{\i1}Cuatro son las estrellas{\i0}
+Dialogue: 0,0:08:52.35,0:08:56.48,Default,,0,0,0,,{\i1}- Cinco con la luna\N- ¿Wirt? ¿Estás bien?{\i0}
+Dialogue: 0,0:08:57.00,0:08:58.70,Default,,0,0,0,,¿Puedes verme, Wirt?
+Dialogue: 0,0:08:59.50,0:09:01.28,Default,,0,0,0,,- ¿Dónde estoy?\N- El hospital.
+Dialogue: 0,0:09:01.30,0:09:03.28,Default,,0,0,0,,¿Hospital?
+Dialogue: 0,0:09:03.30,0:09:06.43,Default,,0,0,0,,- ¡Greg! ¿¡Dónde está?!\N- Y entonces... ¡Wirt!
+Dialogue: 0,0:09:06.45,0:09:09.00,Default,,0,0,0,,Les contaba de la vez\Nen que casi nos...
+Dialogue: 0,0:09:10.00,0:09:12.98,Default,,0,0,0,,Sí, y tu estabas ahí,\NJason Funderberker.
+Dialogue: 0,0:09:13.00,0:09:17.05,Default,,0,0,0,,- ¿Yo?\N- No tú. Jason Funderberker, mi rana.
+Dialogue: 0,0:09:17.70,0:09:19.58,Default,,0,0,0,,- Nuestra rana.\N- Nuestra rana.
+Dialogue: 0,0:09:19.60,0:09:21.18,Default,,0,0,0,,¿Nuestra rana?
+Dialogue: 0,0:09:21.20,0:09:23.20,Default,,0,0,0,,No, no tu rana.
+Dialogue: 0,0:09:23.45,0:09:25.40,Default,,0,0,0,,Oye, entonces...
+Dialogue: 0,0:09:26.00,0:09:27.25,Default,,0,0,0,,...sobre esto.
+Dialogue: 0,0:09:28.85,0:09:32.40,Default,,0,0,0,,Pues, no tengo reproductor de casetts...
+Dialogue: 0,0:09:32.43,0:09:34.38,Default,,0,0,0,,Uh, cierto.
+Dialogue: 0,0:09:34.40,0:09:38.79,Default,,0,0,0,,- Podríamos escucharla en...\N- En mi casa, sí.
+Dialogue: 0,0:09:40.30,0:09:43.28,Default,,0,0,0,,Tal vez deberíamos escuchar\Notras cintas primero...
+Dialogue: 0,0:09:43.30,0:09:45.18,Default,,0,0,0,,...hasta llegar a esta.
+Dialogue: 0,0:09:45.20,0:09:48.18,Default,,0,0,0,,Esta es un poco...\NDigo, puedes escucharla...
+Dialogue: 0,0:09:48.20,0:09:49.93,Default,,0,0,0,,{\i1}Y así la historia está completa.{\i0}
+Dialogue: 0,0:09:49.95,0:09:51.78,Default,,0,0,0,,{\i1}Todos están satisfechos con el final.{\i0}
+Dialogue: 0,0:09:51.80,0:09:55.89,Default,,0,0,0,,{\i1}Etcétera, etcétera, y aún así,\Nsobre el muro del jardín...{\i0}
+Dialogue: 0,0:09:56.15,0:09:59.00,Default,,0,0,0,,{\i1}Que la brisa gentil{\i0}
+Dialogue: 0,0:10:00.20,0:10:03.67,Default,,0,0,0,,{\i1}Da señales por las hojas{\i0}
+Dialogue: 0,0:10:04.05,0:10:10.00,Default,,0,0,0,,{\i1}- Mientras los colores del otoño caen{\i0}\N- ¿Padre?
+Dialogue: 0,0:10:13.05,0:10:16.40,Default,,0,0,0,,{\i1}Bailando en una espiral{\i0}
+Dialogue: 0,0:10:17.10,0:10:20.90,Default,,0,0,0,,{\i1}De recuerdos dorados{\i0}
+Dialogue: 0,0:10:21.24,0:10:27.00,Default,,0,0,0,,{\i1}Están las mentiras más encantadoras que hay{\i0}
+Dialogue: 0,0:10:41.05,0:10:43.38,Default,,0,0,0,,Cariño, come tu tierra.
+Dialogue: 0,0:10:43.40,0:10:45.98,Default,,0,0,0,,Mamá, deja de llamarla tierra.
+Dialogue: 0,0:10:46.00,0:10:50.10,Default,,0,0,0,,O si no qué,\N¿nos convertirás en azulejos otra vez?
+Dialogue: 0,0:10:50.65,0:10:51.65,Default,,0,0,0,,Mamá...
+Dialogue: 0,0:10:53.27,0:10:54.50,Default,,0,0,0,,Come tu tierra.
+Dialogue: 0,0:10:56.05,0:10:58.30,Default,,0,0,0,,{\i1}Están las mentiras{\i0}
+Dialogue: 0,0:10:59.40,0:11:01.50,Default,,0,0,0,,{\i1}Más encantadoras{\i0}
+Dialogue: 0,0:11:01.75,0:11:06.50,Default,,0,0,0,,{\i1}Que hay{\i0}

@@ -1,0 +1,213 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 09- HACIA LO DESCONOCIDO
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.70,0:00:16.80,Default,,0,0,0,,CAPÍTULO 9\N"HACIA LO DESCONOCIDO"
+Dialogue: 0,0:00:24.01,0:00:27.10,Default,,0,0,0,,{\i1}Los ángeles se han ido{\i0}
+Dialogue: 0,0:00:28.02,0:00:31.50,Default,,0,0,0,,{\i1}Las canciones se han silenciado{\i0}
+Dialogue: 0,0:00:32.65,0:00:35.30,Default,,0,0,0,,{\i1}Te hundes como una piedra{\i0}
+Dialogue: 0,0:00:35.85,0:00:39.50,Default,,0,0,0,,{\i1}Ante la marea{\i0}
+Dialogue: 0,0:00:40.80,0:00:45.01,Default,,0,0,0,,{\i1}El río se encuentra frío{\i0}
+Dialogue: 0,0:00:45.35,0:00:48.30,Default,,0,0,0,,{\i1}Acabó la pelea{\i0}
+Dialogue: 0,0:00:50.20,0:00:53.78,Default,,0,0,0,,{\i1}Pero las embrujadas\Nruinas de la noche{\i0}
+Dialogue: 0,0:00:53.80,0:00:57.00,Default,,0,0,0,,{\i1}- Todavía te llaman\N- Para Sara{\i0}
+Dialogue: 0,0:01:10.08,0:01:11.10,Default,,0,0,0,,Sí.
+Dialogue: 0,0:01:14.70,0:01:15.88,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:01:19.70,0:01:21.65,Default,,0,0,0,,Hacia lo desconocido.
+Dialogue: 0,0:01:32.35,0:01:33.48,Default,,0,0,0,,{\i1}¡Adiós!{\i0}
+Dialogue: 0,0:01:33.50,0:01:36.68,Default,,0,0,0,,- Gracias, vieja Daniels.\N- Adiós, Gregory.
+Dialogue: 0,0:01:36.70,0:01:38.60,Default,,0,0,0,,Por favor no me llames vieja.
+Dialogue: 0,0:01:38.63,0:01:41.36,Default,,0,0,0,,Entendido, joven hombre,\NWirt, ¿qué haces?
+Dialogue: 0,0:01:41.43,0:01:42.48,Default,,0,0,0,,Nada.
+Dialogue: 0,0:01:42.50,0:01:47.18,Default,,0,0,0,,Yo ayudaba a la vieja Daniels\Na recoger hojas a cambio de dulces.
+Dialogue: 0,0:01:47.20,0:01:49.60,Default,,0,0,0,,Greg, es Halloween.\NLos dulces son gratis.
+Dialogue: 0,0:01:49.70,0:01:53.40,Default,,0,0,0,,La vieja Daniels dice\Nque nada nunca es gratis.
+Dialogue: 0,0:01:55.10,0:01:57.78,Default,,0,0,0,,¡Y mira!\NTambién conseguí esta piedra.
+Dialogue: 0,0:01:57.80,0:02:01.45,Default,,0,0,0,,Oye, Wirt, ¿quieres\Naprender unos hechos sólidos?
+Dialogue: 0,0:02:04.80,0:02:09.68,Default,,0,0,0,,¿Quieres ir a buscar ranas como\Ndijiste pero todavía no lo cumples?
+Dialogue: 0,0:02:09.70,0:02:11.50,Default,,0,0,0,,No, estoy ocupado.
+Dialogue: 0,0:02:12.70,0:02:15.28,Default,,0,0,0,,- ¿Esa abeja se llama Sara?\N- ¿Qué?
+Dialogue: 0,0:02:15.30,0:02:19.63,Default,,0,0,0,,Tu cinta dice "para Sara".\N¿Se la darás a Sara la abeja?
+Dialogue: 0,0:02:19.65,0:02:22.50,Default,,0,0,0,,Quiero, pero no puedo.
+Dialogue: 0,0:02:22.57,0:02:24.13,Default,,0,0,0,,¿Puedo verla?
+Dialogue: 0,0:02:24.15,0:02:26.28,Default,,0,0,0,,Sí, es solo una cinta.
+Dialogue: 0,0:02:26.30,0:02:29.08,Default,,0,0,0,,Sí, está bien.\NSe la daré de tu parte.
+Dialogue: 0,0:02:29.10,0:02:31.30,Default,,0,0,0,,Oh, ¡Greg!\N¡Espera! ¡No, no!
+Dialogue: 0,0:02:31.68,0:02:34.33,Default,,0,0,0,,¡Mírate!\N¿Qué se supone que eres?
+Dialogue: 0,0:02:34.35,0:02:36.30,Default,,0,0,0,,Soy un elefante.
+Dialogue: 0,0:02:38.45,0:02:39.78,Default,,0,0,0,,¿Ves mi trompa?
+Dialogue: 0,0:02:39.80,0:02:42.13,Default,,0,0,0,,- Sí, es lindo.\N- Soy un huevo.
+Dialogue: 0,0:02:42.15,0:02:44.18,Default,,0,0,0,,- Todos lo saben, Rhondi.\N- Cállate, Kathleen.
+Dialogue: 0,0:02:44.20,0:02:47.88,Default,,0,0,0,,Como sea.\N¿Qué eres tú, Wirt? ¿Un gnomo?
+Dialogue: 0,0:02:47.90,0:02:49.63,Default,,0,0,0,,No lo sé.\NPues, verán...
+Dialogue: 0,0:02:49.70,0:02:52.18,Default,,0,0,0,,- Pensaba que...\N- ¿Qué es esto?
+Dialogue: 0,0:02:52.20,0:02:54.90,Default,,0,0,0,,Es la cinta de Wirt para Sara.
+Dialogue: 0,0:02:54.97,0:02:58.38,Default,,0,0,0,,¡Wirt ama a Sara!\N¿Quieres que se la demos por ti?
+Dialogue: 0,0:02:58.40,0:03:01.18,Default,,0,0,0,,Es para otra Sara.\NNo es para la que creen.
+Dialogue: 0,0:03:01.20,0:03:05.58,Default,,0,0,0,,Sí, Wirt habla de Sara la mascota,\Na la que miró toda la noche.
+Dialogue: 0,0:03:05.60,0:03:06.50,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:03:07.40,0:03:10.00,Default,,0,0,0,,A Wirt le gusta Sara.
+Dialogue: 0,0:03:10.20,0:03:15.18,Default,,0,0,0,,Actúa rápido porque Jason Funderberker\Nla invitará a salir en la fiesta esta noche.
+Dialogue: 0,0:03:15.20,0:03:17.48,Default,,0,0,0,,- ¿Jason Funderberker?\N- Sí.
+Dialogue: 0,0:03:17.50,0:03:18.40,Default,,0,0,0,,Sí.
+Dialogue: 0,0:03:21.00,0:03:22.10,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:03:22.12,0:03:24.58,Default,,0,0,0,,Sí, todo está...\NJason Funderberker.
+Dialogue: 0,0:03:24.60,0:03:25.60,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:03:26.30,0:03:27.93,Default,,0,0,0,,Jason Funderberker,\Ntengo que irme.
+Dialogue: 0,0:03:27.95,0:03:28.95,Default,,0,0,0,,¡Adiós!
+Dialogue: 0,0:03:34.70,0:03:39.00,Default,,0,0,0,,{\i1}¿Acaso la paloma nunca encontrará el mar\Npor decisión de la odiosa montaña?{\i0}
+Dialogue: 0,0:03:39.35,0:03:41.18,Default,,0,0,0,,Así que...
+Dialogue: 0,0:03:41.20,0:03:42.38,Default,,0,0,0,,¿Buscamos ranas?
+Dialogue: 0,0:03:42.40,0:03:46.63,Default,,0,0,0,,La sigo escuchando, y creo\Nque es la última de la temporada.
+Dialogue: 0,0:03:46.65,0:03:49.28,Default,,0,0,0,,No, solo quiero hundirme en mi miseria.
+Dialogue: 0,0:03:49.30,0:03:51.53,Default,,0,0,0,,Sara y Jason Funderberker.
+Dialogue: 0,0:03:52.10,0:03:54.33,Default,,0,0,0,,Él tiene todo resuelto.\NEs el paquete completo.
+Dialogue: 0,0:03:54.35,0:03:57.68,Default,,0,0,0,,- No puedo competir.\N- Tu también eres el paquete completo.
+Dialogue: 0,0:03:57.70,0:03:59.70,Default,,0,0,0,,Seguro le gustará tu cinta.
+Dialogue: 0,0:03:59.75,0:04:02.32,Default,,0,0,0,,¡No recuperamos la cinta!\N¡No debe escucharla!
+Dialogue: 0,0:04:02.35,0:04:06.58,Default,,0,0,0,,- ¿Por qué no?\N- La cinta tiene poesía y clarinete, Greg.
+Dialogue: 0,0:04:06.60,0:04:08.18,Default,,0,0,0,,¡Poesía y clarinete!
+Dialogue: 0,0:04:08.20,0:04:10.78,Default,,0,0,0,,Sara y Jason Funderberker\Nempezarán a salir...
+Dialogue: 0,0:04:10.80,0:04:15.12,Default,,0,0,0,,...se sentarán a escuchar la cinta,\Ny reirán y reirán...
+Dialogue: 0,0:04:15.15,0:04:17.48,Default,,0,0,0,,¿Por qué no invitas a Sara antes?
+Dialogue: 0,0:04:17.50,0:04:18.98,Default,,0,0,0,,- De esa forma...\N- ¡No, no!
+Dialogue: 0,0:04:19.00,0:04:22.53,Default,,0,0,0,,¿Por qué tomaste la cinta?\N¡Mi vida se desmorona!
+Dialogue: 0,0:04:22.55,0:04:27.05,Default,,0,0,0,,Creo que debemos posponer la\Nbúsqueda de ranas y recuperar la cinta.
+Dialogue: 0,0:04:33.60,0:04:37.68,Default,,0,0,0,,- ¿Dónde está la cinta?\N- La pusimos en la chaqueta de Sara.
+Dialogue: 0,0:04:37.70,0:04:40.88,Default,,0,0,0,,Apresúrate, se está\Ncambiando en la cabaña.
+Dialogue: 0,0:04:40.90,0:04:42.00,Default,,0,0,0,,- Disculpa.\N- Oh, no.
+Dialogue: 0,0:04:42.50,0:04:43.50,Default,,0,0,0,,¡La chaqueta!
+Dialogue: 0,0:04:46.05,0:04:47.88,Default,,0,0,0,,¡Oye!\N¿Intentas espiar a Sara?
+Dialogue: 0,0:04:47.90,0:04:50.20,Default,,0,0,0,,Uh... no.\N¡Corre, Greg!
+Dialogue: 0,0:04:52.70,0:04:54.08,Default,,0,0,0,,Sara, ten cuidado.
+Dialogue: 0,0:04:54.10,0:04:57.20,Default,,0,0,0,,- Hay bastante gente rara esta noche.\N- Gracias, Jimmy.
+Dialogue: 0,0:05:01.35,0:05:03.98,Default,,0,0,0,,{\i1}Oigan, ladrones.\NEstán bajo arresto.{\i0}
+Dialogue: 0,0:05:04.00,0:05:06.00,Default,,0,0,0,,{\i1}Es broma. Feliz Halloween.{\i0}
+Dialogue: 0,0:05:07.40,0:05:09.60,Default,,0,0,0,,{\i1}¡Oigan, no corran por las calles!{\i0}
+Dialogue: 0,0:05:10.05,0:05:11.70,Default,,0,0,0,,{\i1}Es broma. Feliz Halloween.{\i0}
+Dialogue: 0,0:05:12.60,0:05:14.58,Default,,0,0,0,,Ahí va.\NVamos por ella.
+Dialogue: 0,0:05:14.60,0:05:16.98,Default,,0,0,0,,Sí, vamos por ella.
+Dialogue: 0,0:05:17.00,0:05:19.90,Default,,0,0,0,,- No, así no.\N- ¿Cómo lo haremos?
+Dialogue: 0,0:05:19.92,0:05:23.60,Default,,0,0,0,,- Solo recuperemos la cinta.\N- Oh, sí. Entremos después de ella.
+Dialogue: 0,0:05:24.00,0:05:26.38,Default,,0,0,0,,No puedo.\NNo me invitaron.
+Dialogue: 0,0:05:26.40,0:05:28.60,Default,,0,0,0,,- Yo entraré.\N- A ti tampoco.
+Dialogue: 0,0:05:28.90,0:05:31.03,Default,,0,0,0,,{\i1}Varios juegos usan\Nbate y pelota{\i0}
+Dialogue: 0,0:05:31.05,0:05:33.63,Default,,0,0,0,,{\i1}...un gato viejo, dos gatos viejos,\Nstoolball, roundball...{\i0}
+Dialogue: 0,0:05:36.80,0:05:38.40,Default,,0,0,0,,¿Por qué les estás hablando?
+Dialogue: 0,0:05:41.80,0:05:43.08,Default,,0,0,0,,Hola, chicos.
+Dialogue: 0,0:05:43.10,0:05:45.18,Default,,0,0,0,,No sé qué dijo,\Npero no es cierto.
+Dialogue: 0,0:05:45.20,0:05:47.30,Default,,0,0,0,,- Hola, Wirt, ¿cómo te va?\N- Hola, Wirt.
+Dialogue: 0,0:05:48.10,0:05:50.70,Default,,0,0,0,,Sí, bueno,\Ndespués nos vemos.
+Dialogue: 0,0:05:51.00,0:05:54.98,Default,,0,0,0,,Solía ser muy buena en ballet,\Npero mi mamá quería que fuera luchadora.
+Dialogue: 0,0:05:55.00,0:05:57.48,Default,,0,0,0,,- Oh, Wirt. Estás aquí.\N- Pues...
+Dialogue: 0,0:05:57.50,0:05:59.40,Default,,0,0,0,,Acababa de preguntar\Nsi estabas aquí.
+Dialogue: 0,0:06:01.10,0:06:03.38,Default,,0,0,0,,Oye, iremos al cementerio.
+Dialogue: 0,0:06:03.40,0:06:05.93,Default,,0,0,0,,¿Harán algo en especial?
+Dialogue: 0,0:06:05.95,0:06:09.48,Default,,0,0,0,,Nah, solo convivir y beber\Ncosas apropiadas para nuestra edad.
+Dialogue: 0,0:06:09.50,0:06:11.43,Default,,0,0,0,,- ¿Como jugo?\N- Sí, como sea.
+Dialogue: 0,0:06:11.45,0:06:13.68,Default,,0,0,0,,Cosas apropiadas no ilegales.
+Dialogue: 0,0:06:13.70,0:06:15.70,Default,,0,0,0,,Oye, deberías venir.
+Dialogue: 0,0:06:16.00,0:06:18.08,Default,,0,0,0,,Hola, Sara.
+Dialogue: 0,0:06:18.10,0:06:20.18,Default,,0,0,0,,¿Lista para ir?
+Dialogue: 0,0:06:20.20,0:06:23.88,Default,,0,0,0,,- Hola, Jason Funderberker.\N- Oh, hola, Wirt.
+Dialogue: 0,0:06:23.90,0:06:27.23,Default,,0,0,0,,- Vamos, Sara.\N- ¿Vendrás, Wirt?
+Dialogue: 0,0:06:27.31,0:06:29.40,Default,,0,0,0,,No, no. Ve tú.
+Dialogue: 0,0:06:29.58,0:06:31.58,Default,,0,0,0,,Diviértete con Jason Funderberker.
+Dialogue: 0,0:06:31.60,0:06:35.50,Default,,0,0,0,,Está bien.\NPero si quieres pasar después...
+Dialogue: 0,0:06:35.55,0:06:36.73,Default,,0,0,0,,Adiós, Wirt.
+Dialogue: 0,0:06:36.75,0:06:39.40,Default,,0,0,0,,Sayonara, Jason Funderberker.
+Dialogue: 0,0:06:40.70,0:06:42.28,Default,,0,0,0,,¡La chaqueta!
+Dialogue: 0,0:06:42.30,0:06:44.08,Default,,0,0,0,,Mi chaqueta, gracias Wirt.
+Dialogue: 0,0:06:44.10,0:06:46.38,Default,,0,0,0,,Nos vemos... espero.
+Dialogue: 0,0:06:46.40,0:06:47.30,Default,,0,0,0,,Adiós.
+Dialogue: 0,0:06:49.50,0:06:52.88,Default,,0,0,0,,Limitas el universo a cosas\Nque solo los humanos comprenderían.
+Dialogue: 0,0:06:52.90,0:06:56.78,Default,,0,0,0,,Tú limitas el universo al limitar\Nlas posibilidades de la comprensión humana.
+Dialogue: 0,0:06:56.80,0:06:58.73,Default,,0,0,0,,- Oh, cierto. Tal vez.\N- Sara.
+Dialogue: 0,0:06:59.10,0:07:01.98,Default,,0,0,0,,- ¿Sí?\N- ¿Tú crees en...
+Dialogue: 0,0:07:02.00,0:07:03.23,Default,,0,0,0,,...fantasmas?
+Dialogue: 0,0:07:03.25,0:07:06.40,Default,,0,0,0,,- ¿Por qué?\N- ¡Porque hay uno detrás de ti!
+Dialogue: 0,0:07:07.30,0:07:10.00,Default,,0,0,0,,- Solo bromeaba.\N- Está bien, Funderberker.
+Dialogue: 0,0:07:10.30,0:07:11.78,Default,,0,0,0,,{\i1}¡Para! ¡Me golpeaste!{\i0}
+Dialogue: 0,0:07:12.42,0:07:13.40,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:07:16.70,0:07:18.58,Default,,0,0,0,,Wirt, ¡me engañaste!
+Dialogue: 0,0:07:18.60,0:07:21.28,Default,,0,0,0,,No sabía que esta era\Nuna búsqueda de ranas.
+Dialogue: 0,0:07:21.30,0:07:22.92,Default,,0,0,0,,Nunca fue una...
+Dialogue: 0,0:07:23.00,0:07:26.28,Default,,0,0,0,,- ¡Una reunión de brujas!\N- Entonces...
+Dialogue: 0,0:07:26.30,0:07:29.30,Default,,0,0,0,,¡Un sujeto con un hacha apareció!
+Dialogue: 0,0:07:30.50,0:07:32.98,Default,,0,0,0,,Todos aman a Funderberker.
+Dialogue: 0,0:07:33.00,0:07:33.98,Default,,0,0,0,,¿Qué puedo hacer?
+Dialogue: 0,0:07:34.00,0:07:37.98,Default,,0,0,0,,Pretenderé ser un elefante muerto\Ny los distraeré mientras consigues la cinta.
+Dialogue: 0,0:07:38.00,0:07:39.40,Default,,0,0,0,,Por favor quédate aquí.
+Dialogue: 0,0:07:39.65,0:07:45.20,Default,,0,0,0,,Entonces ella se empezó\Na acercar más y más...
+Dialogue: 0,0:07:50.40,0:07:52.50,Default,,0,0,0,,- Ve, Greg. Hazlo.\N- Está bien.
+Dialogue: 0,0:07:53.20,0:07:56.48,Default,,0,0,0,,- Ya puedes soltar mi mano.\N- Oh... cierto.
+Dialogue: 0,0:07:56.50,0:07:58.87,Default,,0,0,0,,Puedes sostener mi mano.\NNo me molestaría.
+Dialogue: 0,0:08:02.00,0:08:05.18,Default,,0,0,0,,- ¿No es ese el hermano de Wirt?\N- No.
+Dialogue: 0,0:08:05.20,0:08:07.80,Default,,0,0,0,,¡Soy el elefante sin cabeza!
+Dialogue: 0,0:08:10.20,0:08:12.20,Default,,0,0,0,,- ¿Wirt también está aquí?\N- ¡Ahí!
+Dialogue: 0,0:08:13.00,0:08:13.95,Default,,0,0,0,,Ahí está.
+Dialogue: 0,0:08:14.40,0:08:16.80,Default,,0,0,0,,- Wirt, podemos verte.\N- Greg.
+Dialogue: 0,0:08:18.55,0:08:21.28,Default,,0,0,0,,Hola chicos.\N¡Greg! Ahí estás.
+Dialogue: 0,0:08:21.30,0:08:24.20,Default,,0,0,0,,No estaba espiando a nadie.\NSolo buscaba...
+Dialogue: 0,0:08:24.85,0:08:26.30,Default,,0,0,0,,{\i1}¿Qué es esto?{\i0}
+Dialogue: 0,0:08:26.70,0:08:28.58,Default,,0,0,0,,{\i1}¿Es esta una reunión de brujas?{\i0}
+Dialogue: 0,0:08:28.60,0:08:31.38,Default,,0,0,0,,{\i1}- Todos están bajo arresto.\N- ¡Corran!{\i0}
+Dialogue: 0,0:08:31.40,0:08:32.98,Default,,0,0,0,,{\i1}¡Oigan! Solo bromeaba.{\i0}
+Dialogue: 0,0:08:33.00,0:08:34.98,Default,,0,0,0,,{\i1}Bajen la velocidad.\NSe tropezarán.{\i0}
+Dialogue: 0,0:08:35.00,0:08:37.58,Default,,0,0,0,,¡Corre, corre, corre!\N¡Corre, corre, corre!
+Dialogue: 0,0:08:37.60,0:08:38.88,Default,,0,0,0,,¿A dónde vamos?
+Dialogue: 0,0:08:38.90,0:08:39.80,Default,,0,0,0,,¡Por ahí!
+Dialogue: 0,0:08:41.50,0:08:44.70,Default,,0,0,0,,- ¡Greg! ¿por qué por aquí?\N- Creí escuchar una rana.
+Dialogue: 0,0:08:45.90,0:08:47.80,Default,,0,0,0,,{\i1}Esta es una propiedad privada.{\i0}
+Dialogue: 0,0:08:49.20,0:08:51.98,Default,,0,0,0,,{\i1}No suban ahí,\N¡es peligroso!{\i0}
+Dialogue: 0,0:08:52.00,0:08:54.00,Default,,0,0,0,,{\i1}¡Bajen antes de que se lastimen!{\i0}
+Dialogue: 0,0:08:55.30,0:08:57.20,Default,,0,0,0,,Tiene mi nombre.
+Dialogue: 0,0:08:58.10,0:09:00.00,Default,,0,0,0,,Escuchémosla.
+Dialogue: 0,0:09:00.50,0:09:04.07,Default,,0,0,0,,¡No!
+Dialogue: 0,0:09:04.50,0:09:07.58,Default,,0,0,0,,{\i1}Niños, en serio,\Nbajen de ese muro.{\i0}
+Dialogue: 0,0:09:07.60,0:09:09.80,Default,,0,0,0,,Eso es todo.\NEse es el fin.
+Dialogue: 0,0:09:10.35,0:09:13.05,Default,,0,0,0,,{\i1}No, maldición.\NDecía que bajaran de este lado.{\i0}
+Dialogue: 0,0:09:15.10,0:09:18.28,Default,,0,0,0,,- Una vez más, me arruinas la vida.\N- ¿Quién? ¿yo?
+Dialogue: 0,0:09:18.30,0:09:19.98,Default,,0,0,0,,¡Tú y tu estúpido padre!
+Dialogue: 0,0:09:20.00,0:09:23.13,Default,,0,0,0,,Siempre molestándome,\Nintentando que me una a la banda.
+Dialogue: 0,0:09:23.15,0:09:26.58,Default,,0,0,0,,¡Si te unes a la banda,\Npodrás pasar más tiempo con Sara!
+Dialogue: 0,0:09:26.60,0:09:30.30,Default,,0,0,0,,Es muy tarde para eso,\Ngracias por arruinar eso también.
+Dialogue: 0,0:09:31.80,0:09:33.70,Default,,0,0,0,,Espera un momento, Wirt.
+Dialogue: 0,0:09:34.40,0:09:36.20,Default,,0,0,0,,¿Qué estás haciendo?
+Dialogue: 0,0:09:37.00,0:09:39.08,Default,,0,0,0,,Encontramos nuestra rana de la suerte.
+Dialogue: 0,0:09:39.10,0:09:41.50,Default,,0,0,0,,Debemos nombrarlo para tener suerte.
+Dialogue: 0,0:09:42.20,0:09:45.03,Default,,0,0,0,,¡No quiero tener nada que ver\Ncontigo o esa rana!
+Dialogue: 0,0:09:45.05,0:09:47.80,Default,,0,0,0,,Bien, yo pensaré en un nombre.
+Dialogue: 0,0:09:48.75,0:09:50.03,Default,,0,0,0,,Me voy.
+Dialogue: 0,0:09:58.50,0:10:01.33,Default,,0,0,0,,{\i1}Hay un viejo tren negro que viene{\i0}
+Dialogue: 0,0:10:01.35,0:10:03.60,Default,,0,0,0,,{\i1}Raspando los rieles{\i0}
+Dialogue: 0,0:10:03.90,0:10:06.03,Default,,0,0,0,,{\i1}No necesitas un boleto, muchacho{\i0}
+Dialogue: 0,0:10:06.05,0:10:09.67,Default,,0,0,0,,{\i1}Te llevará en su momento{\i0}
+Dialogue: 0,0:10:16.40,0:10:17.70,Default,,0,0,0,,Dónde...
+Dialogue: 0,0:10:19.10,0:10:21.90,Default,,0,0,0,,Estás despierto.\NToma, come tierra.
+Dialogue: 0,0:10:23.90,0:10:25.28,Default,,0,0,0,,¿Beatrice?
+Dialogue: 0,0:10:25.30,0:10:27.88,Default,,0,0,0,,¡Conoces a mi hija!\N¿Dónde está?
+Dialogue: 0,0:10:27.90,0:10:29.15,Default,,0,0,0,,No lo sé.
+Dialogue: 0,0:10:31.40,0:10:34.83,Default,,0,0,0,,Alguien te dejó a ti y a\Nesa rana en la entrada.
+Dialogue: 0,0:10:34.85,0:10:36.33,Default,,0,0,0,,Beatrice.
+Dialogue: 0,0:10:36.35,0:10:37.98,Default,,0,0,0,,¿Han visto a mi hermano?
+Dialogue: 0,0:10:38.00,0:10:40.58,Default,,0,0,0,,- No, lo siento.\N- ¡Tengo que irme!
+Dialogue: 0,0:10:40.60,0:10:43.68,Default,,0,0,0,,No estás en condición\Npara entrar a esa ventisca.
+Dialogue: 0,0:10:43.70,0:10:45.60,Default,,0,0,0,,Toma, come más tierra.
+Dialogue: 0,0:10:46.80,0:10:47.78,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:10:47.80,0:10:49.68,Default,,0,0,0,,Vamos.\NEncontremos a Greg.
+Dialogue: 0,0:10:49.70,0:10:52.28,Default,,0,0,0,,Al menos espera a que\Nla tormenta se calme.
+Dialogue: 0,0:10:52.30,0:10:56.70,Default,,0,0,0,,- No ayudarás a tu hermano si mueres.\N- No le era de ayuda al estar vivo.
+Dialogue: 0,0:10:56.90,0:10:59.60,Default,,0,0,0,,Gracias. Muchas gracias.
+Dialogue: 0,0:11:02.10,0:11:04.10,Default,,0,0,0,,Si vuelves a ver a Beatrice...
+Dialogue: 0,0:11:04.13,0:11:06.48,Default,,0,0,0,,...abrázala de nuestra parte.
+Dialogue: 0,0:11:06.50,0:11:07.85,Default,,0,0,0,,Sí.
