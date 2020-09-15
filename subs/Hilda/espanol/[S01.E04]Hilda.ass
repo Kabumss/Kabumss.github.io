@@ -1,0 +1,266 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: [S01.E04]Hilda
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.44,0:00:28.23,Default,,0,0,0,,¿Lista para la reunión de exploradores?
+Dialogue: 0,0:00:28.90,0:00:29.73,Default,,0,0,0,,Casi.
+Dialogue: 0,0:00:29.98,0:00:32.99,Default,,0,0,0,,Ojalá te guste tanto como a mí.
+Dialogue: 0,0:00:33.36,0:00:34.70,Default,,0,0,0,,Vamos. Es tarde.
+Dialogue: 0,0:00:36.82,0:00:39.83,Default,,0,0,0,,- ¿Qué haces?\N- Busco mi suéter.
+Dialogue: 0,0:00:39.91,0:00:41.16,Default,,0,0,0,,Lo llevas puesto.
+Dialogue: 0,0:00:41.37,0:00:43.25,Default,,0,0,0,,No, mi suéter bueno.
+Dialogue: 0,0:00:44.66,0:00:46.04,Default,,0,0,0,,Iré con este.
+Dialogue: 0,0:00:47.00,0:00:48.79,Default,,0,0,0,,¡Yo tejí ese suéter!
+Dialogue: 0,0:00:52.63,0:00:54.63,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:01:22.41,0:01:24.58,Default,,0,0,0,,CAPÍTULO 4: LOS EXPLORADORES
+Dialogue: 0,0:01:30.13,0:01:33.63,Default,,0,0,0,,Prometo ser confiable,\Nútil y ayudar a los demás.
+Dialogue: 0,0:01:33.71,0:01:37.72,Default,,0,0,0,,Ser amigable con personas y animales,\Nno ser arrogante,
+Dialogue: 0,0:01:37.80,0:01:39.97,Default,,0,0,0,,tener coraje y hacer el bien.
+Dialogue: 0,0:01:40.05,0:01:42.72,Default,,0,0,0,,Y cumplir la ley de exploradores.
+Dialogue: 0,0:01:44.35,0:01:48.35,Default,,0,0,0,,Ahora que hiciste el juramento,\Npuedes usar la faja.
+Dialogue: 0,0:01:49.02,0:01:53.40,Default,,0,0,0,,- Frida, ¿haces el honor?\N- Con gusto, Cuervo Líder.
+Dialogue: 0,0:01:57.65,0:01:59.45,Default,,0,0,0,,Bienvenida.
+Dialogue: 0,0:02:04.79,0:02:05.62,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:02:08.16,0:02:12.79,Default,,0,0,0,,Es una tradición iniciar a una recluta\Ncon un juego de...
+Dialogue: 0,0:02:12.88,0:02:15.13,Default,,0,0,0,,¡Balón!
+Dialogue: 0,0:02:24.14,0:02:25.31,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:02:37.19,0:02:39.28,Default,,0,0,0,,Gorriones, acérquense.
+Dialogue: 0,0:02:39.74,0:02:43.74,Default,,0,0,0,,La primera insignia del año\Nes la del amigo del parque.
+Dialogue: 0,0:02:43.83,0:02:47.45,Default,,0,0,0,,Para ganarla, deberán trabajar en equipo.
+Dialogue: 0,0:02:47.54,0:02:50.16,Default,,0,0,0,,- Se dividen...\N- ¡Cuántas insignias!
+Dialogue: 0,0:02:50.25,0:02:53.25,Default,,0,0,0,,Las importantes son las que aún no tengo.
+Dialogue: 0,0:02:53.79,0:02:58.67,Default,,0,0,0,,Cada equipo realizará un proyecto\Nde belleza y embellecimiento
+Dialogue: 0,0:02:58.76,0:03:00.97,Default,,0,0,0,,en el parque Trolberg.
+Dialogue: 0,0:03:01.38,0:03:06.35,Default,,0,0,0,,Cada proyecto deberá completarse\Nen un fin de semana.
+Dialogue: 0,0:03:06.43,0:03:08.52,Default,,0,0,0,,¿Voluntarios para liderar?
+Dialogue: 0,0:03:09.77,0:03:13.40,Default,,0,0,0,,Muy bien. Líderes, elijan su equipo.
+Dialogue: 0,0:03:13.48,0:03:15.98,Default,,0,0,0,,- ¡Elijo a Hilda!\N- Gracias.
+Dialogue: 0,0:03:16.07,0:03:17.78,Default,,0,0,0,,No, gracias a ti.
+Dialogue: 0,0:03:17.86,0:03:21.11,Default,,0,0,0,,Preciso 20 puntos\Npara la insignia de amigable
+Dialogue: 0,0:03:21.20,0:03:22.57,Default,,0,0,0,,y tú vales cinco.
+Dialogue: 0,0:03:22.99,0:03:24.24,Default,,0,0,0,,- ¿Sí?\N- Sí.
+Dialogue: 0,0:03:24.82,0:03:28.66,Default,,0,0,0,,Invitar a un juego o actividad:\Ncinco puntos.
+Dialogue: 0,0:03:30.33,0:03:32.67,Default,,0,0,0,,Por último, elijo a David.
+Dialogue: 0,0:03:33.21,0:03:34.46,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:03:37.80,0:03:40.21,Default,,0,0,0,,- David, insecto.\N- ¿Dónde?
+Dialogue: 0,0:03:42.72,0:03:44.72,Default,,0,0,0,,Ya se fue.
+Dialogue: 0,0:03:46.85,0:03:51.68,Default,,0,0,0,,Te encantará estar en el equipo de Frida.\NElla sabe lo que hace.
+Dialogue: 0,0:03:51.77,0:03:54.77,Default,,0,0,0,,¡Bien! Nunca había estado en un equipo.
+Dialogue: 0,0:03:55.15,0:03:56.02,Default,,0,0,0,,¿Nunca?
+Dialogue: 0,0:03:56.19,0:04:00.49,Default,,0,0,0,,Vivía en el bosque.\NMi mamá y yo éramos las únicas.
+Dialogue: 0,0:04:01.40,0:04:03.11,Default,,0,0,0,,Es bueno saberlo.
+Dialogue: 0,0:04:04.16,0:04:10.75,Default,,0,0,0,,La tarea de hoy será limpiar esta zona\Nen el parque y plantar un jardín.
+Dialogue: 0,0:04:11.25,0:04:14.17,Default,,0,0,0,,Démonos prisa y ganaremos la insignia.
+Dialogue: 0,0:04:14.37,0:04:17.00,Default,,0,0,0,,Empecemos hoy. Jardinería nocturna.
+Dialogue: 0,0:04:17.84,0:04:21.17,Default,,0,0,0,,Admiro tu entusiasmo,\Npero falta organizarnos.
+Dialogue: 0,0:04:21.26,0:04:23.17,Default,,0,0,0,,La luz del día es buena.
+Dialogue: 0,0:04:23.72,0:04:26.43,Default,,0,0,0,,Diseñaré el plan. Los veo mañana.
+Dialogue: 0,0:04:28.22,0:04:29.18,Default,,0,0,0,,Adiós, Hilda.
+Dialogue: 0,0:04:37.31,0:04:39.69,Default,,0,0,0,,¿Ganaste muchas insignias?
+Dialogue: 0,0:04:40.23,0:04:44.11,Default,,0,0,0,,Fui la que más insignias tenía\Nantes de irme.
+Dialogue: 0,0:04:44.45,0:04:45.95,Default,,0,0,0,,Aún me enorgullece.
+Dialogue: 0,0:04:46.70,0:04:49.49,Default,,0,0,0,,Entonces, tendré una más que tú.
+Dialogue: 0,0:05:04.97,0:05:05.84,Default,,0,0,0,,Pasen.
+Dialogue: 0,0:05:08.34,0:05:13.06,Default,,0,0,0,,- ¿Es un  ciervo-zorro?\N- Sí. Se llama Twig.
+Dialogue: 0,0:05:13.60,0:05:16.23,Default,,0,0,0,,Nunca había visto uno.
+Dialogue: 0,0:05:16.31,0:05:18.81,Default,,0,0,0,,Mira esas astas. ¡Son adorables!
+Dialogue: 0,0:05:20.44,0:05:22.07,Default,,0,0,0,,Y muy filosas.
+Dialogue: 0,0:05:22.28,0:05:25.07,Default,,0,0,0,,Puede ser muy feroz. ¿Verdad, amigo?
+Dialogue: 0,0:05:25.86,0:05:28.53,Default,,0,0,0,,¿Me presentarás a tus amigos?
+Dialogue: 0,0:05:28.91,0:05:32.79,Default,,0,0,0,,- Mamá, ellos son David y Frida.\N- Es un placer.
+Dialogue: 0,0:05:33.33,0:05:34.20,Default,,0,0,0,,Igualmente.
+Dialogue: 0,0:05:34.29,0:05:37.92,Default,,0,0,0,,Según mi agenda,\Ntenemos 30 segundos para charlar
+Dialogue: 0,0:05:38.00,0:05:39.21,Default,,0,0,0,,antes de irnos.
+Dialogue: 0,0:05:40.00,0:05:41.34,Default,,0,0,0,,Sí. Entiendo.
+Dialogue: 0,0:05:41.42,0:05:44.96,Default,,0,0,0,,Les dejo sándwiches de pepino.\NHice para todos.
+Dialogue: 0,0:05:45.67,0:05:47.68,Default,,0,0,0,,Mi preferido. ¡Gracias!
+Dialogue: 0,0:06:00.44,0:06:05.28,Default,,0,0,0,,Parece que aquí no vino nadie en años.\NAl menos, ningún humano.
+Dialogue: 0,0:06:08.65,0:06:11.70,Default,,0,0,0,,¿Este muro mantiene alejados a los trols?
+Dialogue: 0,0:06:11.78,0:06:14.74,Default,,0,0,0,,Sí, están por toda la ciudad.
+Dialogue: 0,0:06:15.20,0:06:18.21,Default,,0,0,0,,Por favor, no pensemos en ellos.
+Dialogue: 0,0:06:18.29,0:06:20.96,Default,,0,0,0,,Créeme, no hay de qué preocuparse.
+Dialogue: 0,0:06:21.04,0:06:23.80,Default,,0,0,0,,- En el día son rocas.\N- Es cierto.
+Dialogue: 0,0:06:23.88,0:06:27.22,Default,,0,0,0,,No importaría si hubiese cientos\Ndel otro lado.
+Dialogue: 0,0:06:27.55,0:06:29.47,Default,,0,0,0,,¿Cientos?
+Dialogue: 0,0:06:29.55,0:06:35.26,Default,,0,0,0,,Convertidos en roca, ideando un plan,\Nesperando su oportunidad.
+Dialogue: 0,0:06:35.35,0:06:37.06,Default,,0,0,0,,¡Soy joven para morir!
+Dialogue: 0,0:06:38.68,0:06:42.27,Default,,0,0,0,,El hecho es que estamos a salvo.\NA trabajar.
+Dialogue: 0,0:06:43.48,0:06:44.77,Default,,0,0,0,,Muy bien.
+Dialogue: 0,0:06:45.27,0:06:48.11,Default,,0,0,0,,Bienvenida a tu primer desafío.
+Dialogue: 0,0:06:48.19,0:06:49.57,Default,,0,0,0,,¿Cómo empezamos?
+Dialogue: 0,0:06:49.74,0:06:53.28,Default,,0,0,0,,Empezamos y terminamos con mi superplan.
+Dialogue: 0,0:06:55.33,0:06:58.91,Default,,0,0,0,,- ¿La criaron elfos?\N- Sin duda.
+Dialogue: 0,0:07:00.29,0:07:02.29,Default,,0,0,0,,ANTES - DESPUÉS
+Dialogue: 0,0:07:39.16,0:07:40.75,Default,,0,0,0,,¡Fase uno, completa!
+Dialogue: 0,0:07:40.83,0:07:42.83,Default,,0,0,0,,¡Vaya! Es eficiente.
+Dialogue: 0,0:07:47.13,0:07:48.71,Default,,0,0,0,,Esta hierba apesta.
+Dialogue: 0,0:07:51.67,0:07:52.93,Default,,0,0,0,,Pero me gusta.
+Dialogue: 0,0:07:53.84,0:07:56.68,Default,,0,0,0,,Llevémosla al centro de abono.
+Dialogue: 0,0:07:57.51,0:07:59.60,Default,,0,0,0,,Hilda, seguiremos mañana.
+Dialogue: 0,0:07:59.97,0:08:00.81,Default,,0,0,0,,¡Voy!
+Dialogue: 0,0:08:12.61,0:08:14.66,Default,,0,0,0,,¡Qué olor tan especial!
+Dialogue: 0,0:08:15.70,0:08:18.20,Default,,0,0,0,,Cebolla mohosa y tulipán podrido.
+Dialogue: 0,0:08:18.28,0:08:20.91,Default,,0,0,0,,Bien. A la Gran Picadora le gusta.
+Dialogue: 0,0:08:21.33,0:08:22.62,Default,,0,0,0,,¿Gran Picadora?
+Dialogue: 0,0:08:22.71,0:08:27.25,Default,,0,0,0,,Es la máquina de abono\Nde última generación. ¡Hermosa!
+Dialogue: 0,0:08:27.34,0:08:30.05,Default,,0,0,0,,Marco de titanio, cinta automática
+Dialogue: 0,0:08:30.13,0:08:32.51,Default,,0,0,0,,y hojas superfilosas.
+Dialogue: 0,0:08:32.59,0:08:36.39,Default,,0,0,0,,Una subida suave a la cima y luego ¡pum!
+Dialogue: 0,0:08:37.30,0:08:39.72,Default,,0,0,0,,¡Directo al basurero!
+Dialogue: 0,0:08:39.93,0:08:43.56,Default,,0,0,0,,Reduce cualquier cosa\Nen miles de pedacitos.
+Dialogue: 0,0:08:43.64,0:08:46.69,Default,,0,0,0,,De veras. ¡Cualquier cosa!
+Dialogue: 0,0:08:47.40,0:08:50.36,Default,,0,0,0,,Niños, dejen lo que trajeron allí.
+Dialogue: 0,0:08:50.44,0:08:52.94,Default,,0,0,0,,Lo cargaré mañana por la noche.
+Dialogue: 0,0:08:53.53,0:08:54.36,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:08:57.37,0:09:00.49,Default,,0,0,0,,Bien hecho, Gorriones.\NSe cumple el plan.
+Dialogue: 0,0:09:00.58,0:09:03.96,Default,,0,0,0,,- Mañana, fase dos.\N- ¿Plantar y embellecer?
+Dialogue: 0,0:09:04.04,0:09:05.04,Default,,0,0,0,,Exacto.
+Dialogue: 0,0:09:33.48,0:09:36.49,Default,,0,0,0,,Este es el plan de hoy. Primero...
+Dialogue: 0,0:09:37.53,0:09:38.61,Default,,0,0,0,,¡Ay, no!
+Dialogue: 0,0:09:40.83,0:09:42.16,Default,,0,0,0,,Nuestro trabajo.
+Dialogue: 0,0:09:45.16,0:09:46.87,Default,,0,0,0,,Es raro, ¿verdad?
+Dialogue: 0,0:09:57.01,0:09:58.05,Default,,0,0,0,,Chicos.
+Dialogue: 0,0:09:59.97,0:10:01.10,Default,,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:10:20.74,0:10:24.58,Default,,0,0,0,,- ¡Detengan a la bestia!\N- Solo si entregas la pala.
+Dialogue: 0,0:10:29.71,0:10:30.75,Default,,0,0,0,,Tranquilo.
+Dialogue: 0,0:10:33.75,0:10:38.92,Default,,0,0,0,,- ¿Tú arruinaste el proyecto?\N- ¿Ustedes desenterraron a mis amigos?
+Dialogue: 0,0:10:40.68,0:10:41.68,Default,,0,0,0,,¿Tus amigos?
+Dialogue: 0,0:10:45.26,0:10:47.31,Default,,0,0,0,,La hierba apestosa.
+Dialogue: 0,0:10:47.39,0:10:51.06,Default,,0,0,0,,¿Hierba apestosa? ¡Qué insulto!
+Dialogue: 0,0:10:51.15,0:10:54.57,Default,,0,0,0,,No somos hierbas. ¡Somos vitra!
+Dialogue: 0,0:10:54.98,0:10:56.48,Default,,0,0,0,,¿Qué son los vitra?
+Dialogue: 0,0:10:57.49,0:11:00.82,Default,,0,0,0,,Típico de ustedes: "¿Qué son los vitra?".
+Dialogue: 0,0:11:00.91,0:11:05.20,Default,,0,0,0,,Bueno, si quieren saberlo,\Nvivimos bajo tierra.
+Dialogue: 0,0:11:05.28,0:11:08.29,Default,,0,0,0,,Una vez al año, hibernamos más arriba
+Dialogue: 0,0:11:08.37,0:11:10.92,Default,,0,0,0,,para recibir un poco de luz solar.
+Dialogue: 0,0:11:11.00,0:11:15.96,Default,,0,0,0,,Pero vinieron ustedes y nos arrancaron\Nde la tierra donde vivimos.
+Dialogue: 0,0:11:16.38,0:11:19.30,Default,,0,0,0,,¡Son unos salvajes!
+Dialogue: 0,0:11:19.76,0:11:22.93,Default,,0,0,0,,Somos exploradores, amistosos y útiles.
+Dialogue: 0,0:11:23.51,0:11:26.81,Default,,0,0,0,,- ¿"Amistosos y útiles"?\N- Fue un error.
+Dialogue: 0,0:11:27.06,0:11:29.60,Default,,0,0,0,,Yo no suelo cometer errores.
+Dialogue: 0,0:11:29.77,0:11:32.44,Default,,0,0,0,,¡Está vez cometieron uno enorme!
+Dialogue: 0,0:11:32.65,0:11:36.73,Default,,0,0,0,,Yo, nosotros... mi equipo. No lo sabíamos.
+Dialogue: 0,0:11:36.82,0:11:39.24,Default,,0,0,0,,Yo creo que no les importó.
+Dialogue: 0,0:11:39.32,0:11:44.62,Default,,0,0,0,,Sí nos importas. Preocuparme\Nes mi actividad extracurricular.
+Dialogue: 0,0:11:45.03,0:11:48.49,Default,,0,0,0,,Por eso las insignias.\NMe preocupo, y mucho.
+Dialogue: 0,0:11:49.75,0:11:53.04,Default,,0,0,0,,- Sí, bueno...\N- ¡Devuélveme eso!
+Dialogue: 0,0:11:57.13,0:11:58.38,Default,,0,0,0,,Muerde el polvo.
+Dialogue: 0,0:12:06.43,0:12:09.14,Default,,0,0,0,,¡Son todas las insignias que tengo!
+Dialogue: 0,0:12:10.14,0:12:12.14,Default,,0,0,0,,¡Nunca me atraparás!
+Dialogue: 0,0:12:13.35,0:12:15.52,Default,,0,0,0,,¡Lo haré!
+Dialogue: 0,0:12:16.11,0:12:17.02,Default,,0,0,0,,¡Frida!
+Dialogue: 0,0:12:18.77,0:12:21.94,Default,,0,0,0,,¡Frida!
+Dialogue: 0,0:12:22.03,0:12:23.07,Default,,0,0,0,,¡Frida!
+Dialogue: 0,0:12:24.53,0:12:26.20,Default,,0,0,0,,¿Qué hacemos?
+Dialogue: 0,0:12:26.28,0:12:29.62,Default,,0,0,0,,Frida sabría qué hacer, pero no está aquí.
+Dialogue: 0,0:12:33.66,0:12:36.21,Default,,0,0,0,,Quédate y sostén la cuerda. Bajaré.
+Dialogue: 0,0:12:36.29,0:12:41.26,Default,,0,0,0,,- ¿Me quedaré aquí solo?\N- Twig estará contigo.
+Dialogue: 0,0:12:41.88,0:12:44.47,Default,,0,0,0,,Pase lo que pase, no la sueltes.
+Dialogue: 0,0:12:44.84,0:12:47.18,Default,,0,0,0,,Cuando tenga a Frida, subiremos.
+Dialogue: 0,0:12:47.26,0:12:51.43,Default,,0,0,0,,- Bien. ¿Te ayudo a bajar?\N- No, gracias. Saltaré.
+Dialogue: 0,0:12:54.81,0:12:58.11,Default,,0,0,0,,Sostener fuerte la cuerda. Es sencillo.
+Dialogue: 0,0:12:58.19,0:13:00.44,Default,,0,0,0,,Aunque me sudan las manos
+Dialogue: 0,0:13:00.52,0:13:04.74,Default,,0,0,0,,y están resbalosas,\Npodría ser un problema, pero...
+Dialogue: 0,0:13:05.03,0:13:07.07,Default,,0,0,0,,¡Qué roca increíble!
+Dialogue: 0,0:13:10.20,0:13:15.29,Default,,0,0,0,,Buen plan. Te encargas de la cuerda\Ny yo vigilaré las distracciones.
+Dialogue: 0,0:13:15.79,0:13:17.08,Default,,0,0,0,,Mira.
+Dialogue: 0,0:13:31.64,0:13:32.47,Default,,0,0,0,,¡Frida!
+Dialogue: 0,0:13:40.44,0:13:45.07,Default,,0,0,0,,Este lugar apesta. ¡Frida! ¿Dónde estás?
+Dialogue: 0,0:13:48.11,0:13:49.53,Default,,0,0,0,,No quiero perderme.
+Dialogue: 0,0:13:50.70,0:13:51.53,Default,,0,0,0,,¡Frida!
+Dialogue: 0,0:14:00.38,0:14:01.29,Default,,0,0,0,,¡Frida!
+Dialogue: 0,0:14:13.26,0:14:15.10,Default,,0,0,0,,¿Buscas a la otra chica?
+Dialogue: 0,0:14:15.18,0:14:17.89,Default,,0,0,0,,- ¿Dónde está?\N- Cerca.
+Dialogue: 0,0:14:19.52,0:14:20.56,Default,,0,0,0,,¡Oye! ¡Espera!
+Dialogue: 0,0:14:45.84,0:14:46.67,Default,,0,0,0,,¿Hilda?
+Dialogue: 0,0:14:59.52,0:15:00.39,Default,,0,0,0,,¿Qué...?
+Dialogue: 0,0:15:46.15,0:15:50.53,Default,,0,0,0,,- Puedo seguir todo el día.\N- O podríamos hacer un trato.
+Dialogue: 0,0:15:50.99,0:15:51.82,Default,,0,0,0,,Te escucho.
+Dialogue: 0,0:16:00.33,0:16:07.09,Default,,0,0,0,,Te ayudo a encontrar a esa chica irritante\Nsi me devuelves a mis amigos.
+Dialogue: 0,0:16:09.76,0:16:13.47,Default,,0,0,0,,Bien. De prisa.\NTus amigos se convertirán en abono.
+Dialogue: 0,0:16:15.01,0:16:16.22,Default,,0,0,0,,¿Abono?
+Dialogue: 0,0:16:16.30,0:16:18.89,Default,,0,0,0,,- Oiga, señor.\N- ¡Cállate, niño!
+Dialogue: 0,0:16:18.97,0:16:21.64,Default,,0,0,0,,- Encontré algo raro.\N- Bien.
+Dialogue: 0,0:16:26.40,0:16:27.23,Default,,0,0,0,,¡Frida!
+Dialogue: 0,0:16:32.40,0:16:33.95,Default,,0,0,0,,Estás atorada.
+Dialogue: 0,0:16:34.24,0:16:39.70,Default,,0,0,0,,Eso pasa por usar un agujero de conejo\Nen vez de un auténtico hoyo de vitra.
+Dialogue: 0,0:16:40.29,0:16:43.04,Default,,0,0,0,,No es fácil distinguirlos.
+Dialogue: 0,0:16:43.12,0:16:46.04,Default,,0,0,0,,Entonces no eres tan astuta como crees.
+Dialogue: 0,0:16:46.79,0:16:48.17,Default,,0,0,0,,Eres un grosero.
+Dialogue: 0,0:16:48.25,0:16:51.55,Default,,0,0,0,,Y tú tienes el encanto\Nde un gusano comerocas.
+Dialogue: 0,0:16:55.09,0:16:56.34,Default,,0,0,0,,¡Ya basta!
+Dialogue: 0,0:17:02.27,0:17:03.64,Default,,0,0,0,,¿Podrían ayudarme?
+Dialogue: 0,0:17:05.69,0:17:09.27,Default,,0,0,0,,Vamos. ¡Jalen!
+Dialogue: 0,0:17:13.36,0:17:14.99,Default,,0,0,0,,¡No puedes usar eso!
+Dialogue: 0,0:17:15.07,0:17:18.70,Default,,0,0,0,,Lo haré hasta que recupere a mis amigos.
+Dialogue: 0,0:17:18.87,0:17:22.04,Default,,0,0,0,,- ¿Qué?\N- Vamos, chicos. ¡De prisa!
+Dialogue: 0,0:17:22.83,0:17:23.87,Default,,0,0,0,,Adiós, señor.
+Dialogue: 0,0:17:25.62,0:17:26.54,Default,,0,0,0,,¡David!
+Dialogue: 0,0:17:34.59,0:17:35.51,Default,,0,0,0,,Hola, amigo.
+Dialogue: 0,0:17:36.05,0:17:38.34,Default,,0,0,0,,¡La encontraste!
+Dialogue: 0,0:17:39.30,0:17:40.35,Default,,0,0,0,,Él me ayudó.
+Dialogue: 0,0:17:41.64,0:17:42.85,Default,,0,0,0,,Hicimos un trato.
+Dialogue: 0,0:17:43.68,0:17:46.60,Default,,0,0,0,,No podremos cumplir el desafío.
+Dialogue: 0,0:17:46.77,0:17:51.98,Default,,0,0,0,,Pero te salvó de quedar atascada\Nen la tierra para siempre.
+Dialogue: 0,0:17:52.94,0:17:54.57,Default,,0,0,0,,Sí, tienes razón.
+Dialogue: 0,0:17:56.90,0:18:00.37,Default,,0,0,0,,Gracias por ir a buscarme.\NFuiste muy valiente.
+Dialogue: 0,0:18:00.87,0:18:03.91,Default,,0,0,0,,Esto no formaba parte del plan de acción.
+Dialogue: 0,0:18:04.29,0:18:07.16,Default,,0,0,0,,- Me alteré un poco.\N- O mucho.
+Dialogue: 0,0:18:08.04,0:18:12.96,Default,,0,0,0,,- ¿Cuál es el plan?\N- Es muy sencillo.
+Dialogue: 0,0:18:13.50,0:18:17.55,Default,,0,0,0,,Salvar a los vitra,\Nregresar y enterrarlos.
+Dialogue: 0,0:18:17.80,0:18:20.18,Default,,0,0,0,,- ¿Lo harás tú sola?\N- Claro.
+Dialogue: 0,0:18:20.47,0:18:22.14,Default,,0,0,0,,- No.\N- ¿No?
+Dialogue: 0,0:18:22.43,0:18:25.89,Default,,0,0,0,,No lo harás sola.\NDavid y yo te acompañaremos.
+Dialogue: 0,0:18:25.97,0:18:28.19,Default,,0,0,0,,- ¿Sí?\N- Yo también.
+Dialogue: 0,0:18:31.61,0:18:32.65,Default,,0,0,0,,¡Así se hace!
+Dialogue: 0,0:18:33.15,0:18:36.44,Default,,0,0,0,,- Estamos todos juntos.\N- En realidad, no.
+Dialogue: 0,0:18:36.65,0:18:40.03,Default,,0,0,0,,Solo quiero ver que no lo arruinen.\N¡Andando!
+Dialogue: 0,0:18:42.74,0:18:44.49,Default,,0,0,0,,Vámonos.
+Dialogue: 0,0:18:50.42,0:18:53.84,Default,,0,0,0,,¡Llegamos tarde! Ya está cerrado.
+Dialogue: 0,0:18:53.92,0:18:56.96,Default,,0,0,0,,- Quizá podríamos volver mañana.\N- ¡Miren!
+Dialogue: 0,0:19:04.26,0:19:07.81,Default,,0,0,0,,- Es ahora o nunca.\N- Tiene razón. Vamos, David.
+Dialogue: 0,0:19:09.43,0:19:11.52,Default,,0,0,0,,No me gustan las alturas.
+Dialogue: 0,0:19:12.02,0:19:14.77,Default,,0,0,0,,A veces, por abajo es mejor.
+Dialogue: 0,0:19:16.90,0:19:17.78,Default,,0,0,0,,Cuidado.
+Dialogue: 0,0:19:20.99,0:19:21.82,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:19:34.38,0:19:35.71,Default,,0,0,0,,Frida, ¡atrápalo!
+Dialogue: 0,0:19:39.46,0:19:41.13,Default,,0,0,0,,HOMBRE BIGOTUDO
+Dialogue: 0,0:19:44.68,0:19:48.39,Default,,0,0,0,,Arriba. ¡Niño Georgie! Es el último.
+Dialogue: 0,0:19:58.36,0:19:59.23,Default,,0,0,0,,¡Te tengo!
+Dialogue: 0,0:20:02.70,0:20:04.74,Default,,0,0,0,,- ¡Hilda!\N- Niño Georgie.
+Dialogue: 0,0:20:04.82,0:20:08.16,Default,,0,0,0,,- No puedo ver.\N- Claro que puedes. Empuja.
+Dialogue: 0,0:20:15.21,0:20:17.63,Default,,0,0,0,,Tranquila, Hilda. Te tenemos.
+Dialogue: 0,0:20:18.17,0:20:22.30,Default,,0,0,0,,Entonces... ¡allí voy!
+Dialogue: 0,0:20:23.63,0:20:25.05,Default,,0,0,0,,Hilda, ¿estás bien?
+Dialogue: 0,0:20:29.10,0:20:31.93,Default,,0,0,0,,Una caída traumática, pero estoy bien.
+Dialogue: 0,0:20:33.73,0:20:37.19,Default,,0,0,0,,Cien puntos para la insignia\Nde atrapar amigos.
+Dialogue: 0,0:20:37.44,0:20:41.07,Default,,0,0,0,,- ¿En serio?\N- No. No existe esa insignia.
+Dialogue: 0,0:20:41.57,0:20:42.57,Default,,0,0,0,,Pues debería.
+Dialogue: 0,0:20:53.71,0:20:57.54,Default,,0,0,0,,Tus amigos se la pasaron durmiendo\Ntodo este tiempo.
+Dialogue: 0,0:20:58.17,0:21:03.47,Default,,0,0,0,,Un vitra que hiberna no se despierta,\Nsalvo que le claves una estaca.
+Dialogue: 0,0:21:04.34,0:21:05.63,Default,,0,0,0,,Sí, lo siento.
+Dialogue: 0,0:21:06.05,0:21:08.72,Default,,0,0,0,,Debes admitir que no somos malos.
+Dialogue: 0,0:21:08.97,0:21:14.10,Default,,0,0,0,,Ustedes arrancaron a mis amigos.\N¿Quieren un premio por recuperarlos?
+Dialogue: 0,0:21:17.77,0:21:19.56,Default,,0,0,0,,Un trato es un trato.
+Dialogue: 0,0:21:21.82,0:21:22.65,Default,,0,0,0,,Toma.
+Dialogue: 0,0:21:46.17,0:21:47.63,Default,,0,0,0,,ANTES
+Dialogue: 0,0:21:51.43,0:21:53.35,Default,,0,0,0,,DESPUÉS
+Dialogue: 0,0:21:56.10,0:21:59.69,Default,,0,0,0,,Fracasamos en el desafío de la insignia,
+Dialogue: 0,0:22:00.65,0:22:04.78,Default,,0,0,0,,pero analizándolo mejor,\Nconcluyo que nuestro fracaso
+Dialogue: 0,0:22:05.86,0:22:07.45,Default,,0,0,0,,fue todo un éxito.
+Dialogue: 0,0:22:10.12,0:22:13.41,Default,,0,0,0,,Hilda quería una insignia\Nde amigo de los vitra.
+Dialogue: 0,0:22:13.49,0:22:15.54,Default,,0,0,0,,Le expliqué que no existe.
+Dialogue: 0,0:22:16.91,0:22:21.71,Default,,0,0,0,,Y que no podemos inventar insignias.
+Dialogue: 0,0:22:22.54,0:22:24.92,Default,,0,0,0,,Aunque tal vez, sí.
+Dialogue: 0,0:22:28.84,0:22:30.14,Default,,0,0,0,,Descansa, roca.
+Dialogue: 0,0:22:31.80,0:22:33.39,Default,,0,0,0,,Y tú, Bertrand.
+Dialogue: 0,0:23:02.25,0:23:06.21,Default,,0,0,0,,Subtítulos: Juliana Sestelo
