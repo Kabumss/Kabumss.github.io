@@ -1,0 +1,352 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GravityFallsT01E06
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:02.67,Default,,0,0,0,,LA CABAÑA DEL MISTERIO
+Dialogue: 0,0:00:04.17,0:00:06.96,Default,,0,0,0,,{\i1}Me gusta hacer{\i0}\N{\i1}las compras de Navidad con tiempo.{\i0}
+Dialogue: 0,0:00:07.04,0:00:09.38,Default,,0,0,0,,¿Tiene algo\Ncon el espíritu de las fiestas?
+Dialogue: 0,0:00:10.17,0:00:14.18,Default,,0,0,0,,- ¿Estos cristales?\N- Parecen vidrios rotos.
+Dialogue: 0,0:00:14.26,0:00:17.05,Default,,0,0,0,,- ¿Eres policía?\N- ¿Y esa cosa nueva?
+Dialogue: 0,0:00:17.93,0:00:20.52,Default,,0,0,0,,- Tío abuelo Stan.\N- ¿Podemos ir a comer?
+Dialogue: 0,0:00:20.60,0:00:24.73,Default,,0,0,0,,- Tenemos hambre.\N- Hambre.
+Dialogue: 0,0:00:28.73,0:00:31.40,Default,,0,0,0,,Seguro.\NNi bien se decida el pesado.
+Dialogue: 0,0:00:31.49,0:00:33.78,Default,,0,0,0,,¿Esto viene con otro animal?
+Dialogue: 0,0:00:33.86,0:00:36.11,Default,,0,0,0,,No tengo problema\Nen encerrarlo aquí. ¿Qué dicen?
+Dialogue: 0,0:00:37.28,0:00:38.28,Default,,0,0,0,,CERRADO
+Dialogue: 0,0:00:39.49,0:00:41.70,Default,,0,0,0,,Camiseta de puma.\NCamiseta de pantera.
+Dialogue: 0,0:00:41.79,0:00:44.08,Default,,0,0,0,,Camiseta de puma.\NCamiseta de pantera.
+Dialogue: 0,0:00:44.16,0:00:46.29,Default,,0,0,0,,Camiseta de puma.
+Dialogue: 0,0:00:47.29,0:00:48.29,Default,,0,0,0,,Camiseta de pantera.
+Dialogue: 0,0:00:55.89,0:00:56.93,Default,,0,0,0,,LA CABAÑA DEL MISTERIO
+Dialogue: 0,0:00:57.01,0:00:58.26,Default,,0,0,0,,SORPRÉNDANSE
+Dialogue: 0,0:01:04.39,0:01:05.44,Default,,0,0,0,,¿QUÉ?
+Dialogue: 0,0:01:28.21,0:01:32.17,Default,,0,0,0,,CAFETERÍA GREASY
+Dialogue: 0,0:01:33.80,0:01:34.84,Default,,0,0,0,,¡Fuera!
+Dialogue: 0,0:01:36.17,0:01:37.55,Default,,0,0,0,,¡Largo!
+Dialogue: 0,0:01:39.14,0:01:41.51,Default,,0,0,0,,¡Café, café!
+Dialogue: 0,0:01:42.18,0:01:43.52,Default,,0,0,0,,¡Dale, dale!
+Dialogue: 0,0:01:50.86,0:01:55.49,Default,,0,0,0,,Linda Susan, mi rayito de sol.\N¿Dónde estabas ayer?
+Dialogue: 0,0:01:55.57,0:01:57.32,Default,,0,0,0,,Me atropelló un autobús.
+Dialogue: 0,0:01:58.20,0:01:59.53,Default,,0,0,0,,¡Qué gracioso!
+Dialogue: 0,0:01:59.62,0:02:00.83,Default,,0,0,0,,¡Gracias!
+Dialogue: 0,0:02:04.29,0:02:05.96,Default,,0,0,0,,¿Puedo pedir medias porciones?
+Dialogue: 0,0:02:06.04,0:02:09.71,Default,,0,0,0,,Tal vez. Guiño.
+Dialogue: 0,0:02:10.00,0:02:12.50,Default,,0,0,0,,Excelente. Entonces compartimos\Nun cuarto del número siete,
+Dialogue: 0,0:02:12.59,0:02:16.21,Default,,0,0,0,,más un aderezo para la señorita,\Ny un poco de kétchup para el niño.
+Dialogue: 0,0:02:16.30,0:02:18.72,Default,,0,0,0,,Tío abuelo Stan,\Nyo quiero panqueques.
+Dialogue: 0,0:02:18.80,0:02:21.26,Default,,0,0,0,,¿Con la harina costosa\Nque usan ahora?
+Dialogue: 0,0:02:21.35,0:02:23.35,Default,,0,0,0,,¿Acaso estoy\Nforrado en dinero?
+Dialogue: 0,0:02:26.02,0:02:27.02,Default,,0,0,0,,SI GANA\NPANQUEQUES GRATIS
+Dialogue: 0,0:02:27.10,0:02:28.77,Default,,0,0,0,,MEDIDOR DE HOMBRÍA
+Dialogue: 0,0:02:29.98,0:02:32.02,Default,,0,0,0,,Descuiden, chicos.\NYo invito los panqueques.
+Dialogue: 0,0:02:32.11,0:02:34.61,Default,,0,0,0,,Me los darán cuando le gane\Nal medidor de hombría.
+Dialogue: 0,0:02:34.69,0:02:37.36,Default,,0,0,0,,- ¿Medidor de hombría?\N- ¿Ganar?
+Dialogue: 0,0:02:39.74,0:02:41.91,Default,,0,0,0,,Dices que... dices...
+Dialogue: 0,0:02:43.95,0:02:45.16,Default,,0,0,0,,¿Qué es tan gracioso?
+Dialogue: 0,0:02:45.24,0:02:50.58,Default,,0,0,0,,No te ofendas, Dipper, pero es que\Nno eres muy Macho Machoso.
+Dialogue: 0,0:02:51.75,0:02:56.46,Default,,0,0,0,,¡Oye! Sí que soy Machi, muchi...\NLo que dijiste.
+Dialogue: 0,0:02:56.55,0:03:00.84,Default,,0,0,0,,Acéptalo. No tienes músculos,\Nhueles a perfume de bebé,
+Dialogue: 0,0:03:00.93,0:03:04.06,Default,,0,0,0,,y no nos olvidemos\Ndel "incidente" del jueves.
+Dialogue: 0,0:03:04.14,0:03:05.93,Default,,0,0,0,,{\i1}Chica disco{\i0}
+Dialogue: 0,0:03:06.47,0:03:10.23,Default,,0,0,0,,{\i1}Que vas por ahí{\i0}\N{\i1}Esa chica eres tú{\i0}
+Dialogue: 0,0:03:10.31,0:03:12.02,Default,,0,0,0,,¡No entres! ¡No entres!
+Dialogue: 0,0:03:12.11,0:03:15.61,Default,,0,0,0,,¿Escuchabas a la sensación del pop\Nde Islandia, Babba?
+Dialogue: 0,0:03:15.69,0:03:18.36,Default,,0,0,0,,No, claro que no.\N¡No es importante!
+Dialogue: 0,0:03:18.44,0:03:22.32,Default,,0,0,0,,¡Vamos! Soy muy masculino.\NMiren mi vello pectoral.
+Dialogue: 0,0:03:22.82,0:03:25.70,Default,,0,0,0,,- ¡Tápalo! ¡Tápalo!\N- ¡Tan suave! ¡Mis ojos!
+Dialogue: 0,0:03:25.79,0:03:27.12,Default,,0,0,0,,Cielos.
+Dialogue: 0,0:03:29.71,0:03:33.88,Default,,0,0,0,,Bien, familia de poca fe.\NPrepárense para comerse sus palabras.
+Dialogue: 0,0:03:33.96,0:03:36.42,Default,,0,0,0,,Y un plato\Nde deliciosos panqueques.
+Dialogue: 0,0:03:41.93,0:03:46.39,Default,,0,0,0,,Bueno, Dipper. Hora de maltratar\Na la máquina. Con fuerza.
+Dialogue: 0,0:03:46.47,0:03:49.77,Default,,0,0,0,,PELELE- HOMBRE\NMEDIDOR DE HOMBRÍA
+Dialogue: 0,0:03:49.85,0:03:54.06,Default,,0,0,0,,- Uno... dos...\N- ¡Deja de hacer tiempo!
+Dialogue: 0,0:03:55.98,0:03:57.02,Default,,0,0,0,,PELELE
+Dialogue: 0,0:03:57.98,0:03:59.48,Default,,0,0,0,,MUJER DE EDAD MADURA\NCASI PASABLE - HOMBRE
+Dialogue: 0,0:04:04.03,0:04:05.32,Default,,0,0,0,,PELELE
+Dialogue: 0,0:04:07.03,0:04:09.24,Default,,0,0,0,,ERES UN BEBITO TIERNO
+Dialogue: 0,0:04:09.33,0:04:13.12,Default,,0,0,0,,¿Qué? Seguro está rota.\NEstá rota, chicos.
+Dialogue: 0,0:04:13.21,0:04:17.29,Default,,0,0,0,,Tiene como un millón de años,\Nse habrá quedado sin vapor.
+Dialogue: 0,0:04:19.59,0:04:21.97,Default,,0,0,0,,Está destartalada.\NNi lo intent...
+Dialogue: 0,0:04:26.01,0:04:28.51,Default,,0,0,0,,¡Sí!\N¡Panqueques para todos!
+Dialogue: 0,0:04:34.90,0:04:36.65,Default,,0,0,0,,Necesito vello pectoral.\NY rápido.
+Dialogue: 0,0:04:38.15,0:04:40.78,Default,,0,0,0,,¡Estoy bien!\N¡Todo está bien!
+Dialogue: 0,0:04:42.53,0:04:45.57,Default,,0,0,0,,- ¿Cómo es que es mi pariente?\N- Vamos, tío abuelo Stan,
+Dialogue: 0,0:04:45.66,0:04:48.58,Default,,0,0,0,,estoy segura de que en el fondo\Ntú también tienes un lado sensible.
+Dialogue: 0,0:04:49.24,0:04:52.25,Default,,0,0,0,,Sólo tengo un alma\Nfría, oscura y vacía.
+Dialogue: 0,0:04:52.87,0:04:55.46,Default,,0,0,0,,- ¡Comida!\N- Gracias, pastelito.
+Dialogue: 0,0:04:55.54,0:04:58.75,Default,,0,0,0,,Digo, abejita, gatita, vaquita.
+Dialogue: 0,0:04:59.54,0:05:01.84,Default,,0,0,0,,¡Tonto!\NQué hombre más tonto.
+Dialogue: 0,0:05:01.92,0:05:04.63,Default,,0,0,0,,- ¿Qué fue eso?\N- Nada. No quiero hablar de eso.
+Dialogue: 0,0:05:04.72,0:05:08.26,Default,,0,0,0,,- ¿De qué? ¿La mesa está mojada?\N- Un momento.
+Dialogue: 0,0:05:08.35,0:05:10.97,Default,,0,0,0,,Me parece que tengo\Nuna idea por aquí.
+Dialogue: 0,0:05:11.06,0:05:13.98,Default,,0,0,0,,- Tú... y ella...\N- No. ¡Detente!
+Dialogue: 0,0:05:14.60,0:05:17.52,Default,,0,0,0,,- Cielos.\N- ¡Te gusta Linda Susan!
+Dialogue: 0,0:05:17.60,0:05:21.57,Default,,0,0,0,,- Sí tienes un lado sensible.\N- Cállate, ¿quieres?
+Dialogue: 0,0:05:21.65,0:05:24.69,Default,,0,0,0,,Está bien, lo admito.\NSería lindo que ella me quisiera.
+Dialogue: 0,0:05:24.78,0:05:26.74,Default,,0,0,0,,Pero hace tanto\Nque estoy fuera del juego,
+Dialogue: 0,0:05:26.82,0:05:30.12,Default,,0,0,0,,que no sé por dónde empezar.\N¡Mírala! Tiene tanta clase.
+Dialogue: 0,0:05:30.20,0:05:32.66,Default,,0,0,0,,¡Giren, tortas tontas!\N¡Giren!
+Dialogue: 0,0:05:33.33,0:05:37.62,Default,,0,0,0,,Tío abuelo Stan, eres un viejo\Nraro, feo y malhumorado,
+Dialogue: 0,0:05:37.71,0:05:39.88,Default,,0,0,0,,pero conseguiremos\Nque Linda Susan te quiera
+Dialogue: 0,0:05:39.96,0:05:42.30,Default,,0,0,0,,porque no hay nada más fuerte\Nque el poder...
+Dialogue: 0,0:05:42.38,0:05:46.38,Default,,0,0,0,,- ¿Del amor?\N- De Mabel. ¡Por la victoria!
+Dialogue: 0,0:05:50.22,0:05:53.93,Default,,0,0,0,,¿Poca hombría? ¡Estúpida cafetería!\N¡Estúpido leñador!
+Dialogue: 0,0:05:54.02,0:05:55.48,Default,,0,0,0,,¡No!
+Dialogue: 0,0:05:56.23,0:06:00.48,Default,,0,0,0,,Otro hidrante destruido.\NEs un gran misterio.
+Dialogue: 0,0:06:00.56,0:06:02.94,Default,,0,0,0,,¿Y si nos sacamos los uniformes\Ny corremos?
+Dialogue: 0,0:06:03.36,0:06:04.86,Default,,0,0,0,,Deja de leerme la mente.
+Dialogue: 0,0:06:10.07,0:06:12.49,Default,,0,0,0,,Lo siento. Estaba buscando\Nal hombre del correo.
+Dialogue: 0,0:06:12.58,0:06:16.16,Default,,0,0,0,,¿Dice que no soy un hombre?\N¿Eso dice?
+Dialogue: 0,0:06:16.25,0:06:19.88,Default,,0,0,0,,¿No soy hombre?\N¿Eso es?
+Dialogue: 0,0:06:19.96,0:06:21.04,Default,,0,0,0,,¿Estás llorando?
+Dialogue: 0,0:06:25.71,0:06:29.18,Default,,0,0,0,,{\i1}Dos... tres...{\i0}
+Dialogue: 0,0:06:30.51,0:06:32.22,Default,,0,0,0,,cuatro...
+Dialogue: 0,0:06:35.35,0:06:36.77,Default,,0,0,0,,Todavía no hay vello pectoral.
+Dialogue: 0,0:06:37.31,0:06:40.52,Default,,0,0,0,,¿Es una cuestión física?\N¿Mental? ¿Cuál es el secreto?
+Dialogue: 0,0:06:41.44,0:06:43.40,Default,,0,0,0,,CARNE DESECADA PARA HOMBRES\N¡NO COMO TÚ!
+Dialogue: 0,0:06:43.48,0:06:46.40,Default,,0,0,0,,Es cierto.\NNecesito ayuda.
+Dialogue: 0,0:06:52.12,0:06:55.29,Default,,0,0,0,,¡Por el amor de todo lo sagrado,\Ncorre!
+Dialogue: 0,0:07:06.84,0:07:08.22,Default,,0,0,0,,Espera. Disculpa.
+Dialogue: 0,0:07:31.49,0:07:34.24,Default,,0,0,0,,¡Por favor, no me coma!\N¡No me ducho desde hace una semana!
+Dialogue: 0,0:07:34.33,0:07:37.29,Default,,0,0,0,,¡Soy todo codos,\Ncodos y cartílago!
+Dialogue: 0,0:07:38.00,0:07:39.12,Default,,0,0,0,,¡Tú!
+Dialogue: 0,0:07:39.96,0:07:42.79,Default,,0,0,0,,- ¿Vas a terminártelas?\N- No.
+Dialogue: 0,0:07:44.09,0:07:46.71,Default,,0,0,0,,No puedo creerlo.\NMitad animal, mitad humano.
+Dialogue: 0,0:07:46.80,0:07:48.21,Default,,0,0,0,,¿Eres una especie de minotauro?
+Dialogue: 0,0:07:48.30,0:07:53.55,Default,,0,0,0,,¡Soy un Hombretauro!\N¡Mitad hombre, mitad... tauro!
+Dialogue: 0,0:07:53.64,0:07:55.97,Default,,0,0,0,,¿Yo te convoqué...?
+Dialogue: 0,0:07:56.06,0:07:59.35,Default,,0,0,0,,Fue el olor de la carne desecada.\N¡Carne desecada!
+Dialogue: 0,0:08:10.24,0:08:11.57,Default,,0,0,0,,Huelo...
+Dialogue: 0,0:08:13.07,0:08:15.41,Default,,0,0,0,,problemas emocionales.
+Dialogue: 0,0:08:15.49,0:08:19.04,Default,,0,0,0,,Tengo problemas, Hombretauro.\NProblemas de hombres.
+Dialogue: 0,0:08:21.33,0:08:23.37,Default,,0,0,0,,Bien, mi tío me dijo pelele...
+Dialogue: 0,0:08:23.92,0:08:26.96,Default,,0,0,0,,Y perdí en un juego de hombría.
+Dialogue: 0,0:08:28.17,0:08:32.38,Default,,0,0,0,,Tú tienes mucha hombría.\N¿Podrías darme consejos?
+Dialogue: 0,0:08:33.51,0:08:39.02,Default,,0,0,0,,- ¡Sí! Súbete a mi espalda, niño.\N- Bueno.
+Dialogue: 0,0:08:39.10,0:08:40.81,Default,,0,0,0,,¡Sí! ¡Sí!
+Dialogue: 0,0:08:46.65,0:08:48.07,Default,,0,0,0,,¡Amigo, cuidado!
+Dialogue: 0,0:08:54.11,0:08:55.24,Default,,0,0,0,,¡Guau!
+Dialogue: 0,0:08:59.87,0:09:03.79,Default,,0,0,0,,- Este lugar es fabuloso.\N- Los gnomos viven en los árboles,
+Dialogue: 0,0:09:03.87,0:09:06.79,Default,,0,0,0,,los sirenos viven en el agua,\N¡porque son perdedores!
+Dialogue: 0,0:09:06.88,0:09:10.88,Default,,0,0,0,,Pero los hombretauros\Nnos juntamos en la Hombrecueva.
+Dialogue: 0,0:09:12.21,0:09:17.01,Default,,0,0,0,,¡Bestias! Traje un niño sin vello.
+Dialogue: 0,0:09:17.76,0:09:18.97,Default,,0,0,0,,¿Qué tal?
+Dialogue: 0,0:09:19.06,0:09:23.23,Default,,0,0,0,,Estos son Pubertauro, Testosterauro\Ny Pituitauro.
+Dialogue: 0,0:09:23.31,0:09:26.15,Default,,0,0,0,,Y yo soy Audaztauro.\N¿Y tú?
+Dialogue: 0,0:09:26.23,0:09:29.77,Default,,0,0,0,,- Me llamo Dipper.\N- ¡No! ¡Débil!
+Dialogue: 0,0:09:29.86,0:09:32.32,Default,,0,0,0,,¿El Destructauro?
+Dialogue: 0,0:09:32.98,0:09:35.07,Default,,0,0,0,,¡Mucho mejor! ¡Sí!
+Dialogue: 0,0:09:36.53,0:09:37.86,Default,,0,0,0,,Dipper el Destructauro
+Dialogue: 0,0:09:37.95,0:09:41.12,Default,,0,0,0,,quiere que le enseñemos\Nel secreto de nuestra hombría.
+Dialogue: 0,0:09:41.20,0:09:44.33,Default,,0,0,0,,Necesito ayuda.\N¡Miren esto! ¡Miren!
+Dialogue: 0,0:09:44.95,0:09:49.63,Default,,0,0,0,,Debo consultar al Gran Consejo.\N¿Le enseñamos nuestros secretos?
+Dialogue: 0,0:09:49.71,0:09:53.46,Default,,0,0,0,,- Es un humano. No me gusta.\N- ¡A mí no me gusta tu cara!
+Dialogue: 0,0:09:57.80,0:09:59.18,Default,,0,0,0,,Me caen bien.
+Dialogue: 0,0:10:00.01,0:10:02.64,Default,,0,0,0,,LA CABAÑA DEL MISTERIO
+Dialogue: 0,0:10:03.47,0:10:05.02,Default,,0,0,0,,Bien, tío abuelo Stan.
+Dialogue: 0,0:10:05.10,0:10:08.48,Default,,0,0,0,,Bienvenido al primer día\Nde lo que sea que te queda de vida.
+Dialogue: 0,0:10:08.56,0:10:10.31,Default,,0,0,0,,Primero, una foto del "antes".
+Dialogue: 0,0:10:12.90,0:10:15.49,Default,,0,0,0,,Esto va directo\Nal libro de recuerdos del verano.
+Dialogue: 0,0:10:15.57,0:10:18.74,Default,,0,0,0,,Qué lindos recuerdos.\N¡Listo!
+Dialogue: 0,0:10:18.82,0:10:22.12,Default,,0,0,0,,Empecemos con un juego de roles.\NSoos será Linda Susan.
+Dialogue: 0,0:10:22.20,0:10:23.95,Default,,0,0,0,,Soy suave como una mujer.
+Dialogue: 0,0:10:24.04,0:10:26.79,Default,,0,0,0,,Tío abuelo Stan, muéstrame\Ncómo te acercas a una mujer.
+Dialogue: 0,0:10:26.87,0:10:30.33,Default,,0,0,0,,Recuerda que éste es un ambiente\Nseguro, libre de juicios.
+Dialogue: 0,0:10:30.42,0:10:33.55,Default,,0,0,0,,Yo estaré aquí\Ny te evaluaré del uno al diez.
+Dialogue: 0,0:10:38.38,0:10:39.93,Default,,0,0,0,,¿Me prestas dinero?
+Dialogue: 0,0:10:41.39,0:10:43.18,Default,,0,0,0,,Será más difícil\Nde lo que pensaba.
+Dialogue: 0,0:10:43.26,0:10:45.01,Default,,0,0,0,,{\i1}Después de muchos golpes,{\i0}
+Dialogue: 0,0:10:45.10,0:10:48.64,Default,,0,0,0,,decidimos denegar tu pedido\Nde aprender nuestros secretos.
+Dialogue: 0,0:10:49.23,0:10:50.23,Default,,0,0,0,,¡Denegado!
+Dialogue: 0,0:10:50.77,0:10:51.86,Default,,0,0,0,,¿Denegado?
+Dialogue: 0,0:10:53.06,0:10:55.61,Default,,0,0,0,,Bueno, está bien.
+Dialogue: 0,0:10:55.69,0:10:58.24,Default,,0,0,0,,Es obvio que piensan\Nque sería muy difícil entrenarme.
+Dialogue: 0,0:10:58.32,0:11:01.03,Default,,0,0,0,,Tal vez no son lo suficientemente\Nhombres para intentarlo.
+Dialogue: 0,0:11:01.11,0:11:03.95,Default,,0,0,0,,- ¿Qué?\N- ¿Suficientemente hombres?
+Dialogue: 0,0:11:04.03,0:11:07.20,Default,,0,0,0,,- Destructauro...\N- ¿Suficientemente hombres?
+Dialogue: 0,0:11:07.29,0:11:10.58,Default,,0,0,0,,- No quiso decir eso.\N- Tengo tres cromosomas Y,
+Dialogue: 0,0:11:10.67,0:11:13.75,Default,,0,0,0,,seis nueces de Adán,\Npectorales en los abdominales,
+Dialogue: 0,0:11:13.84,0:11:15.55,Default,,0,0,0,,y puños en lugar de pezones.
+Dialogue: 0,0:11:16.13,0:11:19.38,Default,,0,0,0,,Yo creo que te asusta\Nenseñarme a ser hombre.
+Dialogue: 0,0:11:20.09,0:11:23.85,Default,,0,0,0,,¿Oyen eso? Es como...\N¡Qué raro!
+Dialogue: 0,0:11:24.72,0:11:26.81,Default,,0,0,0,,¿Es?\N¿Parece?
+Dialogue: 0,0:11:26.89,0:11:28.73,Default,,0,0,0,,¡Sí!\N¡Un montón de gallinas!
+Dialogue: 0,0:11:31.14,0:11:35.32,Default,,0,0,0,,- Me siento raro.\N- Usa un tipo de magia del cerebro.
+Dialogue: 0,0:11:35.40,0:11:38.11,Default,,0,0,0,,Después de la segunda rueda\Nde deliberación,
+Dialogue: 0,0:11:38.19,0:11:40.70,Default,,0,0,0,,decidimos ayudarte\Na que te conviertas en un hombre.
+Dialogue: 0,0:11:40.78,0:11:43.16,Default,,0,0,0,,¡Hombre! ¡Hombre! ¡Hombre!
+Dialogue: 0,0:11:43.24,0:11:46.95,Default,,0,0,0,,¡Gracias!\N¡No los defraudaré!
+Dialogue: 0,0:11:49.16,0:11:51.87,Default,,0,0,0,,Para ser hombre,\Ntendrás que conquistar tus miedos.
+Dialogue: 0,0:11:51.96,0:11:53.96,Default,,0,0,0,,Tu primera prueba de hombría,
+Dialogue: 0,0:11:54.04,0:11:57.96,Default,,0,0,0,,deberás meter el puño\Nen el hoyo del dolor.
+Dialogue: 0,0:11:59.09,0:12:00.17,Default,,0,0,0,,¿El qué?
+Dialogue: 0,0:12:00.26,0:12:01.72,Default,,0,0,0,,HOYO DEL DOLOR
+Dialogue: 0,0:12:01.80,0:12:03.84,Default,,0,0,0,,Hoyito, hoyito...
+Dialogue: 0,0:12:10.73,0:12:12.56,Default,,0,0,0,,¿Están seguros de que es\Nabsolutamente necesario?
+Dialogue: 0,0:12:12.65,0:12:15.27,Default,,0,0,0,,- ¿No quieres ser hombre?\N- ¡Hombre!
+Dialogue: 0,0:12:23.15,0:12:27.53,Default,,0,0,0,,Bien, tratemos de sacar afuera\Ntu belleza interior.
+Dialogue: 0,0:12:27.62,0:12:28.87,Default,,0,0,0,,Sonríe con más fuerza.
+Dialogue: 0,0:12:30.12,0:12:31.20,Default,,0,0,0,,¡Más fuerte!
+Dialogue: 0,0:12:32.16,0:12:35.12,Default,,0,0,0,,- Perfecto. ¡Soos!\N- ¿Qué pasa, huesitos?
+Dialogue: 0,0:12:35.21,0:12:36.79,Default,,0,0,0,,¿Qué te parece?
+Dialogue: 0,0:12:41.30,0:12:44.55,Default,,0,0,0,,Para lograrlo, necesitaremos\Nla mejor música de entrenamiento.
+Dialogue: 0,0:12:45.13,0:12:46.14,Default,,0,0,0,,MEZCLA PARA ENTRENAMIENTO
+Dialogue: 0,0:12:48.85,0:12:50.64,Default,,0,0,0,,{\i1}Cuando ruge el tigre{\i0}
+Dialogue: 0,0:12:50.72,0:12:51.89,Default,,0,0,0,,FIESTA SOBRE RUEDAS
+Dialogue: 0,0:12:51.98,0:12:53.69,Default,,0,0,0,,{\i1}Y la montaña grita{\i0}
+Dialogue: 0,0:12:53.77,0:12:58.94,Default,,0,0,0,,{\i1}Tendrás que soñar{\i0}\N{\i1}Y ganar el premio{\i0}
+Dialogue: 0,0:12:59.57,0:13:04.20,Default,,0,0,0,,{\i1}Recorrerás el camino{\i0}\N{\i1}Y enfrentarte a los desafíos{\i0}
+Dialogue: 0,0:13:04.28,0:13:05.99,Default,,0,0,0,,NO TE RASQUES\NCONTACTO VISUAL
+Dialogue: 0,0:13:07.03,0:13:08.41,Default,,0,0,0,,HONOR\NGLORIA
+Dialogue: 0,0:13:08.49,0:13:10.70,Default,,0,0,0,,{\i1}Bebe del hidrante{\i0}
+Dialogue: 0,0:13:10.79,0:13:12.95,Default,,0,0,0,,{\i1}Enseña a tu tío a usar faja{\i0}
+Dialogue: 0,0:13:13.04,0:13:15.29,Default,,0,0,0,,{\i1}Salta el desfiladero loco{\i0}
+Dialogue: 0,0:13:15.37,0:13:17.46,Default,,0,0,0,,{\i1}Sigue afeitando a tu tío peludo{\i0}
+Dialogue: 0,0:13:19.04,0:13:21.67,Default,,0,0,0,,{\i1}No sé bien qué pasa{\i0}\N{\i1}En esta parte{\i0}
+Dialogue: 0,0:13:23.92,0:13:28.51,Default,,0,0,0,,{\i1}Tu corazón está en llamas{\i0}\N{\i1}Y las llamas están en tu corazón{\i0}
+Dialogue: 0,0:13:30.22,0:13:32.56,Default,,0,0,0,,¿Quién quiere pasarme esto\Npor la espalda?
+Dialogue: 0,0:13:32.64,0:13:35.73,Default,,0,0,0,,Chicos, quería decirles\Nque estas últimas horas fueron...
+Dialogue: 0,0:13:35.81,0:13:38.36,Default,,0,0,0,,Siento que hubo un crecimiento.
+Dialogue: 0,0:13:38.44,0:13:40.40,Default,,0,0,0,,Yo tengo un crecimiento.
+Dialogue: 0,0:13:40.48,0:13:43.69,Default,,0,0,0,,Glark, hoy estás muy gracioso.
+Dialogue: 0,0:13:44.45,0:13:48.57,Default,,0,0,0,,Es que me aceptaron\Ny me dieron tanto apoyo.
+Dialogue: 0,0:13:48.66,0:13:50.95,Default,,0,0,0,,- Basta ya.\N- En serio.
+Dialogue: 0,0:13:51.03,0:13:53.16,Default,,0,0,0,,Ya siento que me estoy convirtiendo\Nen un hombre.
+Dialogue: 0,0:13:53.24,0:13:56.50,Default,,0,0,0,,Todavía no, Destructauro.\NFalta la última prueba.
+Dialogue: 0,0:13:57.08,0:13:58.88,Default,,0,0,0,,- ¡Basta!\N- ¡Basta tú!
+Dialogue: 0,0:13:58.96,0:14:01.13,Default,,0,0,0,,La prueba más mortífera.
+Dialogue: 0,0:14:01.21,0:14:03.05,Default,,0,0,0,,Ya sobreviví 49 pruebas.
+Dialogue: 0,0:14:03.13,0:14:04.80,Default,,0,0,0,,Sea lo que sea,\N¡hagámoslo!
+Dialogue: 0,0:14:04.88,0:14:06.26,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:14:12.39,0:14:13.39,Default,,0,0,0,,TIPO FABULOSO
+Dialogue: 0,0:14:16.44,0:14:19.31,Default,,0,0,0,,Contempla a nuestro líder,\N¡Liderauro!
+Dialogue: 0,0:14:21.61,0:14:23.86,Default,,0,0,0,,¿Es el más viejo,\Nel más sabio, o...?
+Dialogue: 0,0:14:23.94,0:14:25.90,Default,,0,0,0,,Saludos, jovencito...
+Dialogue: 0,0:14:27.45,0:14:30.70,Default,,0,0,0,,No, ése era la ofrenda.\NÉse es Liderauro.
+Dialogue: 0,0:14:36.20,0:14:39.29,Default,,0,0,0,,¿Tú?\N¿Tú quieres ser un hombre?
+Dialogue: 0,0:14:39.38,0:14:40.75,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:14:41.88,0:14:42.96,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:14:43.04,0:14:45.30,Default,,0,0,0,,Entonces deberás hacer\Nun acto heroico.
+Dialogue: 0,0:14:45.38,0:14:47.59,Default,,0,0,0,,Ve a la montaña más alta...
+Dialogue: 0,0:14:52.35,0:14:56.89,Default,,0,0,0,,y trae la cabeza\Ndel multioso.
+Dialogue: 0,0:14:59.02,0:15:01.81,Default,,0,0,0,,¿El multioso?\N¿Es un tipo de oso?
+Dialogue: 0,0:15:01.90,0:15:03.61,Default,,0,0,0,,Es nuestro peor enemigo.
+Dialogue: 0,0:15:03.69,0:15:07.90,Default,,0,0,0,,Véncelo y así completarás\Ntu transformación en hombre.
+Dialogue: 0,0:15:07.99,0:15:10.45,Default,,0,0,0,,¿Vencer? No sé.
+Dialogue: 0,0:15:10.53,0:15:12.20,Default,,0,0,0,,Destructauro, ¿esto es tuyo?
+Dialogue: 0,0:15:12.28,0:15:13.32,Default,,0,0,0,,BABBA\NCHICA DISCO
+Dialogue: 0,0:15:13.41,0:15:18.00,Default,,0,0,0,,¡No! No sé de quién es.\NMe lo prestó un amigo. No es mío.
+Dialogue: 0,0:15:19.08,0:15:20.79,Default,,0,0,0,,Tengo mis dudas.
+Dialogue: 0,0:15:26.13,0:15:31.18,Default,,0,0,0,,- ¡Venceré al multioso!\N- ¡Sí!
+Dialogue: 0,0:15:33.18,0:15:34.26,Default,,0,0,0,,Estoy bien.
+Dialogue: 0,0:16:11.09,0:16:12.89,Default,,0,0,0,,Vengo a buscarte,\Nmultioso.
+Dialogue: 0,0:16:14.01,0:16:17.35,Default,,0,0,0,,Bueno, tío abuelo Stan.\NAsí empezaste.
+Dialogue: 0,0:16:17.43,0:16:22.31,Default,,0,0,0,,- Y te convertiste en...\N- ¿Puedo rascarme ahora?
+Dialogue: 0,0:16:22.39,0:16:26.73,Default,,0,0,0,,¡No! ¡No!\N¿Tienes vómito en la camisa?
+Dialogue: 0,0:16:27.27,0:16:28.44,Default,,0,0,0,,No sé cómo contestar eso.
+Dialogue: 0,0:16:29.65,0:16:31.99,Default,,0,0,0,,Admítelo, Mabel.\NTu tío es irreparable.
+Dialogue: 0,0:16:32.07,0:16:34.28,Default,,0,0,0,,Como la heladera giratoria\Nde las tortas de la cafetería.
+Dialogue: 0,0:16:36.03,0:16:38.16,Default,,0,0,0,,¡Tío abuelo Stan, ven conmigo!
+Dialogue: 0,0:16:38.24,0:16:41.50,Default,,0,0,0,,- Y deja los pantalones en casa.\N- ¡Con gusto!
+Dialogue: 0,0:16:46.13,0:16:48.25,Default,,0,0,0,,¿Qué es un multioso?
+Dialogue: 0,0:16:53.93,0:16:55.72,Default,,0,0,0,,Eso es un multioso.
+Dialogue: 0,0:16:57.60,0:17:00.01,Default,,0,0,0,,¡Cabezas de oso, silencio!
+Dialogue: 0,0:17:01.93,0:17:04.69,Default,,0,0,0,,Niño, ¿por qué viniste?
+Dialogue: 0,0:17:04.77,0:17:08.23,Default,,0,0,0,,¡Multioso, vengo por tu cabeza!\NO una de ellas.
+Dialogue: 0,0:17:08.31,0:17:10.19,Default,,0,0,0,,¿Cuántas tienes? ¿Seis?
+Dialogue: 0,0:17:10.27,0:17:13.65,Default,,0,0,0,,¡Qué tontería!\N¡Vete o morirás!
+Dialogue: 0,0:17:15.20,0:17:16.49,Default,,0,0,0,,¡Así será!
+Dialogue: 0,0:17:47.02,0:17:49.36,Default,,0,0,0,,¡Un hombre verdadero\Nno muestra piedad!
+Dialogue: 0,0:17:50.73,0:17:52.57,Default,,0,0,0,,Muy bien, guerrero.
+Dialogue: 0,0:17:52.65,0:17:56.07,Default,,0,0,0,,Pero, ¿me concederías\Nun último deseo?
+Dialogue: 0,0:17:56.82,0:17:59.03,Default,,0,0,0,,- Está bien.\N- Deseo morir
+Dialogue: 0,0:17:59.12,0:18:01.41,Default,,0,0,0,,escuchando mi canción favorita.
+Dialogue: 0,0:18:03.12,0:18:06.37,Default,,0,0,0,,Sólo tienes que presionar el botón.\NÉse es.
+Dialogue: 0,0:18:11.38,0:18:14.05,Default,,0,0,0,,¿Te gusta el grupo pop de Islandia,\NBabba?
+Dialogue: 0,0:18:14.13,0:18:15.51,Default,,0,0,0,,Me encanta Babba.
+Dialogue: 0,0:18:15.59,0:18:17.68,Default,,0,0,0,,Pensé que yo era el único.
+Dialogue: 0,0:18:17.76,0:18:22.56,Default,,0,0,0,,Los Hombretauros se burlan porque\Nme sé la letra de "Chica disco".
+Dialogue: 0,0:18:22.64,0:18:27.56,Default,,0,0,0,,{\i1}- Chica disco{\i0}\N{\i1}- Que vas por ahí{\i0}
+Dialogue: 0,0:18:27.64,0:18:29.81,Default,,0,0,0,,{\i1}- Esa chica eres tú{\i0}\N{\i1}- Esa chica eres tú{\i0}
+Dialogue: 0,0:18:33.69,0:18:37.70,Default,,0,0,0,,¡Qué locura!\NPor fin alguien que entiende...
+Dialogue: 0,0:18:37.78,0:18:42.20,Default,,0,0,0,,Sí. Se suponía que debo matarte\No nunca seré un hombre.
+Dialogue: 0,0:18:42.28,0:18:43.99,Default,,0,0,0,,Acepto mi destino.
+Dialogue: 0,0:18:44.08,0:18:45.79,Default,,0,0,0,,¡No! ¿En serio?
+Dialogue: 0,0:18:45.87,0:18:47.25,Default,,0,0,0,,Es lo mejor.
+Dialogue: 0,0:18:52.79,0:18:53.80,Default,,0,0,0,,¡No lo haré!
+Dialogue: 0,0:18:53.88,0:18:57.72,Default,,0,0,0,,El precio de la hombría\Nes la cabeza del multioso.
+Dialogue: 0,0:18:57.80,0:19:03.18,Default,,0,0,0,,Liderauro, Testosterauro, Pituitauro\Ny tú, no sé tu nombre.
+Dialogue: 0,0:19:03.26,0:19:05.02,Default,,0,0,0,,- ¿Barbudo?\N- Sí, Barbudo.
+Dialogue: 0,0:19:05.10,0:19:08.10,Default,,0,0,0,,Ustedes dicen que ser un hombre\Nes pasar todas estas pruebas,
+Dialogue: 0,0:19:08.18,0:19:10.10,Default,,0,0,0,,y estar enojado todo el tiempo.
+Dialogue: 0,0:19:10.19,0:19:12.65,Default,,0,0,0,,Pero empiezo a pensar\Nque eso son tonterías.
+Dialogue: 0,0:19:14.44,0:19:15.98,Default,,0,0,0,,¡Sí, tonterías!
+Dialogue: 0,0:19:16.07,0:19:18.90,Default,,0,0,0,,Tal vez no tenga músculos,\No vello en ciertos lugares,
+Dialogue: 0,0:19:18.99,0:19:21.24,Default,,0,0,0,,y cuando pasan canciones pop\Nen la radio,
+Dialogue: 0,0:19:21.32,0:19:26.54,Default,,0,0,0,,a veces las dejo porque por algo\Nllegan al tope de la lista de éxitos.
+Dialogue: 0,0:19:26.62,0:19:29.79,Default,,0,0,0,,- ¡Son pegadizas!\N- Destructauro. ¿Qué dices?
+Dialogue: 0,0:19:29.87,0:19:32.33,Default,,0,0,0,,Digo que el multioso\Nes un buen tipo.
+Dialogue: 0,0:19:32.42,0:19:34.67,Default,,0,0,0,,Y ustedes son unos patanes\Nsi quieren que le corte la cabeza.
+Dialogue: 0,0:19:38.01,0:19:41.72,Default,,0,0,0,,¡Mata al multioso\No nunca serás un hombre!
+Dialogue: 0,0:19:42.47,0:19:44.51,Default,,0,0,0,,Entonces supongo\Nque nunca seré un hombre.
+Dialogue: 0,0:19:45.68,0:19:46.72,Default,,0,0,0,,¡Debilucho!
+Dialogue: 0,0:19:50.73,0:19:54.27,Default,,0,0,0,,Chicos, ¿quién quiere construir algo\Ny luego destruirlo?
+Dialogue: 0,0:19:54.36,0:19:57.53,Default,,0,0,0,,¡Hombres! ¡Hombres!\N¡Hombres!
+Dialogue: 0,0:20:00.99,0:20:02.53,Default,,0,0,0,,CAFETERÍA GREASY
+Dialogue: 0,0:20:02.61,0:20:04.66,Default,,0,0,0,,¡Giren! ¡Giren!
+Dialogue: 0,0:20:04.74,0:20:05.74,Default,,0,0,0,,SALIDA
+Dialogue: 0,0:20:06.91,0:20:09.91,Default,,0,0,0,,Linda Susan, escucha.\NSé que no se ve muy bien,
+Dialogue: 0,0:20:10.00,0:20:11.92,Default,,0,0,0,,pero siempre estás\Narreglando cosas en la cafetería.
+Dialogue: 0,0:20:12.00,0:20:13.50,Default,,0,0,0,,Y si te gusta arreglar cosas,
+Dialogue: 0,0:20:13.58,0:20:16.34,Default,,0,0,0,,nada necesita más arreglo\Nque mi tío abuelo Stan.
+Dialogue: 0,0:20:16.42,0:20:17.80,Default,,0,0,0,,Además, las mujeres\Nviven más que los hombres.
+Dialogue: 0,0:20:17.88,0:20:19.17,Default,,0,0,0,,Se te están acabando\Nlos pretendientes
+Dialogue: 0,0:20:19.26,0:20:20.34,Default,,0,0,0,,y debes bajar tus expectativas.
+Dialogue: 0,0:20:20.42,0:20:23.55,Default,,0,0,0,,¿Qué dices, Linda Susan?
+Dialogue: 0,0:20:28.93,0:20:31.77,Default,,0,0,0,,¡Espera!\NAquí tienes mi teléfono.
+Dialogue: 0,0:20:31.85,0:20:34.44,Default,,0,0,0,,¿Por qué no me llamas\Nalgún día?
+Dialogue: 0,0:20:34.52,0:20:36.56,Default,,0,0,0,,- ¿En serio?\N- ¡Claro!
+Dialogue: 0,0:20:37.73,0:20:43.07,Default,,0,0,0,,Además, toma esta tarta.\NInvita la casa. ¡Para ti!
+Dialogue: 0,0:20:44.87,0:20:47.83,Default,,0,0,0,,¡Lo logramos!\N¿Cuándo llamarás? ¿Ahora?
+Dialogue: 0,0:20:47.91,0:20:49.95,Default,,0,0,0,,No tengo teléfono.\N¡Compremos un teléfono!
+Dialogue: 0,0:20:50.04,0:20:52.12,Default,,0,0,0,,Lo pagamos con tarjeta.\NConsigamos una tarjeta.
+Dialogue: 0,0:20:52.21,0:20:54.42,Default,,0,0,0,,Mabel, déjame\Nque disfrute de la tarta.
+Dialogue: 0,0:20:57.13,0:21:01.88,Default,,0,0,0,,¡Dipper! ¡Soy Mabel!\N¡Te veo a través del vidrio! ¡Aquí!
+Dialogue: 0,0:21:01.97,0:21:05.05,Default,,0,0,0,,¡Es mi voz!\N¡Te hablo desde dentro!
+Dialogue: 0,0:21:06.59,0:21:08.43,Default,,0,0,0,,- ¿Me viste por la...?\N- Sí.
+Dialogue: 0,0:21:08.51,0:21:10.72,Default,,0,0,0,,- ¿Qué pasó?\N- No quiero hablar de eso.
+Dialogue: 0,0:21:10.81,0:21:12.81,Default,,0,0,0,,- Mejor.\N- Me hice amigo de unos humanoides
+Dialogue: 0,0:21:12.89,0:21:14.81,Default,,0,0,0,,mitad hombre, mitad toro.
+Dialogue: 0,0:21:14.90,0:21:16.94,Default,,0,0,0,,- Ahí vamos.\N- Pero después querían que hiciera
+Dialogue: 0,0:21:17.02,0:21:21.23,Default,,0,0,0,,algo horrible, y que estaba mal,\Nasí que dije que no.
+Dialogue: 0,0:21:21.32,0:21:23.95,Default,,0,0,0,,Te comportaste como un hombre\Ny defendiste tus principios.
+Dialogue: 0,0:21:24.74,0:21:27.16,Default,,0,0,0,,Hiciste lo correcto\Naunque nadie estuviera de acuerdo.
+Dialogue: 0,0:21:27.24,0:21:30.24,Default,,0,0,0,,Para mí, eso es hombría.\NPero, ¿qué sé yo?
+Dialogue: 0,0:21:30.83,0:21:33.41,Default,,0,0,0,,¡Un momento!\N¿Me engañan los ojos?
+Dialogue: 0,0:21:34.08,0:21:38.46,Default,,0,0,0,,- ¡Tienes un vello pectoral!\N- ¡Tienes razón!
+Dialogue: 0,0:21:39.46,0:21:42.92,Default,,0,0,0,,¡Esto es fabuloso!\N¡Toma eso, medidor de hombría!
+Dialogue: 0,0:21:43.01,0:21:45.09,Default,,0,0,0,,- ¡Toma eso, Pituitauro!\N- ¿Pituitauro?
+Dialogue: 0,0:21:45.18,0:21:47.51,Default,,0,0,0,,¡Yo tengo vello pectoral!
+Dialogue: 0,0:21:49.05,0:21:51.35,Default,,0,0,0,,Directo al libro de recuerdos\Ndel verano.
+Dialogue: 0,0:21:52.56,0:21:56.06,Default,,0,0,0,,¡No te preocupes!\NSi eres como yo, ya te saldrán más.
+Dialogue: 0,0:21:57.23,0:21:58.77,Default,,0,0,0,,¡Qué asco!
+Dialogue: 0,0:22:01.73,0:22:03.82,Default,,0,0,0,,En serio. Es desagradable.
+Dialogue: 0,0:22:04.95,0:22:06.45,Default,,0,0,0,,¡Otra vez, no!
+Dialogue: 0,0:22:07.82,0:22:09.95,Default,,0,0,0,,{\i1}Mensaje número 36.{\i0}
+Dialogue: 0,0:22:10.03,0:22:12.74,Default,,0,0,0,,{\i1}Hola, buenmozo.{\i0}\N{\i1}Soy yo, Linda Susan.{\i0}
+Dialogue: 0,0:22:12.83,0:22:15.58,Default,,0,0,0,,{\i1}Llamaba para saludarte. ¡Hola!{\i0}
+Dialogue: 0,0:22:15.66,0:22:18.42,Default,,0,0,0,,{\i1}Mis gatos quieren saludarte.{\i0}
+Dialogue: 0,0:22:18.50,0:22:20.04,Default,,0,0,0,,{\i1}Saluda, Donald.{\i0}
+Dialogue: 0,0:22:20.84,0:22:22.63,Default,,0,0,0,,{\i1}Sandy, saluda.{\i0}
+Dialogue: 0,0:22:23.38,0:22:27.38,Default,,0,0,0,,{\i1}Señor Cara de Gato, tu turno.{\i0}\N{\i1}¡Señor Cara de Gato!{\i0}
+Dialogue: 0,0:22:27.88,0:22:30.39,Default,,0,0,0,,{\i1}Bueno, llámame.{\i0}\N{\i1}¡Llámame!{\i0}
+Dialogue: 0,0:22:30.47,0:22:32.35,Default,,0,0,0,,¿Cómo me salgo de esta?

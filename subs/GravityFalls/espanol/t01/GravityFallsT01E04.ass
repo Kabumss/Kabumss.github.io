@@ -1,0 +1,391 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GravityFallsT01E04
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.16,0:00:07.75,Default,,0,0,0,,El último truco de la noche:\Nla increíble Bolsa del Misterio.
+Dialogue: 0,0:00:07.84,0:00:11.67,Default,,0,0,0,,Metes tu dinero\Ny desaparece misteriosamente.
+Dialogue: 0,0:00:11.76,0:00:15.64,Default,,0,0,0,,- ¡Tiene mucho sentido!\N- ¡Valió la pena venir hasta aquí!
+Dialogue: 0,0:00:15.72,0:00:18.26,Default,,0,0,0,,{\i1}El tigre salió malherido{\i0}\N{\i1}de la explosión,{\i0}
+Dialogue: 0,0:00:18.35,0:00:21.18,Default,,0,0,0,,{\i1}pero lo arreglamos ¡con un puño!{\i0}
+Dialogue: 0,0:00:21.27,0:00:22.39,Default,,0,0,0,,PUÑO DE TIGRE
+Dialogue: 0,0:00:23.14,0:00:24.90,Default,,0,0,0,,¡Ese tigre es un héroe!
+Dialogue: 0,0:00:26.69,0:00:28.98,Default,,0,0,0,,{\i1}"Puño de tigre" volverá{\i0}\N{\i1}después de estos anuncios.{\i0}
+Dialogue: 0,0:00:30.19,0:00:32.40,Default,,0,0,0,,Miren, es el comercial\Nque les conté.
+Dialogue: 0,0:00:32.49,0:00:34.57,Default,,0,0,0,,{\i1}¿Se siente muy deprimido?{\i0}
+Dialogue: 0,0:00:35.41,0:00:36.74,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:00:36.82,0:00:38.49,Default,,0,0,0,,{\i1}Entonces, tiene que conocer a...{\i0}
+Dialogue: 0,0:00:38.58,0:00:39.99,Default,,0,0,0,,{\i1}Gideon{\i0}
+Dialogue: 0,0:00:40.08,0:00:42.00,Default,,0,0,0,,- ¿Gideon?\N- ¿Qué tiene de especial?
+Dialogue: 0,0:00:42.08,0:00:43.67,Default,,0,0,0,,{\i1}Es vidente.{\i0}
+Dialogue: 0,0:00:44.79,0:00:46.12,Default,,0,0,0,,{\i1}Así que no pierda el tiempo{\i0}
+Dialogue: 0,0:00:46.21,0:00:49.04,Default,,0,0,0,,{\i1}con otros{\i0}\N{\i1}supuestos misteriólogos.{\i0}
+Dialogue: 0,0:00:49.71,0:00:50.92,Default,,0,0,0,,FRAUDE
+Dialogue: 0,0:00:51.01,0:00:53.09,Default,,0,0,0,,{\i1}Conozca el mañana{\i0}\N{\i1}esta misma noche{\i0}
+Dialogue: 0,0:00:53.17,0:00:55.22,Default,,0,0,0,,{\i1}en la Tienda de la Telepatía{\i0}\N{\i1}de Gideon.{\i0}
+Dialogue: 0,0:00:55.30,0:00:58.26,Default,,0,0,0,,{\i1}Se paga por adelantado.{\i0}\N{\i1}Carla, siempre te amé.{\i0}
+Dialogue: 0,0:00:58.97,0:01:01.72,Default,,0,0,0,,¡Me da mucha curiosidad!
+Dialogue: 0,0:01:01.81,0:01:03.64,Default,,0,0,0,,Que no te dé tanta curiosidad.
+Dialogue: 0,0:01:03.73,0:01:07.86,Default,,0,0,0,,Desde que llegó este monstruo Gideon,\Nsólo tuve problemas.
+Dialogue: 0,0:01:14.36,0:01:15.61,Default,,0,0,0,,¡Gideon!
+Dialogue: 0,0:01:15.70,0:01:18.53,Default,,0,0,0,,- ¿Es vidente de verdad?\N- Vamos a averiguarlo.
+Dialogue: 0,0:01:18.62,0:01:21.49,Default,,0,0,0,,¡Nunca! Les prohíbo tener contacto\Ncon la competencia.
+Dialogue: 0,0:01:21.58,0:01:23.20,Default,,0,0,0,,Nadie que viva bajo mi techo
+Dialogue: 0,0:01:23.29,0:01:25.21,Default,,0,0,0,,tiene autorización\Npara estar bajo el techo de Gideon.
+Dialogue: 0,0:01:25.29,0:01:29.59,Default,,0,0,0,,- ¿Las tiendas tienen techo?\N- Creo que encontramos una excusa.
+Dialogue: 0,0:01:31.38,0:01:34.63,Default,,0,0,0,,{\i1}Vengan pronto, amigos.{\i0}\N{\i1}Gideon los espera.{\i0}
+Dialogue: 0,0:01:44.06,0:01:45.52,Default,,0,0,0,,LA CABAÑA DEL MISTERIO
+Dialogue: 0,0:01:45.60,0:01:47.56,Default,,0,0,0,,SORPRÉNDASE
+Dialogue: 0,0:02:18.34,0:02:19.80,Default,,0,0,0,,Por aquí, amigos.
+Dialogue: 0,0:02:19.89,0:02:23.35,Default,,0,0,0,,Pongan el dinero\Nen la Bolsa Vidente de Gideon.
+Dialogue: 0,0:02:23.43,0:02:25.89,Default,,0,0,0,,- ¡Por supuesto!\N- ¡Tiene mucho sentido!
+Dialogue: 0,0:02:28.02,0:02:31.61,Default,,0,0,0,,Es como una versión pintoresca\Nde la Cabaña del Misterio.
+Dialogue: 0,0:02:31.69,0:02:33.23,Default,,0,0,0,,Hasta tienen su propio Soos.
+Dialogue: 0,0:02:36.44,0:02:38.53,Default,,0,0,0,,Ya empieza.\N¡Ya empieza!
+Dialogue: 0,0:02:41.07,0:02:42.95,Default,,0,0,0,,Veamos cómo es este monstruo.
+Dialogue: 0,0:02:48.33,0:02:51.96,Default,,0,0,0,,¡Hola, Estados Unidos!\NSoy el Pequeño Gideon.
+Dialogue: 0,0:02:55.05,0:02:59.30,Default,,0,0,0,,¿Ese es el enemigo mortal de Stan?\NPero es tan... pequeñito.
+Dialogue: 0,0:02:59.38,0:03:03.43,Default,,0,0,0,,Damas y caballeros,\Nes un gusto tenerlos aquí hoy.
+Dialogue: 0,0:03:03.51,0:03:06.81,Default,,0,0,0,,Un gustazo.\NTengo una visión.
+Dialogue: 0,0:03:06.89,0:03:11.15,Default,,0,0,0,,Predigo que, pronto,\Ntodos dirán "¡oh!"
+Dialogue: 0,0:03:14.77,0:03:17.69,Default,,0,0,0,,- Era verdad.\N- No me impresiona.
+Dialogue: 0,0:03:17.78,0:03:19.24,Default,,0,0,0,,¡Sí que te impresiona!
+Dialogue: 0,0:03:19.32,0:03:21.11,Default,,0,0,0,,¡Tócala, papá!
+Dialogue: 0,0:03:25.83,0:03:29.75,Default,,0,0,0,,{\i1}Yo veo lo que otros no{\i0}
+Dialogue: 0,0:03:29.83,0:03:33.71,Default,,0,0,0,,{\i1}No es un truco{\i0}\N{\i1}Es un don innato{\i0}
+Dialogue: 0,0:03:33.79,0:03:37.76,Default,,0,0,0,,{\i1}Cuando otros están ciegos{\i0}\N{\i1}Yo veo el futuro{\i0}
+Dialogue: 0,0:03:37.84,0:03:41.97,Default,,0,0,0,,{\i1}Y tú lo verías también{\i0}\N{\i1}Si fueras yo{\i0}
+Dialogue: 0,0:03:42.68,0:03:44.30,Default,,0,0,0,,¡Vamos, todos!\N¡Levántense!
+Dialogue: 0,0:03:44.39,0:03:46.51,Default,,0,0,0,,¡No se detengan!
+Dialogue: 0,0:03:46.60,0:03:48.68,Default,,0,0,0,,- Pero... ¿Cómo...?\N- ¡No se detengan!
+Dialogue: 0,0:03:49.60,0:03:52.02,Default,,0,0,0,,{\i1}Usted desea que su hijo{\i0}\N{\i1}La llamara más seguido{\i0}
+Dialogue: 0,0:03:52.10,0:03:54.60,Default,,0,0,0,,¡Les dejaré todo a mis gatos!
+Dialogue: 0,0:03:55.31,0:03:58.23,Default,,0,0,0,,{\i1}Presiento que usted ya vino antes{\i0}
+Dialogue: 0,0:03:58.32,0:04:01.28,Default,,0,0,0,,- ¿Qué me delató?\N- ¡Vamos!
+Dialogue: 0,0:04:01.36,0:04:03.99,Default,,0,0,0,,{\i1}Te leo la mente si puedo{\i0}
+Dialogue: 0,0:04:05.70,0:04:08.29,Default,,0,0,0,,{\i1}Algo me dice que te llamas Mabel{\i0}
+Dialogue: 0,0:04:08.37,0:04:09.75,Default,,0,0,0,,¿Cómo lo hizo?
+Dialogue: 0,0:04:09.83,0:04:15.21,Default,,0,0,0,,{\i1}Bienvenidos, todos{\i0}\N{\i1}A la Tienda de la Telepatía{\i0}
+Dialogue: 0,0:04:15.29,0:04:17.04,Default,,0,0,0,,{\i1}Y gracias por visitar...{\i0}
+Dialogue: 0,0:04:18.05,0:04:21.34,Default,,0,0,0,,{\i1}¡al Pequeño Gideon!{\i0}
+Dialogue: 0,0:04:23.59,0:04:24.84,Default,,0,0,0,,¡Cielos!
+Dialogue: 0,0:04:27.64,0:04:31.06,Default,,0,0,0,,¡Gracias!\NUstedes son el verdadero milagro.
+Dialogue: 0,0:04:31.93,0:04:32.94,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:04:34.56,0:04:37.15,Default,,0,0,0,,Ese niño es un fraude peor\Nque Stan.
+Dialogue: 0,0:04:37.23,0:04:38.82,Default,,0,0,0,,Con razón el tío está celoso.
+Dialogue: 0,0:04:38.90,0:04:41.86,Default,,0,0,0,,Vamos. ¡Sus pasitos de baile\Nson adorables!
+Dialogue: 0,0:04:41.94,0:04:45.16,Default,,0,0,0,,¿Y viste el cabello?\N¡Magnífico!
+Dialogue: 0,0:04:45.24,0:04:47.66,Default,,0,0,0,,- Te impresionan con cualquier cosa.\N- ¡Sí!
+Dialogue: 0,0:04:53.87,0:04:55.25,Default,,0,0,0,,¡Mira, Dipper!
+Dialogue: 0,0:04:55.33,0:04:57.50,Default,,0,0,0,,Me cubrí la cara\Ncon gemas preciosas.
+Dialogue: 0,0:04:58.25,0:04:59.34,Default,,0,0,0,,¡Mira!
+Dialogue: 0,0:05:00.46,0:05:04.13,Default,,0,0,0,,- ¿Es para siempre?\N- Soy una incomprendida de mi época.
+Dialogue: 0,0:05:05.05,0:05:06.68,Default,,0,0,0,,{\i1}¡Alguien atienda la puerta!{\i0}
+Dialogue: 0,0:05:06.76,0:05:08.30,Default,,0,0,0,,¡Yo voy!
+Dialogue: 0,0:05:09.89,0:05:11.14,Default,,0,0,0,,Buenas.
+Dialogue: 0,0:05:11.22,0:05:14.98,Default,,0,0,0,,- ¡Es el Pequeño Gideon!\N- Se te pegó la canción.
+Dialogue: 0,0:05:15.06,0:05:18.73,Default,,0,0,0,,No nos presentaron,\Npero después del acto de ayer,
+Dialogue: 0,0:05:18.82,0:05:21.07,Default,,0,0,0,,no pude quitarme\Ntu risa de la cabeza.
+Dialogue: 0,0:05:21.15,0:05:22.28,Default,,0,0,0,,¿Esta?
+Dialogue: 0,0:05:24.24,0:05:27.16,Default,,0,0,0,,¡Qué delicia!\NCuando te vi en el público,
+Dialogue: 0,0:05:27.24,0:05:29.87,Default,,0,0,0,,supe que éramos almas gemelas,
+Dialogue: 0,0:05:29.95,0:05:33.25,Default,,0,0,0,,alguien que aprecia\Nla chispa de la vida.
+Dialogue: 0,0:05:33.33,0:05:34.75,Default,,0,0,0,,¡Esa soy yo!
+Dialogue: 0,0:05:38.00,0:05:40.38,Default,,0,0,0,,¡Encantadora!\N¡Muy encantadora!
+Dialogue: 0,0:05:40.46,0:05:41.75,Default,,0,0,0,,{\i1}¿Quién es?{\i0}
+Dialogue: 0,0:05:41.84,0:05:43.42,Default,,0,0,0,,¡Nadie, Tío Abuelo Stan!
+Dialogue: 0,0:05:43.51,0:05:46.55,Default,,0,0,0,,Gracias por la discreción.\NStan no me quiere mucho.
+Dialogue: 0,0:05:46.63,0:05:48.51,Default,,0,0,0,,No entiendo cómo un limón tan agrio
+Dialogue: 0,0:05:48.59,0:05:50.43,Default,,0,0,0,,sea familiar\Nde un melocotón tan dulce.
+Dialogue: 0,0:05:50.51,0:05:51.60,Default,,0,0,0,,¡Gideon!
+Dialogue: 0,0:05:52.27,0:05:55.39,Default,,0,0,0,,¿Qué dices si salimos\Ny hablamos un poco más?
+Dialogue: 0,0:05:55.48,0:05:56.94,Default,,0,0,0,,¿Quizás en mi camarín?
+Dialogue: 0,0:05:57.64,0:05:58.98,Default,,0,0,0,,¡Transformaciones!
+Dialogue: 0,0:06:04.32,0:06:06.90,Default,,0,0,0,,¿Ves algo que te guste?\NYo veo algo.
+Dialogue: 0,0:06:06.99,0:06:08.20,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:06:10.24,0:06:13.33,Default,,0,0,0,,Hola, Dipper. ¿Qué hay?
+Dialogue: 0,0:06:13.41,0:06:14.83,Default,,0,0,0,,¿Dónde estuviste?
+Dialogue: 0,0:06:14.91,0:06:18.25,Default,,0,0,0,,¿Y esas uñas?\NPareces un guepardo.
+Dialogue: 0,0:06:18.33,0:06:19.42,Default,,0,0,0,,¡Lo sé!
+Dialogue: 0,0:06:20.50,0:06:24.38,Default,,0,0,0,,Estuve con mi nuevo amigo, Gideon.\NEs muy guapecito.
+Dialogue: 0,0:06:24.46,0:06:27.88,Default,,0,0,0,,No confío en nadie que tenga\Nmás cabello que cabeza.
+Dialogue: 0,0:06:27.97,0:06:29.22,Default,,0,0,0,,¡Ya déjalo!
+Dialogue: 0,0:06:29.30,0:06:31.39,Default,,0,0,0,,Tú nunca quieres\Nhacer cosas de chicas conmigo.
+Dialogue: 0,0:06:31.47,0:06:33.51,Default,,0,0,0,,Tú y Soos hacen cosas de chicos\Ntodo el tiempo.
+Dialogue: 0,0:06:33.60,0:06:34.64,Default,,0,0,0,,¿Qué dices?
+Dialogue: 0,0:06:34.72,0:06:36.31,Default,,0,0,0,,¿Listo para explotar\Nestos perros calientes
+Dialogue: 0,0:06:36.39,0:06:38.64,Default,,0,0,0,,en el microondas, uno a la vez?\N- ¡Claro!
+Dialogue: 0,0:06:41.36,0:06:43.65,Default,,0,0,0,,{\i1}¡Uno a la vez!{\i0}\N{\i1}¡Uno a la vez!{\i0}
+Dialogue: 0,0:06:45.90,0:06:48.74,Default,,0,0,0,,La vista desde la fábrica\Nde tu familia es una locura.
+Dialogue: 0,0:06:48.82,0:06:51.82,Default,,0,0,0,,Menos mal que ambos trajimos...\N¡Binoculares!
+Dialogue: 0,0:06:55.66,0:06:58.54,Default,,0,0,0,,Mabel, cuando estoy aquí arriba\Ny miro a esas personitas desde arriba,
+Dialogue: 0,0:06:58.62,0:07:01.58,Default,,0,0,0,,siento que soy\Nel rey de lo que miro.
+Dialogue: 0,0:07:01.67,0:07:04.13,Default,,0,0,0,,- Creo que eso te hace mi reina.\N- ¿Qué?
+Dialogue: 0,0:07:04.21,0:07:08.09,Default,,0,0,0,,Eres tan amable conmigo.\N¡Basta!
+Dialogue: 0,0:07:08.17,0:07:11.22,Default,,0,0,0,,No puedo parar.\NHablo desde el corazón.
+Dialogue: 0,0:07:11.30,0:07:12.30,Default,,0,0,0,,¿Desde el qué?
+Dialogue: 0,0:07:12.39,0:07:14.93,Default,,0,0,0,,Mabel, nunca antes me sentí\Ntan cerca de alguien.
+Dialogue: 0,0:07:15.01,0:07:16.77,Default,,0,0,0,,Tan, tan cerca.
+Dialogue: 0,0:07:18.18,0:07:19.68,Default,,0,0,0,,Mira, Gideon...
+Dialogue: 0,0:07:20.85,0:07:23.56,Default,,0,0,0,,Me caes muy bien\Npero como amigo.
+Dialogue: 0,0:07:23.65,0:07:25.23,Default,,0,0,0,,Dame una oportunidad.
+Dialogue: 0,0:07:25.32,0:07:29.11,Default,,0,0,0,,Mabel, ¿me harías el honor\Nde salir conmigo?
+Dialogue: 0,0:07:29.20,0:07:31.57,Default,,0,0,0,,¿Salir a jugar?\N¿Salir de compras?
+Dialogue: 0,0:07:31.66,0:07:33.87,Default,,0,0,0,,Salir de salidita.
+Dialogue: 0,0:07:33.95,0:07:35.70,Default,,0,0,0,,Lo juro por mi corbatín.
+Dialogue: 0,0:07:39.41,0:07:42.08,Default,,0,0,0,,Bueno, está bien.\NCreo.
+Dialogue: 0,0:07:42.17,0:07:45.96,Default,,0,0,0,,Mabel Pines, me haces el chico\Nmás feliz del mundo.
+Dialogue: 0,0:07:46.05,0:07:48.21,Default,,0,0,0,,¿Estás oliéndome el cabello?
+Dialogue: 0,0:07:51.80,0:07:56.26,Default,,0,0,0,,No es una cita real.\NNo quería hacerle daño.
+Dialogue: 0,0:07:56.35,0:07:58.43,Default,,0,0,0,,Así que le tiré un hueso.
+Dialogue: 0,0:07:58.52,0:08:00.39,Default,,0,0,0,,Mabel, los chicos no piensan así.
+Dialogue: 0,0:08:00.48,0:08:01.73,Default,,0,0,0,,Se enamorará de ti.
+Dialogue: 0,0:08:01.81,0:08:05.31,Default,,0,0,0,,¡Sí, claro!\NNo soy tan adorable.
+Dialogue: 0,0:08:05.40,0:08:06.86,Default,,0,0,0,,¡Explota! ¡Sí!
+Dialogue: 0,0:08:06.94,0:08:08.44,Default,,0,0,0,,En eso estamos de acuerdo.
+Dialogue: 0,0:08:15.45,0:08:18.91,Default,,0,0,0,,- Una noche de encantos, mi reina.\N- Ay, caramba.
+Dialogue: 0,0:08:23.29,0:08:25.71,Default,,0,0,0,,No puedo creer\Nque nos dejaran entrar un caballo.
+Dialogue: 0,0:08:25.79,0:08:28.67,Default,,0,0,0,,A la gente le cuesta decirme que no.
+Dialogue: 0,0:08:29.46,0:08:32.80,Default,,0,0,0,,Señor Gideon,\Nlos pies sobre la mesa.
+Dialogue: 0,0:08:32.88,0:08:34.43,Default,,0,0,0,,¡Excelente elección!
+Dialogue: 0,0:08:34.51,0:08:36.85,Default,,0,0,0,,Jean-Luc,\N¿qué dijimos de mirarme a los ojos?
+Dialogue: 0,0:08:36.93,0:08:38.68,Default,,0,0,0,,¡Sí, sí! Muy bien.
+Dialogue: 0,0:08:38.76,0:08:40.77,Default,,0,0,0,,Nunca vi tantos tenedores.
+Dialogue: 0,0:08:40.85,0:08:44.89,Default,,0,0,0,,¿Y el agua tiene burbujas?\NU la lá. Ui, ui.
+Dialogue: 0,0:08:45.81,0:08:49.48,Default,,0,0,0,,{\i1}- Parlez vous français?{\i0}\N- No sé qué dijiste.
+Dialogue: 0,0:08:49.57,0:08:54.65,Default,,0,0,0,,¿Por qué está Mabel en el diario\Nal lado de ese ladrón de Gideon?
+Dialogue: 0,0:08:54.74,0:08:56.20,Default,,0,0,0,,Parece ser muy importante.
+Dialogue: 0,0:08:56.28,0:08:58.87,Default,,0,0,0,,Todos hablan\Nde la gran cita de Gideon y Mabel.
+Dialogue: 0,0:08:58.95,0:09:02.66,Default,,0,0,0,,¡¿Qué?! ¿Ese sinvergüenza\Nsale con mi sobrina nieta?
+Dialogue: 0,0:09:02.75,0:09:04.87,Default,,0,0,0,,¿Qué nombre le pondrán\Na esta superpareja?
+Dialogue: 0,0:09:04.96,0:09:06.67,Default,,0,0,0,,¿Mab-ideon? ¿Gide-abel?
+Dialogue: 0,0:09:07.25,0:09:08.42,Default,,0,0,0,,¡Magidbeleon!
+Dialogue: 0,0:09:09.79,0:09:12.96,Default,,0,0,0,,¡No sabía! ¡No me había enterado!\NAdemás, le dije que no lo hiciera.
+Dialogue: 0,0:09:13.05,0:09:16.59,Default,,0,0,0,,Bueno, esta noche se termina.\NIré a la casa de ese canalla.
+Dialogue: 0,0:09:16.68,0:09:18.55,Default,,0,0,0,,¡Esto se acaba ya!
+Dialogue: 0,0:09:20.43,0:09:23.31,Default,,0,0,0,,¿No sería gracioso\Nque ese fuera el armario
+Dialogue: 0,0:09:23.39,0:09:25.89,Default,,0,0,0,,y que tuviera que volver aquí\Ny salir por la puerta verdadera?
+Dialogue: 0,0:09:28.52,0:09:30.11,Default,,0,0,0,,No. Es la puerta verdadera.
+Dialogue: 0,0:09:36.95,0:09:39.45,Default,,0,0,0,,¡Gideon, rufián!\N¡Ábreme!
+Dialogue: 0,0:09:40.03,0:09:41.24,Default,,0,0,0,,PERDONE ESTE JARDÍN
+Dialogue: 0,0:09:41.33,0:09:42.79,Default,,0,0,0,,¡No perdono nada!
+Dialogue: 0,0:09:44.41,0:09:47.62,Default,,0,0,0,,Stanford Pines.\N¡Qué placer!
+Dialogue: 0,0:09:47.71,0:09:49.83,Default,,0,0,0,,Sal del camino, Bud.\NBusco a Gideon.
+Dialogue: 0,0:09:49.92,0:09:53.30,Default,,0,0,0,,No he visto al chico por aquí,\Npero ya que viniste
+Dialogue: 0,0:09:53.38,0:09:56.05,Default,,0,0,0,,te invito a tomar un café.
+Dialogue: 0,0:09:56.59,0:09:59.80,Default,,0,0,0,,- ¡Pero vine...!\N- Es importado de Colombia.
+Dialogue: 0,0:09:59.89,0:10:02.60,Default,,0,0,0,,Estuve preso allí una vez.
+Dialogue: 0,0:10:03.64,0:10:05.23,Default,,0,0,0,,¡Vaya casa!
+Dialogue: 0,0:10:05.31,0:10:07.94,Default,,0,0,0,,Esto es hermoso.
+Dialogue: 0,0:10:08.02,0:10:10.40,Default,,0,0,0,,Me enteré de que tu sobrina\Ny mi Gideon
+Dialogue: 0,0:10:10.48,0:10:14.65,Default,,0,0,0,,digamos que están\Nen la misma sintonía últimamente.
+Dialogue: 0,0:10:14.73,0:10:16.74,Default,,0,0,0,,Sí, y yo me opongo.
+Dialogue: 0,0:10:17.78,0:10:21.58,Default,,0,0,0,,No, yo lo veo como una fantástica\Noportunidad de negocios.
+Dialogue: 0,0:10:21.66,0:10:25.04,Default,,0,0,0,,¡La Cabaña del Misterio\Ny la Tienda de la Telepatía!
+Dialogue: 0,0:10:25.12,0:10:28.54,Default,,0,0,0,,Nos odiamos desde hace...\NSaquemos eso.
+Dialogue: 0,0:10:28.62,0:10:31.84,Default,,0,0,0,,Nos odiamos\Ndesde hace demasiado.
+Dialogue: 0,0:10:31.92,0:10:34.71,Default,,0,0,0,,Es nuestra oportunidad\Nde limar asperezas
+Dialogue: 0,0:10:34.80,0:10:38.22,Default,,0,0,0,,y unir\Nnuestras ganancias colectivas.
+Dialogue: 0,0:10:41.80,0:10:43.35,Default,,0,0,0,,Te escucho.
+Dialogue: 0,0:10:44.85,0:10:48.64,Default,,0,0,0,,Y le dije:\N"¡Firme su propia foto, señora!"
+Dialogue: 0,0:10:49.44,0:10:50.56,Default,,0,0,0,,Sí.
+Dialogue: 0,0:10:52.15,0:10:54.73,Default,,0,0,0,,Mabel, esta cita\Nfue un éxito rotundo.
+Dialogue: 0,0:10:54.82,0:10:58.32,Default,,0,0,0,,Y la cita de mañana\Nserá mejor por donde la mires.
+Dialogue: 0,0:10:58.40,0:11:00.99,Default,,0,0,0,,Alto ahí.\NDijiste que era una sola cita.
+Dialogue: 0,0:11:01.07,0:11:02.20,Default,,0,0,0,,Y fue esta.
+Dialogue: 0,0:11:02.78,0:11:05.03,Default,,0,0,0,,¡Mira!\N¡Qué sorpresa!
+Dialogue: 0,0:11:05.12,0:11:08.00,Default,,0,0,0,,¡Un guacamayo multicolor\Nde cresta roja!
+Dialogue: 0,0:11:08.91,0:11:10.96,Default,,0,0,0,,Dos, tres, cuatro.
+Dialogue: 0,0:11:11.04,0:11:14.75,Default,,0,0,0,,Mabel... ¿Quieres...\Nacompañar... a Gideon...
+Dialogue: 0,0:11:14.84,0:11:16.42,Default,,0,0,0,,al baile... de gala...
+Dialogue: 0,0:11:16.51,0:11:20.55,Default,,0,0,0,,este... "kueves"... ¡Jueves!
+Dialogue: 0,0:11:21.47,0:11:24.89,Default,,0,0,0,,- Qué adorable.\N- Gideon tiene novia.
+Dialogue: 0,0:11:24.97,0:11:27.77,Default,,0,0,0,,Estamos invitados.\NPor favor, acepta.
+Dialogue: 0,0:11:30.27,0:11:33.40,Default,,0,0,0,,Gideon, lo lamento.\NPero debo decir que...
+Dialogue: 0,0:11:33.48,0:11:36.61,Default,,0,0,0,,- Qué intriga.\N- ¡Será adorable!
+Dialogue: 0,0:11:36.69,0:11:39.94,Default,,0,0,0,,Si dice que no,\Nmoriré de tristeza.
+Dialogue: 0,0:11:40.03,0:11:41.95,Default,,0,0,0,,Yo certifico\Nque eso es lo que pasará.
+Dialogue: 0,0:11:48.75,0:11:50.12,Default,,0,0,0,,¿Cómo te fue?
+Dialogue: 0,0:11:50.21,0:11:54.13,Default,,0,0,0,,- No sé. Ahora tengo una langosta.\N- Por lo menos se terminó
+Dialogue: 0,0:11:54.21,0:11:56.50,Default,,0,0,0,,y nunca más\Ntendrás que volver a salir con él.
+Dialogue: 0,0:11:57.05,0:12:00.26,Default,,0,0,0,,Mabel, se acabó, ¿no?\N¿Mabel?
+Dialogue: 0,0:12:01.51,0:12:04.43,Default,,0,0,0,,¡Me volvió a invitar\Ny no supe cómo decir que no!
+Dialogue: 0,0:12:04.51,0:12:08.14,Default,,0,0,0,,- Así: "No".\N- ¡No es tan sencillo, Dipper!
+Dialogue: 0,0:12:08.22,0:12:11.31,Default,,0,0,0,,Me gusta Gideon.\NComo amigo o hermana menor.
+Dialogue: 0,0:12:11.39,0:12:12.98,Default,,0,0,0,,No quise hacerlo sentir mal.
+Dialogue: 0,0:12:13.06,0:12:15.77,Default,,0,0,0,,Sólo tengo que volver a llevar\Nlas cosas a donde estaban antes.
+Dialogue: 0,0:12:15.86,0:12:17.40,Default,,0,0,0,,A ser amigos.
+Dialogue: 0,0:12:19.24,0:12:21.57,Default,,0,0,0,,¡Pasear en bote de noche!\N¡Pasear en bote de noche!
+Dialogue: 0,0:12:22.70,0:12:26.58,Default,,0,0,0,,Pensé que el baile\Nsería el final de la velada.
+Dialogue: 0,0:12:26.66,0:12:29.04,Default,,0,0,0,,¿No quieres\Nprolongar la velada, querida?
+Dialogue: 0,0:12:29.12,0:12:32.50,Default,,0,0,0,,¡No! Digo, sí.\NMe encanta estar con un amigo.
+Dialogue: 0,0:12:32.58,0:12:35.79,Default,,0,0,0,,Compañero, colega, confidente.\N¿Otra palabra para decir "amigo"?
+Dialogue: 0,0:12:35.88,0:12:37.54,Default,,0,0,0,,- ¿"Colega"?\N- Ya dije "colega".
+Dialogue: 0,0:12:37.63,0:12:40.26,Default,,0,0,0,,- ¿Amigo del alma?\N- ¿Qué tal, "alma gemela"?
+Dialogue: 0,0:12:43.80,0:12:45.22,Default,,0,0,0,,¡No puedes decir que no a eso!
+Dialogue: 0,0:12:48.56,0:12:50.85,Default,,0,0,0,,Es muy bueno\Npero no puedo seguir con esto.
+Dialogue: 0,0:12:50.93,0:12:53.81,Default,,0,0,0,,No puedo romperle el corazón.\N¡No tengo escapatoria!
+Dialogue: 0,0:12:53.89,0:12:55.65,Default,,0,0,0,,¿Qué demonios pasó en esa cita?
+Dialogue: 0,0:12:55.73,0:12:57.44,Default,,0,0,0,,¡No sé!\NYo estaba en la zona de amistad.
+Dialogue: 0,0:12:57.52,0:12:59.07,Default,,0,0,0,,Y antes\Nde que me diera cuenta, pasó,
+Dialogue: 0,0:12:59.15,0:13:00.98,Default,,0,0,0,,¡me empujó a la zona del romance!
+Dialogue: 0,0:13:01.07,0:13:02.40,Default,,0,0,0,,Fue como estar\Nen arenas movedizas.
+Dialogue: 0,0:13:02.49,0:13:04.95,Default,,0,0,0,,- ¡Arenas movedizas regordetas!\N- Vamos, Mabel.
+Dialogue: 0,0:13:05.03,0:13:08.37,Default,,0,0,0,,- No vas a casarte con Gideon.\N- Buenas noticias, Mabel.
+Dialogue: 0,0:13:08.45,0:13:10.45,Default,,0,0,0,,- Tienes que casarte con Gideon.\N- ¿Qué?
+Dialogue: 0,0:13:10.54,0:13:13.04,Default,,0,0,0,,Es parte del acuerdo a largo plazo\Nque hice con Buddy Alegría.
+Dialogue: 0,0:13:13.12,0:13:14.87,Default,,0,0,0,,Hay mucho dinero en juego.
+Dialogue: 0,0:13:14.96,0:13:16.83,Default,,0,0,0,,Y además,\Nme dieron esta camiseta.
+Dialogue: 0,0:13:16.92,0:13:18.59,Default,,0,0,0,,Estoy gordo.
+Dialogue: 0,0:13:18.67,0:13:20.88,Default,,0,0,0,,EQUIPO GIDEON
+Dialogue: 0,0:13:20.96,0:13:24.01,Default,,0,0,0,,El cuerpo cambia, cariño.\NEl cuerpo cambia.
+Dialogue: 0,0:13:26.55,0:13:28.47,Default,,0,0,0,,Ay, no. ¿Mabel?
+Dialogue: 0,0:13:28.55,0:13:31.60,Default,,0,0,0,,Mabel no está aquí.\NSe fue a Villa Suéter.
+Dialogue: 0,0:13:31.68,0:13:34.35,Default,,0,0,0,,¿Vas a salir de Villa Suéter?
+Dialogue: 0,0:13:35.35,0:13:37.02,Default,,0,0,0,,Bien. Suficiente.
+Dialogue: 0,0:13:37.10,0:13:39.81,Default,,0,0,0,,Si no puedes romper con Gideon,\Nyo lo haré por ti.
+Dialogue: 0,0:13:39.90,0:13:41.15,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:13:42.40,0:13:45.24,Default,,0,0,0,,- ¡Gracias!\N- Bueno, bueno.
+Dialogue: 0,0:13:45.78,0:13:47.28,Default,,0,0,0,,EL CLUB
+Dialogue: 0,0:13:53.95,0:13:55.91,Default,,0,0,0,,Dipper Pines, ¿cómo estás?
+Dialogue: 0,0:13:56.00,0:13:57.92,Default,,0,0,0,,Te ves muy bien.
+Dialogue: 0,0:13:58.00,0:14:01.00,Default,,0,0,0,,Gracias. Tú...\NMira, Gideon. Tenemos que hablar.
+Dialogue: 0,0:14:01.09,0:14:02.63,Default,,0,0,0,,Mabel no vendrá esta noche.
+Dialogue: 0,0:14:02.71,0:14:05.42,Default,,0,0,0,,Ella no quiere volver a verte.
+Dialogue: 0,0:14:05.51,0:14:08.47,Default,,0,0,0,,La estás enloqueciendo.\NSin ofender.
+Dialogue: 0,0:14:08.55,0:14:11.39,Default,,0,0,0,,Entonces, lo que dices es...
+Dialogue: 0,0:14:11.47,0:14:14.02,Default,,0,0,0,,que tú te metiste en medio.
+Dialogue: 0,0:14:14.10,0:14:16.98,Default,,0,0,0,,No irás a volverte loco, ¿no?
+Dialogue: 0,0:14:17.81,0:14:21.11,Default,,0,0,0,,¡Claro que no!\NEstas cosas pasan. Ya sabes.
+Dialogue: 0,0:14:21.19,0:14:24.11,Default,,0,0,0,,Bueno, genial.\NDe nuevo, lo siento.
+Dialogue: 0,0:14:24.19,0:14:25.99,Default,,0,0,0,,¡Todo bien!
+Dialogue: 0,0:14:27.78,0:14:29.82,Default,,0,0,0,,Todo bien, ya lo creo.
+Dialogue: 0,0:14:30.74,0:14:32.20,Default,,0,0,0,,¿Cómo te fue? ¿Se enojó?
+Dialogue: 0,0:14:32.28,0:14:34.99,Default,,0,0,0,,¿Trató de leerte la mente\Ncon sus poderes mentales?
+Dialogue: 0,0:14:35.08,0:14:36.79,Default,,0,0,0,,No te preocupes, Mabel.\NEs sólo un niño.
+Dialogue: 0,0:14:36.87,0:14:38.33,Default,,0,0,0,,No tiene poderes.
+Dialogue: 0,0:14:43.42,0:14:46.92,Default,,0,0,0,,Dipper Pines,\Nno sabes lo que has hecho.
+Dialogue: 0,0:14:55.35,0:14:58.98,Default,,0,0,0,,¡Acabas de cometer\Nel peor error de tu vida!
+Dialogue: 0,0:15:00.73,0:15:02.40,Default,,0,0,0,,Gideon Charles Alegría.
+Dialogue: 0,0:15:02.48,0:15:04.57,Default,,0,0,0,,¡Ordena tu cuarto en este instante!
+Dialogue: 0,0:15:04.65,0:15:08.11,Default,,0,0,0,,¡Puedo comprarte y venderte, viejo!
+Dialogue: 0,0:15:08.95,0:15:10.28,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:15:22.08,0:15:23.54,Default,,0,0,0,,Golpeen.
+Dialogue: 0,0:15:25.04,0:15:26.30,Default,,0,0,0,,Se siente bien.
+Dialogue: 0,0:15:26.38,0:15:28.97,Default,,0,0,0,,Me alegra tanto\Nque todo haya vuelto a la normalidad.
+Dialogue: 0,0:15:30.01,0:15:31.64,Default,,0,0,0,,- Te toca.\N- Te toca. ¡Cielos!
+Dialogue: 0,0:15:33.55,0:15:35.14,Default,,0,0,0,,- ¿Hola?\N- Habla Toby Decidido,
+Dialogue: 0,0:15:35.22,0:15:37.06,Default,,0,0,0,,del Cotilleo de Gravity Falls.
+Dialogue: 0,0:15:37.14,0:15:40.02,Default,,0,0,0,,Hola. Perdón por acusarte de asesino\Nla semana pasada.
+Dialogue: 0,0:15:40.10,0:15:41.65,Default,,0,0,0,,No hay problema.
+Dialogue: 0,0:15:41.73,0:15:45.65,Default,,0,0,0,,Escucha. Queremos entrevistarte\Npara saber si viste algo inusual
+Dialogue: 0,0:15:45.73,0:15:48.53,Default,,0,0,0,,en el pueblo desde que llegaste.
+Dialogue: 0,0:15:48.61,0:15:50.82,Default,,0,0,0,,¡Por fin!\N¡Pensé que nunca me lo pedirían!
+Dialogue: 0,0:15:50.90,0:15:52.16,Default,,0,0,0,,¡Tengo notas y teorías!
+Dialogue: 0,0:15:52.24,0:15:56.49,Default,,0,0,0,,Sí. Sí. Calle Gopher 412.
+Dialogue: 0,0:15:56.58,0:15:58.16,Default,,0,0,0,,¿Esta noche? ¡Hecho!
+Dialogue: 0,0:15:58.95,0:16:00.58,Default,,0,0,0,,Listo. Hice el trabajo sucio por ti.
+Dialogue: 0,0:16:00.66,0:16:03.88,Default,,0,0,0,,Ahora te toca cumplir\Ntu parte del trato.
+Dialogue: 0,0:16:04.88,0:16:07.50,Default,,0,0,0,,¡El teléfono de Sandra Jiménez!
+Dialogue: 0,0:16:07.59,0:16:09.88,Default,,0,0,0,,¡Bendito seas, Pequeño Gideon!
+Dialogue: 0,0:16:20.48,0:16:21.85,Default,,0,0,0,,¿Hola?
+Dialogue: 0,0:16:31.07,0:16:32.91,Default,,0,0,0,,Hola, amigo.
+Dialogue: 0,0:16:33.91,0:16:35.66,Default,,0,0,0,,- Gideon.\N- Dipper Pines.
+Dialogue: 0,0:16:35.74,0:16:38.28,Default,,0,0,0,,¿Cuánto hace que vives en el pueblo?\N¿Una semana? ¿Dos?
+Dialogue: 0,0:16:38.37,0:16:41.29,Default,,0,0,0,,- ¿Te gusta? ¿Disfrutas el paisaje?\N- ¿Qué quieres de mí?
+Dialogue: 0,0:16:41.37,0:16:42.62,Default,,0,0,0,,Escúchame bien.
+Dialogue: 0,0:16:42.71,0:16:45.88,Default,,0,0,0,,Este pueblo tiene secretos\Nque no puedes comprender.
+Dialogue: 0,0:16:45.96,0:16:49.00,Default,,0,0,0,,¿Es por Mabel?\N¡Te dije que no le gustas!
+Dialogue: 0,0:16:49.09,0:16:51.51,Default,,0,0,0,,¡Mentira!\N¡Tú la volviste en mi contra!
+Dialogue: 0,0:16:53.30,0:16:56.26,Default,,0,0,0,,- ¡Ella era mi melocotón!\N- ¿Estás bien?
+Dialogue: 0,0:17:00.93,0:17:02.23,Default,,0,0,0,,¡Hola!
+Dialogue: 0,0:17:02.31,0:17:04.60,Default,,0,0,0,,Hago mucho más\Nque leer mentes.
+Dialogue: 0,0:17:04.69,0:17:06.23,Default,,0,0,0,,Pero... tú eres un fraude.
+Dialogue: 0,0:17:06.31,0:17:08.36,Default,,0,0,0,,Dime, Dipper.\N¿Un fraude hace esto?
+Dialogue: 0,0:17:18.03,0:17:19.41,Default,,0,0,0,,¿Degustación de cabello, amiga?
+Dialogue: 0,0:17:19.49,0:17:21.41,Default,,0,0,0,,Wendy, necesito un consejo.
+Dialogue: 0,0:17:21.49,0:17:23.20,Default,,0,0,0,,Tú rompiste con chicos, ¿no?
+Dialogue: 0,0:17:23.29,0:17:26.92,Default,,0,0,0,,Sí. Russ Durham, Eli Hall,\NStony Davidson...
+Dialogue: 0,0:17:27.00,0:17:28.54,Default,,0,0,0,,No sé qué me pasa.
+Dialogue: 0,0:17:28.63,0:17:30.21,Default,,0,0,0,,Pensé que todo\Nhabía vuelto a la normalidad
+Dialogue: 0,0:17:30.29,0:17:32.01,Default,,0,0,0,,pero todavía me siento rara.
+Dialogue: 0,0:17:32.09,0:17:35.34,Default,,0,0,0,,Mike Worley, Nate Holts,\Nel de los tatuajes...
+Dialogue: 0,0:17:35.42,0:17:38.09,Default,,0,0,0,,Tal vez dejar que Dipper\Nlo hiciera por mí fue un error.
+Dialogue: 0,0:17:38.18,0:17:40.14,Default,,0,0,0,,Gideon se merece\Nuna ruptura sincera.
+Dialogue: 0,0:17:40.22,0:17:42.31,Default,,0,0,0,,Danny Feldman, Mark Epstein...
+Dialogue: 0,0:17:42.39,0:17:44.73,Default,,0,0,0,,Ay, no. No estoy segura\Nde haber roto con él.
+Dialogue: 0,0:17:44.81,0:17:46.44,Default,,0,0,0,,Con razón sigue llamándome.
+Dialogue: 0,0:17:46.52,0:17:47.94,Default,,0,0,0,,Ya sé qué tengo que hacer.
+Dialogue: 0,0:17:48.02,0:17:49.73,Default,,0,0,0,,Gracias por hablar conmigo, Wendy.
+Dialogue: 0,0:17:53.48,0:17:54.49,Default,,0,0,0,,Ignorar.
+Dialogue: 0,0:18:02.62,0:18:05.20,Default,,0,0,0,,¡Tío Abuelo Stan tenía razón!\N¡Eres un monstruo!
+Dialogue: 0,0:18:05.29,0:18:07.25,Default,,0,0,0,,¡Tu hermana será mía!
+Dialogue: 0,0:18:11.80,0:18:13.21,Default,,0,0,0,,OBJETO CONTUNDENTE
+Dialogue: 0,0:18:13.84,0:18:16.88,Default,,0,0,0,,- ¿Quién es el más lindo? ¡Tú!\N- No. ¡Tú!
+Dialogue: 0,0:18:20.05,0:18:23.35,Default,,0,0,0,,- ¡Nunca saldrá contigo!\N- ¡Mentira!
+Dialogue: 0,0:18:23.43,0:18:24.43,Default,,0,0,0,,TIJERAS DE PODAR
+Dialogue: 0,0:18:24.52,0:18:28.60,Default,,0,0,0,,Y voy a asegurarme de que nunca\Nvuelvas a mentirme, amigo.
+Dialogue: 0,0:18:35.15,0:18:37.07,Default,,0,0,0,,¡Gideon! Tenemos que hablar.
+Dialogue: 0,0:18:37.90,0:18:39.74,Default,,0,0,0,,¡Mabel! ¡Mi caramelito!
+Dialogue: 0,0:18:39.82,0:18:41.07,Default,,0,0,0,,¿Qué haces aquí?
+Dialogue: 0,0:18:41.16,0:18:44.04,Default,,0,0,0,,Lo lamento, Gideon.\NNo puedo ser tu caramelito.
+Dialogue: 0,0:18:44.12,0:18:46.45,Default,,0,0,0,,Debí haber sido sincera\Ny decírtelo yo misma.
+Dialogue: 0,0:18:46.54,0:18:49.12,Default,,0,0,0,,No entiendo.
+Dialogue: 0,0:18:50.29,0:18:53.50,Default,,0,0,0,,¡Mabel! Quizás este no sea\Nel mejor momento para ser tan sincera.
+Dialogue: 0,0:18:53.59,0:18:56.59,Default,,0,0,0,,Pero igual podemos seguir siendo\Ncompañeros de transformación, ¿no?
+Dialogue: 0,0:18:56.67,0:18:58.63,Default,,0,0,0,,- ¿No te gustaría?\N- ¿De verdad?
+Dialogue: 0,0:19:00.34,0:19:01.47,Default,,0,0,0,,¡No, claro que no!
+Dialogue: 0,0:19:01.55,0:19:04.68,Default,,0,0,0,,¿Atacabas a mi hermano?\N¿Qué te sucede?
+Dialogue: 0,0:19:04.77,0:19:05.97,Default,,0,0,0,,¡Mi corbatín! ¡Devuélvelo!
+Dialogue: 0,0:19:06.73,0:19:09.56,Default,,0,0,0,,- No tienes tanto poder sin esto, ¿no?\N- ¡Dipper!
+Dialogue: 0,0:19:29.54,0:19:32.00,Default,,0,0,0,,Escúchame, Gideon.\NSe acabó.
+Dialogue: 0,0:19:32.08,0:19:35.50,Default,,0,0,0,,- Nunca jamás saldré contigo.\N- ¡Sí!
+Dialogue: 0,0:19:38.63,0:19:39.88,Default,,0,0,0,,¡Mis poderes!
+Dialogue: 0,0:19:40.42,0:19:41.93,Default,,0,0,0,,Esto no acaba aquí.
+Dialogue: 0,0:19:42.01,0:19:46.81,Default,,0,0,0,,Esta no será la última vez\Nque vean al Pequeño Gideon.
+Dialogue: 0,0:19:51.81,0:19:53.94,Default,,0,0,0,,Esto es vida, hermano.
+Dialogue: 0,0:19:54.69,0:19:59.19,Default,,0,0,0,,De ahora en más, habrá comida cara\Ny cuadros de payasos.
+Dialogue: 0,0:20:01.91,0:20:06.83,Default,,0,0,0,,- Hola, Gideon. Mira quién...\N- Stanford Pines, te reprendo.
+Dialogue: 0,0:20:06.91,0:20:08.62,Default,,0,0,0,,Te reprendo.
+Dialogue: 0,0:20:09.25,0:20:10.66,Default,,0,0,0,,¿Reprender?\N¿Esa palabra existe?
+Dialogue: 0,0:20:10.75,0:20:13.88,Default,,0,0,0,,La familia Pines completa\Nha invocado mi furia.
+Dialogue: 0,0:20:13.96,0:20:18.05,Default,,0,0,0,,¡Todos tendrán que recompensarme\Npor sus transgresiones!
+Dialogue: 0,0:20:18.13,0:20:20.51,Default,,0,0,0,,¿Aprendes una palabra al día,\No algo así?
+Dialogue: 0,0:20:20.59,0:20:22.72,Default,,0,0,0,,Pero, pero, pichoncito,
+Dialogue: 0,0:20:22.80,0:20:25.80,Default,,0,0,0,,- ¿y el arreglo con Mabel y...?\N- ¡Silencio!
+Dialogue: 0,0:20:26.81,0:20:30.06,Default,,0,0,0,,Veo que está teniendo\Nuno de sus berrinches.
+Dialogue: 0,0:20:30.14,0:20:32.81,Default,,0,0,0,,Perdona, Stan.\NEstoy de acuerdo con Gideon en esto.
+Dialogue: 0,0:20:34.65,0:20:37.02,Default,,0,0,0,,Bien, bien. Me doy cuenta\Ncuando no me quieren.
+Dialogue: 0,0:20:37.11,0:20:40.11,Default,,0,0,0,,Lo siento, pero necesito\Nque me devuelvas el cuadro.
+Dialogue: 0,0:20:40.19,0:20:43.03,Default,,0,0,0,,- ¿Stan?\N- ¡Intenten atraparme, tontos!
+Dialogue: 0,0:20:47.08,0:20:48.33,Default,,0,0,0,,Pude tenerlo todo.
+Dialogue: 0,0:20:49.04,0:20:50.41,Default,,0,0,0,,¿Qué les pasó a ustedes dos?
+Dialogue: 0,0:20:51.04,0:20:52.66,Default,,0,0,0,,- Gideon.\N- Gideon.
+Dialogue: 0,0:20:53.04,0:20:57.42,Default,,0,0,0,,Gideon. Sí, el pequeño mutante\Njuró vengarse de toda la familia.
+Dialogue: 0,0:20:57.50,0:21:00.67,Default,,0,0,0,,Creo que intentará\Nmasticarme los tobillos, o algo así.
+Dialogue: 0,0:21:00.76,0:21:03.67,Default,,0,0,0,,Sí. ¿Cómo va a destruirnos ahora?
+Dialogue: 0,0:21:03.76,0:21:06.18,Default,,0,0,0,,¿Intentará adivinar\Nen qué numero estamos pensando?
+Dialogue: 0,0:21:06.26,0:21:08.85,Default,,0,0,0,,Nunca adivinará\Nel número que estoy pensando.
+Dialogue: 0,0:21:08.93,0:21:11.85,Default,,0,0,0,,¡Ocho negativo!\NNadie adivinaría un número negativo.
+Dialogue: 0,0:21:13.19,0:21:14.60,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,0:21:14.69,0:21:17.81,Default,,0,0,0,,Apuesto a que está planeando\Nnuestra destrucción ahora mismo.
+Dialogue: 0,0:21:26.66,0:21:29.33,Default,,0,0,0,,{\i1}Gideon, todavía te amo.{\i0}
+Dialogue: 0,0:21:29.41,0:21:32.45,Default,,0,0,0,,{\i1}Si tan solo mi familia{\i0}\N{\i1}no estuviera en medio.{\i0}
+Dialogue: 0,0:21:33.33,0:21:36.21,Default,,0,0,0,,{\i1}Mírame, estoy viejo y huelo mal.{\i0}
+Dialogue: 0,0:21:37.83,0:21:41.80,Default,,0,0,0,,{\i1}¿Qué harás{\i0}\N{\i1}sin tu precioso amuleto?{\i0}
+Dialogue: 0,0:21:41.88,0:21:43.80,Default,,0,0,0,,Ya lo verás.
+Dialogue: 0,0:21:46.18,0:21:47.47,Default,,0,0,0,,Ya lo verás.
+Dialogue: 0,0:21:48.85,0:21:50.72,Default,,0,0,0,,- ¿Terminaste?\N- Todavía no.
+Dialogue: 0,0:21:50.81,0:21:51.81,Default,,0,0,0,,PERSONAL
+Dialogue: 0,0:21:51.89,0:21:53.98,Default,,0,0,0,,- ¿Ahora?\N- Casi.
+Dialogue: 0,0:21:54.06,0:21:55.89,Default,,0,0,0,,Y... listo.
+Dialogue: 0,0:21:57.35,0:21:58.86,Default,,0,0,0,,Hagámoslo.
+Dialogue: 0,0:22:15.96,0:22:17.25,Default,,0,0,0,,Estás despedido.
