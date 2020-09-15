@@ -1,0 +1,327 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GlitchTechsT01E10
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.09,0:00:11.05,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:24.60,0:00:29.40,Default,,0,0,0,,Aunque muchos juegos tienen niveles así,\Nen la realidad... es asqueroso.
+Dialogue: 0,0:00:29.52,0:00:32.40,Default,,0,0,0,,¡Cuidado! Este Glitch se reproduce.
+Dialogue: 0,0:00:32.65,0:00:35.41,Default,,0,0,0,,Hagas lo que hagas, no falles.
+Dialogue: 0,0:00:35.53,0:00:36.99,Default,,0,0,0,,¿Qué pasa si fallo?
+Dialogue: 0,0:00:39.87,0:00:40.70,Default,,0,0,0,,Fallé.
+Dialogue: 0,0:00:49.29,0:00:50.46,Default,,0,0,0,,Eso es lo que pasa.
+Dialogue: 0,0:00:51.17,0:00:54.17,Default,,0,0,0,,Bitt, Miko y yo necesitamos ayuda.
+Dialogue: 0,0:00:54.30,0:00:57.72,Default,,0,0,0,,Espere. Hay seis solicitudes previas.
+Dialogue: 0,0:00:58.09,0:01:00.31,Default,,0,0,0,,¿Qué? Esto no es usual en Bitt
+Dialogue: 0,0:01:02.39,0:01:03.22,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:01:05.39,0:01:06.48,Default,,0,0,0,,Están acorralados.
+Dialogue: 0,0:01:09.90,0:01:11.44,Default,,0,0,0,,Necesitamos un plan, Five.
+Dialogue: 0,0:01:13.74,0:01:16.15,Default,,0,0,0,,Las rejillas. Enjaulémoslos.
+Dialogue: 0,0:01:16.24,0:01:18.62,Default,,0,0,0,,¡Buena idea, Five! Cambiando emisores.
+Dialogue: 0,0:01:26.87,0:01:28.00,Default,,0,0,0,,Gracias por jugar.
+Dialogue: 0,0:01:28.17,0:01:30.38,Default,,0,0,0,,¡Por fin! ¡Me alegra!
+Dialogue: 0,0:01:33.13,0:01:34.34,Default,,0,0,0,,Héroes de acción.
+Dialogue: 0,0:01:34.42,0:01:37.18,Default,,0,0,0,,Eso de la tapa fue genial.\N¿Cómo se te ocurrió?
+Dialogue: 0,0:01:37.26,0:01:39.59,Default,,0,0,0,,Por esa tubería con la advertencia
+Dialogue: 0,0:01:39.68,0:01:41.26,Default,,0,0,0,,y ese manómetro grande.
+Dialogue: 0,0:01:41.89,0:01:42.85,Default,,0,0,0,,¡Nerds!
+Dialogue: 0,0:01:47.39,0:01:49.77,Default,,0,0,0,,Gracias por esperar.\N¿Cómo puedo ayudar?
+Dialogue: 0,0:01:49.85,0:01:51.73,Default,,0,0,0,,Necesitamos salir... ¡ya mismo!
+Dialogue: 0,0:01:51.82,0:01:53.65,Default,,0,0,0,,Espere mientras los ubico.
+Dialogue: 0,0:01:53.73,0:01:55.11,Default,,0,0,0,,¡A la izquierda!
+Dialogue: 0,0:01:55.57,0:01:58.03,Default,,0,0,0,,La salida más segura es a la derecha.
+Dialogue: 0,0:01:58.11,0:02:01.91,Default,,0,0,0,,- ¿Qué?\N- ¿Y recién lo dice?
+Dialogue: 0,0:02:12.13,0:02:13.96,Default,,0,0,0,,Creo que me rompí el trasero.
+Dialogue: 0,0:02:14.09,0:02:16.34,Default,,0,0,0,,Esta misión no valía la pena.
+Dialogue: 0,0:02:18.88,0:02:21.59,Default,,0,0,0,,- Un goblin tiene mi llave.\N- ¡Nos atraparon!
+Dialogue: 0,0:02:21.68,0:02:24.56,Default,,0,0,0,,- ¡Nuestro portal se atoró!\N- Espere, por favor.
+Dialogue: 0,0:02:24.97,0:02:26.93,Default,,0,0,0,,Espere, por favor.
+Dialogue: 0,0:02:27.48,0:02:29.35,Default,,0,0,0,,Espere, por... favor...
+Dialogue: 0,0:02:31.19,0:02:35.48,Default,,0,0,0,,¡No! ¡No me dejes esperando,\Npesadilla ergonómica!
+Dialogue: 0,0:02:36.65,0:02:37.99,Default,,0,0,0,,¿Qué le pasa, Phil?
+Dialogue: 0,0:02:38.07,0:02:41.95,Default,,0,0,0,,De todo. Su procesador es lento,\Nsu memoria falla y...
+Dialogue: 0,0:02:42.45,0:02:46.12,Default,,0,0,0,,A veces no sé por qué lo mantengo aquí.
+Dialogue: 0,0:02:46.87,0:02:48.33,Default,,0,0,0,,Me mantienes aquí
+Dialogue: 0,0:02:48.41,0:02:52.21,Default,,0,0,0,,porque estoy a cargo\Nde las tareas esenciales de este centro.
+Dialogue: 0,0:02:52.29,0:02:55.71,Default,,0,0,0,,Tratando de hacerlas, dirás.
+Dialogue: 0,0:02:55.80,0:02:59.17,Default,,0,0,0,,Mírense, peleando\Ncomo un par de...
+Dialogue: 0,0:03:02.47,0:03:03.30,Default,,0,0,0,,Ya.
+Dialogue: 0,0:03:08.89,0:03:13.23,Default,,0,0,0,,Señal de Glitch identificada. Fishwakka.\NProcesando puntos.
+Dialogue: 0,0:03:13.61,0:03:15.69,Default,,0,0,0,,Comienza la descarga de Fishwakka.
+Dialogue: 0,0:03:16.19,0:03:18.57,Default,,0,0,0,,45 MINUTOS DESPUÉS
+Dialogue: 0,0:03:20.24,0:03:22.66,Default,,0,0,0,,- Se me durmió el brazo.\N- En serio...
+Dialogue: 0,0:03:22.74,0:03:25.37,Default,,0,0,0,,...si me encierras una vez más,
+Dialogue: 0,0:03:25.66,0:03:28.83,Default,,0,0,0,,te daré de baja de una vez por todas.
+Dialogue: 0,0:03:29.25,0:03:30.62,Default,,0,0,0,,¡No le hagas caso!
+Dialogue: 0,0:03:33.37,0:03:36.21,Default,,0,0,0,,No quiere decir lo que dice.\N¿Son orejas?
+Dialogue: 0,0:03:36.29,0:03:39.92,Default,,0,0,0,,¡No lo toques! Tiene que trabajar\Nmientras veo este catálogo
+Dialogue: 0,0:03:40.01,0:03:42.47,Default,,0,0,0,,de robots asistentes.
+Dialogue: 0,0:03:42.97,0:03:45.85,Default,,0,0,0,,Ya oíste a Phil.\NQuiere darle de baja a Bitt
+Dialogue: 0,0:03:45.93,0:03:48.39,Default,,0,0,0,,Desactivarlo. ¡Destruirlo!
+Dialogue: 0,0:03:48.47,0:03:49.89,Default,,0,0,0,,¿Desaturarlo?
+Dialogue: 0,0:03:50.06,0:03:51.94,Default,,0,0,0,,¡No te burles, Bergy!
+Dialogue: 0,0:03:52.56,0:03:55.48,Default,,0,0,0,,No podemos permitirlo.\NBitt es de la familia
+Dialogue: 0,0:03:56.52,0:03:58.98,Default,,0,0,0,,Cuando papá y yo reparábamos\Ncomputadoras,
+Dialogue: 0,0:03:59.07,0:04:01.57,Default,,0,0,0,,se renovavan\Ncon limpiarles la memoria.
+Dialogue: 0,0:04:01.65,0:04:04.11,Default,,0,0,0,,- ¿Podemos probar eso?\N- Creo que sí.
+Dialogue: 0,0:04:05.32,0:04:08.74,Default,,0,0,0,,¿Oíste eso, Bitt?\NFive y yo te dejaremos como nuevo.
+Dialogue: 0,0:04:08.87,0:04:11.75,Default,,0,0,0,,Su... llamada es importante... para mí.
+Dialogue: 0,0:04:11.83,0:04:14.67,Default,,0,0,0,,No. Tú eres importante para nosotros.
+Dialogue: 0,0:04:16.38,0:04:18.25,Default,,0,0,0,,Se me durmió el brazo.
+Dialogue: 0,0:04:18.59,0:04:21.46,Default,,0,0,0,,Error. Descarga de Fishwakka incompleta.
+Dialogue: 0,0:04:23.34,0:04:26.97,Default,,0,0,0,,¿Quién sabe qué pasa\Ncuando un videojuego tiene un Glitch?
+Dialogue: 0,0:04:27.47,0:04:29.64,Default,,0,0,0,,♪ Los Glitch Techs\NSaben qué hacer ♪
+Dialogue: 0,0:04:29.72,0:04:31.72,Default,,0,0,0,,♪ Con tecnología y movimientos ♪
+Dialogue: 0,0:04:31.81,0:04:33.64,Default,,0,0,0,,♪ Glitch Techs demoledores ♪
+Dialogue: 0,0:04:33.73,0:04:35.40,Default,,0,0,0,,♪ Lo solucionarán ♪
+Dialogue: 0,0:04:35.48,0:04:38.98,Default,,0,0,0,,♪ Si un Glitch anda suelto\NLo atraparán como sea ♪
+Dialogue: 0,0:04:39.07,0:04:42.32,Default,,0,0,0,,♪ Los Glitch Techs llegan\NA resolver el problema ♪
+Dialogue: 0,0:04:42.44,0:04:43.40,Default,,0,0,0,,♪ Glitch Techs ♪
+Dialogue: 0,0:04:47.87,0:04:49.83,Default,,0,0,0,,♪ ¡Glitch Techs! ♪
+Dialogue: 0,0:04:49.91,0:04:50.74,Default,,0,0,0,,♪ ¡Sí! ♪
+Dialogue: 0,0:04:54.41,0:04:58.46,Default,,0,0,0,,Esta sala inteligente debería\Ndarnos acceso a tus archivos.
+Dialogue: 0,0:04:59.25,0:05:03.05,Default,,0,0,0,,Siempre y cuando nos permitas\Nver dentro de tu memoria.
+Dialogue: 0,0:05:05.93,0:05:08.68,Default,,0,0,0,,- ¿Ese es un "sí"?\N- ¡No es un "no"!
+Dialogue: 0,0:05:14.02,0:05:18.60,Default,,0,0,0,,Advertencia. Cualquier alteración\Nno autorizada invalidará la garantía.
+Dialogue: 0,0:05:19.36,0:05:20.90,Default,,0,0,0,,Con razón es tan lento.
+Dialogue: 0,0:05:21.48,0:05:26.07,Default,,0,0,0,,Su memoria están tan llena\Nque no tiene espacio... ¡para respirar!
+Dialogue: 0,0:05:27.24,0:05:30.12,Default,,0,0,0,,¿Puedes mostrar\Nla gráfica del uso de tu memoria?
+Dialogue: 0,0:05:31.16,0:05:32.49,Default,,0,0,0,,SOBRE CAPACIDAD 31 %
+Dialogue: 0,0:05:32.58,0:05:36.00,Default,,0,0,0,,Tenemos que quitarle mucho\Npara que vuelva a estar óptimo.
+Dialogue: 0,0:05:36.58,0:05:38.17,Default,,0,0,0,,¡Óptimo!
+Dialogue: 0,0:05:40.29,0:05:42.00,Default,,0,0,0,,¡Hola! ¿Qué es esto?
+Dialogue: 0,0:05:42.75,0:05:46.09,Default,,0,0,0,,Estas fotos son de la Edad de Piedra.
+Dialogue: 0,0:05:46.34,0:05:48.80,Default,,0,0,0,,Este debe ser quien ha estado usándolo
+Dialogue: 0,0:05:48.89,0:05:50.26,Default,,0,0,0,,para guardar archivos.
+Dialogue: 0,0:05:57.73,0:06:00.44,Default,,0,0,0,,El tiempo no pasa en vano.
+Dialogue: 0,0:06:00.52,0:06:03.19,Default,,0,0,0,,¿Todo esto son archivos de Phil?
+Dialogue: 0,0:06:03.57,0:06:07.86,Default,,0,0,0,,Correcto. Han pasado 20 años\Ndesde que mi dueño autorizado,
+Dialogue: 0,0:06:07.95,0:06:10.62,Default,,0,0,0,,Phil Altiere, borró un archivo\Npor última vez.
+Dialogue: 0,0:06:10.70,0:06:12.91,Default,,0,0,0,,Resalta todos los archivos guardados.
+Dialogue: 0,0:06:15.62,0:06:17.91,Default,,0,0,0,,¿Cómo los borramos?
+Dialogue: 0,0:06:20.79,0:06:21.96,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:06:23.96,0:06:26.71,Default,,0,0,0,,- ¡Adiós, correo basura!\N- ¡Sayonara!
+Dialogue: 0,0:06:26.80,0:06:28.51,Default,,0,0,0,,¡Hasta nunca, historial!
+Dialogue: 0,0:06:35.10,0:06:35.93,Default,,0,0,0,,LIBRE 3 %
+Dialogue: 0,0:06:36.02,0:06:39.94,Default,,0,0,0,,- ¿Qué ocupa todo este espacio?\N- Bitt, ¿hay archivos ocultos?
+Dialogue: 0,0:06:40.02,0:06:42.40,Default,,0,0,0,,Revelando un archivo oculto.
+Dialogue: 0,0:06:45.27,0:06:50.32,Default,,0,0,0,,Buen intento, archivo.\N¡Puedes correr, pero no esconderte!
+Dialogue: 0,0:06:52.78,0:06:56.37,Default,,0,0,0,,No tengo suficiente memoria\Npara borrar este archivo.
+Dialogue: 0,0:06:56.66,0:07:01.92,Default,,0,0,0,,Así que no tiene suficiente memoria\Npara borrar el archivo que la ocupa.
+Dialogue: 0,0:07:02.00,0:07:06.13,Default,,0,0,0,,Parece un archivo comprimido.\NNo sé qué hay adentro.
+Dialogue: 0,0:07:06.21,0:07:09.34,Default,,0,0,0,,Por el ícono,\Ndeben ser sus recetas favoritas.
+Dialogue: 0,0:07:10.13,0:07:15.30,Default,,0,0,0,,Si es muy grande como para borrarlo,\Nabrámoslo y borremos archivo por archivo.
+Dialogue: 0,0:07:15.39,0:07:17.39,Default,,0,0,0,,¡Sí, usando más martillos!
+Dialogue: 0,0:07:21.94,0:07:27.86,Default,,0,0,0,,Carpeta descomprimida. Ejecutando\Nel archivo Galle-Tarta-Pastel punto E X E.
+Dialogue: 0,0:07:27.94,0:07:29.99,Default,,0,0,0,,¿Ejecutando? ¡No, espera!
+Dialogue: 0,0:07:30.74,0:07:31.82,Default,,0,0,0,,¡No!
+Dialogue: 0,0:07:36.28,0:07:39.45,Default,,0,0,0,,Acaso... ¿lo arreglamos?
+Dialogue: 0,0:07:39.54,0:07:43.33,Default,,0,0,0,,¡Galleta! ¡Tarta! Pastel...
+Dialogue: 0,0:07:45.29,0:07:47.80,Default,,0,0,0,,Creo que hicimos lo contrario.
+Dialogue: 0,0:07:49.38,0:07:52.05,Default,,0,0,0,,- ¡No!\N- Debemos decirle a Phil.
+Dialogue: 0,0:08:07.06,0:08:08.32,Default,,0,0,0,,- Habla con él.\N- ¿Yo?
+Dialogue: 0,0:08:08.61,0:08:09.48,Default,,0,0,0,,¡Hazlo tú!
+Dialogue: 0,0:08:10.61,0:08:12.36,Default,,0,0,0,,Estoy a punto de comer.
+Dialogue: 0,0:08:12.45,0:08:13.70,Default,,0,0,0,,Lo siento, pero...
+Dialogue: 0,0:08:14.57,0:08:16.87,Default,,0,0,0,,- Se trata de Bitt\N- ¿Qué pasa?
+Dialogue: 0,0:08:18.66,0:08:21.79,Default,,0,0,0,,¿Sabes cuando\Ndijiste que le darías el adiós
+Dialogue: 0,0:08:21.87,0:08:23.29,Default,,0,0,0,,y la media vuelta?
+Dialogue: 0,0:08:23.37,0:08:26.83,Default,,0,0,0,,Que lo daría de baja.\NSiempre lo digo
+Dialogue: 0,0:08:26.92,0:08:28.13,Default,,0,0,0,,pero nunca en serio.
+Dialogue: 0,0:08:29.46,0:08:32.67,Default,,0,0,0,,La verdad es que todo\Nse vendría abajo sin él.
+Dialogue: 0,0:08:33.88,0:08:37.05,Default,,0,0,0,,En serio. Todos nos quedaríamos\Nsin trabajo.
+Dialogue: 0,0:08:39.14,0:08:42.56,Default,,0,0,0,,¿Ven estos modelos nuevos?\NSí, tienen cosas geniales,
+Dialogue: 0,0:08:42.64,0:08:44.19,Default,,0,0,0,,pero no se comparan
+Dialogue: 0,0:08:44.27,0:08:46.40,Default,,0,0,0,,con lo que he invertido\Nen Bitt
+Dialogue: 0,0:08:48.06,0:08:50.15,Default,,0,0,0,,Destruiría a quien lo lastimara.
+Dialogue: 0,0:08:52.07,0:08:54.07,Default,,0,0,0,,¿Qué venían a decirme?
+Dialogue: 0,0:08:54.65,0:08:55.70,Default,,0,0,0,,Es un gran robot.
+Dialogue: 0,0:08:55.82,0:08:58.12,Default,,0,0,0,,- ¡Y tú un gran jefe!\N- ¡Todo bien!
+Dialogue: 0,0:08:58.45,0:08:59.28,Default,,0,0,0,,¡Adiós!
+Dialogue: 0,0:09:03.66,0:09:05.71,Default,,0,0,0,,- Quizá si lo conectamos...\N- Oye,
+Dialogue: 0,0:09:06.79,0:09:07.63,Default,,0,0,0,,¿dónde está?
+Dialogue: 0,0:09:08.21,0:09:10.09,Default,,0,0,0,,Vamos a revisar su consola.
+Dialogue: 0,0:09:12.59,0:09:14.84,Default,,0,0,0,,Descarga de Fishwakka incompleta.
+Dialogue: 0,0:09:15.84,0:09:16.93,Default,,0,0,0,,¿Hay alguien ahí?
+Dialogue: 0,0:09:17.30,0:09:19.30,Default,,0,0,0,,- ¿Bergy?\N- Descarga incompleta...
+Dialogue: 0,0:09:22.97,0:09:26.94,Default,,0,0,0,,- Bergy, ¿has visto a Bitt?\N- Sí, se fue por allá.
+Dialogue: 0,0:09:30.31,0:09:32.53,Default,,0,0,0,,¿Le llamo a Phil? Deberíamos…
+Dialogue: 0,0:09:32.61,0:09:35.74,Default,,0,0,0,,¡Phil nos destruiría si se entera!\N¡Nos destruiría!
+Dialogue: 0,0:09:35.82,0:09:38.82,Default,,0,0,0,,No si rastreamos a Bitt\Ny lo traemos de vuelta.
+Dialogue: 0,0:09:38.91,0:09:41.99,Default,,0,0,0,,- Pero uno de nosotros debe quedarse.\N- Cierto.
+Dialogue: 0,0:09:43.74,0:09:45.58,Default,,0,0,0,,Bergy, acabas de ser ascendido.
+Dialogue: 0,0:09:45.66,0:09:48.83,Default,,0,0,0,,Cubre a Bitt\Ny mantén todo en calma.
+Dialogue: 0,0:09:48.92,0:09:51.50,Default,,0,0,0,,¡Lo haré! Cuenten conmigo.
+Dialogue: 0,0:09:52.50,0:09:54.92,Default,,0,0,0,,- Descarga incompleta...\N- ¡Silencio!
+Dialogue: 0,0:09:55.01,0:09:57.26,Default,,0,0,0,,Esto va a ser fácil.
+Dialogue: 0,0:10:01.89,0:10:05.64,Default,,0,0,0,,Ejecutando el programa Galle-Tarta-Pastel.
+Dialogue: 0,0:10:08.60,0:10:11.23,Default,,0,0,0,,Buscando ingredientes de galleta.
+Dialogue: 0,0:10:12.02,0:10:14.53,Default,,0,0,0,,Negativo.
+Dialogue: 0,0:10:16.03,0:10:19.53,Default,,0,0,0,,Positivo. Leche y azúcar.
+Dialogue: 0,0:10:29.92,0:10:36.71,Default,,0,0,0,,Necesito 200 galones de leche azucarada\Nlistas para la desecación criogénica.
+Dialogue: 0,0:10:37.72,0:10:38.80,Default,,0,0,0,,¿Vaso o cono?
+Dialogue: 0,0:10:50.69,0:10:52.40,Default,,0,0,0,,Gracias por acatar la orden.
+Dialogue: 0,0:10:55.86,0:10:58.57,Default,,0,0,0,,Atención. Se acerca una amenaza.
+Dialogue: 0,0:11:02.28,0:11:04.74,Default,,0,0,0,,Hinobi se disculpa\Npor las inconveniencias
+Dialogue: 0,0:11:04.83,0:11:06.91,Default,,0,0,0,,con este Glitch... Etcétera. Adiós.
+Dialogue: 0,0:11:08.37,0:11:09.37,Default,,0,0,0,,¡Lo tengo!
+Dialogue: 0,0:11:23.72,0:11:26.01,Default,,0,0,0,,¡Separémonos! ¿Entendiste?
+Dialogue: 0,0:11:27.22,0:11:29.73,Default,,0,0,0,,Sí. ¿Cómo harás si me llevo la furgoneta?
+Dialogue: 0,0:11:29.81,0:11:31.19,Default,,0,0,0,,Volaré.
+Dialogue: 0,0:11:31.81,0:11:33.06,Default,,0,0,0,,Hola, un momento.
+Dialogue: 0,0:11:33.35,0:11:35.31,Default,,0,0,0,,Hola, un momento.
+Dialogue: 0,0:11:36.61,0:11:39.69,Default,,0,0,0,,Servicio Técnico,\Nhabla el Gerente de Operaciones.
+Dialogue: 0,0:11:40.61,0:11:42.70,Default,,0,0,0,,Sí, es un trabajo de verdad, Nix.
+Dialogue: 0,0:11:43.53,0:11:45.91,Default,,0,0,0,,¿Bitt? Está en el baño,
+Dialogue: 0,0:11:45.99,0:11:49.45,Default,,0,0,0,,pero tengo todo bajo... control.
+Dialogue: 0,0:11:54.33,0:11:57.34,Default,,0,0,0,,La tarta lleva fruta.
+Dialogue: 0,0:11:57.88,0:12:00.42,Default,,0,0,0,,Fruta fresca, sin conservantes.
+Dialogue: 0,0:12:02.88,0:12:06.30,Default,,0,0,0,,Necesito 200 galones\Nde productos orgánicos.
+Dialogue: 0,0:12:06.39,0:12:10.39,Default,,0,0,0,,¡Hola, lindo disfraz, Tin-Tin!\N¿Hoy dan cómics gratis?
+Dialogue: 0,0:12:10.47,0:12:12.56,Default,,0,0,0,,La tarta lleva fruta.
+Dialogue: 0,0:12:17.44,0:12:18.36,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:12:21.57,0:12:22.45,Default,,0,0,0,,¡Lo encontré!
+Dialogue: 0,0:12:26.99,0:12:28.87,Default,,0,0,0,,Bitt, soy yo, Miko.
+Dialogue: 0,0:12:29.08,0:12:32.46,Default,,0,0,0,,Sé que no estás funcionando bien\Ny que es nuestra culpa,
+Dialogue: 0,0:12:32.54,0:12:34.50,Default,,0,0,0,,pero si vuelves con nosotros...
+Dialogue: 0,0:12:37.25,0:12:39.50,Default,,0,0,0,,Por favor, solo queremos ayudarte.
+Dialogue: 0,0:12:43.72,0:12:45.30,Default,,0,0,0,,Es por tu bien, amigo.
+Dialogue: 0,0:12:48.39,0:12:49.76,Default,,0,0,0,,¡No!
+Dialogue: 0,0:12:52.89,0:12:55.48,Default,,0,0,0,,- ¿Viste lo qué hizo?\N - ¡Vamos!
+Dialogue: 0,0:12:58.61,0:13:00.57,Default,,0,0,0,,¿Todo esto por un cómic gratis?
+Dialogue: 0,0:13:01.07,0:13:03.40,Default,,0,0,0,,Servicio Técnico...\NBla, bla. ¡Adiós!
+Dialogue: 0,0:13:07.20,0:13:09.62,Default,,0,0,0,,Adelante, Bergy. ¿Todo bien por allá?
+Dialogue: 0,0:13:09.70,0:13:12.79,Default,,0,0,0,,¡Sí! ¿Todo bien con Bitt?
+Dialogue: 0,0:13:12.87,0:13:16.37,Default,,0,0,0,,- ¡Sí, totalmente!\N- ¡Genial! Ojalá esté de vuelta...
+Dialogue: 0,0:13:16.87,0:13:18.50,Default,,0,0,0,,...¡lo más pronto posible!
+Dialogue: 0,0:13:19.42,0:13:21.50,Default,,0,0,0,,Oye, nada que ver,
+Dialogue: 0,0:13:21.59,0:13:24.09,Default,,0,0,0,,pero ¿puedes subirnos alguna mejora?
+Dialogue: 0,0:13:24.17,0:13:26.47,Default,,0,0,0,,¿Algo que pueda detener a un TechBot?
+Dialogue: 0,0:13:32.47,0:13:37.14,Default,,0,0,0,,Aquí hay uno. Dice que neutralizará\Na un Glitch Tech dentro de un área.
+Dialogue: 0,0:13:37.48,0:13:41.02,Default,,0,0,0,,Pero antes de subirlo debo leer\Nlos términos y condiciones.
+Dialogue: 0,0:13:41.11,0:13:42.57,Default,,0,0,0,,¡Nadie los lee!
+Dialogue: 0,0:13:45.95,0:13:48.66,Default,,0,0,0,,Bueno. Subiendo ahora.
+Dialogue: 0,0:13:59.63,0:14:00.63,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:14:01.46,0:14:03.50,Default,,0,0,0,,¡Viva la tecnología!
+Dialogue: 0,0:14:03.80,0:14:06.30,Default,,0,0,0,,Nueva mejoría desbloqueada. PEM.
+Dialogue: 0,0:14:06.38,0:14:07.51,Default,,0,0,0,,Gracias, Bergy.
+Dialogue: 0,0:14:08.26,0:14:11.60,Default,,0,0,0,,Para eso me nombraron\NGerente de Operaciones.
+Dialogue: 0,0:14:11.76,0:14:14.22,Default,,0,0,0,,¡Resolviendo un problema a la vez!
+Dialogue: 0,0:14:19.73,0:14:21.02,Default,,0,0,0,,¡Ay, no!
+Dialogue: 0,0:14:24.73,0:14:27.07,Default,,0,0,0,,El crepé de malvavisco con chocolate.
+Dialogue: 0,0:14:32.58,0:14:33.53,Default,,0,0,0,,¿Qué...?
+Dialogue: 0,0:14:36.91,0:14:37.83,Default,,0,0,0,,Amigo...
+Dialogue: 0,0:14:40.54,0:14:42.92,Default,,0,0,0,,Le robaste a la persona equivocada.
+Dialogue: 0,0:14:43.50,0:14:46.55,Default,,0,0,0,,Bienvenido al Balde de espagueti\Nde Mama Miyamoto.
+Dialogue: 0,0:14:47.34,0:14:51.01,Default,,0,0,0,,El pastel lleva 200 galones de harina.
+Dialogue: 0,0:14:51.80,0:14:54.10,Default,,0,0,0,,Esta ventana es solo para autos.
+Dialogue: 0,0:15:00.52,0:15:04.40,Default,,0,0,0,,Bueno, entonces 200 baldes de un galón.
+Dialogue: 0,0:15:04.69,0:15:07.78,Default,,0,0,0,,¿Quieres agregar ingredientes\Npor solo 99 centavos?
+Dialogue: 0,0:15:15.58,0:15:19.16,Default,,0,0,0,,Bitt, por favor, vuelve\Nal cuartel general para repararte.
+Dialogue: 0,0:15:19.25,0:15:22.25,Default,,0,0,0,,Si lo haces, pido ir adelante\Nporque te ves genial.
+Dialogue: 0,0:15:22.33,0:15:25.29,Default,,0,0,0,,Debo completar mi programación.
+Dialogue: 0,0:15:25.38,0:15:27.50,Default,,0,0,0,,Ese programa no eres tú.
+Dialogue: 0,0:15:27.63,0:15:30.42,Default,,0,0,0,,Es un Glitch de la carpeta\Nen tu memoria.
+Dialogue: 0,0:15:30.51,0:15:32.64,Default,,0,0,0,,Piensa en Phil. Te necesita.
+Dialogue: 0,0:15:33.59,0:15:36.85,Default,,0,0,0,,Pero Galle-Tarta-Pastel es mi prioridad.
+Dialogue: 0,0:15:37.26,0:15:41.06,Default,,0,0,0,,Y tú la nuestra.\NNo nos obligues a usar la fuerza.
+Dialogue: 0,0:15:41.39,0:15:44.36,Default,,0,0,0,,Atención, se detectó un PEM.
+Dialogue: 0,0:15:47.52,0:15:51.57,Default,,0,0,0,,- ¡Me estás obligando a usar la fuerza!\N- ¡Usa la fuerza!
+Dialogue: 0,0:15:51.65,0:15:53.07,Default,,0,0,0,,PEM activado.
+Dialogue: 0,0:16:03.46,0:16:06.71,Default,,0,0,0,,¡No! Está eliminando todo. ¡Bitt!
+Dialogue: 0,0:16:12.55,0:16:15.51,Default,,0,0,0,,Tal vez sí debímos leer\Nlos términos y condiciones.
+Dialogue: 0,0:16:15.59,0:16:16.89,Default,,0,0,0,,¡No!
+Dialogue: 0,0:16:17.81,0:16:20.27,Default,,0,0,0,,Ay, Bitt, lo sentimos mucho.
+Dialogue: 0,0:16:20.52,0:16:22.27,Default,,0,0,0,,Solo queríamos ayudar.
+Dialogue: 0,0:16:22.35,0:16:26.61,Default,,0,0,0,,Tal vez este cilindro central\Npodría ser su principal procesador.
+Dialogue: 0,0:16:26.69,0:16:28.90,Default,,0,0,0,,Como su mente, su corazón o...
+Dialogue: 0,0:16:29.23,0:16:31.74,Default,,0,0,0,,Sea lo que sea, hay que llevárselo a Phil.
+Dialogue: 0,0:16:32.49,0:16:35.20,Default,,0,0,0,,Defensas de emergencia activadas.
+Dialogue: 0,0:16:35.28,0:16:37.62,Default,,0,0,0,,Reiniciándose en modo seguro.
+Dialogue: 0,0:16:37.91,0:16:39.66,Default,,0,0,0,,¿Ves? Está en modo seguro.
+Dialogue: 0,0:16:40.33,0:16:42.33,Default,,0,0,0,,Suena... seguro.
+Dialogue: 0,0:16:48.34,0:16:50.34,Default,,0,0,0,,Bitt Prime activado.
+Dialogue: 0,0:16:51.17,0:16:52.30,Default,,0,0,0,,¿Bitt Prime?
+Dialogue: 0,0:16:53.17,0:16:57.22,Default,,0,0,0,,Retomando programa prioritario.\NNo interfieran otra vez.
+Dialogue: 0,0:17:04.56,0:17:08.77,Default,,0,0,0,,¿Chicos? Adelante, chicos.\N¿Ya vienen con Bitt?
+Dialogue: 0,0:17:13.86,0:17:16.11,Default,,0,0,0,,Metimos la pata, Bergy. Realmente.
+Dialogue: 0,0:17:16.20,0:17:19.70,Default,,0,0,0,,Ese PEM no detuvo a Bitt.\NLo puso en un modo de defensa,
+Dialogue: 0,0:17:19.78,0:17:22.08,Default,,0,0,0,,y está más fuera de control\Nque antes.
+Dialogue: 0,0:17:22.16,0:17:23.41,Default,,0,0,0,,Cuando Phil sepa...
+Dialogue: 0,0:17:23.50,0:17:26.67,Default,,0,0,0,,De hecho, Phil ya sabe.\NEstá enterado de todo.
+Dialogue: 0,0:17:26.87,0:17:28.13,Default,,0,0,0,,Podemos explicarlo.
+Dialogue: 0,0:17:28.21,0:17:32.71,Default,,0,0,0,,Solo quiero saber una cosa.\N¿Dónde está mi TechBot?
+Dialogue: 0,0:17:35.59,0:17:38.09,Default,,0,0,0,,Espera.\NPhil dijo que nos quedáramos aquí.
+Dialogue: 0,0:17:38.30,0:17:42.01,Default,,0,0,0,,Nos quedaremos. Pero seguiremos\Nbuscando a Bitt mientras.
+Dialogue: 0,0:17:42.10,0:17:48.06,Default,,0,0,0,,- Ojalá tuviéramos los brazaletes.\N- No son necesarios.
+Dialogue: 0,0:17:52.23,0:17:55.74,Default,,0,0,0,,¿Por qué el programa de Bitt lo llevó\Na este viejo basurero?
+Dialogue: 0,0:18:09.33,0:18:10.33,Default,,0,0,0,,Tranquilo.
+Dialogue: 0,0:18:10.42,0:18:13.75,Default,,0,0,0,,No vinimos a detenerte esta vez.\N¿Ves? Sin brazaletes.
+Dialogue: 0,0:18:14.30,0:18:16.09,Default,,0,0,0,,Mantengan la distancia.
+Dialogue: 0,0:18:20.39,0:18:23.18,Default,,0,0,0,,¿Le decimos que es el refrigerador?
+Dialogue: 0,0:18:23.56,0:18:25.81,Default,,0,0,0,,Combinación química activada.
+Dialogue: 0,0:18:33.52,0:18:36.69,Default,,0,0,0,,Ingrese los ingredientes\Nen el orden correcto.
+Dialogue: 0,0:18:41.12,0:18:45.95,Default,,0,0,0,,Combinación completa.\NSirviendo Galle-Tarta-Pastel.
+Dialogue: 0,0:18:46.41,0:18:49.58,Default,,0,0,0,,¡Santo cielo! Resulta que\NGalle-Tarta-Pastel era...
+Dialogue: 0,0:18:49.96,0:18:53.92,Default,,0,0,0,,- ...¿un cartucho de juego?\N- ¡Qué retro! A ver.
+Dialogue: 0,0:18:54.67,0:18:56.92,Default,,0,0,0,,Personal no autorizado detectado.
+Dialogue: 0,0:19:00.72,0:19:03.51,Default,,0,0,0,,Creo que hubo un malentendido.
+Dialogue: 0,0:19:04.05,0:19:05.68,Default,,0,0,0,,Se los advertí.
+Dialogue: 0,0:19:08.14,0:19:12.19,Default,,0,0,0,,Bitt, si queda algo de nosotros\Nen tu memoria, ¡ayúdanos!
+Dialogue: 0,0:19:12.27,0:19:14.48,Default,,0,0,0,,Debo ayudar.. a...
+Dialogue: 0,0:19:14.90,0:19:16.53,Default,,0,0,0,,No es una prioridad.
+Dialogue: 0,0:19:22.07,0:19:24.37,Default,,0,0,0,,Anular toda seguridad.
+Dialogue: 0,0:19:24.53,0:19:28.95,Default,,0,0,0,,High Five y Me-K-O\Nson Técnicos Hinobi autorizados.
+Dialogue: 0,0:19:29.04,0:19:31.04,Default,,0,0,0,,¡Sí nos recuerda!
+Dialogue: 0,0:19:31.42,0:19:33.75,Default,,0,0,0,,Siguen en mi memoria,
+Dialogue: 0,0:19:34.42,0:19:39.51,Default,,0,0,0,,pero no puedo anular mi... prioridad.
+Dialogue: 0,0:19:39.63,0:19:41.05,Default,,0,0,0,,- ¡No!\N- ¡Bitt!
+Dialogue: 0,0:19:42.93,0:19:43.84,Default,,0,0,0,,¡Ay, no!
+Dialogue: 0,0:19:48.97,0:19:49.81,Default,,0,0,0,,¿Phil?
+Dialogue: 0,0:19:50.39,0:19:54.19,Default,,0,0,0,,Computadora, anula el sistema\Nde seguridad con mi autorización.
+Dialogue: 0,0:19:56.40,0:20:00.24,Default,,0,0,0,,Qué rico, rico,\Nrico en mi pancita, pancita.
+Dialogue: 0,0:20:01.20,0:20:04.57,Default,,0,0,0,,Dueño autorizado, Phil Altiere,\Nreconocido.
+Dialogue: 0,0:20:04.95,0:20:06.33,Default,,0,0,0,,Foto archivada.
+Dialogue: 0,0:20:06.41,0:20:09.08,Default,,0,0,0,,¿Quieren decirme\Nqué hacen en mi casa?
+Dialogue: 0,0:20:09.20,0:20:13.96,Default,,0,0,0,,- ¿Su casa?\N- Vaya, es... ¡genial!
+Dialogue: 0,0:20:14.67,0:20:17.59,Default,,0,0,0,,- Les hice una pregunta.\N- Queríamos ayudar...
+Dialogue: 0,0:20:17.67,0:20:20.80,Default,,0,0,0,,- En su memoria...\N- Había un archivo oculto enorme.
+Dialogue: 0,0:20:20.88,0:20:23.51,Default,,0,0,0,,¡De ahí ejecutó Galle-Tarta-Pastel!
+Dialogue: 0,0:20:24.43,0:20:28.51,Default,,0,0,0,,Eso no tuvo sentido alguno.\NVamos a preguntarle a Bitt.
+Dialogue: 0,0:20:31.06,0:20:35.65,Default,,0,0,0,,¡Hola! Soy Bitt, un entrenador de Techs\Ncon inteligencia binaria.
+Dialogue: 0,0:20:35.73,0:20:38.94,Default,,0,0,0,,Cerrando tareas completadas\Ny revisando la memoria.
+Dialogue: 0,0:20:40.03,0:20:44.11,Default,,0,0,0,,Está funcionando muy bien.\N¿Cómo liberó tanta memoria?
+Dialogue: 0,0:20:44.57,0:20:47.16,Default,,0,0,0,,Gracias a High Five y a Me-K-O,
+Dialogue: 0,0:20:47.24,0:20:51.04,Default,,0,0,0,,pude completar mi último\Nprograma ejecutado,
+Dialogue: 0,0:20:51.58,0:20:53.50,Default,,0,0,0,,y ahora ha sido eliminado.
+Dialogue: 0,0:20:53.62,0:20:55.12,Default,,0,0,0,,- ¿Qué programa?\N - El
+Dialogue: 0,0:20:55.21,0:20:57.50,Default,,0,0,0,,que tenía oculto en su memoria.
+Dialogue: 0,0:20:57.58,0:20:59.21,Default,,0,0,0,,Lo envió a buscar eso.
+Dialogue: 0,0:21:03.59,0:21:04.76,Default,,0,0,0,,¿El archivo oculto?
+Dialogue: 0,0:21:05.38,0:21:07.22,Default,,0,0,0,,- ¿Oculto por quién?\N- Espera.
+Dialogue: 0,0:21:07.30,0:21:09.10,Default,,0,0,0,,¿No fuiste tú?
+Dialogue: 0,0:21:09.51,0:21:11.72,Default,,0,0,0,,¿Siguen aquí?
+Dialogue: 0,0:21:12.10,0:21:15.77,Default,,0,0,0,,- ¡Vuelvan al cuartel y ayuden a Bergy!\N- Entonces, no...
+Dialogue: 0,0:21:15.85,0:21:19.11,Default,,0,0,0,,Por suerte no dañaron\Na mi robot de manera permanente.
+Dialogue: 0,0:21:19.56,0:21:20.73,Default,,0,0,0,,¿No es así, amigo?
+Dialogue: 0,0:21:20.82,0:21:23.78,Default,,0,0,0,,Así es, dueño autorizado,\NPhil Altiere,
+Dialogue: 0,0:21:24.03,0:21:25.82,Default,,0,0,0,,también conocido como "amigo".
+Dialogue: 0,0:21:28.78,0:21:30.37,Default,,0,0,0,,Son como un par de...
+Dialogue: 0,0:21:32.62,0:21:33.45,Default,,0,0,0,,¡Adiós!
+Dialogue: 0,0:21:43.34,0:21:44.17,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:21:44.76,0:21:49.55,Default,,0,0,0,,Hola, tú, eres... tú.\NSi no recuerdas haber hecho este video,
+Dialogue: 0,0:21:49.64,0:21:52.93,Default,,0,0,0,,es porque alguien en la compañía\Nte borró la memoria.
+Dialogue: 0,0:21:53.02,0:21:55.18,Default,,0,0,0,,Ya sabes cómo lo hacen.
+Dialogue: 0,0:21:55.27,0:21:58.69,Default,,0,0,0,,Lo bueno es que Bitt\Ntiene suficiente memoria.
+Dialogue: 0,0:21:59.19,0:22:02.44,Default,,0,0,0,,Cuando todo lo demás falle,\Nel pondrá en este cartucho
+Dialogue: 0,0:22:02.52,0:22:05.24,Default,,0,0,0,,los archivos del laboratorio\Nde desarrollo.
+Dialogue: 0,0:22:06.32,0:22:10.28,Default,,0,0,0,,Cuídalos, Phil. Serán útiles\Ncuando todo se complique.
+Dialogue: 0,0:22:42.31,0:22:45.23,Default,,0,0,0,,Subtítulos: Carolina Salazaar

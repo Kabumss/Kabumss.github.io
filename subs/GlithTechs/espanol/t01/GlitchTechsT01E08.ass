@@ -1,0 +1,316 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: GlitchTechsT01E08
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.13,0:00:11.05,Default,,0,0,0,,UNA SERIE ORIGINAL DE NETFLIX
+Dialogue: 0,0:00:15.30,0:00:16.47,Default,,0,0,0,,PIZZA Y VIDEOJUEGOS
+Dialogue: 0,0:00:16.55,0:00:17.55,Default,,0,0,0,,¡Atrápenlo!
+Dialogue: 0,0:00:18.85,0:00:21.47,Default,,0,0,0,,{\i1}¡Zoom, zoom, ka-zoom!{\i0}
+Dialogue: 0,0:00:21.56,0:00:23.77,Default,,0,0,0,,{\i1}¡Zoom, zoom, ka-zoom!{\i0}
+Dialogue: 0,0:00:25.56,0:00:26.86,Default,,0,0,0,,{\i1}¡Zoom, zoom, ka-zoom!{\i0}
+Dialogue: 0,0:00:28.02,0:00:29.23,Default,,0,0,0,,{\i1}¡Ka-zoom!{\i0}
+Dialogue: 0,0:00:29.94,0:00:31.94,Default,,0,0,0,,¡Vamos, quédate quieto!
+Dialogue: 0,0:00:35.24,0:00:36.36,Default,,0,0,0,,{\i1}¡Ka-zoom!{\i0}
+Dialogue: 0,0:00:36.45,0:00:38.45,Default,,0,0,0,,¡No tan rápido, peludo!
+Dialogue: 0,0:00:44.21,0:00:48.96,Default,,0,0,0,,Me encantaban los juegos de Zoom Kazoom,\Npero esa frase e cansa rápido.
+Dialogue: 0,0:00:49.04,0:00:52.05,Default,,0,0,0,,Lo sabemos, te gusta como suena tu nombre.
+Dialogue: 0,0:00:53.51,0:00:54.72,Default,,0,0,0,,{\i1}¡Ka-zoom!{\i0}
+Dialogue: 0,0:00:55.05,0:00:57.51,Default,,0,0,0,,Bien, Ally, vamos a destrozar ese peludo.
+Dialogue: 0,0:01:00.18,0:01:01.51,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:01:02.77,0:01:04.60,Default,,0,0,0,,{\i1}¡Zoom, zoom, ka-zoom!{\i0}
+Dialogue: 0,0:01:07.15,0:01:08.15,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:01:11.61,0:01:13.03,Default,,0,0,0,,Ally, ¿qué pasa?
+Dialogue: 0,0:01:13.69,0:01:14.99,Default,,0,0,0,,{\i1}¡Zoom, zoom!{\i0}
+Dialogue: 0,0:01:24.66,0:01:25.50,Default,,0,0,0,,¿Qué...?
+Dialogue: 0,0:01:26.00,0:01:28.00,Default,,0,0,0,,Ally, ¿a dónde fuiste, pajarito?
+Dialogue: 0,0:01:29.17,0:01:31.00,Default,,0,0,0,,¡No hay tiempo para una parada!
+Dialogue: 0,0:01:32.00,0:01:34.46,Default,,0,0,0,,¡No, Ally! ¡Has sufrido daños!
+Dialogue: 0,0:01:34.59,0:01:36.76,Default,,0,0,0,,Esto jamás había pasado.
+Dialogue: 0,0:01:41.39,0:01:44.06,Default,,0,0,0,,Five, ¡algo le pasa a Ally!
+Dialogue: 0,0:01:44.14,0:01:45.39,Default,,0,0,0,,Creo que se enfermó.
+Dialogue: 0,0:01:45.48,0:01:48.81,Default,,0,0,0,,¿A qué te refieres?\NEs un programa, no se enferma.
+Dialogue: 0,0:01:54.69,0:01:56.53,Default,,0,0,0,,Intenta reiniciarla.
+Dialogue: 0,0:01:59.53,0:02:00.37,Default,,0,0,0,,REINICIAR
+Dialogue: 0,0:02:01.99,0:02:03.08,Default,,0,0,0,,¿Te sientes mejor?
+Dialogue: 0,0:02:07.25,0:02:08.21,Default,,0,0,0,,Oh, nerds.
+Dialogue: 0,0:02:09.21,0:02:10.88,Default,,0,0,0,,¿Cómo está Ally? ¿Funcionó?
+Dialogue: 0,0:02:14.67,0:02:17.26,Default,,0,0,0,,Gracias por la distracción, novatos.
+Dialogue: 0,0:02:18.59,0:02:22.55,Default,,0,0,0,,¿Qué hacemos, Five?\NAlguna vez actuó así, pero nunca tanto.
+Dialogue: 0,0:02:22.64,0:02:24.76,Default,,0,0,0,,Esto es de otro nivel.
+Dialogue: 0,0:02:24.85,0:02:26.56,Default,,0,0,0,,Tienes razón, es malo.
+Dialogue: 0,0:02:26.64,0:02:29.02,Default,,0,0,0,,BITT, ¿me escuchas? Ally necesita ayuda.
+Dialogue: 0,0:02:31.35,0:02:33.69,Default,,0,0,0,,Lo siento, como capacitador de técnicos
+Dialogue: 0,0:02:33.77,0:02:36.44,Default,,0,0,0,,no tengo datos para diagnosticar\Na su mascota.
+Dialogue: 0,0:02:36.53,0:02:37.78,Default,,0,0,0,,¿Cómo la arreglamos?
+Dialogue: 0,0:02:37.86,0:02:38.99,Default,,0,0,0,,Ni idea.
+Dialogue: 0,0:02:39.07,0:02:41.78,Default,,0,0,0,,Oigan, Hinobi tiene un entrenador\Nde mascotas.
+Dialogue: 0,0:02:41.87,0:02:44.08,Default,,0,0,0,,Han llegado a su destino.
+Dialogue: 0,0:02:45.62,0:02:48.20,Default,,0,0,0,,Miren a esas mascotas.
+Dialogue: 0,0:02:48.71,0:02:51.79,Default,,0,0,0,,¿De verdad crees\Nque este entrenador nos ayudará?
+Dialogue: 0,0:02:51.88,0:02:54.67,Default,,0,0,0,,Emma es una entrenadora muy dedicada,
+Dialogue: 0,0:02:54.75,0:02:57.59,Default,,0,0,0,,pero camina al ritmo\Nde su propia frecuencia,
+Dialogue: 0,0:02:57.67,0:02:59.17,Default,,0,0,0,,si entienden lo que digo.
+Dialogue: 0,0:03:07.35,0:03:09.39,Default,,0,0,0,,El dulce éxito.
+Dialogue: 0,0:03:09.64,0:03:12.06,Default,,0,0,0,,¡Encontré las llaves de mi auto!
+Dialogue: 0,0:03:12.44,0:03:15.27,Default,,0,0,0,,Bueno, están en buenas manos, así que...
+Dialogue: 0,0:03:20.61,0:03:23.78,Default,,0,0,0,,¿Una aladita PNJ de primera generación?
+Dialogue: 0,0:03:23.87,0:03:27.66,Default,,0,0,0,,Sostén esto y no dejes de darle comida,\Namor y chismes de Hinobi.
+Dialogue: 0,0:03:29.83,0:03:31.21,Default,,0,0,0,,Hola, pequeñita.
+Dialogue: 0,0:03:32.67,0:03:34.71,Default,,0,0,0,,Me encantan estos pavos.
+Dialogue: 0,0:03:34.79,0:03:38.84,Default,,0,0,0,,Saben, {\i1}Bravestone Twelve{\i0}\Nes mi juego de rol favorito.
+Dialogue: 0,0:03:38.92,0:03:42.09,Default,,0,0,0,,Es mi mascota, Ally.\NNo es ella misma últimamente.
+Dialogue: 0,0:03:42.26,0:03:44.43,Default,,0,0,0,,¿Está errática, nerviosa, distraída,
+Dialogue: 0,0:03:44.51,0:03:46.76,Default,,0,0,0,,comiendo algo que no está clavado?
+Dialogue: 0,0:03:46.85,0:03:48.10,Default,,0,0,0,,Desde que la conocí.
+Dialogue: 0,0:03:49.89,0:03:52.48,Default,,0,0,0,,Así que no conoces muy bien a tu mascota.
+Dialogue: 0,0:03:52.56,0:03:55.48,Default,,0,0,0,,¿Bromeas? Sé todo de ella.
+Dialogue: 0,0:03:55.56,0:03:56.69,Default,,0,0,0,,Vuela como un avión,
+Dialogue: 0,0:03:56.77,0:04:00.28,Default,,0,0,0,,luce bien vestida de rojo,\Nodia la autoridad y ama graznar.
+Dialogue: 0,0:04:00.90,0:04:01.74,Default,,0,0,0,,¿Ves?
+Dialogue: 0,0:04:01.82,0:04:04.78,Default,,0,0,0,,Phil dijo\Nque tú podías arreglar mascotas Glitchy.
+Dialogue: 0,0:04:05.37,0:04:07.20,Default,,0,0,0,,¿Crees que se rompió?
+Dialogue: 0,0:04:07.28,0:04:10.08,Default,,0,0,0,,Bueno,\Nes una inteligencia artificial, ¿no?
+Dialogue: 0,0:04:10.16,0:04:12.50,Default,,0,0,0,,¿No puedes arreglarla con un botón?
+Dialogue: 0,0:04:14.83,0:04:17.63,Default,,0,0,0,,- Lo siento, ¿quién eres?\N- Soy Hi_5.
+Dialogue: 0,0:04:19.25,0:04:22.67,Default,,0,0,0,,No hay nada artificial\Nen la inteligencia, Hi_5.
+Dialogue: 0,0:04:26.93,0:04:28.55,Default,,0,0,0,,No tienes mascota, ¿cierto?
+Dialogue: 0,0:04:28.64,0:04:29.76,Default,,0,0,0,,No.
+Dialogue: 0,0:04:30.31,0:04:32.56,Default,,0,0,0,,¿Entonces qué quieren de mí?
+Dialogue: 0,0:04:32.64,0:04:36.69,Default,,0,0,0,,Supongo que viniste a cambiar\Nesta ave defectuosa por una nueva.
+Dialogue: 0,0:04:37.11,0:04:39.86,Default,,0,0,0,,¡De ninguna manera, señora! No sería Ally.
+Dialogue: 0,0:04:39.94,0:04:43.28,Default,,0,0,0,,Miko, Ally es un programa, ¿recuerdas?
+Dialogue: 0,0:04:43.36,0:04:45.45,Default,,0,0,0,,Nadie sabría que era una copia.
+Dialogue: 0,0:04:45.53,0:04:46.70,Default,,0,0,0,,Yo lo sabría.
+Dialogue: 0,0:04:47.66,0:04:48.70,Default,,0,0,0,,Me agradas, niña.
+Dialogue: 0,0:04:48.78,0:04:50.95,Default,,0,0,0,,Piensas con el corazón, no la mente.
+Dialogue: 0,0:04:51.04,0:04:53.45,Default,,0,0,0,,Al final, depende de ti,\Njoven humanoide,
+Dialogue: 0,0:04:53.54,0:04:55.62,Default,,0,0,0,,descubrir qué le pasa a tu mascota.
+Dialogue: 0,0:04:57.04,0:04:59.84,Default,,0,0,0,,Pero lo que puedo hacer, sí,
+Dialogue: 0,0:05:00.13,0:05:03.63,Default,,0,0,0,,es tomar algunos elementos\Nde mi juego de rol favorito
+Dialogue: 0,0:05:03.72,0:05:07.89,Default,,0,0,0,,para generar un entrenamiento\Npersonalizado que te ayude a encaminarte.
+Dialogue: 0,0:05:08.64,0:05:11.26,Default,,0,0,0,,¡Excelente! Gracias.
+Dialogue: 0,0:05:11.35,0:05:12.39,Default,,0,0,0,,Aquí está.
+Dialogue: 0,0:05:12.47,0:05:15.98,Default,,0,0,0,,Debo hackear el simulador,\Nsubir el programa y enviarte.
+Dialogue: 0,0:05:16.27,0:05:18.52,Default,,0,0,0,,¿Hackear el simulador no es peligroso?
+Dialogue: 0,0:05:18.60,0:05:21.07,Default,,0,0,0,,Es una misión para salvar a mi ave, ¡iré!
+Dialogue: 0,0:05:27.53,0:05:28.57,Default,,0,0,0,,Vamos, Ally.
+Dialogue: 0,0:05:31.20,0:05:32.29,Default,,0,0,0,,Bueno,
+Dialogue: 0,0:05:32.74,0:05:35.46,Default,,0,0,0,,me quedaré aquí hasta que regrese.
+Dialogue: 0,0:05:35.54,0:05:38.46,Default,,0,0,0,,No, ideé una pequeña prueba para ti.
+Dialogue: 0,0:05:38.54,0:05:41.88,Default,,0,0,0,,- Para ayudarte con tu mascota.\N- Pero no tengo una.
+Dialogue: 0,0:05:41.96,0:05:43.50,Default,,0,0,0,,Sí, ese es el problema.
+Dialogue: 0,0:05:47.13,0:05:49.14,Default,,0,0,0,,NIVEL DE CAPACITACIÓN\NCOMIENZA
+Dialogue: 0,0:05:51.85,0:05:55.48,Default,,0,0,0,,{\i1}¿Quién sabe qué pasa{\i0}\N{\i1}cuando un videojuego tiene un Glitch?{\i0}
+Dialogue: 0,0:05:55.89,0:05:58.14,Default,,0,0,0,,{\i1}Vienen los Glitch Techs{\i0}\N{\i1}Saben qué hacer{\i0}
+Dialogue: 0,0:05:58.23,0:06:00.44,Default,,0,0,0,,{\i1}Tienen la tecnología{\i0}\N{\i1}Y los movimientos{\i0}
+Dialogue: 0,0:06:00.52,0:06:03.90,Default,,0,0,0,,{\i1}¡Glitch Techs! ¡Los demoledores!{\i0}\N{\i1}¡Lo solucionarán!{\i0}
+Dialogue: 0,0:06:03.98,0:06:07.24,Default,,0,0,0,,{\i1}Si un Glitch está suelto{\i0}\N{\i1}¡Lo acabarán como sea!{\i0}
+Dialogue: 0,0:06:07.32,0:06:10.78,Default,,0,0,0,,{\i1}Los Glitch Techs siempre llegan{\i0}\N{\i1}¡Para resolver el problema!{\i0}
+Dialogue: 0,0:06:10.87,0:06:11.87,Default,,0,0,0,,{\i1}¡Glitch Techs!{\i0}
+Dialogue: 0,0:06:16.37,0:06:19.17,Default,,0,0,0,,{\i1}¡Glitch Techs! ¡Sí!{\i0}
+Dialogue: 0,0:06:28.34,0:06:30.51,Default,,0,0,0,,Ally, ¿dónde estamos?
+Dialogue: 0,0:06:33.51,0:06:34.97,Default,,0,0,0,,{\i1}Miko, ¿me oyes?{\i0}
+Dialogue: 0,0:06:35.47,0:06:36.81,Default,,0,0,0,,{\i1}Sí, te oigo.{\i0}
+Dialogue: 0,0:06:37.35,0:06:39.48,Default,,0,0,0,,{\i1}Bien, aprendices de mascotas.{\i0}
+Dialogue: 0,0:06:39.56,0:06:43.52,Default,,0,0,0,,{\i1}Bienvenidos a mi simulador{\i0}\N{\i1}de entrenamiento personalizado.{\i0}
+Dialogue: 0,0:06:43.61,0:06:48.24,Default,,0,0,0,,{\i1}Como fans de los JDR, algunas cosas{\i0}\N{\i1}de este mundo les resultarán familiares.{\i0}
+Dialogue: 0,0:06:48.90,0:06:52.37,Default,,0,0,0,,Más o menos.\NSi viste un nivel de lava, conoces todos.
+Dialogue: 0,0:06:52.45,0:06:54.66,Default,,0,0,0,,{\i1}Las reglas del simulador son simples.{\i0}
+Dialogue: 0,0:06:54.74,0:06:58.41,Default,,0,0,0,,{\i1}Para encontrar lo que necesitan,{\i0}\N{\i1}deben confiar en sus mascotas.{\i0}
+Dialogue: 0,0:06:58.50,0:06:59.83,Default,,0,0,0,,¿Estás lista, Ally?
+Dialogue: 0,0:07:00.58,0:07:03.17,Default,,0,0,0,,Se lo dije, señora. No tengo una mascota.
+Dialogue: 0,0:07:11.93,0:07:12.93,Default,,0,0,0,,¿Qué fue eso?
+Dialogue: 0,0:07:14.01,0:07:16.81,Default,,0,0,0,,Esto es lo opuesto a bien.
+Dialogue: 0,0:07:17.47,0:07:19.52,Default,,0,0,0,,{\i1}Parece que hay un Glitch.{\i0}
+Dialogue: 0,0:07:19.60,0:07:22.73,Default,,0,0,0,,{\i1}Deberían ir al portal{\i0}\N{\i1}de salida de inmediato.{\i0}
+Dialogue: 0,0:07:22.81,0:07:24.11,Default,,0,0,0,,Salgan. ¡Vamos!
+Dialogue: 0,0:07:24.31,0:07:26.90,Default,,0,0,0,,{\i1}El protocolo{\i0}\N{\i1}de seguridad está desconectado.{\i0}
+Dialogue: 0,0:07:27.07,0:07:28.32,Default,,0,0,0,,- ¿Emma?\N- ¿Hola?
+Dialogue: 0,0:07:31.24,0:07:33.11,Default,,0,0,0,,Miko, no te escucho.
+Dialogue: 0,0:07:33.20,0:07:34.57,Default,,0,0,0,,Nos vemos en el portal.
+Dialogue: 0,0:07:34.66,0:07:36.66,Default,,0,0,0,,{\i1}¡Bien! Ally y yo iremos...{\i0}
+Dialogue: 0,0:07:38.16,0:07:39.58,Default,,0,0,0,,¿Five?
+Dialogue: 0,0:07:40.29,0:07:42.21,Default,,0,0,0,,Tecnología Glitchy. Bien, chica.
+Dialogue: 0,0:07:42.29,0:07:45.88,Default,,0,0,0,,Lo único que debemos hacer es cruzar\Ne ir al portal. ¿Lista?
+Dialogue: 0,0:07:47.04,0:07:49.51,Default,,0,0,0,,¡Mostrémosle a Emma que somos imparables!
+Dialogue: 0,0:07:50.42,0:07:52.72,Default,,0,0,0,,{\i1}Ally y Miko{\i0}\N{\i1}Dos pájaros de una pluma{\i0}
+Dialogue: 0,0:07:52.80,0:07:55.34,Default,,0,0,0,,{\i1}Aunque solo una{\i0}\N{\i1}Es un pájaro con plumas{\i0}
+Dialogue: 0,0:07:56.93,0:07:58.93,Default,,0,0,0,,¡Ally, debemos irnos!
+Dialogue: 0,0:08:04.31,0:08:06.19,Default,,0,0,0,,Eso es, Ally. Ya casi...
+Dialogue: 0,0:08:08.73,0:08:10.99,Default,,0,0,0,,¡Las cosas se pusieron {\i1}tentaculosas!{\i0}
+Dialogue: 0,0:08:11.53,0:08:12.74,Default,,0,0,0,,Sigue.
+Dialogue: 0,0:08:18.03,0:08:21.41,Default,,0,0,0,,Ally, concéntrate.\N¡No hay tiempo para bocadillos!
+Dialogue: 0,0:08:22.66,0:08:25.08,Default,,0,0,0,,¿Qué acabo de decir?
+Dialogue: 0,0:08:25.54,0:08:26.42,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:08:38.85,0:08:40.56,Default,,0,0,0,,Ay, no, no otra vez.
+Dialogue: 0,0:08:40.81,0:08:43.94,Default,,0,0,0,,No te preocupes, amiga.\NTe guardaré hasta que sepa...
+Dialogue: 0,0:08:44.02,0:08:45.10,Default,,0,0,0,,{\i1}Acceso denegado.{\i0}
+Dialogue: 0,0:08:45.19,0:08:47.06,Default,,0,0,0,,¡Vamos! Qué raro.
+Dialogue: 0,0:08:50.53,0:08:53.49,Default,,0,0,0,,Bueno, de acuerdo.\NSaldremos en cualquier momento.
+Dialogue: 0,0:08:53.57,0:08:56.03,Default,,0,0,0,,Solo debemos ver nuestro entorno
+Dialogue: 0,0:08:56.11,0:08:58.41,Default,,0,0,0,,y una oportunidad se presentará.
+Dialogue: 0,0:09:04.41,0:09:08.25,Default,,0,0,0,,Si no podemos ir por arriba,\Ntendremos que ir por debajo.
+Dialogue: 0,0:09:10.09,0:09:13.92,Default,,0,0,0,,Bien, Five, estira. No pediste estar aquí,
+Dialogue: 0,0:09:14.01,0:09:14.88,Default,,0,0,0,,pero lo harás.
+Dialogue: 0,0:09:14.97,0:09:17.64,Default,,0,0,0,,Saldré porque como simuladores\Nde desayuno.
+Dialogue: 0,0:09:18.01,0:09:19.89,Default,,0,0,0,,A ver. Tenemos un portal,
+Dialogue: 0,0:09:19.97,0:09:21.47,Default,,0,0,0,,una puerta al portal
+Dialogue: 0,0:09:21.89,0:09:23.85,Default,,0,0,0,,y un guardia en la entrada.
+Dialogue: 0,0:09:24.93,0:09:26.39,Default,,0,0,0,,Claro, eso es normal.
+Dialogue: 0,0:09:26.48,0:09:30.77,Default,,0,0,0,,A ver, debe haber una forma de pasar,\Nuna adivinanza o un acertijo...
+Dialogue: 0,0:09:31.27,0:09:34.40,Default,,0,0,0,,¿A quién engaño? ¡Oye, feo!\N¡Ven aquí, hermano!
+Dialogue: 0,0:09:48.75,0:09:50.17,Default,,0,0,0,,Fuiste dominado.
+Dialogue: 0,0:09:57.05,0:09:58.51,Default,,0,0,0,,¿Quieren algo de esto?
+Dialogue: 0,0:09:59.89,0:10:00.76,Default,,0,0,0,,DESCONECTADO
+Dialogue: 0,0:10:00.85,0:10:03.01,Default,,0,0,0,,No puedes tener un Glitch ahora.
+Dialogue: 0,0:10:08.06,0:10:09.31,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,0:10:23.58,0:10:25.58,Default,,0,0,0,,Bien. No entran.
+Dialogue: 0,0:10:25.83,0:10:28.33,Default,,0,0,0,,Un momento, ¿por qué no entran?
+Dialogue: 0,0:10:36.38,0:10:37.72,Default,,0,0,0,,Por eso.
+Dialogue: 0,0:10:40.47,0:10:42.22,Default,,0,0,0,,¡Nerds, nerds!
+Dialogue: 0,0:11:00.24,0:11:02.28,Default,,0,0,0,,Sí, así es. ¡Y no te levantes!
+Dialogue: 0,0:11:03.12,0:11:05.70,Default,,0,0,0,,Sí. Qué bueno que llegaste, hermano.
+Dialogue: 0,0:11:05.79,0:11:09.12,Default,,0,0,0,,Estaba a punto\Nde hacer estallar a estos tontos.
+Dialogue: 0,0:11:36.44,0:11:38.15,Default,,0,0,0,,Estás roto.
+Dialogue: 0,0:11:39.24,0:11:42.78,Default,,0,0,0,,Digo, es genial. Sin ofender, amigo.
+Dialogue: 0,0:11:44.24,0:11:45.07,Default,,0,0,0,,¿Alfa?
+Dialogue: 0,0:11:46.58,0:11:48.33,Default,,0,0,0,,Te gusta Alfa, de acuerdo.
+Dialogue: 0,0:11:48.49,0:11:50.37,Default,,0,0,0,,Así que escucha, Alphie.
+Dialogue: 0,0:11:50.45,0:11:53.62,Default,,0,0,0,,Pasaba de camino al portal\Nahí en el cielo,
+Dialogue: 0,0:11:53.71,0:11:56.63,Default,,0,0,0,,pero está custodiado por esas latas\Nque apaleaste.
+Dialogue: 0,0:11:56.71,0:12:00.63,Default,,0,0,0,,Iba a ir a liquidarlas,\Npero pensé ¿por qué ser egoísta?
+Dialogue: 0,0:12:00.72,0:12:02.22,Default,,0,0,0,,Podría ayudar a este tipo
+Dialogue: 0,0:12:02.30,0:12:05.51,Default,,0,0,0,,y cederle la acción,\Ny tal vez puedas ayudarme a subir.
+Dialogue: 0,0:12:07.72,0:12:09.56,Default,,0,0,0,,¿Entiendes eso?
+Dialogue: 0,0:12:11.48,0:12:13.81,Default,,0,0,0,,Sí, así es. Vamos a subir.
+Dialogue: 0,0:12:13.89,0:12:16.23,Default,,0,0,0,,Bien, sígueme. La puerta está...
+Dialogue: 0,0:12:16.31,0:12:19.28,Default,,0,0,0,,Espere, es por allá, grandote.\N¿Adónde vas?
+Dialogue: 0,0:12:22.11,0:12:24.07,Default,,0,0,0,,Esto parece medio aterrador,
+Dialogue: 0,0:12:24.16,0:12:28.03,Default,,0,0,0,,pero Emma diseñó el nivel\Nasí que el túnel tiene una razón.
+Dialogue: 0,0:12:30.08,0:12:33.58,Default,,0,0,0,,¡Concéntrate! Juro que te alimentaré\Ncuando regresemos.
+Dialogue: 0,0:12:34.96,0:12:36.25,Default,,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:12:36.63,0:12:39.04,Default,,0,0,0,,¡Mira, Ally! ¡Una luz hacia la salida!
+Dialogue: 0,0:12:42.09,0:12:43.97,Default,,0,0,0,,O hacia nuestra muerte.
+Dialogue: 0,0:12:44.63,0:12:46.64,Default,,0,0,0,,¡Cuidado! ¡Corre!
+Dialogue: 0,0:12:48.35,0:12:50.35,Default,,0,0,0,,Buen diseño de nivel, Emma.
+Dialogue: 0,0:12:50.43,0:12:53.10,Default,,0,0,0,,"¡Este simulador\Nnecesita gusanos asesinos!"
+Dialogue: 0,0:12:57.35,0:12:59.36,Default,,0,0,0,,¿Adónde fue?
+Dialogue: 0,0:13:00.61,0:13:02.61,Default,,0,0,0,,¡Por otro lado!
+Dialogue: 0,0:13:12.66,0:13:13.62,Default,,0,0,0,,No.
+Dialogue: 0,0:13:16.00,0:13:17.08,Default,,0,0,0,,¡Ally!
+Dialogue: 0,0:13:23.34,0:13:25.26,Default,,0,0,0,,Vamos. ¿Qué haces aquí arriba?
+Dialogue: 0,0:13:38.02,0:13:39.19,Default,,0,0,0,,¿Alfa?
+Dialogue: 0,0:13:40.15,0:13:40.98,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:13:50.49,0:13:53.79,Default,,0,0,0,,Vamos, grandote.\NCreí que teníamos un trato.
+Dialogue: 0,0:13:53.87,0:13:58.04,Default,,0,0,0,,Te dije que debo subir al portal\Nen el cielo, ¿recuerdas?
+Dialogue: 0,0:14:01.71,0:14:03.55,Default,,0,0,0,,¡Sí, arriba!
+Dialogue: 0,0:14:03.88,0:14:06.05,Default,,0,0,0,,Pero esto es otro arriba.
+Dialogue: 0,0:14:06.26,0:14:07.93,Default,,0,0,0,,No quiero que subas.
+Dialogue: 0,0:14:08.01,0:14:10.09,Default,,0,0,0,,Quiero que me ayudes a subir a mí.
+Dialogue: 0,0:14:19.94,0:14:21.86,Default,,0,0,0,,¡La tuerca que le falta a Alpha!
+Dialogue: 0,0:14:22.98,0:14:26.19,Default,,0,0,0,,Entiendo, Emma.\NClásica misión de juego de aventuras.
+Dialogue: 0,0:14:27.53,0:14:29.66,Default,,0,0,0,,Con sus propios minivillanos.
+Dialogue: 0,0:14:31.32,0:14:32.16,Default,,0,0,0,,¡Chicos!
+Dialogue: 0,0:14:33.16,0:14:34.16,Default,,0,0,0,,¡Miren arriba!
+Dialogue: 0,0:14:37.79,0:14:42.29,Default,,0,0,0,,¡Alfa! Si quieres tu tuerca,\Nespero que atrapes tan bien como lanzas.
+Dialogue: 0,0:14:43.50,0:14:45.25,Default,,0,0,0,,¡Nerds, nerds!
+Dialogue: 0,0:14:54.81,0:14:57.27,Default,,0,0,0,,Amigo, creo que esto te pertenece.
+Dialogue: 0,0:15:11.20,0:15:13.28,Default,,0,0,0,,Entonces ¿estamos bien?
+Dialogue: 0,0:15:25.17,0:15:26.96,Default,,0,0,0,,AMISTAD DESBLOQUEADA
+Dialogue: 0,0:15:28.17,0:15:31.05,Default,,0,0,0,,Amigo, deberías vender boletos\Npara esa aventura.
+Dialogue: 0,0:15:31.55,0:15:35.01,Default,,0,0,0,,Me alegra ayudarte, pero ahora\Ndebo regresar a mi misión.
+Dialogue: 0,0:15:35.10,0:15:37.60,Default,,0,0,0,,Subir al portal para encontrarme con Miko.
+Dialogue: 0,0:15:45.86,0:15:47.69,Default,,0,0,0,,¿Me ofreces un aventón?
+Dialogue: 0,0:15:51.24,0:15:52.99,Default,,0,0,0,,Justo donde empezamos.
+Dialogue: 0,0:15:55.91,0:15:58.74,Default,,0,0,0,,Lo siento, amiga.\NDebería poder ayudarte.
+Dialogue: 0,0:15:58.83,0:16:00.87,Default,,0,0,0,,Debería saber qué necesitas.
+Dialogue: 0,0:16:03.12,0:16:05.46,Default,,0,0,0,,Sé que no tiene sentido estar triste.
+Dialogue: 0,0:16:05.54,0:16:08.17,Default,,0,0,0,,Esto no es real. Tú no eres real.
+Dialogue: 0,0:16:09.71,0:16:11.88,Default,,0,0,0,,Pero es lo que siento por ti.
+Dialogue: 0,0:16:15.18,0:16:16.39,Default,,0,0,0,,Muy bien.
+Dialogue: 0,0:16:16.72,0:16:18.39,Default,,0,0,0,,Tal vez no sé qué necesitas.
+Dialogue: 0,0:16:18.47,0:16:20.93,Default,,0,0,0,,Pero al menos puedo darte lo que quieres.
+Dialogue: 0,0:16:22.85,0:16:23.94,Default,,0,0,0,,Toma, amiga.
+Dialogue: 0,0:16:28.23,0:16:29.19,Default,,0,0,0,,Un momento.
+Dialogue: 0,0:16:29.69,0:16:30.94,Default,,0,0,0,,Estas no son frutas.
+Dialogue: 0,0:16:31.36,0:16:33.86,Default,,0,0,0,,¡Son potenciadores de{\i1} Bravestone Twelve!{\i0}
+Dialogue: 0,0:16:34.99,0:16:36.70,Default,,0,0,0,,¡Ese es tu juego, emplumada!
+Dialogue: 0,0:16:36.78,0:16:39.24,Default,,0,0,0,,Todo el tiempo pensé\Nque no me escuchabas.
+Dialogue: 0,0:16:39.33,0:16:41.25,Default,,0,0,0,,Pero fui yo quien no te escuchó.
+Dialogue: 0,0:16:52.09,0:16:56.34,Default,,0,0,0,,¡Cielos a Metroid, aladita!\N¡Eres un pájaro de fuego!
+Dialogue: 0,0:17:05.06,0:17:07.73,Default,,0,0,0,,Mostrémosles\Nquién dirige este juego, Ally.
+Dialogue: 0,0:17:12.94,0:17:17.82,Default,,0,0,0,,¡Todos inclínense ante el pájaro\Nmás majestuoso de {\i1}Bravestone!{\i0}
+Dialogue: 0,0:17:29.63,0:17:30.75,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:17:34.92,0:17:36.93,Default,,0,0,0,,Cuidado, vamos a pasar.
+Dialogue: 0,0:17:44.98,0:17:46.77,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:17:47.60,0:17:49.77,Default,,0,0,0,,¡Alfa y Five!
+Dialogue: 0,0:17:55.99,0:17:56.95,Default,,0,0,0,,¡Lo logramos!
+Dialogue: 0,0:17:57.74,0:17:58.99,Default,,0,0,0,,¿Dónde está Five?
+Dialogue: 0,0:18:01.58,0:18:02.74,Default,,0,0,0,,¡Miko, mira!
+Dialogue: 0,0:18:02.83,0:18:05.29,Default,,0,0,0,,Hice un amigo. Saluda, Alpha.
+Dialogue: 0,0:18:07.66,0:18:08.79,Default,,0,0,0,,Espera, ¿es Ally?
+Dialogue: 0,0:18:09.92,0:18:13.09,Default,,0,0,0,,- Había unas chatarras...\N- Ally perdía plumas...
+Dialogue: 0,0:18:13.17,0:18:16.34,Default,,0,0,0,,- ...y pensé "¿Por qué?"...\N- ...y él era aterrador...
+Dialogue: 0,0:18:16.42,0:18:18.51,Default,,0,0,0,,- ...el rey...\N- ...potenciadores...
+Dialogue: 0,0:18:21.80,0:18:22.76,Default,,0,0,0,,Oh, nerds.
+Dialogue: 0,0:18:23.18,0:18:25.06,Default,,0,0,0,,¡Modo villano!
+Dialogue: 0,0:18:25.14,0:18:28.27,Default,,0,0,0,,- Liquidémoslo. ¡Somos cuatro!\N- El portal se cierra.
+Dialogue: 0,0:18:29.85,0:18:31.81,Default,,0,0,0,,¡No! ¿Por qué, portal?
+Dialogue: 0,0:18:32.06,0:18:34.32,Default,,0,0,0,,Sea lo que sea, debemos actuar rápido.
+Dialogue: 0,0:18:41.91,0:18:43.91,Default,,0,0,0,,Hagámoslo rápido, Ally.
+Dialogue: 0,0:18:51.17,0:18:52.33,Default,,0,0,0,,¡Come esto!
+Dialogue: 0,0:18:53.84,0:18:55.17,Default,,0,0,0,,Y lo hizo.
+Dialogue: 0,0:18:56.67,0:18:58.51,Default,,0,0,0,,¡Vamos, Alfa!
+Dialogue: 0,0:18:58.59,0:18:59.63,Default,,0,0,0,,¡Bola de fuego!
+Dialogue: 0,0:18:59.97,0:19:01.18,Default,,0,0,0,,¡Bola de fuego!
+Dialogue: 0,0:19:05.18,0:19:06.81,Default,,0,0,0,,- ¡Ally!\N- ¡Miko!
+Dialogue: 0,0:19:07.43,0:19:09.69,Default,,0,0,0,,¡Alfa, nuestros amigos nos necesitan!
+Dialogue: 0,0:19:18.57,0:19:19.86,Default,,0,0,0,,¡Ally está atrapada!
+Dialogue: 0,0:19:23.87,0:19:25.03,Default,,0,0,0,,¡Gracias, Alfa!
+Dialogue: 0,0:19:25.99,0:19:28.45,Default,,0,0,0,,No podemos pasar esta cosa. ¿Qué haremos?
+Dialogue: 0,0:19:30.41,0:19:31.50,Default,,0,0,0,,No.
+Dialogue: 0,0:19:31.67,0:19:33.29,Default,,0,0,0,,¡Ven con nosotros, Alfa!
+Dialogue: 0,0:19:47.51,0:19:49.14,Default,,0,0,0,,¡No, espera!
+Dialogue: 0,0:19:57.90,0:19:58.73,Default,,0,0,0,,¡Alfa!
+Dialogue: 0,0:20:15.00,0:20:16.54,Default,,0,0,0,,¡Alfa!
+Dialogue: 0,0:20:27.01,0:20:28.39,Default,,0,0,0,,Ahí están.
+Dialogue: 0,0:20:29.39,0:20:31.68,Default,,0,0,0,,Vaya, ¿cómo estuvo?
+Dialogue: 0,0:20:31.77,0:20:33.35,Default,,0,0,0,,Cuéntenme todo.
+Dialogue: 0,0:20:33.52,0:20:36.77,Default,,0,0,0,,¿Cómo estuvo?\NTu programa loco tenía Glitches.
+Dialogue: 0,0:20:36.86,0:20:39.73,Default,,0,0,0,,Quedamos atrapados sin brazaletes,\Nsin comunicarnos,
+Dialogue: 0,0:20:39.82,0:20:41.44,Default,,0,0,0,,- y sin...\N- Sigue.
+Dialogue: 0,0:20:42.82,0:20:45.49,Default,,0,0,0,,Le pusiste un Glitch a propósito, ¿no?
+Dialogue: 0,0:20:45.86,0:20:50.49,Default,,0,0,0,,Te dije que mi nivel de entrenamiento\Nfue diseñado para enseñarte sobre tu ave.
+Dialogue: 0,0:20:50.58,0:20:53.66,Default,,0,0,0,,Una mascota es una relación, Miko.
+Dialogue: 0,0:20:53.75,0:20:55.71,Default,,0,0,0,,No hay beneficio sin esfuerzo.
+Dialogue: 0,0:20:55.83,0:20:59.09,Default,,0,0,0,,Y cuando se trata del cuidado\Ny alimentación de tu ave,
+Dialogue: 0,0:20:59.17,0:21:02.59,Default,,0,0,0,,te sugiero que leas las instrucciones.
+Dialogue: 0,0:21:02.67,0:21:05.09,Default,,0,0,0,,¿Debo leer las nueve páginas?
+Dialogue: 0,0:21:05.18,0:21:07.18,Default,,0,0,0,,MANUAL DE USUARIO
+Dialogue: 0,0:21:07.22,0:21:09.43,Default,,0,0,0,,Las cosas que hago por ti, Ally.
+Dialogue: 0,0:21:11.72,0:21:13.10,Default,,0,0,0,,Estás callado, Hi_5.
+Dialogue: 0,0:21:13.52,0:21:14.98,Default,,0,0,0,,¿Por qué tan emo, Nemo?
+Dialogue: 0,0:21:16.56,0:21:19.90,Default,,0,0,0,,Emma, en la simulación, conocí a alguien.
+Dialogue: 0,0:21:22.82,0:21:26.28,Default,,0,0,0,,Esta edición exclusiva Alpha Mech\Nde {\i1}Bravestone Twelve.{\i0}
+Dialogue: 0,0:21:26.36,0:21:29.70,Default,,0,0,0,,Puedo replicar una nueva para ti,\Nsi quieres.
+Dialogue: 0,0:21:29.99,0:21:31.95,Default,,0,0,0,,No quiero un nuevo Alfa.
+Dialogue: 0,0:21:32.04,0:21:33.79,Default,,0,0,0,,Quiero mi Alfa.
+Dialogue: 0,0:21:35.08,0:21:37.71,Default,,0,0,0,,No es tan reemplazable como creías, ¿no?
+Dialogue: 0,0:21:37.83,0:21:40.04,Default,,0,0,0,,La realidad no está solo aquí, amigo.
+Dialogue: 0,0:21:40.54,0:21:41.75,Default,,0,0,0,,También está aquí.
+Dialogue: 0,0:21:49.51,0:21:50.68,Default,,0,0,0,,¡Alfa!
+Dialogue: 0,0:21:52.26,0:21:54.31,Default,,0,0,0,,Pensé que te había perdido, amigo.
+Dialogue: 0,0:21:55.52,0:21:57.52,Default,,0,0,0,,Parece que tengo una mascota.
+Dialogue: 0,0:22:01.77,0:22:04.07,Default,,0,0,0,,El manual dice que hay más dulces
+Dialogue: 0,0:22:04.15,0:22:06.61,Default,,0,0,0,,que pueden enseñarte todo tipo de trucos.
+Dialogue: 0,0:22:06.70,0:22:09.74,Default,,0,0,0,,Esperen a ver qué hacen estos bebés.
+Dialogue: 0,0:22:42.31,0:22:45.23,Default,,0,0,0,,Subtítulos: Pilar Arias
