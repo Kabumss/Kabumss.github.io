@@ -371,8 +371,9 @@ function loadSubtitles() {
     }
     if (Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length !== 0) {
         $('.mejs__captions-button').css('display', '');
+        alert(window.location.protocol + "//" + window.location.host + subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src']);
         $.ajax({
-            url: window.location.protocol + "//" + window.location.host +  subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src'],
+            url: window.location.protocol + "//" + window.location.host + subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src'],
             dataType: "text",
             async: false,
             success: (data) => {
