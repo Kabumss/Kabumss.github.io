@@ -376,26 +376,21 @@ function loadSubtitles() {
             dataType: "text",
             async: false,
             success: (data) => {
-                alert(data);
-                alert(window.location.protocol + "//" + window.location.host + subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src']);
                 subtitles = data;
                 window.octopusInstance.setTrack(data);
             }
         });
-        alert("1");
         for (i = 1; i <= Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length; i++) {
             $('.mejs__captions-selector-list-item:eq(' + i + ')').css('display', '');
             //$('#sub' + i).attr('src', subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['src']);
             $('#sub' + i).attr('label', data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['label']);
         }
-        alert("2");
         /*mejsPlayer.findTracks();
          mejsPlayer.loadTrack(0); */
-        for (i = 1; i <= Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length; i++) {
+        /*for (i = 1; i <= Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length; i++) {
             $('.mejs__captions-selector-label:eq(' + i + ')').html(data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['label']);
-        }
+        } */
         $('.mejs__captions-selected').trigger('click');
-        alert("3");
     } else {
         $('#mep_0_captions_none').trigger('click');
         $('.mejs__captions-button').attr('style', 'display: none');
