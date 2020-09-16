@@ -6,8 +6,11 @@ $(document).ready(function () {
     if (url.length === 4) {
         loadPlayer();
         $('#homePage').css('display', 'none');
+        alert("7");
         $('#module').css('display', '');
+        alert("8");
         $('#module').prepend('<h3>' + data[url[0]]['info']['video']['title'] + '</h3>' + '<p class="collapse" id="collapseDescription" aria-expanded="false">' + data[url[0]]['info']['video']['description'] + '</p>');
+        alert("9");
     } else {
         gtag('config', 'G-TVDT8FN44H', {'page_path': '/home'});
         utterances('Kabums');
@@ -68,11 +71,9 @@ $(document).on('click', '.mejs__playlist-selector-list-item', function () {
     window.parent.location.hash = url[0] + '/' + url[1] + '/E' + (parseInt($(this).index()) + 1) + '/' + url[3];
     url = window.parent.location.hash.split("/");
     loadSubtitles();
-    alert("1");
     mejsPlayer.play();
     gtag('config', 'G-TVDT8FN44H', {'page_path': '/' + window.parent.location.hash});
     utterances(url);
-    alert("2");
 });
 
 $(document).on('change', '#info', function () {
@@ -309,13 +310,20 @@ function loadPlayer() {
     $("[title='Selector de idioma']").attr("aria-label", "Selector de idioma");
     $("[title='Selector de idioma']").html('<i class="fas fa-headphones" style="font-size: 20px;"></i>');
     $('.mejs__playlist-selector-list-item:eq(' + (parseInt(window.parent.location.hash.split("/")[2].slice(1)) - 1) + ')').trigger('click');
+    alert("1");
     mejsPlayer.pause();
+    alert("2");
     $('#mep_0_captions_none').trigger('click');
+    alert("3");
     $('.mejs__playlist-layer').removeClass('mejs__playlist-hidden');
+    alert("4");
     $('.mejs__poster').css('display', '');
+    alert("5");
     destroy = false;
     adsSW = false;
+    alert("6");
     initADS();
+    alert("7");
 }
 
 function changeContent(url) {
