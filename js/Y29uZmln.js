@@ -99,6 +99,7 @@ $(document).on('click', ".home-btn", function () {
 
 $(document).on('click', '.pushy-link', function () {
     var url;
+    alert("aaa");
     window.scrollTo(0, 0);
     window.parent.location.hash = $('.pushy-link:eq(' + $(this).index() + ') > a').attr('href');
     url = window.parent.location.hash.split("/");
