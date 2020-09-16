@@ -308,7 +308,7 @@ function loadPlayer() {
     $("[title='Selector de idioma']").html('<i class="fas fa-headphones" style="font-size: 20px;"></i>');
     $('.mejs__playlist-selector-list-item:eq(' + (parseInt(window.parent.location.hash.split("/")[2].slice(1)) - 1) + ')').trigger('click');
     mejsPlayer.pause();
-    //$('#mep_0_captions_none').trigger('click');
+    $('#mep_0_captions_none').trigger('click');
     $('.mejs__playlist-layer').removeClass('mejs__playlist-hidden');
     $('.mejs__poster').css('display', '');
     destroy = false;
@@ -385,12 +385,12 @@ function loadSubtitles() {
             //$('#sub' + i).attr('src', subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['src']);
             $('#sub' + i).attr('label', data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['label']);
         }
-        /*mejsPlayer.findTracks();
-         mejsPlayer.loadTrack(0); */
+        mejsPlayer.findTracks();
+        mejsPlayer.loadTrack(0);
         for (i = 1; i <= Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length; i++) {
             $('.mejs__captions-selector-label:eq(' + i + ')').html(data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['label']);
         }
-        //$('.mejs__captions-selected').trigger('click');
+        $('.mejs__captions-selected').trigger('click');
     } else {
         $('#mep_0_captions_none').trigger('click');
         $('.mejs__captions-button').attr('style', 'display: none');
