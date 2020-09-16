@@ -197,13 +197,11 @@ $(document).on('click', '[title="Pantalla completa"]', function () {
 });
 
 function loadPlayer() {
-    alert("1");
     var url = window.parent.location.hash.split("/");
     var videoPlayer = '<video id="srcVideo" controls preload="none" poster="' + data[url[0]]['info']['video']['poster'] + '" playsinline>';
     var select = '<select id="info" class="custom-select custom-select-sm text-white" style="background-color: #2a2a2e;" >'; //#222222 //#7a7a7a
     var numl;
     let i;
-    alert("2");
     url[1] = url[1].replace('_', ' ');
     for (i = 1; i <= Object.keys(data[url[0]][url[1]]).length; i++) {
         if (parseInt(url[3].slice(1)) <= Object.keys(data[url[0]][url[1]]['E' + i]['video']).length) {
@@ -218,7 +216,6 @@ function loadPlayer() {
             videoPlayer += 'type="video/mp4" >';
         }
     }
-    alert("3");
     videoPlayer += '</video>';
     $('#content').html(videoPlayer);
     if (subsURL !== '5yktms21bkvr08g1zg6uxg-on.drv.tw') {
@@ -229,7 +226,6 @@ function loadPlayer() {
     for (i = 1; i <= 5; i++) {
         $('#srcVideo').append('<track id="sub' + i + '" src="' + subsURL + '/subs/none.ass" srclang="none" label="" kind="subtitles" type="application/x-ass">');
     }
-    alert("4");
     mejs.i18n.language('es');
     mejsPlayer = new MediaElementPlayer(document.querySelectorAll('video')[0], {
         success: function (player, node) {
@@ -299,26 +295,38 @@ function loadPlayer() {
         autoClosePlaylist: true,
         features: ['playpause', 'current', 'progress', 'duration', 'speed', 'tracks', 'quality', 'volume', 'fullscreen', 'prevtrack', 'playlist', 'nexttrack']
     });
-    alert("5");
+    alert("1");
     $('#srcVideo_html5 > source').remove();
+    alert("2");
     $('.mejs__playlist-layer, .mejs__layer mejs__playlist-selector').css({"z-index": "2"});
+    alert("3");
     for (i = 1; i <= Object.keys(data[url[0]]['info']['season']).length; i++) {
         select += '<option value="' + data[url[0]]['info']['season']['i' + i] + '">' + data[url[0]]['info']['season']['i' + i] + '</option>';
     }
     select += '</select>';
+    alert("4");
     $('.mejs__playlist-selector-list').before(select);
+    alert("5");
     $("#info").val(url[1]);
+    alert("6");
     $("[aria-label='Selector de calidad']").attr("title", "Selector de idioma");
+    alert("7");
     $("[title='Selector de idioma']").attr("aria-label", "Selector de idioma");
+    alert("8");
     $("[title='Selector de idioma']").html('<i class="fas fa-headphones" style="font-size: 20px;"></i>');
+    alert("9");
     $('.mejs__playlist-selector-list-item:eq(' + (parseInt(window.parent.location.hash.split("/")[2].slice(1)) - 1) + ')').trigger('click');
+    alert("10");
     mejsPlayer.pause();
+    alert("11");
     $('#mep_0_captions_none').trigger('click');
+    alert("12");
     $('.mejs__playlist-layer').removeClass('mejs__playlist-hidden');
+    alert("13");
     $('.mejs__poster').css('display', '');
+    alert("14");
     destroy = false;
     adsSW = false;
-    alert("6");
     initADS();
 }
 
