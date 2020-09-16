@@ -3,6 +3,8 @@ var adsManager, adsLoader, adDisplayContainer, videoContent, adsInitialized, ads
 
 $(document).ready(function () {
     var url = window.parent.location.hash.split("/");
+    url[1] = url[1].replace('_', ' ');
+    alert(window.location.protocol + "//" + window.location.host + subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src']);
     if (url.length === 4) {
         loadPlayer();
         $('#homePage').css('display', 'none');
@@ -371,7 +373,6 @@ function loadSubtitles() {
     }
     if (Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length !== 0) {
         $('.mejs__captions-button').css('display', '');
-        alert(window.location.protocol + "//" + window.location.host + subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src']);
         $.ajax({
             url: window.location.protocol + "//" + window.location.host + subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src'],
             dataType: "text",
