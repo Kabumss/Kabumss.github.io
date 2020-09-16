@@ -2,8 +2,9 @@ var mejsPlayer, language = new Array(), sw = false, play = false, collapse = fal
 var adsManager, adsLoader, adDisplayContainer, videoContent, adsInitialized, adsPlay = new Array(), destroy = false, adsSW = false, timeADS, verification2 = false, advUrl = 'https://vast.yomeno.xyz/?tcid=3344';
 
 $(document).ready(function () {
-    alert("aa");
     var url = window.parent.location.hash.split("/");
+    url[1] = url[1].replace('_', ' ');
+    alert(    window.location.protocol + "//" + window.location.host + subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src']);
     if (url.length === 4) {
         loadPlayer();
         $('#homePage').css('display', 'none');
@@ -99,7 +100,6 @@ $(document).on('click', ".home-btn", function () {
 
 $(document).on('click', '.pushy-link', function () {
     var url;
-    alert("aaa");
     window.scrollTo(0, 0);
     window.parent.location.hash = $('.pushy-link:eq(' + $(this).index() + ') > a').attr('href');
     url = window.parent.location.hash.split("/");
