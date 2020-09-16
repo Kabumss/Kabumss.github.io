@@ -67,7 +67,9 @@ $(document).on('click', '.mejs__playlist-selector-list-item', function () {
     }
     window.parent.location.hash = url[0] + '/' + url[1] + '/E' + (parseInt($(this).index()) + 1) + '/' + url[3];
     url = window.parent.location.hash.split("/");
+    alert("1");
     loadSubtitles();
+    alert("2");
     mejsPlayer.play();
     gtag('config', 'G-TVDT8FN44H', {'page_path': '/' + window.parent.location.hash});
     utterances(url);
@@ -295,36 +297,22 @@ function loadPlayer() {
         autoClosePlaylist: true,
         features: ['playpause', 'current', 'progress', 'duration', 'speed', 'tracks', 'quality', 'volume', 'fullscreen', 'prevtrack', 'playlist', 'nexttrack']
     });
-    alert("1");
     $('#srcVideo_html5 > source').remove();
-    alert("2");
     $('.mejs__playlist-layer, .mejs__layer mejs__playlist-selector').css({"z-index": "2"});
-    alert("3");
     for (i = 1; i <= Object.keys(data[url[0]]['info']['season']).length; i++) {
         select += '<option value="' + data[url[0]]['info']['season']['i' + i] + '">' + data[url[0]]['info']['season']['i' + i] + '</option>';
     }
     select += '</select>';
-    alert("4");
     $('.mejs__playlist-selector-list').before(select);
-    alert("5");
     $("#info").val(url[1]);
-    alert("6");
     $("[aria-label='Selector de calidad']").attr("title", "Selector de idioma");
-    alert("7");
     $("[title='Selector de idioma']").attr("aria-label", "Selector de idioma");
-    alert("8");
     $("[title='Selector de idioma']").html('<i class="fas fa-headphones" style="font-size: 20px;"></i>');
-    alert("9");
     $('.mejs__playlist-selector-list-item:eq(' + (parseInt(window.parent.location.hash.split("/")[2].slice(1)) - 1) + ')').trigger('click');
-    alert("10");
     mejsPlayer.pause();
-    alert("11");
     $('#mep_0_captions_none').trigger('click');
-    alert("12");
     $('.mejs__playlist-layer').removeClass('mejs__playlist-hidden');
-    alert("13");
     $('.mejs__poster').css('display', '');
-    alert("14");
     destroy = false;
     adsSW = false;
     initADS();
