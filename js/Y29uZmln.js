@@ -67,9 +67,7 @@ $(document).on('click', '.mejs__playlist-selector-list-item', function () {
     }
     window.parent.location.hash = url[0] + '/' + url[1] + '/E' + (parseInt($(this).index()) + 1) + '/' + url[3];
     url = window.parent.location.hash.split("/");
-    alert("1");
     loadSubtitles();
-    alert("2");
     mejsPlayer.play();
     gtag('config', 'G-TVDT8FN44H', {'page_path': '/' + window.parent.location.hash});
     utterances(url);
@@ -373,6 +371,7 @@ function loadSubtitles() {
     }
     if (Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length !== 0) {
         $('.mejs__captions-button').css('display', '');
+        alert("1");
         $.ajax({
             url: window.location.protocol + "//" + window.location.host + subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s1']['src'],
             dataType: "text",
@@ -382,6 +381,7 @@ function loadSubtitles() {
                 window.octopusInstance.setTrack(data);
             }
         });
+        alert("2");
         for (i = 1; i <= Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length; i++) {
             $('.mejs__captions-selector-list-item:eq(' + i + ')').css('display', '');
             //$('#sub' + i).attr('src', subsURL + data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['src']);
