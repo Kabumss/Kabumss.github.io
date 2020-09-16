@@ -387,10 +387,11 @@ function loadSubtitles() {
         }
         /*mejsPlayer.findTracks();
          mejsPlayer.loadTrack(0); */
-        /*for (i = 1; i <= Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length; i++) {
+        for (i = 1; i <= Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length; i++) {
             $('.mejs__captions-selector-label:eq(' + i + ')').html(data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['label']);
-        } */
-        $('.mejs__captions-selected').trigger('click');
+        } 
+        alert("1");
+        //$('.mejs__captions-selected').trigger('click');
     } else {
         $('#mep_0_captions_none').trigger('click');
         $('.mejs__captions-button').attr('style', 'display: none');
