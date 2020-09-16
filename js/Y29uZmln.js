@@ -6,7 +6,9 @@ $(document).ready(function () {
     if (url.length === 4) {
         loadPlayer();
         $('#homePage').css('display', 'none');
+        alert("3");
         $('#module').css('display', '');
+        alert("4");
         $('#module').prepend('<h3>' + data[url[0]]['info']['video']['title'] + '</h3>' + '<p class="collapse" id="collapseDescription" aria-expanded="false">' + data[url[0]]['info']['video']['description'] + '</p>');
     } else {
         gtag('config', 'G-TVDT8FN44H', {'page_path': '/home'});
@@ -313,7 +315,9 @@ function loadPlayer() {
     $('.mejs__poster').css('display', '');
     destroy = false;
     adsSW = false;
+    alert("1");
     initADS();
+    alert("2");
 }
 
 function changeContent(url) {
@@ -389,8 +393,7 @@ function loadSubtitles() {
          mejsPlayer.loadTrack(0); */
         for (i = 1; i <= Object.keys(data[url[0]][url[1]][url[2]]['subtitles']).length; i++) {
             $('.mejs__captions-selector-label:eq(' + i + ')').html(data[url[0]][url[1]][url[2]]['subtitles']['s' + i]['label']);
-        } 
-        alert("1");
+        }
         //$('.mejs__captions-selected').trigger('click');
     } else {
         $('#mep_0_captions_none').trigger('click');
