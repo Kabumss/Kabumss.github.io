@@ -6,9 +6,7 @@ $(document).ready(function () {
     if (url.length === 4) {
         loadPlayer();
         $('#homePage').css('display', 'none');
-        alert("3");
         $('#module').css('display', '');
-        alert("4");
         $('#module').prepend('<h3>' + data[url[0]]['info']['video']['title'] + '</h3>' + '<p class="collapse" id="collapseDescription" aria-expanded="false">' + data[url[0]]['info']['video']['description'] + '</p>');
     } else {
         gtag('config', 'G-TVDT8FN44H', {'page_path': '/home'});
@@ -70,9 +68,11 @@ $(document).on('click', '.mejs__playlist-selector-list-item', function () {
     window.parent.location.hash = url[0] + '/' + url[1] + '/E' + (parseInt($(this).index()) + 1) + '/' + url[3];
     url = window.parent.location.hash.split("/");
     loadSubtitles();
+    alert("1");
     mejsPlayer.play();
     gtag('config', 'G-TVDT8FN44H', {'page_path': '/' + window.parent.location.hash});
     utterances(url);
+    alert("2");
 });
 
 $(document).on('change', '#info', function () {
@@ -315,9 +315,7 @@ function loadPlayer() {
     $('.mejs__poster').css('display', '');
     destroy = false;
     adsSW = false;
-    alert("1");
     initADS();
-    alert("2");
 }
 
 function changeContent(url) {
