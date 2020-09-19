@@ -186,10 +186,8 @@ Dialogue: 0,0:10:47.09,0:10:48.68,Default,,0,0,0,,¡León!
 
         </div>
         <script>
-            if (window.parent.swSub === true) {
-                window.parent.subtitles = document.getElementById("subASS").textContent;
-                window.parent.octopusInstance.setTrack(window.parent.subtitles);
-            }
+            window.parent.subtitles = document.getElementById("subASS").textContent;
+            window.parent.octopusInstance.setTrack(window.parent.subtitles);
             window.parent.swSub = false;
         </script>
     </body>

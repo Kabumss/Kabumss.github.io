@@ -398,10 +398,8 @@ Dialogue: 0,0:21:29.20,0:21:31.41,Default,,0,0,0,,Déjenmelo a mí.
 
         </div>
         <script>
-            if (window.parent.swSub === true) {
-                window.parent.subtitles = document.getElementById("subASS").textContent;
-                window.parent.octopusInstance.setTrack(window.parent.subtitles);
-            }
+            window.parent.subtitles = document.getElementById("subASS").textContent;
+            window.parent.octopusInstance.setTrack(window.parent.subtitles);
             window.parent.swSub = false;
         </script>
     </body>

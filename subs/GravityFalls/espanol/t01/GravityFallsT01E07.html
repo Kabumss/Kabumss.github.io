@@ -363,10 +363,8 @@ Dialogue: 0,0:22:31.22,0:22:32.22,Default,,0,0,0,,Lo encontré.
 
         </div>
         <script>
-            if (window.parent.swSub === true) {
-                window.parent.subtitles = document.getElementById("subASS").textContent;
-                window.parent.octopusInstance.setTrack(window.parent.subtitles);
-            }
+            window.parent.subtitles = document.getElementById("subASS").textContent;
+            window.parent.octopusInstance.setTrack(window.parent.subtitles);
             window.parent.swSub = false;
         </script>
     </body>

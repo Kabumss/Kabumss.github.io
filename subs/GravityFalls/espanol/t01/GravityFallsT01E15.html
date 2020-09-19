@@ -388,10 +388,8 @@ Dialogue: 0,0:21:00.17,0:21:03.67,Default,,0,0,0,,¡Niños, traigan las espátul
 
         </div>
         <script>
-            if (window.parent.swSub === true) {
-                window.parent.subtitles = document.getElementById("subASS").textContent;
-                window.parent.octopusInstance.setTrack(window.parent.subtitles);
-            }
+            window.parent.subtitles = document.getElementById("subASS").textContent;
+            window.parent.octopusInstance.setTrack(window.parent.subtitles);
             window.parent.swSub = false;
         </script>
     </body>

@@ -1458,10 +1458,8 @@ Dialogue: 0,1:22:24.41,1:22:45.90,Default,,0,0,0,,.WwW.DescargatePelis.com.
 
         </div>
         <script>
-            if (window.parent.swSub === true) {
-                window.parent.subtitles = document.getElementById("subASS").textContent;
-                window.parent.octopusInstance.setTrack(window.parent.subtitles);
-            }
+            window.parent.subtitles = document.getElementById("subASS").textContent;
+            window.parent.octopusInstance.setTrack(window.parent.subtitles);
             window.parent.swSub = false;
         </script>
     </body>
