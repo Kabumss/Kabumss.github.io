@@ -2,6 +2,11 @@
 <html>
     <head>
 		<meta name="robots" content="noindex">
+        <script>
+            if('/cartoons.html' === window.parent.location.pathname) {
+               window.location.replace(window.location.protocol + "//" + window.location.host);
+            }
+        </script>
         <title>Kabums</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -239,8 +244,8 @@
                 <div id="utterances"></div>
             </div>
         </div>
-        <iframe id="sub" src="#" style="display: none"></iframe>
-        <iframe id="ZGF0YQ" src="#" style="display: none"></iframe>
+        <iframe id="sub" src="0.html" style="display: none"></iframe>
+        <iframe id="ZGF0YQ" src="0.html" style="display: none"></iframe>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelement-and-player.min.js" ></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/lang/es.min.js" ></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/quality/quality.min.js"></script>
