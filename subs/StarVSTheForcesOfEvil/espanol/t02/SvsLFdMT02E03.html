@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <div id="subASS">
+            ﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 03 Star sobre ruedas - Atrápala
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.71,0:00:08.30,Default,,0,0,0,,{\fs54}Será un poco raro
+Dialogue: 0,0:00:08.38,0:00:10.09,Default,,0,0,0,,{\fs54}Será un poco salvaje
+Dialogue: 0,0:00:10.17,0:00:11.72,Default,,0,0,0,,{\fs54}No soy de por aquí
+Dialogue: 0,0:00:11.80,0:00:13.47,Default,,0,0,0,,{\fs54}Soy de otra dimensión
+Dialogue: 0,0:00:13.55,0:00:14.93,Default,,0,0,0,,{\fs54}Será un poco raro
+Dialogue: 0,0:00:15.01,0:00:16.76,Default,,0,0,0,,{\fs54}¡Será divertido!
+Dialogue: 0,0:00:16.85,0:00:18.31,Default,,0,0,0,,{\fs54}No soy de por aquí
+Dialogue: 0,0:00:18.43,0:00:20.77,Default,,0,0,0,,{\fs54}Soy de otra...
+Dialogue: 0,0:00:22.64,0:00:24.35,Default,,0,0,0,,{\fs54}¡Sí!
+Dialogue: 0,0:00:25.81,0:00:27.65,Default,,0,0,0,,{\fs54}Hablo de arcoíris
+Dialogue: 0,0:00:27.73,0:00:29.32,Default,,0,0,0,,{\fs54}Y de cachorros
+Dialogue: 0,0:00:33.03,0:00:34.95,Default,,0,0,0,,{\fs54}Será un poco raro
+Dialogue: 0,0:00:35.07,0:00:36.70,Default,,0,0,0,,{\fs54}Será un poco salvaje
+Dialogue: 0,0:00:36.78,0:00:38.28,Default,,0,0,0,,{\fs54}No soy de por aquí
+Dialogue: 0,0:00:38.37,0:00:41.66,Default,,0,0,0,,{\fs54}Soy de otra dimensión
+Dialogue: 0,0:00:48.17,0:00:50.05,Default,,0,0,0,,{\fs54}¡Más rápido, Marco!
+Dialogue: 0,0:00:53.30,0:00:54.68,Default,,0,0,0,,{\fs54}¡Vamos!
+Dialogue: 0,0:00:55.55,0:00:56.64,Default,,0,0,0,,{\fs54}¡Escaleras!
+Dialogue: 0,0:01:02.77,0:01:04.31,Default,,0,0,0,,{\fs54}Ya basta.
+Dialogue: 0,0:01:04.44,0:01:07.86,Default,,0,0,0,,{\fs54}Si te gusta, debes aprender a andar sola.
+Dialogue: 0,0:01:07.98,0:01:10.02,Default,,0,0,0,,{\fs54}¿Se puede?
+Dialogue: 0,0:01:10.15,0:01:12.40,Default,,0,0,0,,{\fs54}¡Enséñame! ¡Enséñame!
+Dialogue: 0,0:01:14.57,0:01:16.78,Default,,0,0,0,,{\fs54}¿No dejarás que me caiga?
+Dialogue: 0,0:01:16.86,0:01:18.82,Default,,0,0,0,,{\fs54}No, te sostengo.
+Dialogue: 0,0:01:19.33,0:01:21.45,Default,,0,0,0,,{\fs54}- ¿No me soltarás?\N- No lo haré.
+Dialogue: 0,0:01:21.54,0:01:25.58,Default,,0,0,0,,{\fs54}- ¿Lo prometes?\N- Sí, lo prometo, Star.
+Dialogue: 0,0:01:25.66,0:01:27.25,Default,,0,0,0,,{\fs54}Bien, ¡vamos!
+Dialogue: 0,0:01:27.33,0:01:28.58,Default,,0,0,0,,{\fs54}Bien, aguarda.
+Dialogue: 0,0:01:28.67,0:01:30.88,Default,,0,0,0,,{\fs54}Primero, no es un juguete.
+Dialogue: 0,0:01:30.96,0:01:33.17,Default,,0,0,0,,{\fs54}Es mi bebé. Mi amor.
+Dialogue: 0,0:01:33.26,0:01:34.97,Default,,0,0,0,,{\fs54}Rayos de aleación personalizada.
+Dialogue: 0,0:01:35.05,0:01:37.01,Default,,0,0,0,,{\fs54}Suaves manubrios ergonométricos.
+Dialogue: 0,0:01:37.09,0:01:38.97,Default,,0,0,0,,{\fs54}Horquilla de titanio forjado.
+Dialogue: 0,0:01:39.80,0:01:43.60,Default,,0,0,0,,{\fs54}Pero ¿dónde están\Nlas cabras gigantes invisibles?
+Dialogue: 0,0:01:43.68,0:01:45.10,Default,,0,0,0,,{\fs54}¿Cabras invisibles?
+Dialogue: 0,0:01:45.18,0:01:48.27,Default,,0,0,0,,{\fs54}Ya sabes, ¡las que te jalan!
+Dialogue: 0,0:01:48.35,0:01:51.15,Default,,0,0,0,,{\fs54}En Mewni las cabras invisibles jalan todo.
+Dialogue: 0,0:01:51.23,0:01:54.32,Default,,0,0,0,,{\fs54}No hay cabras gigantes invisibles.
+Dialogue: 0,0:01:54.44,0:01:56.36,Default,,0,0,0,,{\fs54}En la Tierra usamos pedales.
+Dialogue: 0,0:01:56.45,0:01:58.61,Default,,0,0,0,,{\fs54}¡Qué bonitos!
+Dialogue: 0,0:01:58.70,0:02:01.37,Default,,0,0,0,,{\fs54}En Mewni los perales son árboles.
+Dialogue: 0,0:02:01.45,0:02:04.25,Default,,0,0,0,,{\fs54}El primer paso es hacerla rodar.
+Dialogue: 0,0:02:04.41,0:02:07.54,Default,,0,0,0,,{\fs54}- ¿Sostienes el asiento?\N- Sí.
+Dialogue: 0,0:02:10.67,0:02:13.25,Default,,0,0,0,,{\fs54}¡Lo estoy haciendo!
+Dialogue: 0,0:02:13.38,0:02:16.42,Default,,0,0,0,,{\fs54}¡Sí! Marco, puedes soltar el asiento.
+Dialogue: 0,0:02:16.51,0:02:19.09,Default,,0,0,0,,{\fs54}Estoy lista para ir sola.
+Dialogue: 0,0:02:19.18,0:02:21.22,Default,,0,0,0,,{\fs54}Ya solté el asiento.
+Dialogue: 0,0:02:21.30,0:02:23.81,Default,,0,0,0,,{\fs54}- ¿Cómo?\N- Ya estabas sola.
+Dialogue: 0,0:02:23.89,0:02:24.89,Default,,0,0,0,,{\fs54}¡Marco!
+Dialogue: 0,0:02:25.43,0:02:27.39,Default,,0,0,0,,{\fs54}¡Dijiste que me sostendrías!
+Dialogue: 0,0:02:27.52,0:02:29.69,Default,,0,0,0,,{\fs54}¡Me mentiste!
+Dialogue: 0,0:02:29.77,0:02:32.48,Default,,0,0,0,,{\fs54}¡Lo hice para darte seguridad!
+Dialogue: 0,0:02:32.73,0:02:34.86,Default,,0,0,0,,{\fs54}¡Y mírate! Vas genial.
+Dialogue: 0,0:02:34.94,0:02:36.40,Default,,0,0,0,,{\fs54}Yo te enseñé todo eso.
+Dialogue: 0,0:02:36.49,0:02:37.74,Default,,0,0,0,,{\fs54}Excepto cómo detenerme.
+Dialogue: 0,0:02:38.15,0:02:39.95,Default,,0,0,0,,{\fs54}¿Qué? Usa los frenos.
+Dialogue: 0,0:02:40.03,0:02:41.28,Default,,0,0,0,,{\fs54}Nunca me enseñaste...
+Dialogue: 0,0:02:41.91,0:02:43.83,Default,,0,0,0,,{\fs54}¡Cómo!
+Dialogue: 0,0:02:48.33,0:02:50.42,Default,,0,0,0,,{\fs54}- Llamar a Star.\N- Llamando a Star.
+Dialogue: 0,0:02:52.96,0:02:53.96,Default,,0,0,0,,{\fs54}Hola, Marco.
+Dialogue: 0,0:02:54.92,0:02:56.63,Default,,0,0,0,,{\fs54}Debes usar los frenos.
+Dialogue: 0,0:02:56.71,0:02:59.22,Default,,0,0,0,,{\fs54}Baja los pies y pedalea hacia atrás.
+Dialogue: 0,0:02:59.30,0:03:00.34,Default,,0,0,0,,{\fs54}No tiene sentido.
+Dialogue: 0,0:03:00.43,0:03:02.05,Default,,0,0,0,,{\fs54}Gira hacia el otro lado.
+Dialogue: 0,0:03:02.14,0:03:04.39,Default,,0,0,0,,{\fs54}Esta princesa dice: “No, gracias”.
+Dialogue: 0,0:03:04.51,0:03:07.35,Default,,0,0,0,,{\fs54}Bien. ¿Tienes tu varita?
+Dialogue: 0,0:03:07.56,0:03:09.48,Default,,0,0,0,,{\fs54}Está en mi bolso.
+Dialogue: 0,0:03:13.77,0:03:14.94,Default,,0,0,0,,{\fs54}¿Oskar?
+Dialogue: 0,0:03:15.02,0:03:16.36,Default,,0,0,0,,{\fs54}¿Qué haces en mi entrada?
+Dialogue: 0,0:03:16.44,0:03:18.28,Default,,0,0,0,,{\fs54}Pensé que era mi estudio.
+Dialogue: 0,0:03:18.36,0:03:20.95,Default,,0,0,0,,{\fs54}¡Broma! El mundo es mi estudio.
+Dialogue: 0,0:03:21.03,0:03:23.57,Default,,0,0,0,,{\fs54}Como sea. Solo conduce. Por allí.
+Dialogue: 0,0:03:24.45,0:03:25.99,Default,,0,0,0,,{\fs54}Cinturón de seguridad.
+Dialogue: 0,0:03:26.95,0:03:29.00,Default,,0,0,0,,{\fs54}¿Por qué tu auto está lleno de basura?
+Dialogue: 0,0:03:29.08,0:03:31.75,Default,,0,0,0,,{\fs54}Es donde vivo y trabajo.
+Dialogue: 0,0:03:33.83,0:03:35.34,Default,,0,0,0,,{\fs54}¡Vaya! Es Gene.
+Dialogue: 0,0:03:35.42,0:03:37.71,Default,,0,0,0,,{\fs54}¡Doble vaya! Mis llaves.
+Dialogue: 0,0:03:38.71,0:03:39.80,Default,,0,0,0,,{\fs54}¡Vamos!
+Dialogue: 0,0:03:43.97,0:03:45.26,Default,,0,0,0,,{\fs54}¡Alto!
+Dialogue: 0,0:03:46.72,0:03:49.35,Default,,0,0,0,,{\fs54}No avance. ¡Dice que no avance!
+Dialogue: 0,0:03:52.90,0:03:54.44,Default,,0,0,0,,{\fs54}Lo siento.
+Dialogue: 0,0:03:56.44,0:03:58.86,Default,,0,0,0,,{\fs54}¡Oskar! ¡Oskar!
+Dialogue: 0,0:04:03.28,0:04:05.16,Default,,0,0,0,,{\fs54}Un hombrecito en un libro.
+Dialogue: 0,0:04:05.24,0:04:06.41,Default,,0,0,0,,{\fs54}Glossaryck.
+Dialogue: 0,0:04:08.20,0:04:09.91,Default,,0,0,0,,{\fs54}Pregunta, señor Díaz.
+Dialogue: 0,0:04:10.00,0:04:12.96,Default,,0,0,0,,{\fs54}¿Dónde está Star\Ny por qué tiene su varita?
+Dialogue: 0,0:04:13.62,0:04:15.58,Default,,0,0,0,,{\fs54}Le enseñaba a andar en bici.
+Dialogue: 0,0:04:15.67,0:04:17.42,Default,,0,0,0,,{\fs54}Ahora no sabe detenerse.
+Dialogue: 0,0:04:18.34,0:04:20.01,Default,,0,0,0,,{\fs54}Ayuda.
+Dialogue: 0,0:04:20.09,0:04:22.01,Default,,0,0,0,,{\fs54}¿Dónde están\Nlas cabras gigantes invisibles?
+Dialogue: 0,0:04:22.09,0:04:23.88,Default,,0,0,0,,{\fs54}No hay cabras invisibles.
+Dialogue: 0,0:04:24.01,0:04:26.51,Default,,0,0,0,,{\fs54}Star no tiene su varita. Debes ayudarla.
+Dialogue: 0,0:04:33.48,0:04:35.81,Default,,0,0,0,,{\fs54}¿Qué? ¿Bromeas?
+Dialogue: 0,0:04:35.90,0:04:38.69,Default,,0,0,0,,{\fs54}No es un problema mágico y por eso...
+Dialogue: 0,0:04:39.86,0:04:41.90,Default,,0,0,0,,{\fs54}...está fuera de mi control.
+Dialogue: 0,0:04:41.99,0:04:43.82,Default,,0,0,0,,{\fs54}¿Le agregas nachos al sándwich?
+Dialogue: 0,0:04:43.90,0:04:45.36,Default,,0,0,0,,{\fs54}¡Genial!
+Dialogue: 0,0:04:45.45,0:04:48.99,Default,,0,0,0,,{\fs54}Me gusta que cruja. Debes probarlo.
+Dialogue: 0,0:04:52.79,0:04:54.71,Default,,0,0,0,,{\fs54}- Salud.\N- Salud.
+Dialogue: 0,0:04:56.58,0:04:58.17,Default,,0,0,0,,{\fs54}¿Qué es eso?
+Dialogue: 0,0:04:58.75,0:04:59.75,Default,,0,0,0,,{\fs54}¿Quieres tocar?
+Dialogue: 0,0:05:08.18,0:05:09.47,Default,,0,0,0,,{\fs54}Ahora a la derecha.
+Dialogue: 0,0:05:09.89,0:05:12.18,Default,,0,0,0,,{\fs54}Y a la izquierda. ¡Ya lo tienes!
+Dialogue: 0,0:05:12.43,0:05:14.02,Default,,0,0,0,,{\fs54}Coloca un dedo aquí.
+Dialogue: 0,0:05:14.10,0:05:16.15,Default,,0,0,0,,{\fs54}¿Pueden dejar las tonterías?
+Dialogue: 0,0:05:16.23,0:05:18.06,Default,,0,0,0,,{\fs54}¡Star está en peligro!
+Dialogue: 0,0:05:18.15,0:05:20.19,Default,,0,0,0,,{\fs54}Peligro, peligro...
+Dialogue: 0,0:05:20.27,0:05:23.90,Default,,0,0,0,,{\fs54}Oskar al micrófono. ¡Marco, haz ruido!
+Dialogue: 0,0:05:24.86,0:05:27.07,Default,,0,0,0,,{\fs54}PRECAUCIÓN
+Dialogue: 0,0:05:27.95,0:05:29.91,Default,,0,0,0,,{\fs54}Peligro, peligro.
+Dialogue: 0,0:05:29.99,0:05:32.66,Default,,0,0,0,,{\fs54}Ahora en mi auto yo soy el jefe.
+Dialogue: 0,0:05:32.83,0:05:35.66,Default,,0,0,0,,{\fs54}Ubicando a Star como sea.
+Dialogue: 0,0:05:35.79,0:05:38.50,Default,,0,0,0,,{\fs54}Él no ayuda porque no hay magia.
+Dialogue: 0,0:05:38.71,0:05:41.55,Default,,0,0,0,,{\fs54}Star estará bien, no terminará mal.
+Dialogue: 0,0:05:41.67,0:05:43.30,Default,,0,0,0,,{\fs54}¡Vamos!
+Dialogue: 0,0:05:47.09,0:05:50.26,Default,,0,0,0,,{\fs54}Me salen los ritmos\Ncomo sándwich de albóndigas.
+Dialogue: 0,0:05:50.43,0:05:53.43,Default,,0,0,0,,{\fs54}El del librito es mi amigo.
+Dialogue: 0,0:05:53.52,0:05:56.19,Default,,0,0,0,,{\fs54}Chocamos los carteles porque sí.
+Dialogue: 0,0:05:56.31,0:05:58.52,Default,,0,0,0,,{\fs54}Marco luce relajado.
+Dialogue: 0,0:05:58.60,0:06:01.61,Default,,0,0,0,,{\fs54}Oskar, ¿puedes mirar el camino?
+Dialogue: 0,0:06:03.07,0:06:04.78,Default,,0,0,0,,{\fs54}¡Qué tiernos!
+Dialogue: 0,0:06:10.03,0:06:12.49,Default,,0,0,0,,{\fs54}No tengo tiempo para jugar.
+Dialogue: 0,0:06:14.04,0:06:15.37,Default,,0,0,0,,{\fs54}Me quedé sin rimas.
+Dialogue: 0,0:06:15.45,0:06:17.54,Default,,0,0,0,,{\fs54}Tu turno en el micrófono.
+Dialogue: 0,0:06:19.29,0:06:21.54,Default,,0,0,0,,{\fs54}Buena canción. Éxito número uno.
+Dialogue: 0,0:06:21.63,0:06:24.17,Default,,0,0,0,,{\fs54}¿Podemos concentrarnos\Npara que Star recupere su varita?
+Dialogue: 0,0:06:24.25,0:06:25.76,Default,,0,0,0,,{\fs54}Estoy contigo, amigo.
+Dialogue: 0,0:06:25.84,0:06:27.76,Default,,0,0,0,,{\fs54}Pero no creo alcanzarla antes del...
+Dialogue: 0,0:06:27.84,0:06:28.93,Default,,0,0,0,,{\fs54}¿Sumidero?
+Dialogue: 0,0:06:29.01,0:06:30.43,Default,,0,0,0,,{\fs54}¿Un sumidero?
+Dialogue: 0,0:06:43.40,0:06:44.69,Default,,0,0,0,,{\fs54}Buen trabajo, alas.
+Dialogue: 0,0:06:45.86,0:06:48.40,Default,,0,0,0,,{\fs54}Ojalá esos perros usaran casco.
+Dialogue: 0,0:06:48.49,0:06:49.86,Default,,0,0,0,,{\fs54}Desearía tener algunos.
+Dialogue: 0,0:06:59.29,0:07:03.88,Default,,0,0,0,,{\fs54}Star, pedalea al revés.\NFuncionará. Confía en mí.
+Dialogue: 0,0:07:04.09,0:07:07.46,Default,,0,0,0,,{\fs54}Ya no confío en ti, Marco Díaz.
+Dialogue: 0,0:07:07.59,0:07:09.68,Default,,0,0,0,,{\fs54}Además, estoy avanzando.
+Dialogue: 0,0:07:09.76,0:07:11.51,Default,,0,0,0,,{\fs54}Pedalear al revés no tiene sentido.
+Dialogue: 0,0:07:11.59,0:07:13.30,Default,,0,0,0,,{\fs54}Sé cómo se siente
+Dialogue: 0,0:07:13.39,0:07:14.76,Default,,0,0,0,,{\fs54}porque yo tampoco puedo parar.
+Dialogue: 0,0:07:14.85,0:07:15.97,Default,,0,0,0,,{\fs54}Se rompieron los frenos.
+Dialogue: 0,0:07:16.06,0:07:18.31,Default,,0,0,0,,{\fs54}- El volante también.\N- ¿Cómo?
+Dialogue: 0,0:07:21.31,0:07:23.40,Default,,0,0,0,,{\fs54}¡Todos de costado!
+Dialogue: 0,0:07:26.57,0:07:28.15,Default,,0,0,0,,{\fs54}¡Abrázame fuerte!
+Dialogue: 0,0:07:29.24,0:07:31.24,Default,,0,0,0,,{\fs54}Star, rápido, la varita.
+Dialogue: 0,0:07:31.32,0:07:32.66,Default,,0,0,0,,{\fs54}Usa tu magia.
+Dialogue: 0,0:07:36.66,0:07:39.79,Default,,0,0,0,,{\fs54}¡Oskar!
+Dialogue: 0,0:07:39.87,0:07:42.21,Default,,0,0,0,,{\fs54}Aguarda, Star. La varita.
+Dialogue: 0,0:07:46.88,0:07:48.76,Default,,0,0,0,,{\fs54}¡Eclipse total!
+Dialogue: 0,0:07:54.97,0:07:56.68,Default,,0,0,0,,{\fs54}¡Marco!
+Dialogue: 0,0:07:56.85,0:07:58.02,Default,,0,0,0,,{\fs54}¡Star!
+Dialogue: 0,0:07:59.60,0:08:00.60,Default,,0,0,0,,{\fs54}ALTO
+Dialogue: 0,0:08:02.69,0:08:04.40,Default,,0,0,0,,{\fs54}Nunca debí soltarle el asiento.
+Dialogue: 0,0:08:04.48,0:08:05.56,Default,,0,0,0,,{\fs54}Basta de tonterías.
+Dialogue: 0,0:08:05.65,0:08:07.94,Default,,0,0,0,,{\fs54}Esto requiere magia.
+Dialogue: 0,0:08:13.91,0:08:17.58,Default,,0,0,0,,{\fs54}Es lo que haría si no hubiese comido
+Dialogue: 0,0:08:17.99,0:08:20.33,Default,,0,0,0,,{\fs54}ese sándwich de albóndigas.
+Dialogue: 0,0:08:21.29,0:08:23.33,Default,,0,0,0,,{\fs54}Te entiendo.
+Dialogue: 0,0:08:23.58,0:08:25.71,Default,,0,0,0,,{\fs54}Depende de ti, Marco.
+Dialogue: 0,0:08:25.79,0:08:28.05,Default,,0,0,0,,{\fs54}Llévale la varita y sálvale la vida.
+Dialogue: 0,0:08:28.13,0:08:29.46,Default,,0,0,0,,{\fs54}¿Cómo? El auto no funciona.
+Dialogue: 0,0:08:29.55,0:08:32.05,Default,,0,0,0,,{\fs54}Monta las cabras invisibles.
+Dialogue: 0,0:08:32.17,0:08:34.34,Default,,0,0,0,,{\fs54}Ahora, si me disculpan, iré a vomitar.
+Dialogue: 0,0:08:36.60,0:08:39.18,Default,,0,0,0,,{\fs54}Por última vez,
+Dialogue: 0,0:08:39.26,0:08:42.27,Default,,0,0,0,,{\fs54}¡no existen las cabras invisibles!
+Dialogue: 0,0:08:43.48,0:08:46.90,Default,,0,0,0,,{\fs54}Claro que sí, solo debes creer.
+Dialogue: 0,0:08:47.02,0:08:50.03,Default,,0,0,0,,{\fs54}Si quieres salvar a Star, confía en ellas.
+Dialogue: 0,0:08:51.78,0:08:55.07,Default,,0,0,0,,{\fs54}Bien. Si eso salva a Star, voy a creer.
+Dialogue: 0,0:08:59.41,0:09:01.87,Default,,0,0,0,,{\fs54}- ¡Cree!\N- ¡Cree!
+Dialogue: 0,0:09:02.04,0:09:05.46,Default,,0,0,0,,{\fs54}¡Cree!
+Dialogue: 0,0:09:05.58,0:09:07.50,Default,,0,0,0,,{\fs54}¡Cree!
+Dialogue: 0,0:09:11.80,0:09:13.97,Default,,0,0,0,,{\fs54}¡Estoy en una cabra invisible!
+Dialogue: 0,0:09:15.93,0:09:18.51,Default,,0,0,0,,{\fs54}Cabra, arre.
+Dialogue: 0,0:09:24.77,0:09:25.94,Default,,0,0,0,,{\fs54}¡Star!
+Dialogue: 0,0:09:26.65,0:09:27.69,Default,,0,0,0,,{\fs54}¡Toma la varita!
+Dialogue: 0,0:09:27.77,0:09:30.02,Default,,0,0,0,,{\fs54}Marco, eres mi héroe.
+Dialogue: 0,0:09:30.23,0:09:33.15,Default,,0,0,0,,{\fs54}Pero sigo enfadada\Npor mentirme sobre el asiento.
+Dialogue: 0,0:09:33.24,0:09:36.07,Default,,0,0,0,,{\fs54}Vamos, una última oportunidad. ¡Rápido!
+Dialogue: 0,0:09:41.20,0:09:43.33,Default,,0,0,0,,{\fs54}¡Socorro! ¡Socorro!
+Dialogue: 0,0:09:50.21,0:09:52.55,Default,,0,0,0,,{\fs54}¡Tendrás que detener la bici sola!
+Dialogue: 0,0:09:52.63,0:09:54.72,Default,,0,0,0,,{\fs54}Pedalea hacia atrás.
+Dialogue: 0,0:09:54.80,0:09:58.14,Default,,0,0,0,,{\fs54}Te dije que en Mewni\Nno hacemos las cosas así.
+Dialogue: 0,0:09:58.22,0:10:00.35,Default,,0,0,0,,{\fs54}Ya no estás en Mewni.
+Dialogue: 0,0:10:00.43,0:10:02.68,Default,,0,0,0,,{\fs54}Si yo creo en cabras invisibles,
+Dialogue: 0,0:10:02.76,0:10:04.47,Default,,0,0,0,,{\fs54}tú puedes detener la bici.
+Dialogue: 0,0:10:05.39,0:10:07.98,Default,,0,0,0,,{\fs54}Te tengo. Confía en mí.
+Dialogue: 0,0:10:08.98,0:10:10.23,Default,,0,0,0,,{\fs54}Gracias, Marco.
+Dialogue: 0,0:10:10.90,0:10:13.82,Default,,0,0,0,,{\fs54}Solo necesito que creas en mí.
+Dialogue: 0,0:10:22.20,0:10:23.37,Default,,0,0,0,,{\fs54}¡Star!
+Dialogue: 0,0:10:23.62,0:10:26.04,Default,,0,0,0,,{\fs54}Estaba preocupado por ti.
+Dialogue: 0,0:10:26.25,0:10:29.33,Default,,0,0,0,,{\fs54}Tenías razón. Puedo andar en bici.
+Dialogue: 0,0:10:29.46,0:10:31.67,Default,,0,0,0,,{\fs54}¡Y lo hago genial!
+Dialogue: 0,0:10:31.75,0:10:34.42,Default,,0,0,0,,{\fs54}“Sonogramas Misteriosos”.
+Dialogue: 0,0:10:34.55,0:10:36.09,Default,,0,0,0,,{\fs54}Un buen nombre para la banda.
+Dialogue: 0,0:10:36.55,0:10:37.97,Default,,0,0,0,,{\fs54}¿Describe nuestro sonido?
+Dialogue: 0,0:10:38.05,0:10:40.93,Default,,0,0,0,,{\fs54}Oskar, siento mucho lo de tu auto.
+Dialogue: 0,0:10:41.01,0:10:43.81,Default,,0,0,0,,{\fs54}Si quieres, puedo llevarte en mi bici.
+Dialogue: 0,0:10:43.97,0:10:46.98,Default,,0,0,0,,{\fs54}Genial. Glossaryck, Gene, suban.
+Dialogue: 0,0:10:48.60,0:10:49.73,Default,,0,0,0,,{\fs54}Primero la seguridad.
+Dialogue: 0,0:10:50.15,0:10:52.40,Default,,0,0,0,,{\fs54}- Marco, ¿vienes?\N- No, gracias.
+Dialogue: 0,0:10:52.52,0:10:54.07,Default,,0,0,0,,{\fs54}Iré en cabra.
+Dialogue: 0,0:10:54.94,0:10:56.86,Default,,0,0,0,,{\fs54}Cree.
+Dialogue: 0,0:11:01.03,0:11:04.12,Default,,0,0,0,,{\fs54}Marco, la cabra se fue hace rato.
+Dialogue: 0,0:11:10.67,0:11:13.13,Default,,0,0,0,,{\fs54}Díaz, tú puedes.
+Dialogue: 0,0:11:13.54,0:11:16.55,Default,,0,0,0,,{\fs54}Apunta al pequeño...
+Dialogue: 0,0:11:18.05,0:11:20.43,Default,,0,0,0,,{\fs54}De acuerdo, otra vez.
+Dialogue: 0,0:11:22.05,0:11:24.10,Default,,0,0,0,,{\fs54}Ya es bastante difícil.
+Dialogue: 0,0:11:24.18,0:11:26.64,Default,,0,0,0,,{\fs54}Star, ¿puedes controlar a los cachorros?
+Dialogue: 0,0:11:26.72,0:11:27.89,Default,,0,0,0,,{\fs54}Intento concentrarme.
+Dialogue: 0,0:11:27.97,0:11:30.52,Default,,0,0,0,,{\fs54}No hay problema. Vamos, chicos.
+Dialogue: 0,0:11:33.27,0:11:36.40,Default,,0,0,0,,{\fs54}- Creo en ti, Marco.\N- Star, me estoy concentrando.
+Dialogue: 0,0:11:36.48,0:11:39.03,Default,,0,0,0,,{\fs54}De acuerdo. Me callaré.
+Dialogue: 0,0:11:39.19,0:11:42.70,Default,,0,0,0,,{\fs54}Aunque nadie más lo haga... Yo creo.
+Dialogue: 0,0:11:42.78,0:11:44.74,Default,,0,0,0,,{\fs54}Entiendo. Intento concentrarme.
+Dialogue: 0,0:11:46.03,0:11:48.12,Default,,0,0,0,,{\fs54}Contesta, por favor.
+Dialogue: 0,0:11:50.66,0:11:51.67,Default,,0,0,0,,{\fs54}Hola, mamá.
+Dialogue: 0,0:11:51.75,0:11:54.63,Default,,0,0,0,,{\fs54}Tu tía Felicity aún no recibe\Nla tarjeta de agradecimiento
+Dialogue: 0,0:11:54.75,0:11:56.34,Default,,0,0,0,,{\fs54}por el hermoso collar que te envió.
+Dialogue: 0,0:11:56.42,0:11:57.67,Default,,0,0,0,,{\fs54}¡Solo quiero el jugo!
+Dialogue: 0,0:11:57.75,0:11:59.38,Default,,0,0,0,,{\fs54}Sí, ahora no puedo, mamá.\NEstán sucediendo cosas.
+Dialogue: 0,0:11:59.46,0:12:00.76,Default,,0,0,0,,{\fs54}Eso dijiste la última vez.
+Dialogue: 0,0:12:00.84,0:12:04.01,Default,,0,0,0,,{\fs54}¿Liberaste el néctar del capullo de jugo?
+Dialogue: 0,0:12:04.55,0:12:07.06,Default,,0,0,0,,{\fs54}Quita a los cachorros.
+Dialogue: 0,0:12:07.43,0:12:08.64,Default,,0,0,0,,{\fs54}Basta, chicos.
+Dialogue: 0,0:12:09.02,0:12:11.77,Default,,0,0,0,,{\fs54}Vayan a buscarla.
+Dialogue: 0,0:12:13.19,0:12:15.48,Default,,0,0,0,,{\fs54}¡Ay, no!
+Dialogue: 0,0:12:15.56,0:12:17.69,Default,,0,0,0,,{\fs54}- ¿Lanzaste tu varita?\N- Así es.
+Dialogue: 0,0:12:18.07,0:12:20.07,Default,,0,0,0,,{\fs54}¡El cesto de popó! ¡No, no!
+Dialogue: 0,0:12:20.15,0:12:21.65,Default,,0,0,0,,{\fs54}Gracias a Mewni.
+Dialogue: 0,0:12:21.82,0:12:23.32,Default,,0,0,0,,{\fs54}Salvada por el arbusto.
+Dialogue: 0,0:12:23.99,0:12:25.07,Default,,0,0,0,,{\fs54}¿Qué?
+Dialogue: 0,0:12:26.87,0:12:27.91,Default,,0,0,0,,{\fs54}La tengo.
+Dialogue: 0,0:12:31.50,0:12:34.79,Default,,0,0,0,,{\fs54}Eres solo un perrito.\NPensé que eras una gárgola.
+Dialogue: 0,0:12:34.92,0:12:37.88,Default,,0,0,0,,{\fs54}Gracias por traerme la varita.
+Dialogue: 0,0:12:41.88,0:12:43.22,Default,,0,0,0,,{\fs54}Puedo...
+Dialogue: 0,0:12:43.30,0:12:44.68,Default,,0,0,0,,{\fs54}Solo déjame...
+Dialogue: 0,0:12:45.47,0:12:46.64,Default,,0,0,0,,{\fs54}Bien, amigo.
+Dialogue: 0,0:12:47.47,0:12:49.06,Default,,0,0,0,,{\fs54}Esto es molesto.
+Dialogue: 0,0:12:49.14,0:12:51.64,Default,,0,0,0,,{\fs54}¿Tu persona está por aquí?
+Dialogue: 0,0:12:52.68,0:12:54.39,Default,,0,0,0,,{\fs54}No hay nadie más en el parque.
+Dialogue: 0,0:12:54.48,0:12:56.44,Default,,0,0,0,,{\fs54}Siempre se van todos cuando llegamos...
+Dialogue: 0,0:12:56.52,0:12:58.32,Default,,0,0,0,,{\fs54}por algún motivo.
+Dialogue: 0,0:13:00.36,0:13:01.69,Default,,0,0,0,,{\fs54}Los cachorros láser tienen hambre.
+Dialogue: 0,0:13:01.78,0:13:03.78,Default,,0,0,0,,{\fs54}Toma tu varita. Vamos.
+Dialogue: 0,0:13:07.28,0:13:09.83,Default,,0,0,0,,{\fs54}Es un perro, no un abrigo.
+Dialogue: 0,0:13:09.95,0:13:11.54,Default,,0,0,0,,{\fs54}- Un abrigo de piel.\N- No.
+Dialogue: 0,0:13:11.75,0:13:13.83,Default,,0,0,0,,{\fs54}Ahora tienes mascotas.
+Dialogue: 0,0:13:13.91,0:13:15.42,Default,,0,0,0,,{\fs54}Debes alimentarlos.
+Dialogue: 0,0:13:15.58,0:13:17.67,Default,,0,0,0,,{\fs54}Soltará la varita para comer.
+Dialogue: 0,0:13:27.84,0:13:30.06,Default,,0,0,0,,{\fs54}- De acuerdo.\N- ¿Eso es normal?
+Dialogue: 0,0:13:39.65,0:13:42.44,Default,,0,0,0,,{\fs54}Lo siento, es tu problema. Iré a la cama.
+Dialogue: 0,0:13:42.53,0:13:43.78,Default,,0,0,0,,{\fs54}Vamos, cachorros.
+Dialogue: 0,0:13:49.37,0:13:52.33,Default,,0,0,0,,{\fs54}Hola. Es hora de dormir
+Dialogue: 0,0:13:52.41,0:13:55.54,Default,,0,0,0,,{\fs54}y duermo mejor con la varita
+Dialogue: 0,0:13:55.62,0:13:57.46,Default,,0,0,0,,{\fs54}bajo la almohada
+Dialogue: 0,0:13:57.54,0:13:59.83,Default,,0,0,0,,{\fs54}aunque mamá dice que no
+Dialogue: 0,0:13:59.96,0:14:01.50,Default,,0,0,0,,{\fs54}por la...
+Dialogue: 0,0:14:01.88,0:14:03.55,Default,,0,0,0,,{\fs54}...radiación.
+Dialogue: 0,0:14:12.81,0:14:14.81,Default,,0,0,0,,{\fs54}Star, ¿estás abajo?
+Dialogue: 0,0:14:15.31,0:14:16.56,Default,,0,0,0,,{\fs54}¿Qué?
+Dialogue: 0,0:14:16.89,0:14:20.23,Default,,0,0,0,,{\fs54}Debemos irnos.\NLlegaremos tarde a la escuela.
+Dialogue: 0,0:14:20.56,0:14:22.86,Default,,0,0,0,,{\fs54}De acuerdo, dame un segundo.
+Dialogue: 0,0:14:25.15,0:14:27.82,Default,,0,0,0,,{\fs54}Perrito mágico, prepárame para la escuela.
+Dialogue: 0,0:14:30.07,0:14:32.70,Default,,0,0,0,,{\fs54}Bien. Te usaré de sombrero.
+Dialogue: 0,0:14:34.91,0:14:37.50,Default,,0,0,0,,{\fs54}Está hecho para niños. ¡Vamos, ábrete!
+Dialogue: 0,0:14:37.62,0:14:40.29,Default,,0,0,0,,{\fs54}- Señorita Butterfly.\N- ¿Qué?
+Dialogue: 0,0:14:40.38,0:14:42.09,Default,,0,0,0,,{\fs54}¿Adónde va con ese perro?
+Dialogue: 0,0:14:42.17,0:14:43.88,Default,,0,0,0,,{\fs54}Tiene mi varita.
+Dialogue: 0,0:14:43.96,0:14:45.38,Default,,0,0,0,,{\fs54}Un perro en el salón
+Dialogue: 0,0:14:45.46,0:14:47.59,Default,,0,0,0,,{\fs54}impide el aprendizaje.
+Dialogue: 0,0:14:47.67,0:14:50.43,Default,,0,0,0,,{\fs54}No regrese hasta deshacerse de él.
+Dialogue: 0,0:14:51.47,0:14:53.85,Default,,0,0,0,,{\fs54}- Buen sombrero, Star Butterfly.\N- Cállate.
+Dialogue: 0,0:14:55.72,0:14:58.02,Default,,0,0,0,,{\fs54}Tienes que agradecer a tu tía\Ncon una tarjeta.
+Dialogue: 0,0:14:58.10,0:14:59.52,Default,,0,0,0,,{\fs54}Es un collar muy bonito.
+Dialogue: 0,0:14:59.60,0:15:01.94,Default,,0,0,0,,{\fs54}No puedo hablar ahora, mamá.\NMe echaron de la escuela.
+Dialogue: 0,0:15:02.02,0:15:03.06,Default,,0,0,0,,{\fs54}¿Cómo?
+Dialogue: 0,0:15:03.23,0:15:04.90,Default,,0,0,0,,{\fs54}No se permiten perros.
+Dialogue: 0,0:15:05.73,0:15:07.36,Default,,0,0,0,,{\fs54}Claro, ignórame.
+Dialogue: 0,0:15:07.65,0:15:11.32,Default,,0,0,0,,{\fs54}No soy una persona con sentimientos.
+Dialogue: 0,0:15:12.95,0:15:14.53,Default,,0,0,0,,{\fs54}Un dólar con cincuenta.
+Dialogue: 0,0:15:15.20,0:15:16.95,Default,,0,0,0,,{\fs54}No puedo hacer dinero
+Dialogue: 0,0:15:17.04,0:15:19.25,Default,,0,0,0,,{\fs54}porque el perro tiene mi varita.
+Dialogue: 0,0:15:19.87,0:15:20.87,Default,,0,0,0,,{\fs54}¿Ves?
+Dialogue: 0,0:15:21.08,0:15:24.21,Default,,0,0,0,,{\fs54}- ¿Lo anoto a cuenta?\N- Sí, sí.
+Dialogue: 0,0:15:24.29,0:15:25.92,Default,,0,0,0,,{\fs54}Es Marco Díaz.
+Dialogue: 0,0:15:26.00,0:15:27.30,Default,,0,0,0,,{\fs54}Gracias, Joe.
+Dialogue: 0,0:15:27.38,0:15:28.63,Default,,0,0,0,,{\fs54}No me llamo Joe.
+Dialogue: 0,0:15:28.72,0:15:30.18,Default,,0,0,0,,{\fs54}Y yo no me llamo Marco.
+Dialogue: 0,0:15:31.22,0:15:32.59,Default,,0,0,0,,{\fs54}¡Perro extraviado!
+Dialogue: 0,0:15:33.30,0:15:34.64,Default,,0,0,0,,{\fs54}¿Qué?
+Dialogue: 0,0:15:35.01,0:15:36.22,Default,,0,0,0,,{\fs54}Regresa.
+Dialogue: 0,0:15:38.60,0:15:40.02,Default,,0,0,0,,{\fs54}¿Qué?
+Dialogue: 0,0:15:40.27,0:15:42.48,Default,,0,0,0,,{\fs54}Por favor, basta.
+Dialogue: 0,0:15:42.56,0:15:43.81,Default,,0,0,0,,{\fs54}Lo siento.
+Dialogue: 0,0:15:45.48,0:15:48.19,Default,,0,0,0,,{\fs54}“Perro pequeño mediano a grande”.
+Dialogue: 0,0:15:48.90,0:15:51.70,Default,,0,0,0,,{\fs54}Eres pequeño mediano a grande.
+Dialogue: 0,0:15:51.78,0:15:53.07,Default,,0,0,0,,{\fs54}“Con cara de perro”.
+Dialogue: 0,0:15:53.20,0:15:55.03,Default,,0,0,0,,{\fs54}Sí, tienes cara de perro.
+Dialogue: 0,0:15:55.12,0:15:56.83,Default,,0,0,0,,{\fs54}“Puede ladrar o no”.
+Dialogue: 0,0:15:58.12,0:15:59.91,Default,,0,0,0,,{\fs54}¡Puedes ladrar o no!
+Dialogue: 0,0:16:00.00,0:16:03.17,Default,,0,0,0,,{\fs54}Creo que eres tú.
+Dialogue: 0,0:16:03.29,0:16:05.29,Default,,0,0,0,,{\fs54}“Llamar al 555-0199”.
+Dialogue: 0,0:16:05.38,0:16:07.84,Default,,0,0,0,,{\fs54}De acuerdo, 555-0199.
+Dialogue: 0,0:16:10.97,0:16:12.51,Default,,0,0,0,,{\fs54}Hola, gracias por llamar.
+Dialogue: 0,0:16:12.59,0:16:15.22,Default,,0,0,0,,{\fs54}Hola. Vi tu volante y tengo a tu perro.
+Dialogue: 0,0:16:15.35,0:16:18.14,Default,,0,0,0,,{\fs54}No tengo mascotas.
+Dialogue: 0,0:16:18.47,0:16:21.35,Default,,0,0,0,,{\fs54}¿Alguien llama por el perro?
+Dialogue: 0,0:16:21.43,0:16:23.94,Default,,0,0,0,,{\fs54}- Sí.\N- Es para mí.
+Dialogue: 0,0:16:24.19,0:16:26.98,Default,,0,0,0,,{\fs54}Hola, soy Lydia.
+Dialogue: 0,0:16:27.07,0:16:28.94,Default,,0,0,0,,{\fs54}Hola. Encontré a tu perro.
+Dialogue: 0,0:16:29.03,0:16:30.57,Default,,0,0,0,,{\fs54}Estoy afuera de Pare y Devore.
+Dialogue: 0,0:16:30.65,0:16:32.49,Default,,0,0,0,,{\fs54}Allí voy.
+Dialogue: 0,0:16:32.57,0:16:33.91,Default,,0,0,0,,{\fs54}Bien, adiós.
+Dialogue: 0,0:16:33.99,0:16:34.99,Default,,0,0,0,,{\fs54}Hola.
+Dialogue: 0,0:16:35.49,0:16:38.12,Default,,0,0,0,,{\fs54}¿Quieres esta gárgola? Toma.
+Dialogue: 0,0:16:38.20,0:16:40.20,Default,,0,0,0,,{\fs54}Ven con mami.
+Dialogue: 0,0:16:40.33,0:16:42.79,Default,,0,0,0,,{\fs54}Mi pequeño...
+Dialogue: 0,0:16:42.96,0:16:46.33,Default,,0,0,0,,{\fs54}Willow... Bi.
+Dialogue: 0,0:16:46.42,0:16:49.00,Default,,0,0,0,,{\fs54}¿Puedes hacer que Willoughby\Nme de la varita?
+Dialogue: 0,0:16:49.09,0:16:51.46,Default,,0,0,0,,{\fs54}Sí, claro.
+Dialogue: 0,0:16:51.72,0:16:54.80,Default,,0,0,0,,{\fs54}Willoughby, déjala.
+Dialogue: 0,0:16:54.88,0:16:56.97,Default,,0,0,0,,{\fs54}¿Adónde vas?
+Dialogue: 0,0:16:57.30,0:17:04.23,Default,,0,0,0,,{\fs54}BAÑOS SOLO PARA CLIENTES
+Dialogue: 0,0:17:04.31,0:17:07.15,Default,,0,0,0,,{\fs54}Qué bueno que le enseñaste a usar el baño.
+Dialogue: 0,0:17:07.23,0:17:08.69,Default,,0,0,0,,{\fs54}Sí.
+Dialogue: 0,0:17:11.11,0:17:12.65,Default,,0,0,0,,{\fs54}No es tu perro, ¿cierto?
+Dialogue: 0,0:17:16.82,0:17:20.58,Default,,0,0,0,,{\fs54}¡Pero tengo tanto amor para dar!
+Dialogue: 0,0:17:20.91,0:17:22.25,Default,,0,0,0,,{\fs54}Párate.
+Dialogue: 0,0:17:23.08,0:17:24.12,Default,,0,0,0,,{\fs54}Ladra.
+Dialogue: 0,0:17:24.71,0:17:25.92,Default,,0,0,0,,{\fs54}Ahora, pirata.
+Dialogue: 0,0:17:27.46,0:17:28.71,Default,,0,0,0,,{\fs54}Haz un hueco con láser.
+Dialogue: 0,0:17:33.97,0:17:36.38,Default,,0,0,0,,{\fs54}Todo luce mitad rojo.
+Dialogue: 0,0:17:36.47,0:17:38.89,Default,,0,0,0,,{\fs54}- Star, ¿dónde estabas?\N- No quiero hablar de eso.
+Dialogue: 0,0:17:38.97,0:17:40.64,Default,,0,0,0,,{\fs54}- De acuerdo.\N- Hoy fue mi peor día.
+Dialogue: 0,0:17:40.76,0:17:41.81,Default,,0,0,0,,{\fs54}Me echaron de la escuela,
+Dialogue: 0,0:17:41.89,0:17:43.93,Default,,0,0,0,,{\fs54}no pude hacer dinero\Nasí que puse todo a tu cuenta.
+Dialogue: 0,0:17:44.02,0:17:45.48,Default,,0,0,0,,{\fs54}- ¿Cómo?\N- Me persiguió una señora rara.
+Dialogue: 0,0:17:45.56,0:17:48.65,Default,,0,0,0,,{\fs54}Y Willoughby no me devuelve la varita.
+Dialogue: 0,0:17:50.94,0:17:52.82,Default,,0,0,0,,{\fs54}¿Se llama Willoughby?
+Dialogue: 0,0:17:52.90,0:17:55.03,Default,,0,0,0,,{\fs54}Así lo llamó la rara.
+Dialogue: 0,0:17:55.15,0:17:57.66,Default,,0,0,0,,{\fs54}Creí encontrar a su dueña, pero me mintió.
+Dialogue: 0,0:17:57.74,0:18:00.20,Default,,0,0,0,,{\fs54}Este volante es falso.
+Dialogue: 0,0:18:00.33,0:18:01.83,Default,,0,0,0,,{\fs54}Regresemos al parque
+Dialogue: 0,0:18:01.91,0:18:03.87,Default,,0,0,0,,{\fs54}y veamos si su dueño dejó un volante.
+Dialogue: 0,0:18:05.08,0:18:06.37,Default,,0,0,0,,{\fs54}De acuerdo.
+Dialogue: 0,0:18:06.46,0:18:08.29,Default,,0,0,0,,{\fs54}- ¿Sabes que te brilla el ojo?\N- Lo sé.
+Dialogue: 0,0:18:12.34,0:18:13.51,Default,,0,0,0,,{\fs54}No.
+Dialogue: 0,0:18:16.59,0:18:17.84,Default,,0,0,0,,{\fs54}¿Dónde está tu dueño?
+Dialogue: 0,0:18:17.93,0:18:20.68,Default,,0,0,0,,{\fs54}Mi problema\Nes que estoy atascada en la duda.
+Dialogue: 0,0:18:20.76,0:18:22.22,Default,,0,0,0,,{\fs54}Tienes razón.
+Dialogue: 0,0:18:30.81,0:18:33.44,Default,,0,0,0,,{\fs54}- Vamos, Willoughby.\N- ¿Por qué es tan difícil?
+Dialogue: 0,0:18:33.53,0:18:35.19,Default,,0,0,0,,{\fs54}Lo sé.
+Dialogue: 0,0:18:35.61,0:18:37.20,Default,,0,0,0,,{\fs54}Sí, cierto.
+Dialogue: 0,0:18:37.28,0:18:38.82,Default,,0,0,0,,{\fs54}Lo tuyo también es difícil.
+Dialogue: 0,0:18:41.07,0:18:42.95,Default,,0,0,0,,{\fs54}Willoughby siente algo.
+Dialogue: 0,0:18:44.54,0:18:45.91,Default,,0,0,0,,{\fs54}Marco, mira.
+Dialogue: 0,0:18:46.00,0:18:50.12,Default,,0,0,0,,{\fs54}Un empresario hermoso.
+Dialogue: 0,0:18:50.33,0:18:53.80,Default,,0,0,0,,{\fs54}Ve, Willoughby. Ve con tu empresario.
+Dialogue: 0,0:19:07.89,0:19:09.19,Default,,0,0,0,,{\fs54}¡Ya basta!
+Dialogue: 0,0:19:09.39,0:19:10.73,Default,,0,0,0,,{\fs54}¿Qué...?
+Dialogue: 0,0:19:19.07,0:19:20.32,Default,,0,0,0,,{\fs54}Lo siento.
+Dialogue: 0,0:19:21.32,0:19:22.91,Default,,0,0,0,,{\fs54}¿Qué acaba de suceder?
+Dialogue: 0,0:19:23.95,0:19:26.41,Default,,0,0,0,,{\fs54}- ¿Quién eres?\N- No importa.
+Dialogue: 0,0:19:26.54,0:19:28.12,Default,,0,0,0,,{\fs54}¿Por qué tomaste mi varita?
+Dialogue: 0,0:19:29.58,0:19:33.50,Default,,0,0,0,,{\fs54}Porque en mi dimensión,\Nlos perros tienen todos los problemas.
+Dialogue: 0,0:19:33.59,0:19:34.92,Default,,0,0,0,,{\fs54}No hay escape.
+Dialogue: 0,0:19:35.42,0:19:37.05,Default,,0,0,0,,{\fs54}Solo tristeza.
+Dialogue: 0,0:19:38.42,0:19:39.97,Default,,0,0,0,,{\fs54}Es más fácil si la clavas abajo.
+Dialogue: 0,0:19:40.80,0:19:41.93,Default,,0,0,0,,{\fs54}¡Lo lograste!
+Dialogue: 0,0:19:44.35,0:19:45.43,Default,,0,0,0,,{\fs54}Uva blanca.
+Dialogue: 0,0:19:45.51,0:19:48.06,Default,,0,0,0,,{\fs54}Solo quiero ser...
+Dialogue: 0,0:19:48.31,0:19:49.68,Default,,0,0,0,,{\fs54}como ellos.
+Dialogue: 0,0:19:49.77,0:19:52.69,Default,,0,0,0,,{\fs54}Pensé que si me disparaba con tu varita,
+Dialogue: 0,0:19:52.77,0:19:54.48,Default,,0,0,0,,{\fs54}aplacaría mi mente turbulenta.
+Dialogue: 0,0:19:57.57,0:20:00.45,Default,,0,0,0,,{\fs54}Pero no puedes huir de tus problemas.
+Dialogue: 0,0:20:00.95,0:20:03.24,Default,,0,0,0,,{\fs54}Tú siempre huyes de tus problemas.
+Dialogue: 0,0:20:03.32,0:20:05.66,Default,,0,0,0,,{\fs54}Solo me tomo recreos.
+Dialogue: 0,0:20:05.74,0:20:08.20,Default,,0,0,0,,{\fs54}Yo quiero eso. Quiero un recreo.
+Dialogue: 0,0:20:08.29,0:20:10.08,Default,,0,0,0,,{\fs54}No necesitas magia para eso.
+Dialogue: 0,0:20:10.16,0:20:12.79,Default,,0,0,0,,{\fs54}Necesitas un juguete.
+Dialogue: 0,0:20:13.75,0:20:15.84,Default,,0,0,0,,{\fs54}Y necesitas ir a atraparlo.
+Dialogue: 0,0:20:15.92,0:20:17.75,Default,,0,0,0,,{\fs54}¡No, Star! Sin atrapar.
+Dialogue: 0,0:20:18.30,0:20:21.09,Default,,0,0,0,,{\fs54}Sí. Y también necesitas un Marco.
+Dialogue: 0,0:20:21.72,0:20:22.72,Default,,0,0,0,,{\fs54}LLAMANDO A LYDIA
+Dialogue: 0,0:20:22.80,0:20:26.64,Default,,0,0,0,,{\fs54}Hola, Lydia. Encontré a tu perro.\NOtra vez.
+Dialogue: 0,0:20:26.72,0:20:29.14,Default,,0,0,0,,{\fs54}Estuve aquí todo el tiempo.
+Dialogue: 0,0:20:29.22,0:20:31.64,Default,,0,0,0,,{\fs54}Ven, mi pequeñín.
+Dialogue: 0,0:20:31.73,0:20:34.44,Default,,0,0,0,,{\fs54}- En realidad, es hembra.\N- No importa.
+Dialogue: 0,0:20:34.52,0:20:36.61,Default,,0,0,0,,{\fs54}Mi pastelito.
+Dialogue: 0,0:20:36.69,0:20:39.07,Default,,0,0,0,,{\fs54}Es hora de ir a casa.
+Dialogue: 0,0:20:40.07,0:20:41.36,Default,,0,0,0,,{\fs54}Ve.
+Dialogue: 0,0:20:41.69,0:20:43.24,Default,,0,0,0,,{\fs54}Supongo que no dolerá.
+Dialogue: 0,0:20:43.74,0:20:45.03,Default,,0,0,0,,{\fs54}Aguarda.
+Dialogue: 0,0:20:45.11,0:20:46.57,Default,,0,0,0,,{\fs54}Una cosa más.
+Dialogue: 0,0:20:50.66,0:20:52.21,Default,,0,0,0,,{\fs54}¿Tu collar?
+Dialogue: 0,0:20:52.83,0:20:55.21,Default,,0,0,0,,{\fs54}- No podría.\N- Todos ganamos.
+Dialogue: 0,0:20:55.29,0:20:57.84,Default,,0,0,0,,{\fs54}No tendré que enviarle\Nuna tarjeta a la tía.
+Dialogue: 0,0:20:57.92,0:21:00.09,Default,,0,0,0,,{\fs54}Ahora ve a buscar a tu Lydia.
+Dialogue: 0,0:21:00.76,0:21:02.30,Default,,0,0,0,,{\fs54}¿Por qué me hablas así?
+Dialogue: 0,0:21:02.38,0:21:05.89,Default,,0,0,0,,{\fs54}Porque así les hablamos a los perritos.
+Dialogue: 0,0:21:12.23,0:21:15.44,Default,,0,0,0,,{\fs54}Esto es felicidad.
+Dialogue: 0,0:21:21.82,0:21:24.57,Default,,0,0,0,,{\fs54}Gracias por hallar a mi perro.
+Dialogue: 0,0:21:24.70,0:21:26.03,Default,,0,0,0,,{\fs54}Adiós.
+Dialogue: 0,0:21:28.62,0:21:32.37,Default,,0,0,0,,{\fs54}¿Ves, Marco? Yo encaro mis problemas.
+Dialogue: 0,0:21:32.62,0:21:35.71,Default,,0,0,0,,{\fs54}- ¿Tu mamá te llama otra vez?\N- ¡Recreo!
+Dialogue: 0,0:21:37.33,0:21:41.42,Default,,0,0,0,,{\fs54}Creo que la Tierra es un lugar genial
+Dialogue: 0,0:21:41.50,0:21:45.43,Default,,0,0,0,,{\fs54}Y eso dice mucho\NConozco el espacio exterior
+Dialogue: 0,0:21:45.51,0:21:49.35,Default,,0,0,0,,{\fs54}Me sienta bien, es de mi estilo
+Dialogue: 0,0:21:49.43,0:21:53.06,Default,,0,0,0,,{\fs54}Creo que me quedaré un tiempo
+Dialogue: 0,0:21:53.39,0:21:57.31,Default,,0,0,0,,{\fs54}Un extraño es un amigo\NQue aún no conocemos
+Dialogue: 0,0:21:57.40,0:22:01.40,Default,,0,0,0,,{\fs54}Lucho contra monstruos\NSin mayor esfuerzo
+Dialogue: 0,0:22:01.48,0:22:05.70,Default,,0,0,0,,{\fs54}De verdad creo\NQue este podría ser mi hogar
+
+        </div>
+        <script>
+            window.parent.subtitles = document.getElementById("subASS").textContent;
+            window.parent.octopusInstance.setTrack(window.parent.subtitles);
+            window.parent.swSub = false;
+        </script>
+    </body>
+</html>
