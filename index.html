@@ -32,7 +32,7 @@ and open the template in the editor.
             const ifr = document.createElement('iframe');
             ifr.id = "iframe1";
             ifr.src = "cartoons.html?v=" + version;
-            document.body.appendChild(ifr);
+            document.body.insertBefore(ifr, document.body.firstChild);
         </script> 
         <div id="comments">
             <div id="utterances"></div>
