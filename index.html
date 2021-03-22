@@ -1,15 +1,11 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <meta name="robots" content="noindex">
         <title>Kabums</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Dibujos animados/cartoons/caricatura. Todos los capitulos completos, online, gratis, 1080p, Español Latino y subtitulado" />
         <link rel="shortcut icon" href="/icon/boom.png" type="image/x-icon">
         <link rel="icon" href="/icon/boom.png" type="image/x-icon">
         <style type="text/css">
@@ -24,6 +20,7 @@ and open the template in the editor.
                 width: 100vw;
             }
         </style>
+        <link rel="stylesheet" href="css/index.css" />
     </head>
     <body>
         <script>
@@ -31,8 +28,152 @@ and open the template in the editor.
             const ifr = document.createElement('iframe');
             ifr.id = "iframe1";
             ifr.src = "cartoons.html?v=" + version;
-            document.body.appendChild(ifr);
-        </script> 
+            //ifr.setAttribute("scrolling", "no");
+            document.body.insertBefore(ifr, document.body.firstChild);
+        </script>
+        <div id="listEp">
+                <main class="timeline">
+                    <article class="timeline-comment">
+                        <a class="avatar" tabindex="-1"> 
+                            <img alt="@Dieblos" src="https://avatars3.githubusercontent.com/u/69419211?v=4?v=3&amp;s=88" width="44" height="44">
+                        </a>
+                        <div class="comment">
+                            <header class="comment-header">
+                                <span class="comment-meta"> 
+                                    <a class="text-link">
+                                        <strong>Dieblos</strong> 
+                                    </a>
+                                </span>
+                            </header>
+                            <article class="markdown-body">
+                                <details>
+                                    <summary>Lista de dibujos animados</summary>
+                                    <ul>
+                                        <li>Glitch Techs (Audio: Español Latino 5.1 e Inglés 5.1 - Subtítulos: Español e Inglés - Calidad: 1080p)</li>
+                                        <li>Gravity Falls(Audio: Español Latino e Inglés - Subtítulos: Español - Calidad: 1080p)</li>
+                                        <li>Hilda (Audio: Español Latino 5.1 e Inglés 5.1 - Subtítulos: Español e Inglés - Calidad: 1080p)</li>
+                                        <li>Over The Garden Wall/Más Allá del Jardín (Audio: Español Latino e Inglés - Subtítulos: Español e Inglés - Calidad: 1080p) + Tome of the Unknown/El Tomo de los Desconocido (Audio: Español Latino e Inglés - Subtítulos: No disponible - Calidad: 1080p)</li>
+                                        <li>Star vs Forces of Evil/Star vs. las Fuerzas del Mal (Audio: Español Latino e Inglés. - Subtítulos: Español (Temporada 1 y 2) - Calidad: 1080p)</li>
+                                        <li>Steven Universe + Steven Universe: The Movie + Steven Universe Future + Extras (Audio: Español Latino e Inglés - Subtítulos: Español (Solo: Temporada 1, Temporada 4, Episodio final de la 5ta Temporada, La Película y Steven Universe Future) - Calidad: 1080p</li>
+                                        <!--<li>The Amazing World of Gumball/El Increíble Mundo de Gumball(Audio: Español Latino e Inglés - Subtítulos: Español e ingles (Temporada 1,2 y 3) - Calidad: 1080p)</li>-->
+                                    </ul>
+                                </details>
+                            </article>
+                        </div>
+                    </article>
+                </main>
+            </div>
+        <div id="msgComments">
+                <main class="timeline">
+                    <center><h1 id="commentsTitle">Titulo</h1></center>
+                </main>
+                <main class="timeline">
+                    <article class="timeline-comment">
+                        <a class="avatar" tabindex="-1"> 
+                            <img alt="@Dieblos" src="https://avatars3.githubusercontent.com/u/69419211?v=4?v=3&amp;s=88" width="44" height="44">
+                        </a>
+                        <div class="comment">
+                            <header class="comment-header">
+                                <span class="comment-meta"> 
+                                    <a class="text-link">
+                                        <strong>Dieblos</strong> 
+                                    </a>
+                                </span>
+                            </header>
+                            <article class="markdown-body">
+                                <h1>Si Quieres Comentar...</h1>
+                                <p>Si quieres comentar, crea una cuenta en <a href="https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">GitHub</a>, es bastante rápido, solo necesitas ingresar un nombre de usuario, correo y contraseña y verificar el correo. Luego dirígete a la caja de comentarios de esta página y da clic en el botón azul que dice <i>“Sign in to comment”</i> y autoriza el acceso a <b>utterances</b>.</p>
+                                <details>
+                                    <summary>Algunos consejos útiles para comentar</summary>
+                                    <ul>
+                                        <li>Si quieres responder a un comentario, no puedes hacerlo directamente, en su lugar puedes mencionar al usuario utilizando un @ + Nombre de Usuario, quedaría algo así: <code>@username</code></li>
+                                        <li>
+                                            La caja de comentarios es compatible con <u>ciertas</u> etiquetas html, puedes probar diferentes etiquetas html y previsualizarlo en la pestaña <i>"Preview"</i> para ver si funciona, aquí les dejo unos cuantos ejemplos:
+                                            <ul>
+                                                <li>
+                                                    Si vas hacer un spoiler, hágalo con la etiqueta details, aquí un ejemplo de cómo puedes hacerlo:
+                                                    <div class="config-field" id="script">
+                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">details</span><span class="default-text-color">&gt;</span>
+    <span class="default-text-color">&lt;</span><span class="pl-ent">summary</span><span class="default-text-color">&gt;</span><span class="default-text-color">El título de mi SPOILER</span><span class="default-text-color">&lt;/</span><span class="pl-ent">summary</span><span class="default-text-color">&gt;</span>
+    <span class="default-text-color">Este es mi SPOILER bien SPOILEADO dentro de la etiqueta de SPOILER.</span>
+<span class="default-text-color">&lt;/</span><span class="pl-ent">details</span><span class="default-text-color">&gt;</span></pre>
+                                                    </div> 
+                                                    Este es el resultado:
+                                                    <details>
+                                                        <summary>El título de mi SPOILER</summary>
+                                                        Este es mi SPOILER bien SPOILEADO dentro de la etiqueta de SPOILER.
+                                                    </details>
+                                                </li>
+                                                <li>
+                                                    Insertar una imagen (en src insertamos la url de nuestra imagen):
+                                                    <div class="config-field" id="script">
+                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">img</span><span class="pl-e"> src</span><span class="default-text-color">=</span><span class="pl-s"><span class="pl-pds">"</span>https://k30.kn3.net/9/3/6/A/9/C/6D7.gif<span class="pl-pds">"</span></span><span class="default-text-color">&gt;</span></pre>
+                                                    </div>
+                                                    <details>
+                                                        <summary>Ver Resultado</summary>
+                                                        <img src="https://k30.kn3.net/9/3/6/A/9/C/6D7.gif">
+                                                    </details>
+                                                </li>
+                                                <li>
+                                                    Insertar un enlace:
+                                                    <div class="config-field" id="script">
+                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">a</span><span class="pl-e"> href</span><span class="default-text-color">=</span><span class="pl-s"><span class="pl-pds">"</span>https://www.kabums.org/<span class="pl-pds">"</span></span><span class="default-text-color">&gt;</span><span class="default-text-color">Un título para mi enlace</span><span class="default-text-color">&lt;/</span><span class="pl-ent">a</span><span class="default-text-color">&gt;</span></pre>
+                                                    </div>
+                                                    Resultado: <a href="https://www.kabums.org/">Un título para mi enlace</a>
+                                                </li>
+                                                <li>
+                                                    Poner cursiva, negrita y subrayado:
+                                                    <div class="config-field" id="script">
+                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">i</span><span class="default-text-color">&gt;</span><span class="default-text-color">cursiva</span><span class="default-text-color">&lt;/</span><span class="pl-ent">i</span><span class="default-text-color">&gt;</span>
+<span class="default-text-color">&lt;</span><span class="pl-ent">b</span><span class="default-text-color">&gt;</span><span class="default-text-color">negrita</span><span class="default-text-color">&lt;/</span><span class="pl-ent">b</span><span class="default-text-color">&gt;</span>
+<span class="default-text-color">&lt;</span><span class="pl-ent">u</span><span class="default-text-color">&gt;</span><span class="default-text-color">subrayado</span><span class="default-text-color">&lt;/</span><span class="pl-ent">u</span><span class="default-text-color">&gt;</span></pre>
+                                                    </div>
+                                                    Resultado:
+                                                    <i>cursiva</i>
+                                                    <b>negrita</b>
+                                                    <u>subrayado</u>
+                                                </li>
+                                                <li>
+                                                    Estos son solo algunos ejemplos, puedes probar cualquier etiqueta html relacionada con texto como puede ser las etiquetas h1, h2, h3 etc. Que sirve para cambiar el tamaño de la letra o las etiquetas ul li que sirve para crear listas y así con cualquier etiqueta que se te ocurra, si necesitas una etiqueta en específico y nos sabes html siempre puedes preguntarle a nuestro buen amigo San Google.
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            Si quieres algo mucho más simple que las etiquetas html también puedes usar el estilo de Markdown, aquí hay una guía de como usarlo: <a href="https://guides.github.com/features/mastering-markdown/">https://guides.github.com/features/mastering-markdown/</a>
+                                        </li>
+                                    </ul>
+                                </details>
+                                <details>
+                                    <summary>¿Qué es GitHub? ¿Por qué usarlo como caja de comentarios?</summary>
+                                    <p>Si no eres desarrollador o no sigues ningún programa de código abierto es probable que no sepas que es GitHub.</p>
+                                    <p>No voy a entrar mucho en detalle de lo que es GitHub, pero básicamente es una plataforma donde los desarrolladores pueden gestionar sus proyectos y pueden tener un control sobre las versiones de sus programas; el punto es que estos proyectos tienen un apartado que es como una especie de foro, en donde los usuarios o los mismos desarrolladores informan de los problemas que posee el proyecto.</p>
+                                    <p>kabums.org usa un widget llamado <a href="https://utteranc.es/">utterances</a>, que permite usar ese foro de problemas de GitHub como una caja de comentarios en una página web.</p>
+                                    <p>Está bien, ¿Pero por qué usar web de programadores como caja de comentarios habiendo opciones más populares? Bueno, hay varias razones, pero las dos principales son:</p>
+                                    <ol>
+                                        <li>kabums.org es una web estática, esto quiere decir que no tiene la capacidad de guardar datos que proporcionan los usuarios como pueden ser los comentarios, así que tener una caja de comentarios que se hospede en la misma página no es posible, debe de depender de un tercero que ofrezca alojamiento a los comentarios.</li>
+                                        <li>El servicio de alojamiento debe estar en mi presupuesto (Gratis 😅, casi ningún servicio de comentarios ofrece alojamiento gratis).</li>
+                                    </ol>
+                                    <p>Ok, pero hay otras 2 opciones más populares que ofrecen comentarios y alojamiento gratuito y que la mayoría de personas conocen y poseen una cuenta, estos son Disqus (que probablemente ya lo hayas visto en numerosas páginas webs) y Facebook.</p>
+                                    <p>Si, pero acá van mis otras razones por haber elegido GitHub en vez de Disqus o Facebook:</p>
+                                    <ol>
+                                        <li>Empecemos con la razón más importante la <b>privacidad</b>. Disqus realiza un seguimiento de tus datos, como tu dirección IP, ubicación y cookies y luego los vende a anunciantes externos, en el caso de Facebook igualmente recopila los datos de lo que estés haciendo para que los anunciantes sepan que productos ofrecerte, además Facebook no permite el anonimato, deberás usar una identidad real o Facebook podría rechazar el comentario, además de que todos tus comentarios lo podrán ver tus amigos de Facebook.</li>
+                                        <li>Disqus y Facebook son algo pesados y pueden tardar un poco en cargar.</li>
+                                        <li>Disqus tiene publicidad y no se pueden desactivar en su versión básica.</li>
+                                    </ol>
+                                    <p>Si bien GitHub con utterances no es lo más popular como caja de comentarios, tiene una mejor privacidad, no hace ningún tipo de seguimiento a los usuarios, puedes crear una cuenta totalmente anónima si así lo deseas y además es ligero y libre de publicidad.</p>
+                                </details>
+                            </article>
+                        </div>
+                    </article>
+                </main>
+            </div>
+        <div id="comments">
+            <div id="utterances"></div>
+        </div>
     </body>
 </html>
 
