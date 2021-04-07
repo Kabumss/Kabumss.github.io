@@ -19,36 +19,39 @@
                 height: 100vh;
                 width: 100vw;
             }
+            #msjH {
+                font-size:30px
+            }
         </style>
         <link rel="stylesheet" href="css/index.css" />
     </head>
     <body>
         <script>
-			var wait = true;
+            var wait = true;
             const version = (new Date()).getTime();
             const ifr = document.createElement('iframe');
             ifr.id = "iframe1";
             ifr.src = "cartoons.html?v=" + version;
-            //ifr.setAttribute("scrolling", "no");
+            ifr.setAttribute("scrolling", "no");
             document.body.insertBefore(ifr, document.body.firstChild);
         </script>
-		<button id="home" type="button" style="display: none;"></button>
+        <button id="home" type="button" style="display: none;"></button>
         <div id="listEp">
-                <main class="timeline">
-                    <article class="timeline-comment">
-                        <a class="avatar" tabindex="-1"> 
-                            <img alt="@Dieblos" src="https://avatars3.githubusercontent.com/u/69419211?v=4?v=3&amp;s=88" width="44" height="44">
-                        </a>
-                        <div class="comment">
-                            <header class="comment-header">
-                                <span class="comment-meta"> 
-                                    <a class="text-link">
-                                        <strong>Dieblos</strong> 
-                                    </a>
-                                </span>
-                            </header>
-                            <article class="markdown-body">
-                                <h1>Lista de dibujos animados</h1>
+            <main class="timeline">
+                <article class="timeline-comment">
+                    <a class="avatar" tabindex="-1"> 
+                        <img alt="@Dieblos" src="https://avatars3.githubusercontent.com/u/69419211?v=4?v=3&amp;s=88" width="44" height="44">
+                    </a>
+                    <div class="comment">
+                        <header class="comment-header">
+                            <span class="comment-meta"> 
+                                <a class="text-link">
+                                    <strong>Dieblos</strong> 
+                                </a>
+                            </span>
+                        </header>
+                        <article class="markdown-body">
+                            <b id="msjH">Lista de dibujos animados</b>
                                 <ul>
                                     <li>Glitch Techs (Audio: Español Latino 5.1 e Inglés 5.1 - Subtítulos: Español e Inglés - Calidad: 1080p)</li>
                                     <li>Gravity Falls(Audio: Español Latino e Inglés - Subtítulos: Español - Calidad: 1080p)</li>
@@ -58,14 +61,14 @@
                                     <li>Steven Universe + Steven Universe: The Movie + Steven Universe Future + Extras (Audio: Español Latino e Inglés - Subtítulos: Español (Solo: Temporada 1, Temporada 4, Episodio final de la 5ta Temporada, La Película y Steven Universe Future) - Calidad: 1080p</li>
                                     <li>The Amazing World of Gumball/El Increíble Mundo de Gumball(Audio: Español Latino e Inglés - Subtítulos: Español e ingles (Temporada 1,2 y 3) - Calidad: 1080p)</li>
                                 </ul>
-                            </article>
-                        </div>
-                    </article>
-                </main>
-            </div>
+                        </article>
+                    </div>
+                </article>
+            </main>
+        </div>
         <div id="msgComments">
             <main class="timeline">
-                <center><h1 id="commentsTitle">Titulo</h1></center>
+                <center><b id="msjH">Comenta Acerca de la Página</b></center>
             </main>
             <main class="timeline">
                 <article class="timeline-comment">
@@ -81,7 +84,7 @@
                             </span>
                         </header>
                         <article class="markdown-body">
-                            <h1>Si Quieres Comentar...</h1>
+                            <b id="msjH">Si Quieres Comentar...</b>
                             <p>Si quieres comentar, crea una cuenta en <a href="https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">GitHub</a>, es bastante rápido, solo necesitas ingresar un nombre de usuario, correo y contraseña y verificar el correo. Luego dirígete a la caja de comentarios de esta página y da clic en el botón azul que dice <i>“Sign in to comment”</i> y autoriza el acceso a <b>utterances</b>.</p>
                             <details>
                                 <summary>Algunos consejos útiles para comentar</summary>
@@ -170,7 +173,7 @@ Mi respuesta al mensaje citado.</pre>
                                                 <u>subrayado</u>
                                             </li>
                                             <li>
-                                                Estos son solo algunos ejemplos, puedes probar cualquier etiqueta html relacionada con texto como puede ser las etiquetas h1, h2, h3 etc. Que sirve para cambiar el tamaño de la letra o las etiquetas ul li que sirve para crear listas y así con cualquier etiqueta que se te ocurra, si necesitas una etiqueta en específico y nos sabes html siempre puedes preguntarle a nuestro buen amigo San Google.
+                                                Estos son solo algunos ejemplos, puedes probar cualquier etiqueta html relacionada con texto como puede ser las etiquetas ul li que sirve para crear listas y así con cualquier etiqueta que se te ocurra, si necesitas una etiqueta en específico y nos sabes html siempre puedes preguntarle a nuestro buen amigo San Google.
                                             </li>
                                         </ul>
                                     </li>
