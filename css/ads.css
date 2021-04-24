@@ -1,0 +1,23 @@
+#videoModal {
+    z-index: 1
+}
+
+#adContainer {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 5
+}
+
+#msjAD {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+        font-size: 20px
+}
+
+#babasbmsgx {
+    padding-top:40px
+}

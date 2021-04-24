@@ -1,42 +1,70 @@
 <!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 <html>
     <head>
-        <meta name="robots" content="noindex">
+		<meta name="robots" content="noindex">
         <title>Kabums</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Dibujos animados/cartoons/caricatura. Todos los capitulos completos, online, gratis, 1080p, Español Latino y subtitulado" />
         <link rel="shortcut icon" href="/icon/boom.png" type="image/x-icon">
         <link rel="icon" href="/icon/boom.png" type="image/x-icon">
+        <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <link rel="stylesheet" href="css/index.css" />
+        <link rel="stylesheet" href="css/modal.css" />
+        <link rel="stylesheet" href="css/ads.css" />
+        <link rel="stylesheet" href="css/collapse.css" />
+        <link rel="stylesheet" href="css/iframe.css" />
         <style type="text/css">
-            body {
-                margin: 0;
-            }
-            #iframe1 {
-                display: block;
-                background: #000;
-                border: none;
-                height: 100vh;
-                width: 100vw;
+            #homePage {
+                position:relative;
+                padding-top:40px
             }
             #msjH {
                 font-size:30px
             }
         </style>
-        <link rel="stylesheet" href="css/index.css" />
-    </head>
-    <body>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-TVDT8FN44H"></script>
         <script>
-            var wait = true;
-            const version = (new Date()).getTime();
-            const ifr = document.createElement('iframe');
-            ifr.id = "iframe1";
-            ifr.src = "cartoons.html?v=" + version;
-            ifr.setAttribute("scrolling", "no");
-            document.body.insertBefore(ifr, document.body.firstChild);
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'G-TVDT8FN44H');
         </script>
-        <button id="home" type="button" style="display: none;"></button>
-        <div id="listEp">
+    </head>
+    <body style="visibility: hidden !important;">
+        <style>
+            @-webkit-keyframes aixzP {0% {opacity: 0;}80% {opacity: 0;}100% {opacity: 1;}}
+            @keyframes aixzP {0% {opacity: 0;}80% {opacity: 0;}100% {opacity: 1;}}
+        </style>
+        <div id="babasbmsgx" style="visibility: visible; -webkit-animation-name: aixzP;-webkit-animation-duration: 5s; animation-name: aixzP;animation-duration: 5s;">
+            Desactive sus bloqueadores de adblock y script para ver esta página.
+        </div>
+        <nav class="fixed-top" style="width: 1; height: 0;">
+            <button id="home" class="btn bg-success text-white" type="button" title="Página principal">
+                <i class="fas fa-home"></i>
+                <span class="btn-text">
+                    Home
+                </span>
+            </button>
+            <button id="series" class="btn bg-success text-white" type="button" title="Lista de series">
+                <i class="fas fa-search"></i>
+                <span class="btn-text">
+                    Series
+                </span>
+            </button>
+        </nav>
+        <div id="homePage">
             <main class="timeline">
                 <article class="timeline-comment">
                     <a class="avatar" tabindex="-1"> 
@@ -51,22 +79,29 @@
                             </span>
                         </header>
                         <article class="markdown-body">
-                            <b id="msjH">Lista de dibujos animados</b>
-                                <ul>
-                                    <li>Glitch Techs (Audio: Español Latino 5.1 e Inglés 5.1 - Subtítulos: Español e Inglés - Calidad: 1080p)</li>
-                                    <li>Gravity Falls(Audio: Español Latino e Inglés - Subtítulos: Español - Calidad: 1080p)</li>
-                                    <li>Hilda (Audio: Español Latino 5.1 e Inglés 5.1 - Subtítulos: Español e Inglés - Calidad: 1080p)</li>
-                                    <li>Over The Garden Wall/Más Allá del Jardín (Audio: Español Latino e Inglés - Subtítulos: Español e Inglés - Calidad: 1080p) + Tome of the Unknown/El Tomo de los Desconocido (Audio: Español Latino e Inglés - Subtítulos: No disponible - Calidad: 1080p)</li>
-                                    <li>Star vs Forces of Evil/Star vs. las Fuerzas del Mal (Audio: Español Latino e Inglés. - Subtítulos: Español (Temporada 1 y 2) - Calidad: 1080p)</li>
-                                    <li>Steven Universe + Steven Universe: The Movie + Steven Universe Future + Extras (Audio: Español Latino e Inglés - Subtítulos: Español (Solo: Temporada 1, Temporada 4, Episodio final de la 5ta Temporada, La Película y Steven Universe Future) - Calidad: 1080p</li>
-                                    <li>The Amazing World of Gumball/El Increíble Mundo de Gumball(Audio: Español Latino e Inglés - Subtítulos: Español e ingles (Temporada 1,2 y 3) - Calidad: 1080p)</li>
-                                </ul>
+                            <h1>¡Mira Dibujos Animados en Español Latino y 1080p!</h1>
+                            <h2>¿Qué es este sitio?</h2>
+                            <p>Este sitio web será un lugar dedicado para ver dibujos animados de forma online, principalmente en español latino; aunque algunas series quizás también tengan disponibilidad en idioma original y con subtítulos en español. También estarán en calidad 1080p (o al menos en su mayoría).</p>
+                            <p>El diseño de la página, si bien no es tan vistoso, es bastante minimalista de fácil y rápida navegación, sin tanta saturación, imitando un poco a un gestor de archivos.</p>
+                            <p>Puedes ver y seleccionar las series disponibles presionando este boton <button id="series" class="btn bg-success text-white" type="button" title="Lista de series"><i class="fas fa-search"></i><span class="btn-text">Series</span></button> o presionado el botón que está en la esquina superior izquierda de esta página</p>
+                            <h2>Lista de dibujos animados</h2>
+                            <ul id="listDB">
+                                <li>El Increíble Mundo de Gumball</li>
+                                <li>Glitch Techs</li>
+                                <li>Gravity Falls</li>
+                                <li>Hilda</li>
+                                <li>Más Allá del Jardín/Over The Garden Wall</li>
+                                <li>South Park</li>
+                                <li>Star vs. las Fuerzas del Mal</li>
+                                <li>Steven Universe + Steven Universe Future</li>
+                            </ul>
+                            </br>
+                            <p>Si quieres hacer un comentario acerca del sitio, ya sea para informar un error, dar tu opinión, dar una sugerencia, hacer una pregunta, hablar con otros usuarios o cualquier otra cosa relacionada con la página, puedes hacerlo en la caja de comentarios de abajo (Necesitaras una cuenta en <a href="https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">GitHub</a> para comentar).</p>                                
+                            </br>
                         </article>
                     </div>
                 </article>
             </main>
-        </div>
-        <div id="msgComments">
             <main class="timeline">
                 <center><b id="msjH">Comenta Acerca de la Página</b></center>
             </main>
@@ -91,22 +126,22 @@
                                 <ul>
                                     <li>Si quieres responder a un comentario, no puedes hacerlo directamente, en su lugar puedes mencionar al usuario utilizando un @ + Nombre de Usuario, quedaría algo así: <code>@username</code></li>
                                     <li>
-                                                            Si quieres citar un mensaje, coloca un ">" delante del texto que quieres citar, luego deja un salto de línea de diferencia entre el texto citado y tu respuesta al texto citado. 
-                                                                    <div class="config-field" id="script">
-                                                                        <pre class="">
+                                        Si quieres citar un mensaje, coloca un ">" delante del texto que quieres citar, luego deja un salto de línea de diferencia entre el texto citado y tu respuesta al texto citado. 
+                                        <div class="config-field" id="script">
+                                            <pre class="">
 <span class="pl-e">></span> Aquí coloco el texto que quiero citar.
                                                                         
 Mi respuesta al mensaje citado.</pre>
-                                                                    </div>
-                                                                    <details>
-                                                                        <summary>Ver Resultado</summary>
-                                                                        <blockquote>
-                                                                            <p>Aquí coloco el texto que quiero citar.</p>
-                                                                        </blockquote>
-                                                                        <p></p>
-                                                                        <p>Mi respuesta al mensaje citado.</p>
-                                                                    </details>
-                                                          </li>  
+                                        </div>
+                                        <details>
+                                            <summary>Ver Resultado</summary>
+                                            <blockquote>
+                                                <p>Aquí coloco el texto que quiero citar.</p>
+                                            </blockquote>
+                                            <p></p>
+                                            <p>Mi respuesta al mensaje citado.</p>
+                                        </details>
+                                    </li>  
                                     <li>
                                         La caja de comentarios es compatible con <u>ciertas</u> etiquetas html, puedes probar diferentes etiquetas html y previsualizarlo en la pestaña <i>"Preview"</i> para ver si funciona, aquí les dejo unos cuantos ejemplos:
                                         <ul>
@@ -173,7 +208,7 @@ Mi respuesta al mensaje citado.</pre>
                                                 <u>subrayado</u>
                                             </li>
                                             <li>
-                                                Estos son solo algunos ejemplos, puedes probar cualquier etiqueta html relacionada con texto como puede ser las etiquetas ul li que sirve para crear listas y así con cualquier etiqueta que se te ocurra, si necesitas una etiqueta en específico y nos sabes html siempre puedes preguntarle a nuestro buen amigo San Google.
+                                                Estos son solo algunos ejemplos, puedes probar cualquier etiqueta html relacionada con texto como las etiquetas ul li que sirve para crear listas y así con cualquier etiqueta que se te ocurra, si necesitas una etiqueta en específico y nos sabes html siempre puedes preguntarle a nuestro buen amigo San Google.
                                             </li>
                                         </ul>
                                     </li>
@@ -182,33 +217,183 @@ Mi respuesta al mensaje citado.</pre>
                                     </li>
                                 </ul>
                             </details>
-                            <details>
-                                <summary>¿Qué es GitHub? ¿Por qué usarlo como caja de comentarios?</summary>
-                                <p>Si no eres desarrollador o no sigues ningún programa de código abierto es probable que no sepas que es GitHub.</p>
-                                <p>No voy a entrar mucho en detalle de lo que es GitHub, pero básicamente es una plataforma donde los desarrolladores pueden gestionar sus proyectos y pueden tener un control sobre las versiones de sus programas; el punto es que estos proyectos tienen un apartado que es como una especie de foro, en donde los usuarios o los mismos desarrolladores informan de los problemas que posee el proyecto.</p>
-                                <p>kabums.org usa un widget llamado <a href="https://utteranc.es/">utterances</a>, que permite usar ese foro de problemas de GitHub como una caja de comentarios en una página web.</p>
-                                <p>Está bien, ¿Pero por qué usar web de programadores como caja de comentarios habiendo opciones más populares? Bueno, hay varias razones, pero las dos principales son:</p>
-                                <ol>
-                                    <li>kabums.org es una web estática, esto quiere decir que no tiene la capacidad de guardar datos que proporcionan los usuarios como pueden ser los comentarios, así que tener una caja de comentarios que se hospede en la misma página no es posible, debe de depender de un tercero que ofrezca alojamiento a los comentarios.</li>
-                                    <li>El servicio de alojamiento debe estar en mi presupuesto (Gratis 😅, casi ningún servicio de comentarios ofrece alojamiento gratis).</li>
-                                </ol>
-                                <p>Ok, pero hay otras 2 opciones más populares que ofrecen comentarios y alojamiento gratuito y que la mayoría de personas conocen y poseen una cuenta, estos son Disqus (que probablemente ya lo hayas visto en numerosas páginas webs) y Facebook.</p>
-                                <p>Si, pero acá van mis otras razones por haber elegido GitHub en vez de Disqus o Facebook:</p>
-                                <ol>
-                                    <li>Empecemos con la razón más importante la <b>privacidad</b>. Disqus realiza un seguimiento de tus datos, como tu dirección IP, ubicación y cookies y luego los vende a anunciantes externos, en el caso de Facebook igualmente recopila los datos de lo que estés haciendo para que los anunciantes sepan que productos ofrecerte, además Facebook no permite el anonimato, deberás usar una identidad real o Facebook podría rechazar el comentario, además de que todos tus comentarios lo podrán ver tus amigos de Facebook.</li>
-                                    <li>Disqus y Facebook son algo pesados y pueden tardar un poco en cargar.</li>
-                                    <li>Disqus tiene publicidad y no se pueden desactivar en su versión básica.</li>
-                                </ol>
-                                <p>Si bien GitHub con utterances no es lo más popular como caja de comentarios, tiene una mejor privacidad, no hace ningún tipo de seguimiento a los usuarios, puedes crear una cuenta totalmente anónima si así lo deseas y además es ligero y libre de publicidad.</p>
-                            </details>
                         </article>
                     </div>
                 </article>
             </main>
+            <div id="commentsHome">
+                <div id="utterancesHome"></div>
+            </div>
         </div>
-        <div id="comments">
-            <div id="utterances"></div>
+        <script>
+            var wait = true;
+            const version = (new Date()).getTime();
+            const ifr = document.createElement('iframe');
+            ifr.id = "iframe1";
+            ifr.src = "cartoons.html?v=" + version;
+            //ifr.setAttribute("scrolling", "no");
+            ifr.setAttribute('style', 'display: none');
+            document.body.insertBefore(ifr, document.body.firstChild);
+        </script>
+        <button id="btnModal" type="button" style="display: none" data-toggle="modal" data-target="#myModal"></button>
+        <div class="container">
+            <!-- Modal -->
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                            <!-- 16:9 aspect ratio -->
+                            <div id="videoModal" class="embed-responsive embed-responsive-16by9">
+                                <iframe id="video" src="0.html" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            <div id="adContainer"></div>
+                            <center>
+                                <b id="msjAD"></b>
+                            </center>
+                            <div id="nextPrevious" class="float-right">
+                                <button id="previous" class="btn bg-light" type="button" title="Episodio anterior" >
+                                    <i class="far fa-arrow-alt-circle-left fa-lg"></i>
+                                </button>
+                                <button id="next" class="btn bg-light" type="button" title="Episodio siguiente" >
+                                    <i class="far fa-arrow-alt-circle-right fa-lg"></i>
+                                </button>
+                            </div>
+                            <div id="dubbing" class="nav nav-tabs"></div>
+                            <div id="module">
+                                <a id="collapse" role="button" class="collapsed" data-toggle="collapse" href="#collapseDescription" aria-expanded="false" aria-controls="collapseDescription"></a>
+                            </div>
+                            <div class="embed-responsive modal-footer">
+                                <main class="timeline">
+                                    <article class="timeline-comment">
+                                        <a class="avatar" tabindex="-1"> 
+                                            <img alt="@Dieblos" src="https://avatars3.githubusercontent.com/u/69419211?v=4?v=3&amp;s=88" width="44" height="44">
+                                        </a>
+                                        <div class="comment">
+                                            <header class="comment-header">
+                                                <span class="comment-meta"> 
+                                                    <a class="text-link">
+                                                        <strong>Dieblos</strong> 
+                                                    </a>
+                                                </span>
+                                            </header>
+                                            <article class="markdown-body">
+                                                <b id="msjH">Si Quieres Comentar...</b>
+                                                <p>Si quieres comentar, crea una cuenta en <a href="https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">GitHub</a>, es bastante rápido, solo necesitas ingresar un nombre de usuario, correo y contraseña y verificar el correo. Luego dirígete a la caja de comentarios de esta página y da clic en el botón azul que dice <i>“Sign in to comment”</i> y autoriza el acceso a <b>utterances</b>.</p>
+                                                <details>
+                                                    <summary>Algunos consejos útiles para comentar</summary>
+                                                    <ul>
+                                                        <li>Si quieres responder a un comentario, no puedes hacerlo directamente, en su lugar puedes mencionar al usuario utilizando un @ + Nombre de Usuario, quedaría algo así: <code>@username</code></li>
+                                                        <li>
+                                                            Si quieres citar un mensaje, coloca un ">" delante del texto que quieres citar, luego deja un salto de línea de diferencia entre el texto citado y tu respuesta al texto citado. 
+                                                            <div class="config-field" id="script">
+                                                                <pre class="">
+<span class="pl-e">></span> Aquí coloco el texto que quiero citar.
+                                                                        
+Mi respuesta al mensaje citado.</pre>
+                                                            </div>
+                                                            <details>
+                                                                <summary>Ver Resultado</summary>
+                                                                <blockquote>
+                                                                    <p>Aquí coloco el texto que quiero citar.</p>
+                                                                </blockquote>
+                                                                <p></p>
+                                                                <p>Mi respuesta al mensaje citado.</p>
+                                                            </details>
+                                                        </li>
+                                                        <li>
+                                                            La caja de comentarios es compatible con <u>ciertas</u> etiquetas html, puedes probar diferentes etiquetas html y previsualizarlo en la pestaña <i>"Preview"</i> para ver si funciona, aquí les dejo unos cuantos ejemplos:
+                                                            <ul>
+                                                                <li>
+                                                                    También puedes citar mensajes utilizando la etiqueta html "blockquote", ejemplo: 
+                                                                    <div class="config-field" id="script">
+                                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">blockquote</span><span class="default-text-color">&gt;</span><span class="default-text-color">Aquí coloco el texto que quiero citar.</span><span class="default-text-color">&lt;/</span><span class="pl-ent">blockquote</span><span class="default-text-color">&gt;</span>
+Mi respuesta al mensaje citado.</pre>
+                                                                    </div>
+                                                                    <details>
+                                                                        <summary>Ver Resultado</summary>
+                                                                        <blockquote>
+                                                                            <p>Aquí coloco el texto que quiero citar.</p>
+                                                                        </blockquote>
+                                                                        <p>Mi respuesta al mensaje citado.</p>
+                                                                    </details>
+                                                                </li>   
+                                                                <li>
+                                                                    Si vas hacer un spoiler, hágalo con la etiqueta details, aquí un ejemplo de cómo puedes hacerlo:
+                                                                    <div class="config-field" id="script">
+                                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">details</span><span class="default-text-color">&gt;</span>
+    <span class="default-text-color">&lt;</span><span class="pl-ent">summary</span><span class="default-text-color">&gt;</span><span class="default-text-color">El título de mi SPOILER</span><span class="default-text-color">&lt;/</span><span class="pl-ent">summary</span><span class="default-text-color">&gt;</span>
+    <span class="default-text-color">Este es mi SPOILER bien SPOILEADO dentro de la etiqueta de SPOILER.</span>
+<span class="default-text-color">&lt;/</span><span class="pl-ent">details</span><span class="default-text-color">&gt;</span></pre>
+                                                                    </div> 
+                                                                    Este es el resultado:
+                                                                    <details>
+                                                                        <summary>El título de mi SPOILER</summary>
+                                                                        Este es mi SPOILER bien SPOILEADO dentro de la etiqueta de SPOILER.
+                                                                    </details>
+                                                                </li>
+                                                                <li>
+                                                                    Insertar una imagen (en src insertamos la url de nuestra imagen):
+                                                                    <div class="config-field" id="script">
+                                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">img</span><span class="pl-e"> src</span><span class="default-text-color">=</span><span class="pl-s"><span class="pl-pds">"</span>https://k30.kn3.net/9/3/6/A/9/C/6D7.gif<span class="pl-pds">"</span></span><span class="default-text-color">&gt;</span></pre>
+                                                                    </div>
+                                                                    <details>
+                                                                        <summary>Ver Resultado</summary>
+                                                                        <img src="https://k30.kn3.net/9/3/6/A/9/C/6D7.gif">
+                                                                    </details>
+                                                                </li>
+                                                                <li>
+                                                                    Insertar un enlace:
+                                                                    <div class="config-field" id="script">
+                                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">a</span><span class="pl-e"> href</span><span class="default-text-color">=</span><span class="pl-s"><span class="pl-pds">"</span>https://www.kabums.org/<span class="pl-pds">"</span></span><span class="default-text-color">&gt;</span><span class="default-text-color">Un título para mi enlace</span><span class="default-text-color">&lt;/</span><span class="pl-ent">a</span><span class="default-text-color">&gt;</span></pre>
+                                                                    </div>
+                                                                    Resultado: <a href="https://www.kabums.org/">Un título para mi enlace</a>
+                                                                </li>
+                                                                <li>
+                                                                    Poner cursiva, negrita y subrayado:
+                                                                    <div class="config-field" id="script">
+                                                                        <pre class="">
+<span class="default-text-color">&lt;</span><span class="pl-ent">i</span><span class="default-text-color">&gt;</span><span class="default-text-color">cursiva</span><span class="default-text-color">&lt;/</span><span class="pl-ent">i</span><span class="default-text-color">&gt;</span>
+<span class="default-text-color">&lt;</span><span class="pl-ent">b</span><span class="default-text-color">&gt;</span><span class="default-text-color">negrita</span><span class="default-text-color">&lt;/</span><span class="pl-ent">b</span><span class="default-text-color">&gt;</span>
+<span class="default-text-color">&lt;</span><span class="pl-ent">u</span><span class="default-text-color">&gt;</span><span class="default-text-color">subrayado</span><span class="default-text-color">&lt;/</span><span class="pl-ent">u</span><span class="default-text-color">&gt;</span></pre>
+                                                                    </div>
+                                                                    Resultado:
+                                                                    <i>cursiva</i>
+                                                                    <b>negrita</b>
+                                                                    <u>subrayado</u>
+                                                                </li>
+                                                                <li>
+                                                                    Estos son solo algunos ejemplos, puedes probar cualquier etiqueta html relacionada con texto como las etiquetas ul li que sirve para crear listas y así con cualquier etiqueta que se te ocurra, si necesitas una etiqueta en específico y nos sabes html siempre puedes preguntarle a nuestro buen amigo San Google.
+                                                                </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li>
+                                                            Si quieres algo mucho más simple que las etiquetas html también puedes usar el estilo de Markdown, aquí hay una guía de como usarlo: <a href="https://guides.github.com/features/mastering-markdown/">https://guides.github.com/features/mastering-markdown/</a>
+                                                        </li>
+                                                    </ul>
+                                                </details>
+                                            </article>
+                                        </div>
+                                    </article>
+                                </main>
+                            </div>
+                            <div class="embed-responsive">
+                                <div id="comments">
+                                    <div id="utterances"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"></script>
+        <script src="js/plugins/blockadblock/BlockAdBlock.js"></script>
     </body>
 </html>
-

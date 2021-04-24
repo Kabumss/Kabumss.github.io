@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="robots" content="noindex">
+        <title>Kabums</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Dieblos" />
+        <link rel="shortcut icon" href="/icon/boom.png" type="image/x-icon">
+        <link rel="icon" href="/icon/boom.png" type="image/x-icon">
+        <script src="js/plugins/subtitles-octopus/subtitles-octopus.js"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelementplayer.min.css" />
+        <link rel="stylesheet" href="css/index.css" />
+    </head>
+    <body>
+        <script>
+            var subtitles = "";
+            document.addEventListener('DOMContentLoaded', function () {
+                const video = document.createElement('video');
+                var subsURL = window.location.host, features;
+                if (subsURL !== '5yktms21bkvr08g1zg6uxg-on.drv.tw') {
+                    subsURL = '';
+                } else {
+                    subsURL = '/www.kabums.org';
+                }
+                video.src = location.search.split("video=")[1].split("|")[0];
+                video.controls = true;
+                video.setAttribute('type', 'video/mp4');
+                video.setAttribute('style', 'position: fixed;');
+                video.setAttribute('controlsList', 'nodownload');
+                video.setAttribute('oncontextmenu', 'return false;');
+                video.setAttribute('playsinline', true);
+                if (location.search.split("video=")[1].split("|")[1] !== undefined) {
+                    const ifr = document.createElement('iframe');
+                    const track = document.createElement('track');
+                    ifr.src = location.search.split("video=")[1].split("|")[1];
+                    ifr.setAttribute('style', 'display: none');
+                    document.body.insertBefore(ifr, document.body.firstChild);
+                    track.kind = "captions";
+                    track.label = "Español";
+                    track.srclang = "es";
+                    track.src = "#";
+                    video.appendChild(track);
+                    features = ['playpause', 'current', 'progress', 'duration', 'tracks', 'volume', 'fullscreen'];
+                } else {
+                    features = ['playpause', 'current', 'progress', 'duration', 'volume', 'fullscreen'];
+                }
+                document.body.insertBefore(video, document.body.firstChild);
+                mejs.i18n.language('es');
+                new MediaElementPlayer(document.querySelectorAll('video')[0], {
+                    success: function (player, node) {
+                        if (location.search.split("video=")[1].split("|")[1] !== undefined) {
+                            var video = node;
+                            player.addEventListener('captionschange', function (e) {
+                                if (e.detail.caption !== null) {
+                                    if (window.octopusInstance) {
+                                        window.octopusInstance.setTrack(subtitles);
+                                    } else if (SubtitlesOctopus) {
+                                        var options = {
+                                            video: video,
+                                            //subUrl: e.detail.caption.src,
+                                            subContent: subtitles,
+                                            debug: true,
+                                            workerUrl: subsURL + '/js/plugins/subtitles-octopus/subtitles-octopus-worker.js'
+                                        };
+                                        window.octopusInstance = new SubtitlesOctopus(options);
+                                    }
+                                } else {
+                                    if (SubtitlesOctopus || window.octopusInstance) {
+                                        console.log('Disable Track ' + e.detail.caption);
+                                        window.octopusInstance.freeTrack();
+                                    }
+                                }
+                            });
+                        }
+                    },
+                    videoWidth: '100%',
+                    videoHeight: '100%',
+                    enableAutosize: true,
+                    features: features
+                });
+            });
+
+            window.addEventListener('load', () => {
+                setTimeout(function () {
+                    document.getElementById("mep_0_track_0_captions_es").click();
+                }, 100);
+            });
+
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelement-and-player.min.js" ></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/lang/es.min.js" ></script>
+    </body>
+</html>

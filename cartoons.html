@@ -1,14 +1,21 @@
 <!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 <html>
     <head>
 		<meta name="robots" content="noindex">
         <script>
+            //window.parent.location.replace("https://404.kabums.org/" + window.parent.location.hash);
             if ('/cartoons.html' === window.parent.location.pathname) {
                 window.location.replace(window.location.protocol + "//" + window.location.host);
             }
             if ('/www.kabums.org/cartoons.html' === window.parent.location.pathname) {
                 window.location.replace(window.location.protocol + "//" + window.location.host + "/www.kabums.org/");
             }
+            const version = 1;
         </script>
         <title>Kabums</title>
         <meta charset="UTF-8">
@@ -18,23 +25,13 @@
         <meta name="author" content="Dieblos" />
         <link rel="shortcut icon" href="/icon/boom.png" type="image/x-icon">
         <link rel="icon" href="/icon/boom.png" type="image/x-icon">
-        <!--<<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>-->
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <!--<<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>-->
+        <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-        <script src="js/plugins/subtitles-octopus/subtitles-octopus.js"></script>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelementplayer.min.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/quality/quality.min.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/speed/speed.min.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/playlist/playlist.min.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
-        <link rel="stylesheet" href="css/normalize.css">
-        <link rel="stylesheet" href="css/pushy.css" /> 
         <link rel="stylesheet" href="css/search.css" />
-        <link rel="stylesheet" href="css/home.css?v=1" />
-        <link rel="stylesheet" href="css/collapse.css" />
-        <link rel="stylesheet" href="css/index.css" />
+        <link rel="stylesheet" href="css/home.css" />
         <script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-TVDT8FN44H"></script>
         <script>
@@ -46,104 +43,26 @@
 
             gtag('config', 'G-TVDT8FN44H');
         </script>
-        <script src="https://raw.githubusercontent.com/Dador/JavascriptSubtitlesOctopus/master/dist/js/subtitles-octopus.js"></script>
     </head>
-    <body style="visibility: hidden !important;">
-        <style>
-            @-webkit-keyframes kiija {0% {opacity: 0;}80% {opacity: 0;}100% {opacity: 1;}}
-            @keyframes kiija {0% {opacity: 0;}80% {opacity: 0;}100% {opacity: 1;}}
-        </style>
-        <div id="babasbmsgx" style="visibility: visible; -webkit-animation-name: kiija;-webkit-animation-duration: 5s; animation-name: kiija;animation-duration: 5s;">
-            Please disable your adblock and script blockers to view this page.
-        </div>
-        <nav class="pushy pushy-left">
-            <div class="pushy-content">
-                <div class="form-group has-search">
-                    <span class="fa fa-search form-control-feedback"></span>
-                    <input type="text" class="form-control" id="myInput" placeholder="Buscar cartoon..." title="Busca por los nombres en ingles">
-                </div>
-                <ul id="myUL">
-                    <li class="pushy-link"><a href="#GlitchTechs/Temporada_1/E1/l1">Glitch Techs</a></li>
-                    <li class="pushy-link"><a href="#GravityFalls/Temporada_1/E1/l1">Gravity Falls</a></li>
-                    <li class="pushy-link"><a href="#Hilda/Temporada_1/E1/l1">Hilda</a></li>
-                    <li class="pushy-link"><a href="#OverTheGardenWall/Temporada_1/E1/l1">Over The Garden Wall/Más Allá del Jardín</a></li>
-                    <li class="pushy-link"><a href="#StarVSTheForcesOfEvil/Temporada_1/E1/l1">Star vs Forces of Evil/Star vs. las Fuerzas del Mal</a></li>
-                    <li class="pushy-link"><a href="#StevenUniverse/Temporada_1/E1/l1">Steven Universe</a></li>
-                    <li class="pushy-link"><a href="#TheAmazingWorldOfGumball/Temporada_1/E1/l1">The Amazing World of Gumball/El Increíble Mundo de Gumball</a></li>
-                </ul>
-            </div>
+    <body>
+        <nav  id="nav" class="fixed-top navbar-light bg-light">
+            <form class="form-inline">
+                <button id="back" class="btn bg-light" type="button" title="Atrás">
+                    <i class="fas fa-arrow-left fa-lg"></i>
+                </button>
+                <button id="forward" class="btn bg-light" type="button" title="Adelante">
+                    <i class="fas fa-arrow-right fa-lg"></i>
+                </button>
+                <span class="fa fa-search fa-2x ml-3"></span>
+                <input type="text" class="form-control bg-light ml-3" id="myInput" placeholder="Buscar cartoon..." title="Buscar dibujo animado....">
+                <button class="btn bg-light ml-3" type="button" title="Series" onclick="path(0)">Series</button>
+            </form>
         </nav>
-
-        <!-- Site Overlay -->
-        <div class="site-overlay"></div>
-
-        <!-- Your Content -->
-        <div id="container">
-            <!-- Menu Button -->
-            <nav class="fixed-top" style="width: 1; height: 0;"> <!--navbar-->
-                <button class="menu-btn btn btn-blue" title="Lista de cartoons"><i class="fas fa-bars"></i> Cartoons</button>
-                <button class="home-btn btn btn-blue" title="Página de inicio"><i class="fas fa-home"></i></button>
-            </nav>
-            <!-- <main class="timeline">-->
-            <center><div id="loading"></div></center>
-            <div id="content"></div>
-            <div id="adContainer"></div>
-            <center>
-                <b id="msjAD"></b>
-            </center>
-            <div id="module" style="display: none;">
-                <a id="collapse" role="button" class="collapsed" data-toggle="collapse" href="#collapseDescription" aria-expanded="false" aria-controls="collapseDescription"></a>
-            </div>
-            <!--</main>-->
-            <div id="homePage">
-                <main class="timeline">
-                    <article class="timeline-comment">
-                        <a class="avatar" tabindex="-1"> 
-                            <img alt="@Dieblos" src="https://avatars3.githubusercontent.com/u/69419211?v=4?v=3&amp;s=88" width="44" height="44">
-                        </a>
-                        <div class="comment">
-                            <header class="comment-header">
-                                <span class="comment-meta"> 
-                                    <a class="text-link">
-                                        <strong>Dieblos</strong> 
-                                    </a>
-                                </span>
-                            </header>
-                            <article class="markdown-body">
-                                <h1>¡Mira Dibujos Animados en 1080p!</h1>
-                                <h3>¿Qué es este sitio?</h3>
-                                <p>Este sitio web será un lugar dedicado para ver dibujos animados de forma online; con una buena relación de <b><i>Calidad de Video-Velocidad de Reproducción</i></b> y un diseño minimalista de fácil y rápida navegación. </p>
-                                <h3>¿En qué idioma estará el audio?</h3>
-                                <p>Principalmente estarán en Español Latino, pero también habrá disponibilidad en audio original.</p>
-                                <h3>¿Tendrán subtítulos en español?</h3>
-                                <p>Los tendrán siempre y cuando encuentre softsub (subtítulos flotantes que no están incrustados al video), no manejare hardsub (subtítulos incrustados al video) ya que suelen tener marcas de agua y no estar disponible en la mejor calidad de video, además prefiero que los usuarios tenga la posibilidad de activar y desactivar los subtítulos si así lo desea. Yo mismo subtitulare algunas cosas, pero no será lo usual, por lo general usare subtítulos que encuentre en la red.</p>
-                                <h3>¿Qué calidad van a tener los videos?</h3>
-                                <p>En lo posible, la gran mayoría van a estar en 1080p sin logos ni marcas de aguas, además de tener un tamaño ligero para mejorar la velocidad de reproducción. </p>
-                                <h3>¿Qué series hay disponible?</h3>
-                                <p>La página es nueva, así que la lista por ahora es bastante corta, puedes ver y seleccionar las series disponibles presionando este boton <button class="menu-btn btn-blue btn-sm" title="Lista de caricaturas">&#9776; Cartoons</button> o presionado el botón que está en la esquina superior izquierda de esta página, también puedes ver una lista de las series con más detalles al final de esta publicación.</p>
-                                <p>Poco a poco iré añadiendo nuevas series.</p>
-                                </br>
-                                <p>Si quieres hacer un comentario acerca del sitio, ya sea para informar un error, dar tu opinión, dar una sugerencia, hacer una pregunta, hablar con otros usuarios o cualquier otra cosa relacionada con la página, puedes hacerlo en la caja de comentarios de abajo (Necesitaras una cuenta en <a href="https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home">GitHub</a> para comentar).</p>                                
-                                </br>
-                            </article>
-                        </div>
-                    </article>
-                </main>
-            </div>
+        <div id="list" class="list-group list-group-flush">
         </div>
-        <iframe id="sub" src="0.html" style="display: none"></iframe>
         <iframe id="ZGF0YQ" src="0.html" style="display: none"></iframe>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelement-and-player.min.js" ></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/lang/es.min.js" ></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/quality/quality.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/quality/quality-i18n.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/speed/speed.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/speed/speed-i18n.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/playlist/playlist.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement-plugins/2.5.1/playlist/playlist-i18n.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"></script>
-        <script src="js/plugins/pushy/pushy.min.js"></script>
-        <script src="js/Y29uZmln.js?v=4.91"></script>
-        <script src="js/plugins/blockadblock/BlockAdBlock.js"></script>
+        <script src="js/plugins/css-element-queries/ResizeSensor.js"></script>
+        <script src="js/Y29uZmln.js?v=1"></script>
     </body>
 </html>
