@@ -25,6 +25,7 @@
                 }
                 video.src = location.search.split("video=")[1].split("|")[0];
                 video.controls = true;
+                video.currentTime = sessionStorage.getItem("time");
                 video.setAttribute('type', 'video/mp4');
                 video.setAttribute('style', 'position: fixed;');
                 video.setAttribute('controlsList', 'nodownload');
@@ -74,7 +75,9 @@
                             });
                         }
                     },
-                    stretching: 'responsive',
+                    videoWidth: '100%',
+                    videoHeight: '100%',
+                    enableAutosize: true,
                     features: features
                 });
             });
@@ -84,7 +87,7 @@
                     document.getElementById("mep_0_track_0_captions_es").click();
                 }, 100);
             });
-            
+
         </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelement-and-player.min.js" ></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/lang/es.min.js" ></script>
