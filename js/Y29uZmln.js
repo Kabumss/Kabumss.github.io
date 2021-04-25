@@ -227,6 +227,7 @@ function iniCartoons() {
 function generateFolder() {
     var i, ini, index, numDelete;
     var url = window.parent.location.hash.slice(1).split("/");
+    $('#adContainer', window.parent.document).attr('style', 'display: none');
     if (!/^\d+$/.test(url[url.length - 2]) || iniPage) {
         if (!/^\d+$/.test(url[url.length - 2]) && /^\d+$/.test(url[url.length - 1])) {
             numDelete = 2;
@@ -297,6 +298,7 @@ function dataGenerateFolder() {
 
 function loadVideo(index, sw) {
     var num = window.parent.location.hash.slice(1).split("/");
+    sessionStorage.setItem("time", 0);
     if (indexForward === -1) {
         indexIframe = index;
     } else {
@@ -330,6 +332,9 @@ function loadVideo(index, sw) {
 }
 
 function videoLink() {
+    if ($('#videoModal iframe', window.parent.document).length > 1) {
+        $('#video', window.parent.document).next().remove();
+    }
     if (data["video"][indexIframe]["description"] === undefined) {
         generateLink(1, 0);
     } else {
@@ -617,14 +622,16 @@ function onAdEvent(adEvent) {
 }
 
 jQuery(window).on('orientationchange resize', function (event) {
-    var h;
-    h = videoContent.clientHeight;
-    $('#msjAD', window.parent.document).attr('style', 'top:' + (h / 2) + 'px');
-    if (adsManager) {
-        var height, width;
-        width = videoContent.clientWidth;
-        height = videoContent.clientHeight;
-        adsManager.resize(width, height, google.ima.ViewMode.NORMAL);
+    if (videoContent !== undefined) {
+        var h;
+        h = videoContent.clientHeight;
+        $('#msjAD', window.parent.document).attr('style', 'top:' + (h / 2) + 'px');
+        if (adsManager) {
+            var height, width;
+            width = videoContent.clientWidth;
+            height = videoContent.clientHeight;
+            adsManager.resize(width, height, google.ima.ViewMode.NORMAL);
+        }
     }
 });
 
@@ -646,10 +653,16 @@ function onAdError(adErrorEvent) {
 
 function onContentPauseRequested() {
     var height = videoContent.clientHeight;
+    $('#adContainer', window.parent.document).attr('style', '');
     gtag('event', 'Video Ad in Progress', {
         'event_category': window.parent.location.hash,
         'event_label': data.name[indexIframe]
     });
+    if (window.parent.document.getElementById('video') !== null) {
+        if (window.parent.document.getElementById('video').contentDocument.getElementsByTagName('video')[0].currentTime !== undefined) {
+            sessionStorage.setItem("time", window.parent.document.getElementById('video').contentDocument.getElementsByTagName('video')[0].currentTime);
+        }
+    }
     $('#video', window.parent.document).remove();
     //verification2 = true;
     $('#dubbing > button', window.parent.document).prop('disabled', true);
@@ -658,6 +671,7 @@ function onContentPauseRequested() {
 }
 
 function onContentResumeRequested() {
+    var height = videoContent.clientHeight;
     adsPlay[window.parent.location.hash] = true;
     destroyIma();
     $('#videoModal', window.parent.document).append('<iframe id="video" src="" frameborder="0" allowfullscreen></iframe>');
@@ -665,6 +679,8 @@ function onContentResumeRequested() {
     videoLink();
     //verification2 = false;
     $('#dubbing > button', window.parent.document).prop('disabled', false);
+    $('#adContainer', window.parent.document).attr('style', 'display: none');
+    $('#msjAD', window.parent.document).attr('style', 'top:' + (height / 2) + 'px');
     $('#msjAD', window.parent.document).text('Espera un momento, cargando video...');
     gtag('event', 'Successful Video Ad', {
         'event_category': window.parent.location.hash,
