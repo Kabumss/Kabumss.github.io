@@ -227,7 +227,7 @@ function iniCartoons() {
 function generateFolder() {
     var i, ini, index, numDelete;
     var url = window.parent.location.hash.slice(1).split("/");
-    $('#adContainer', window.parent.document).attr('style', 'display: none');
+    //$('#adContainer', window.parent.document).attr('style', 'display: none');
     if (!/^\d+$/.test(url[url.length - 2]) || iniPage) {
         if (!/^\d+$/.test(url[url.length - 2]) && /^\d+$/.test(url[url.length - 1])) {
             numDelete = 2;
@@ -653,7 +653,7 @@ function onAdError(adErrorEvent) {
 
 function onContentPauseRequested() {
     var height = videoContent.clientHeight;
-    $('#adContainer', window.parent.document).attr('style', '');
+    //$('#adContainer', window.parent.document).attr('style', '');
     gtag('event', 'Video Ad in Progress', {
         'event_category': window.parent.location.hash,
         'event_label': data.name[indexIframe]
@@ -679,7 +679,7 @@ function onContentResumeRequested() {
     videoLink();
     //verification2 = false;
     $('#dubbing > button', window.parent.document).prop('disabled', false);
-    $('#adContainer', window.parent.document).attr('style', 'display: none');
+    //$('#adContainer', window.parent.document).attr('style', 'display: none');
     $('#msjAD', window.parent.document).attr('style', 'top:' + (height / 2) + 'px');
     $('#msjAD', window.parent.document).text('Espera un momento, cargando video...');
     gtag('event', 'Successful Video Ad', {
