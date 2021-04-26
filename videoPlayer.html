@@ -88,6 +88,23 @@ Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
                                 }
                             });
                         }
+                        if (iOS()) {
+                            var timecode = sessionStorage.getItem("time");
+                            var initdone = false;
+                            // wait for video metadata to load, then set time 
+                            player.addEventListener("loadedmetadata", function () {
+                                player.setCurrentTime(timecode);
+                            });
+                            // iPhone/iPad need to play first, then set the time
+                            // events: https://www.w3.org/TR/html5/embedded-content-0.html#mediaevents
+                            player.addEventListener("canplaythrough", function () {
+                                if (!initdone)
+                                {
+                                    player.setCurrentTime(timecode);
+                                    initdone = true;
+                                }
+                            });
+                        }
                     },
                     stretching: 'responsive',
                     features: features
@@ -101,6 +118,19 @@ Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
                     }
                 }, 100);
             });
+
+            function iOS() {
+                return [
+                    'iPad Simulator',
+                    'iPhone Simulator',
+                    'iPod Simulator',
+                    'iPad',
+                    'iPhone',
+                    'iPod'
+                ].includes(navigator.platform)
+                        // iPad on iOS 13 detection
+                        || (navigator.userAgent.includes("Mac") && "ontouchend" in document);
+            }
 
         </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelement-and-player.min.js" ></script>
