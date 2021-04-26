@@ -28,7 +28,7 @@ Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,, 
-`;
+`, initdone = false;
             document.addEventListener('DOMContentLoaded', function () {
                 const video = document.createElement('video');
                 var subsURL = window.location.host, features;
@@ -89,18 +89,12 @@ Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
                             });
                         }
                         if (iOS()) {
-                            var timecode = sessionStorage.getItem("time");
-                            var initdone = false;
-                            // wait for video metadata to load, then set time 
                             player.addEventListener("loadedmetadata", function () {
-                                player.setCurrentTime(timecode);
+                                player.setCurrentTime(sessionStorage.getItem("time"));
                             });
-                            // iPhone/iPad need to play first, then set the time
-                            // events: https://www.w3.org/TR/html5/embedded-content-0.html#mediaevents
                             player.addEventListener("canplaythrough", function () {
-                                if (!initdone)
-                                {
-                                    player.setCurrentTime(timecode);
+                                if (!initdone) {
+                                    player.setCurrentTime(sessionStorage.getItem("time"));
                                     initdone = true;
                                 }
                             });
