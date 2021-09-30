@@ -80,7 +80,6 @@ and open the template in the editor.
                         </header>
                         <article class="markdown-body">
                             <h2>¡Mira Dibujos Animados en Español Latino y 1080p!</h2>
-                            <h2>¡Mira Dibujos Animados en Español Latino y en 1080p!</h2>
                             <h3>¿Qué es este sitio?</h3>
                             <p>Este sitio web será un lugar dedicado para ver dibujos animados de forma online, principalmente en español latino; aunque algunas series quizás también tengan disponibilidad en idioma original y con subtítulos en español. También estarán en calidad 1080p (o al menos en su mayoría).</p>
                             <p>El diseño de la página, si bien no es tan vistoso, es bastante minimalista de fácil y rápida navegación, sin tanta saturación, imitando un poco a un gestor de archivos.</p>
@@ -394,6 +393,11 @@ Mi respuesta al mensaje citado.</pre>
                 </div>
             </div>
         </div>
+		<script>
+            window.addEventListener('popstate', function () {
+                history.pushState(null, null, window.parent.location.hash);
+            });
+        </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"></script>
         <script src="js/plugins/blockadblock/BlockAdBlock.js"></script>
     </body>

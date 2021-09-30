@@ -1,3 +1,7 @@
+window.addEventListener('popstate', function () {
+    history.pushState(null, null, window.parent.location.hash);
+});
+
 document.addEventListener('DOMContentLoaded', function () {
     window.history.pushState({}, document.title, '/');
     window.location.hash = document.getElementsByTagName('iframe')[0].getAttribute('src').split('index.html')[1];
