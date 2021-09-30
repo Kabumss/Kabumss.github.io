@@ -1,5 +1,5 @@
 window.addEventListener('popstate', function () {
-    history.pushState(null, null, window.parent.location.hash);
+    history.pushState(null, null, window.location.hash);
 });
 
 document.addEventListener('DOMContentLoaded', function () {
