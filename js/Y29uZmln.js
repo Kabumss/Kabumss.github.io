@@ -357,7 +357,9 @@ function loadVideo(index, sw) {
     }
     videoLink();
     destroy = false;
-    //initADS();
+	if (typeof google !== 'undefined' && google.ima) {
+		initADS();
+	}
     moduleAndUtterances(indexIframe);
     if (sw) {
         $('#btnModal', window.parent.document).trigger('click');
