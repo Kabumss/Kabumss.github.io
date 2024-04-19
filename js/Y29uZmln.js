@@ -29,7 +29,7 @@ $(document).ready(function () {
         }
         iniCartoons();
     } else {
-        gtag('config', 'G-TVDT8FN44H', {'page_path': '/home'});
+        //gtag('config', 'G-TVDT8FN44H', {'page_path': '/home'});
         swHome = true;
         swSeries = false;
         utterances(-1);
@@ -38,7 +38,7 @@ $(document).ready(function () {
 
 $(window.parent.document).on('click', "#home", function () {
     if (!swHome) {
-        gtag('config', 'G-TVDT8FN44H', {'page_path': '/home'});
+        //gtag('config', 'G-TVDT8FN44H', {'page_path': '/home'});
         hashAux = window.parent.location.hash;
         window.parent.history.pushState("", window.parent.document.title, window.parent.location.pathname + window.parent.location.search);
         window.parent.document.title = 'Kabums';
@@ -168,7 +168,7 @@ $(window.parent.document).on('click', '[name="dub"]', function () {
     $('#video', window.parent.document).attr('src', data["video"][indexIframe][indexDub[$(this).index()]]);
     $('[name="dub"]:eq(' + (language - 1) + ')', window.parent.document).removeClass('active');
     $('[name="dub"]:eq(' + $(this).index() + ')', window.parent.document).addClass('active');
-    gtag('config', 'G-TVDT8FN44H', {'page_path': window.parent.location.hash});
+    //gtag('config', 'G-TVDT8FN44H', {'page_path': window.parent.location.hash});
     language = $(this).index() + 1;
     changeLanguagePath();
 });
@@ -359,12 +359,12 @@ function loadVideo(index, sw) {
     destroy = false;
 	if (typeof google !== 'undefined' && google.ima) {
 		initADS();
-	}
+	} 
     moduleAndUtterances(indexIframe);
     if (sw) {
         $('#btnModal', window.parent.document).trigger('click');
     }
-    gtag('config', 'G-TVDT8FN44H', {'page_path': window.parent.location.hash + ' - ' + data.name[indexIframe]});
+    //gtag('config', 'G-TVDT8FN44H', {'page_path': window.parent.location.hash + ' - ' + data.name[indexIframe]});
 }
 
 function videoLink() {
@@ -689,10 +689,10 @@ jQuery(window).on('orientationchange resize', function (event) {
 
 function onAdError(adErrorEvent) {
     //console.log('onAdError', adErrorEvent.getError());
-    gtag('event', 'Video Ad (Error)', {
+    /*ag('event', 'Video Ad (Error)', {
         'event_category': window.parent.location.hash,
         'event_label': data.name[indexIframe]
-    });
+    });*/
     //if (verification2 === false) {
     newIMA();
     /* } else {
@@ -705,10 +705,10 @@ function onAdError(adErrorEvent) {
 
 function adsRun() {
     var height = videoContent.clientHeight;
-    gtag('event', 'Video Ad in Progress', {
+    /*gtag('event', 'Video Ad in Progress', {
         'event_category': window.parent.location.hash,
         'event_label': data.name[indexIframe]
-    });
+    });*/
     $('#adContainer', window.parent.document).attr('style', '');
     if (window.parent.document.getElementById('video') !== null && $('#video', window.parent.document).attr('src').split(".html?video=")[0] === 'videoPlayer') {
         if (window.parent.document.getElementById('video').contentDocument.getElementsByTagName('video')[0].currentTime !== undefined) {
@@ -754,8 +754,8 @@ function onContentResumeRequested() {
     $('#adContainer', window.parent.document).attr('style', 'display: none');
     $('#msjAD', window.parent.document).attr('style', 'top:' + (height / 2) + 'px');
     $('#msjAD', window.parent.document).text('Espera un momento, cargando video...');
-    gtag('event', 'Successful Video Ad', {
+    /*gtag('event', 'Successful Video Ad', {
         'event_category': window.parent.location.hash,
         'event_label': data.name[indexIframe]
-    });
+    });*/
 }
