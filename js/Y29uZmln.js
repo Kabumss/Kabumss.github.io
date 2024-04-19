@@ -6,7 +6,7 @@ $(document).ready(function () {
     if (subsURL !== '5yktms21bkvr08g1zg6uxg-on.drv.tw') {
         subsURL = '';
     } else {
-        subsURL = '/kabums.org';
+        subsURL = '/404.kabums.org';
     }
     $("#forward").prop('disabled', true);
     if (url.length === 1 && url[0] === 'series') {
