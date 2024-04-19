@@ -359,7 +359,10 @@ function loadVideo(index, sw) {
     destroy = false;
 	if (typeof google !== 'undefined' && google.ima) {
 		initADS();
-	} 
+	} else {
+		console.log("La biblioteca de Google IMA no se ha cargado correctamente.");
+		console.error("La biblioteca de Google IMA no se ha cargado correctamente.");
+	}
     moduleAndUtterances(indexIframe);
     if (sw) {
         $('#btnModal', window.parent.document).trigger('click');
