@@ -111,7 +111,12 @@ $(window.parent.document).on('click', '#myModal', function () {
         $('#video', window.parent.document).attr('src', '0.html');
         $('#dubbing > button', window.parent.document).remove();
         deleteNumPath();
-        destroyIma();
+		if (typeof google !== 'undefined' && google.ima) {
+			destroyIma();
+		} else {
+			console.error("La biblioteca de Google IMA no se ha cargado correctamente.");
+		}
+        
     }
 });
 
@@ -122,7 +127,11 @@ $(window.parent.document).on('click', '#nextPrevious > button', function () {
     }
     $('#dubbing > button', window.parent.document).remove();
     deleteNumPath();
-    destroyIma();
+    if (typeof google !== 'undefined' && google.ima) {
+		destroyIma();
+	} else {
+		console.error("La biblioteca de Google IMA no se ha cargado correctamente.");
+	}
     adSW = false;
     if ($(this).index() === 1) {
         loadVideo(parseInt(url[url.length - 1]), false);
@@ -360,7 +369,6 @@ function loadVideo(index, sw) {
 	if (typeof google !== 'undefined' && google.ima) {
 		initADS();
 	} else {
-		console.log("La biblioteca de Google IMA no se ha cargado correctamente.");
 		console.error("La biblioteca de Google IMA no se ha cargado correctamente.");
 	}
     moduleAndUtterances(indexIframe);
