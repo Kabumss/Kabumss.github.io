@@ -3,11 +3,12 @@ var subsURL = window.location.host, data, waitData = true, hash, hashAux = 'seri
 
 $(document).ready(function () {
     var url = window.parent.location.hash.slice(1).split("/"), i;
-    if (subsURL !== '5yktms21bkvr08g1zg6uxg-on.drv.tw') {
+    /*if (subsURL !== '5yktms21bkvr08g1zg6uxg-on.drv.tw') {
         subsURL = '';
     } else {
         subsURL = '/404.kabums.org';
-    }
+    }*/
+	subsURL = '';
     $("#forward").prop('disabled', true);
     if (url.length === 1 && url[0] === 'series') {
         $("#back").prop('disabled', true);
