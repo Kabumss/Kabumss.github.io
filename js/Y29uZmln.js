@@ -112,11 +112,11 @@ $(window.parent.document).on('click', '#myModal', function () {
         $('#video', window.parent.document).attr('src', '0.html');
         $('#dubbing > button', window.parent.document).remove();
         deleteNumPath();
-		if (typeof google !== 'undefined' && google.ima) {
+		/*if (typeof google !== 'undefined' && google.ima) {
 			destroyIma();
 		} else {
 			console.error("La biblioteca de Google IMA no se ha cargado correctamente.");
-		}
+		}*/
         
     }
 });
