@@ -367,11 +367,11 @@ function loadVideo(index, sw) {
     }
     videoLink();
     destroy = false;
-	if (typeof google !== 'undefined' && google.ima) {
+	/*if (typeof google !== 'undefined' && google.ima) {
 		initADS();
 	} else {
 		console.error("La biblioteca de Google IMA no se ha cargado correctamente.");
-	}
+	}*/
     moduleAndUtterances(indexIframe);
     if (sw) {
         $('#btnModal', window.parent.document).trigger('click');
